@@ -1365,7 +1365,7 @@ OvertimeMessage="Счет в конце основного времени рав
 ; EN: GlobalNameChange="changed name to"
 GlobalNameChange="теперь звать"
 ; EN: NewTeamMessage="is now on"
-NewTeamMessage="подался в"
+NewTeamMessage="переходит в"
 
 [TMale2]
 ; EN: MenuName="Male Soldier"
