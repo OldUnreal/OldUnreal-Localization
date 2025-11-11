@@ -5,7 +5,7 @@ Preferences=(Caption="SDL",Parent="Joystick",Class=SDLDrv.SDLClient,Immediate=Tr
 
 [Errors]
 ; EN: Failed3D="3D hardware initialization failed"
-Failed3D="Не получилось инициализировать 3D"
+Failed3D="Сбой инициализации 3D-оборудования"
 
 [General]
 ; EN: ViewPersp="Perspective map"
@@ -27,4 +27,4 @@ AdvancedOptions="Дополнительные опции"
 
 [SDLClient]
 ; EN: ClassCaption="Standard SDL Linux Manager"
-ClassCaption="Стандарный менеджер SDL в Linux"
+ClassCaption="Стандарный менеджер SDL Linux"
