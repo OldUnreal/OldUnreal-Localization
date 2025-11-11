@@ -1,11 +1,11 @@
-﻿[Setup]
+[Setup]
 LocalProduct=Unreal Tournament
 DefaultFolder=C:\UnrealTournament
 ReadMe=Help\ReleaseNotes.htm
 ; EN: SetupWindowTitle="Unreal Tournament Setup"
-SetupWindowTitle="Настройка Unreal Tournament"
+SetupWindowTitle="Установка Unreal Tournament"
 ; EN: AutoplayWindowTitle="Unreal Tournament Options"
-AutoplayWindowTitle="Варианты Unreal Tournament"
+AutoplayWindowTitle="Опции Unreal Tournament"
 ProductURL=https://www.unrealtournament.com/
 VersionURL=https://www.oldunreal.com
 ; EN: Developer=Epic Games, Inc. && OldUnreal
