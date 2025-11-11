@@ -1,55 +1,55 @@
-﻿[Public]
+[Public]
 ; EN: Object=(Name=relics.RelicStrength,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Strength,A magical relic that imparts a great increase in damage.")
-Object=(Name=relics.RelicStrength,Class=Class,MetaClass=Engine.Mutator,Description="Реликвия: Сила,Волшебная реликвия, значительно увеличивающая урон.")
+Object=(Name=relics.RelicStrength,Class=Class,MetaClass=Engine.Mutator,Description="Реликт: Сила,Волшебный реликт, значительно увеличивающий урон.")
 ; EN: Object=(Name=relics.RelicSpeed,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Speed,A magical relic that imparts superhuman speed and reflexes.")
-Object=(Name=relics.RelicSpeed,Class=Class,MetaClass=Engine.Mutator,Description="Реликвия: Скорость,Волшебная реликвия, наделяющая сверхчеловеческой скоростью и рефлексами.")
+Object=(Name=relics.RelicSpeed,Class=Class,MetaClass=Engine.Mutator,Description="Реликт: Скорость,Волшебный реликт, наделяющий сверхчеловеческой скоростью и рефлексами.")
 ; EN: Object=(Name=relics.RelicRegen,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Regen,A magical relic that imparts the ability to gain 10 health every second.")
-Object=(Name=relics.RelicRegen,Class=Class,MetaClass=Engine.Mutator,Description="Реликвия: Исцеление,Волшебная реликвия, дающая возможность получать 10 единиц здоровья каждую секунду.")
+Object=(Name=relics.RelicRegen,Class=Class,MetaClass=Engine.Mutator,Description="Реликт: Исцеление,Волшебный реликт, дающий возможность получать 10 здоровья каждую секунду.")
 ; EN: Object=(Name=relics.RelicRedemption,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Redemption,This mysterious artifact will bind to your soul, saving you from death.")
-Object=(Name=relics.RelicRedemption,Class=Class,MetaClass=Engine.Mutator,Description="Реликвия: Искупление,Этот таинственный артефакт привяжется к вашей душе, спасая вас от смерти.")
+Object=(Name=relics.RelicRedemption,Class=Class,MetaClass=Engine.Mutator,Description="Реликт: Искупление,Этот таинственный артефакт привяжется к вашей душе, спасая вас от смерти.")
 ; EN: Object=(Name=relics.RelicDefense,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Defense,A magical relic that prevents 60% of all damage sustained by the user.")
-Object=(Name=relics.RelicDefense,Class=Class,MetaClass=Engine.Mutator,Description="Реликвия: Защита,Волшебная реликвия, предотвращающая 60% всего урона, нанесенного пользователю.")
+Object=(Name=relics.RelicDefense,Class=Class,MetaClass=Engine.Mutator,Description="Реликт: Защита,Волшебный реликт, предотвращающий 60% всего урона, испытываемого пользователем.")
 ; EN: Object=(Name=relics.RelicDeath,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Vengeance,This relic will punish those who wish to slay you.")
-Object=(Name=relics.RelicDeath,Class=Class,MetaClass=Engine.Mutator,Description="Реликвия: Месть,Эта реликвия накажет тех, кто хочет вас убить.")
+Object=(Name=relics.RelicDeath,Class=Class,MetaClass=Engine.Mutator,Description="Реликт: Месть,Этот реликт покарает тех, кто желает вам смерти.")
 
 [RelicInventory]
 ; EN: PickupMessage="You picked up a null Relic."
-PickupMessage="Вы подобрали нулевую реликвию."
+PickupMessage="Вы подобрали нулевой реликт."
 ; EN: ItemName="Relic"
-ItemName="Реликвия"
+ItemName="Реликт"
 
 [RelicRedemptionInventory]
 ; EN: PickupMessage="You picked up the Relic of Redemption!"
-PickupMessage="Вы подобрали Реликвию искупления!"
+PickupMessage="Вы подобрали Реликт Искупления!"
 ; EN: ItemName="Relic of Redemption"
-ItemName="Реликвия искупления"
+ItemName="Реликт Искупления"
 
 [RelicStrengthInventory]
 ; EN: PickupMessage="You picked up the Relic of Strength!"
-PickupMessage="Вы подобрали Реликвию Силы!"
+PickupMessage="Вы подобрали Реликт Силы!"
 ; EN: ItemName="Relic of Strength"
-ItemName="Реликвия силы"
+ItemName="Реликт Силы"
 
 [RelicDeathInventory]
 ; EN: PickupMessage="You picked up the Relic of Vengeance!"
-PickupMessage="Вы подобрали Реликвию возмездия!"
+PickupMessage="Вы подобрали Реликт Возмездия!"
 ; EN: ItemName="Relic of Vengeance"
-ItemName="Реликвия возмездия"
+ItemName="Реликт Аозмездия"
 
 [RelicDefenseInventory]
 ; EN: PickupMessage="You picked up the Relic of Defense!"
-PickupMessage="Вы подобрали Реликвию защиты!"
+PickupMessage="Вы подобрали Реликт Защиты!"
 ; EN: ItemName="Relic of Defense"
-ItemName="Реликвия защиты"
+ItemName="Реликт Защиты"
 
 [RelicSpeedInventory]
 ; EN: PickupMessage="You picked up the Relic of Speed!"
-PickupMessage="Вы подобрали Реликвию скорости!"
+PickupMessage="Вы подобрали Реликт Скорости!"
 ; EN: ItemName="Relic of Speed"
-ItemName="Реликвия скорости"
+ItemName="Реликт Мкорости"
 
 [RelicRegenInventory]
 ; EN: PickupMessage="You picked up the Relic of Regeneration!"
-PickupMessage="Вы подобрали Реликвию исцеления!"
+PickupMessage="Вы подобрали Реликт Исцеления!"
 ; EN: ItemName="Relic of Regeneration"
-ItemName="Реликвия исцеления"
+ItemName="Реликт Исцеления"
