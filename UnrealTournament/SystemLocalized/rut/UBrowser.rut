@@ -8,7 +8,7 @@ CouldNotConnectError="Превышено время соединения с ма
 
 [UBrowserHTTPLink]
 ; EN: ResolveFailedError="The master server could not be resolved: "
-ResolveFailedError="Не удаётся найти мастер-сервер: "
+ResolveFailedError="Не удалось найти мастер-сервер: "
 ; EN: TimeOutError="Timeout talking to the master server"
 TimeOutError="Превышено время ожидания мастер-сервера"
 ; EN: CouldNotConnectError="Connecting to the master server timed out: "
