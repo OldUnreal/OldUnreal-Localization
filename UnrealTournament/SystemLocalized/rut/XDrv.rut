@@ -1,11 +1,11 @@
-﻿[Public]
+[Public]
 Class=(Class=XDrv.XClient,SuperClass=Engine.Client)
 Preferences=(Caption="XDrv",Parent="Display",Class=XDrv.XClient,Immediate=True,Category=Display)
 Preferences=(Caption="XDrv",Parent="Joystick",Class=XDrv.XClient,Immediate=True,Category=Joystick)
 
 [Errors]
 ; EN: Failed3D="3D hardware initialization failed"
-Failed3D="Не получилось инициализировать аппаратное 3D ускорение"
+Failed3D="Сбой инициализации 3D-аппаратного ускорения"
 
 [General]
 ; EN: ViewPersp="Perspective map"
