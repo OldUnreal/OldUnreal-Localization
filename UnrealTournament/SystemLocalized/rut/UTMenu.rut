@@ -701,7 +701,7 @@ LabelList[54]="Быстрая консоль"
 
 [UTInputOptionsCW]
 ; EN: InstantRocketText="Instant Rocket Fire"
-InstantRocketText="Моментальн. ракеты"
+InstantRocketText="Моментальные ракеты"
 ; EN: InstantRocketHelp="Make the Rocket Launcher fire rockets instantly, rather than charging up multiple rockets."
 InstantRocketHelp="Заставить Ракетницу стрелять сразу, а не заряжать несколько ракет."
 ; EN: TranslocatorDualButtonSwitchText="Translocator Dual-Button Weapon Switch"
@@ -711,7 +711,7 @@ TranslocatorDualButtonSwitchHelp="Заставить Транслокатор а
 ; EN: SpeechBinderText="Speech Binder"
 SpeechBinderText="Привязка речи"
 ; EN: SpeechBinderHelp="Use this special window to bind taunts and orders to keys."
-SpeechBinderHelp="Используйте это окно для привязки насмешек и приказов к клавишам."
+SpeechBinderHelp="Используйте это специальное окно, чтобы привязать насмешки и приказы к клавишам."
 
 [KillGameQueryClient]
 ; EN: QueryText="Are you sure you want to remove this save game?"
