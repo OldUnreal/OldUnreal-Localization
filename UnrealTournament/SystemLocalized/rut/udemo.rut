@@ -3,11 +3,11 @@ Object=(Name=udemo.UDmodItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem)
 
 [DemoPlaybackSpec]
 ; EN: Seeking="SEEKING"
-Seeking="ИЩУ"
+Seeking="ПЕРЕМОТКА"
 
 [UDClientWindow]
 ; EN: Spechelp="If checked, you will be able to fly around the level when playing a demo"
-Spechelp="Если этот флажок установлен, вы сможете летать по уровню во время игры в демо."
+Spechelp="Если отмечено, вы сможете летать по уровню во время проигрывания демо."
 
 [UDPathsclient]
 ; EN: Empty="Empty"
@@ -19,7 +19,7 @@ Empty="(Пусто)"
 
 [UDmoditem]
 ; EN: MenuCaption="&Demo Manager"
-MenuCaption="&Демо-менеджер"
+MenuCaption="Демо-менеджер (&D)"
 ; EN: MenuHelp="Play and Record demos!"
 MenuHelp="Играйте и записывайте демо!"
 
