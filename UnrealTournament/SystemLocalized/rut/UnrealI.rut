@@ -1,18 +1,18 @@
-﻿[Public]
+[Public]
 Object=(Name=UnrealI.KingOfTheHill,Class=Class,MetaClass=Engine.GameInfo)
 Object=(Name=UnrealI.DarkMatch,Class=Class,MetaClass=Engine.GameInfo)
 ; EN: Object=(Name=UnrealI.FlakCannon,Class=Class,MetaClass=Engine.Weapon,Description="Flak Cannon")
-Object=(Name=UnrealI.FlakCannon,Class=Class,MetaClass=Engine.Weapon,Description="Осколочная пушка")
+Object=(Name=UnrealI.FlakCannon,Class=Class,MetaClass=Engine.Weapon,Description="Flak Cannon")
 ; EN: Object=(Name=UnrealI.Rifle,Class=Class,MetaClass=Engine.Weapon,Description="Sniper Rifle")
 Object=(Name=UnrealI.Rifle,Class=Class,MetaClass=Engine.Weapon,Description="Снайперская винтовка")
 ; EN: Object=(Name=UnrealI.Minigun,Class=Class,MetaClass=Engine.Weapon,Description="Minigun")
 Object=(Name=UnrealI.Minigun,Class=Class,MetaClass=Engine.Weapon,Description="Миниган")
 ; EN: Object=(Name=UnrealI.GESBioRifle,Class=Class,MetaClass=Engine.Weapon,Description="GES BioRifle")
-Object=(Name=UnrealI.GESBioRifle,Class=Class,MetaClass=Engine.Weapon,Description="Биоружьё GES")
+Object=(Name=UnrealI.GESBioRifle,Class=Class,MetaClass=Engine.Weapon,Description="GES-биоружьё")
 ; EN: Object=(Name=UnrealI.RazorJack,Class=Class,MetaClass=Engine.Weapon,Description="RazorJack")
-Object=(Name=UnrealI.RazorJack,Class=Class,MetaClass=Engine.Weapon,Description="Рейзорджек")
+Object=(Name=UnrealI.RazorJack,Class=Class,MetaClass=Engine.Weapon,Description="RazorJack")
 ; EN: Object=(Name=UnrealI.QuadShot,Class=Class,MetaClass=Engine.Weapon,Description="Quad-Barreled Shotgun")
-Object=(Name=UnrealI.QuadShot,Class=Class,MetaClass=Engine.Weapon,Description="Квадшот")
+Object=(Name=UnrealI.QuadShot,Class=Class,MetaClass=Engine.Weapon,Description="Четырёхствольное ружьё")
 ; EN: Object=(Name=UnrealI.PeaceMaker,Class=Class,MetaClass=Engine.Weapon,Description="Peacemaker")
 Object=(Name=UnrealI.PeaceMaker,Class=Class,MetaClass=Engine.Weapon,Description="Миротворец")
 ; EN: Object=(Name=UnrealI.FemaleTwo,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Female 2")
@@ -22,7 +22,7 @@ Object=(Name=UnrealI.MaleOne,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Des
 ; EN: Object=(Name=UnrealI.MaleTwo,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Male 2")
 Object=(Name=UnrealI.MaleTwo,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Мужчина 2")
 ; EN: Object=(Name=UnrealI.SkaarjPlayer,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Skaarj Trooper")
-Object=(Name=UnrealI.SkaarjPlayer,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Скаардж-десантник")
+Object=(Name=UnrealI.SkaarjPlayer,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Скаардж-пехота")
 ; EN: Object=(Name=UnrealI.FemaleTwoBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Female 2")
 Object=(Name=UnrealI.FemaleTwoBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Женщина 2")
 ; EN: Object=(Name=UnrealI.MaleOneBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Male 1")
@@ -30,7 +30,7 @@ Object=(Name=UnrealI.MaleOneBot,Class=Class,MetaClass=UnrealShare.Bots,Descripti
 ; EN: Object=(Name=UnrealI.MaleTwoBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Male 2")
 Object=(Name=UnrealI.MaleTwoBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Мужчина 2")
 ; EN: Object=(Name=UnrealI.SkaarjPlayerBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Skaarj Trooper")
-Object=(Name=UnrealI.SkaarjPlayerBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Скаардж-десантник")
+Object=(Name=UnrealI.SkaarjPlayerBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Скаардж-пехота")
 ; EN: Object=(Name=UnrealI.NaliPlayer,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Nali")
 Object=(Name=UnrealI.NaliPlayer,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Нали")
 ; EN: Object=(Name=UnrealI.NaliPlayerBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Nali")
@@ -41,7 +41,7 @@ Preferences=(Caption="Darkmatch Maps",Parent="Map Lists",LangCaption="Карты
 
 [IntroNullHud]
 ; EN: ESCMessage="Press ESC to begin"
-ESCMessage="Нажмите ESC, чтобы начать игру"
+ESCMessage="Нажмите ESC, чтобы начать"
 
 [Queen]
 ; EN: NameArticle=" the "
@@ -51,37 +51,37 @@ MenuName="Королева"
 
 [SkaarjPlayer]
 ; EN: MenuName="Skaarj Trooper"
-MenuName="Скаардж-десантник"
+MenuName="Скаардж-пехота"
 
 [SkaarjPlayerBot]
 ; EN: MenuName="Skaarj Trooper"
-MenuName="Скаардж-десантник"
+MenuName="Скаардж-пехота"
 
 [WarLord]
 ; EN: NameArticle=" the "
 NameArticle=" "
 ; EN: MenuName="WarLord"
-MenuName="Варлорд"
+MenuName="Военачальник"
 
 [SearchLight]
 ; EN: ExpireMessage="The Search Light batteries have died."
-ExpireMessage="Батареи прожектора разряжены"
+ExpireMessage="Батареи Прожектора сели."
 ; EN: PickupMessage="You picked up the Search Light"
-PickupMessage="Вы взяли прожектор"
+PickupMessage="Вы взяли Прожектор"
 ; EN: ItemName="Search Light"
 ItemName="Прожектор"
 
 [RazorAmmo]
 ; EN: PickupMessage="You picked up Razor Blades"
-PickupMessage="Вы взяли лезвия Рейзорджека"
+PickupMessage="Вы взяли Лезвия"
 ; EN: ItemName="Razor Blades"
-ItemName="Лезвия Рейзорджека"
+ItemName="Лезвия"
 
 [FlakBox]
 ; EN: PickupMessage="You picked up 10 Flak Shells"
-PickupMessage="Вы взяли 10 осколочных гранат"
+PickupMessage="Вы взяли 10 Flak-снарядов"
 ; EN: ItemName="Flak Shells"
-ItemName="Осколочные гранаты"
+ItemName="Flak-снаряды"
 
 [MaleOne]
 ; EN: MenuName="Male 1"
@@ -93,31 +93,31 @@ MenuName="Мужчина 1"
 
 [RifleAmmo]
 ; EN: PickupMessage="You got 8 Rifle Rounds"
-PickupMessage="Вы взяли 8 патронов"
+PickupMessage="Вы взяли 8 Винтовочных патронов"
 ; EN: ItemName="Rifle Rounds"
-ItemName="Коробка с патронами"
+ItemName="Винтовочные патроны"
 
 [Seeds]
 ; EN: PickupMessage="You got the Nali Fruit Seeds"
-PickupMessage="Вы нашли семечко Фрукта Нали"
+PickupMessage="Вы взяли Семена фрукта Нали"
 ; EN: ItemName="Nali Fruit Seeds"
-ItemName="Семечко Фрукта Нали"
+ItemName="Семена фрукта Нали"
 
 [JumpBoots]
 ; EN: ExpireMessage="The Jump Boots have drained."
-ExpireMessage="Прыжковые ботинки разряжены."
+ExpireMessage="Прыжковые ботинки кончились."
 ; EN: PickupMessage="You picked up the Jump Boots"
-PickupMessage="Вы нашли прыжковые ботинки"
+PickupMessage="Вы взяли Прыжковые ботинки"
 ; EN: ItemName="Jump Boots"
 ItemName="Прыжковые ботинки"
 
 [ForceField]
 ; EN: M_NoRoom="No room to activate the Force Field."
-M_NoRoom="Не хватает места для активации Силового Поля."
+M_NoRoom="Мало места для активации Силового Поля."
 ; EN: PickupMessage="You picked up the Force Field"
-PickupMessage="Вы нашли Силовое Поле"
+PickupMessage="Вы взяли Силовое поле"
 ; EN: ItemName="Force Field"
-ItemName="Силовое Поле"
+ItemName="Силовое поле"
 
 [FemaleTwo]
 ; EN: MenuName="Female 2"
@@ -137,61 +137,61 @@ MenuName="Мужчина 2"
 
 [Sludge]
 ; EN: PickupMessage="You picked up 25 Kilos of Tarydium Biosludge"
-PickupMessage="Вы взяли 25 килограмм отходов таридия"
+PickupMessage="Вы взяли 25 Кило Таридиевого биошлама"
 ; EN: ItemName="Tarydium Biosludge"
-ItemName="Отходы Таридия"
+ItemName="Таридиевый биошлам"
 
 [Invisibility]
 ; EN: ExpireMessage="Invisibility has worn off."
-ExpireMessage="Невидимость кончилась."
+ExpireMessage="Невидимость закончилась."
 ; EN: PickupMessage="You have Invisibility"
-PickupMessage="Вы взяли Невидимость"
+PickupMessage="У вас Невидимость"
 ; EN: ItemName="Invisibility"
 ItemName="Невидимость"
 
 [DarkMatch]
 ; EN: ClassCaption="DarkMatch"
-ClassCaption="Даркматч"
+ClassCaption="Тёмный DeathMatch"
 ; EN: GameName="DarkMatch"
-GameName="Даркматч"
+GameName="Тёмный DeathMatch"
 
 [FlakShellAmmo]
 ; EN: PickupMessage="You got a Flak Shell"
-PickupMessage="Вы взяли осколочную гранату"
+PickupMessage="Вы взяли Flak-снаряд"
 ; EN: ItemName="Flak Shell"
-ItemName="Осколочная граната"
+ItemName="Flak-снаряд"
 
 [AsbestosSuit]
 ; EN: PickupMessage="You picked up the Asbestos Suit"
-PickupMessage="Вы взяли Асбестовый Костюм"
+PickupMessage="Вы взяли Асбестовый костюм"
 ; EN: ItemName="Asbestos Suit"
-ItemName="Асбестовый Костюм"
+ItemName="Асбестовый костюм"
 
 [Dampener]
 ; EN: ExpireMessage="Acoustic dampener has run out."
-ExpireMessage="Глушитель вышел из строя."
+ExpireMessage="Акустический демпфер вышел из строя."
 ; EN: PickupMessage="You got the Acoustic Dampener"
-PickupMessage="Вы взяли глушитель"
+PickupMessage="Вы взяли Акустический демпфер"
 ; EN: ItemName="Acoustic Dampener"
-ItemName="Глушитель"
+ItemName="Акустический демпфер"
 
 [ToxinSuit]
 ; EN: PickupMessage="You picked up the Toxin Suit"
-PickupMessage="Вы взяли костюм химзащиты"
+PickupMessage="Вы взяли Токсический костюм"
 ; EN: ItemName="Toxin Suit"
-ItemName="Костюм химзащиты"
+ItemName="Токсический костюм"
 
 [PowerShield]
 ; EN: PickupMessage="You got the Power Shield"
-PickupMessage="Вы взяли Силовой Щит"
+PickupMessage="Вы взяли Энергощит"
 ; EN: ItemName="Power Shield"
-ItemName="Силовой Щит"
+ItemName="Энергощит"
 
 [RifleRound]
 ; EN: PickupMessage="You got a Rifle Round"
-PickupMessage="Вы нашли патрон для винтовки"
+PickupMessage="Вы взяли Винтовочный патрон"
 ; EN: ItemName="Rifle Round"
-ItemName="Патрон для винтовки"
+ItemName="Винтовочный патрон"
 
 [Behemoth]
 ; EN: NameArticle=" a "
@@ -203,25 +203,25 @@ MenuName="Бегемот"
 ; EN: NameArticle=" a "
 NameArticle=" "
 ; EN: MenuName="Blob"
-MenuName="Биомасса"
+MenuName="Капля"
 
 [Bloblet]
 ; EN: NameArticle=" a "
 NameArticle=" "
 ; EN: MenuName="Bloblet"
-MenuName="Биомасса"
+MenuName="Капелька"
 
 [Gasbag]
 ; EN: NameArticle=" a "
 NameArticle=" "
 ; EN: MenuName="Gasbag"
-MenuName="Газбаг"
+MenuName="Пустозвон"
 
 [GiantGasbag]
 ; EN: NameArticle=" the "
 NameArticle=" "
 ; EN: MenuName="Giant Gasbag"
-MenuName="Гигантский Газбаг"
+MenuName="Гигантский Пустозвон"
 
 [GiantManta]
 ; EN: NameArticle=" the "
@@ -257,7 +257,7 @@ MenuName="Безногий Кралл"
 ; EN: NameArticle=" a "
 NameArticle=" "
 ; EN: MenuName="Mercenary"
-MenuName="Наемник"
+MenuName="Наёмник"
 
 [MercenaryElite]
 ; EN: NameArticle=" an "
@@ -287,19 +287,19 @@ MenuName="Скаардж-берсеркер"
 ; EN: NameArticle=" a "
 NameArticle=" "
 ; EN: MenuName="Skaarj Gunner"
-MenuName="Скаардж-стрелок"
+MenuName="Скаардж-артиллерист"
 
 [SkaarjInfantry]
 ; EN: NameArticle=" a "
 NameArticle=" "
 ; EN: MenuName="Skaarj Infantry"
-MenuName="Скаардж-пехотинец"
+MenuName="Скаардж-разведчик"
 
 [SkaarjLord]
 ; EN: NameArticle=" the "
 NameArticle=" "
 ; EN: MenuName="Skaarj Lord"
-MenuName="Повелитель Скаарджей"
+MenuName="Скаардж-владыка"
 
 [SkaarjOfficer]
 ; EN: NameArticle=" a "
@@ -317,7 +317,7 @@ MenuName="Скаардж-снайпер"
 ; EN: NameArticle=" a "
 NameArticle=" "
 ; EN: MenuName="Skaarj Trooper"
-MenuName="Скаардж-десантник"
+MenuName="Скаардж-пехотинец"
 
 [Titan]
 ; EN: NameArticle=" a "
@@ -333,111 +333,111 @@ MenuName="Каменный Титан"
 
 [EndgameHud]
 ; EN: Message1="The Skaarj escape pod has broken free from the planet's gravitational pull... barely. Yet, it's fuel reserve has been depleted, and you drift aimlessly."
-Message1="Спасательный корабль Скаарджей вырвался из гравитационного поля планеты... Но топливо кончилось, и вы бесцельно дрейфуете среди звёзд..."
+Message1="Спасательная капсула Скаарджей наконец преодолевает из гравитационное поле планеты... еле-еле. Однако, топлиные запасы истощены, и вы бесцельно дрейфуете среди звёзд."
 ; EN: Message2="From where many have died, you have escaped. You laugh to yourself; so much has happened, but so little has changed."
-Message2="Там где многие погибли - вы выжили. Вы смеётесь над собой; сколько всего произошло, но так мало изменилось."
+Message2="Там, где многие погибли, вы спаслись. Вы смеётесь про себя; так много произошло, но так мало изменилось."
 ; EN: Message3="Before the crash landing, you were trapped in a cramped cell. Now, once again you are confined in a prison."
-Message3="До крушения вы были заключены в тесной камере. Теперь вы снова в тюрьме."
+Message3="До крушения вы были заключены в тесной камере. Теперь вы снова заточены в тюрьме."
 ; EN: Message4="But, you feel confident that someone will come upon your small vessel... eventually."
-Message4="Но вы уверены, что в итоге... кто-нибудь наткнётся на ваш маленький корабль..."
+Message4="Но вы не теряете уверенности, что кто-нибудь наткнётся на ваш маленький корабль... когда-нибудь."
 ; EN: Message5="Until then, you drift and hope."
-Message5="А пока вы дрейфуете и надеетесь."
+Message5="Ну а пока, вы дрейфуете и надеетесь."
 ; EN: Message6="To Be Continued..."
-Message6="Продолжение Следует..."
+Message6="Продолжение следует..."
 
 [KingOfTheHill]
 ; EN: ClassCaption="King of the Hill"
 ClassCaption="Царь Горы"
 ; EN: KingMessage=" is the new king of the hill!"
-KingMessage=" новый царь горы!"
+KingMessage="– новый царь горы!"
 ; EN: GameName="King of the Hill"
 GameName="Царь Горы"
 
 [ParentBlob]
 ; EN: BlobKillMessage="was corroded by a Blob"
-BlobKillMessage="был съеден биомассой"
+BlobKillMessage="был разъеден Каплей"
 ; EN: NameArticle=" a "
 NameArticle=" "
 ; EN: MenuName="Blob"
-MenuName="Биомасса"
+MenuName="Капля"
 
 [FlakCannon]
 ; EN: DeathMessage="%o was ripped to shreds by %k's %w."
-DeathMessage="%k разорвал %o в клочья осколочной пушкой."
+DeathMessage="%o разорвало в клочья из %w &k."
 ; EN: PickupMessage="You got the Flak Cannon"
-PickupMessage="Вы взяли осколочную пушку"
+PickupMessage="Вы взяли Flak Cannon"
 ; EN: ItemName="Flak Cannon"
-ItemName="Осколочная пушка"
+ItemName="Flak Cannon"
 
 [Rifle]
 ; EN: DeathMessage="%k put a bullet through %o's head."
-DeathMessage="%k всадил пулю в голову %o."
+DeathMessage="%k всаживает пулю в голову %o."
 ; EN: PickupMessage="You got the Rifle"
-PickupMessage="Вы взяли снайперскую винтовку"
+PickupMessage="Вы взяли Винтовку"
 ; EN: ItemName="Sniper Rifle"
 ItemName="Снайперская винтовка"
 
 [Minigun]
 ; EN: DeathMessage="%k's %w turned %o into a leaky piece of meat."
-DeathMessage="%k превратил %o в дырявый кусок мяса из %wа."
+DeathMessage="%w %k превращает %o в протекающий обрубок."
 ; EN: PickupMessage="You got the Minigun"
-PickupMessage="Вы взяли Миниган"
+PickupMessage="Вы взяли Minigun"
 ; EN: ItemName="Minigun"
-ItemName="Миниган"
+ItemName="Minigun"
 
 [GESBioRifle]
 ; EN: DeathMessage="%o drank a glass of %k's dripping green load."
-DeathMessage="%k заставил %o съесть стакан зеленых соплей."
+DeathMessage="%o глотает всю зелёную жидкость %k без остатка."
 ; EN: PickupMessage="You got the GES BioRifle"
-PickupMessage="Вы взяли биоружьё GES"
+PickupMessage="Вы взяли GES-биоружьё"
 ; EN: ItemName="GES Bio Rifle"
-ItemName="Биоружьё GES"
+ItemName="GES-биоружьё"
 
 [RazorJack]
 ; EN: DeathMessage="%k took a bloody chunk out of %o with the %w."
-DeathMessage="%k вырвал кровавый кусок из %o %wом."
+DeathMessage="%k отрывает кровавый кусок мяса %o своим %w'ом."
 ; EN: PickupMessage="You got the RazorJack"
-PickupMessage="Вы взяли Рейзорджек"
+PickupMessage="Вы взяли RazorJack"
 ; EN: ItemName="Razorjack"
-ItemName="Рейзорджек"
+ItemName="RazorJack"
 
 [Fell]
 ; EN: Name="fell"
-Name="разбился в лепешку"
+Name="падает"
 ; EN: AltName="fell"
-AltName="расшибся в лепешку"
+AltName="разбивается"
 
 [Drowned]
 ; EN: Name="drowned"
-Name="утонул"
+Name="тонет"
 ; EN: AltName="drowned"
-AltName="утонул"
+AltName="захлёбывается"
 
 [Decapitated]
 ; EN: Name="beheaded"
-Name="обезглавлен"
+Name="теряет голову"
 ; EN: AltName="decapitated"
-AltName="обезглавлен"
+AltName="лишается головы"
 
 [Corroded]
 ; EN: Name="corroded"
-Name="растворился в кислоте"
+Name="растворяется"
 ; EN: AltName="slimed"
-AltName="растворился в кислоте"
+AltName="разъело"
 
 [Burned]
 ; EN: Name="burned"
-Name="сгорел"
+Name="сгорает"
 ; EN: AltName="flame-broiled"
-AltName="сгорел"
+AltName="хорошо прожаривается"
 
 [QuadShot]
 ; EN: DeathMessage="%o was blasted to bits by %k's %w."
-DeathMessage="%o был разорван на кусочки %k из %wа."
+DeathMessage="%o разрывает на кусочки %w %k."
 ; EN: PickupMessage="You got the Quad-Barreled Shotgun"
-PickupMessage="Вы взяли четырёхствольный дробовик"
+PickupMessage="Вы взяли Четырёхствольный дробовик"
 ; EN: ItemName="Quad-Barreled Shotgun"
-ItemName="Квадшот"
+ItemName="Четырёхствольный дробовик"
 
 [NaliPlayer]
 ; EN: MenuName="Nali"
