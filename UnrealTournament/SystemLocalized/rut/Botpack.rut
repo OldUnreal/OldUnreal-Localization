@@ -2874,7 +2874,7 @@ GameName="Молниеносный DeathMatch"
 
 [RocketPack]
 ; EN: PickupMessage="You picked up a rocket pack."
-PickupMessage="Вы взяли Коробку ракет."
+PickupMessage="Вы взяли Упаковку ракет."
 ; EN: ItemName="Rocket Pack"
 ItemName="Коробка ракет"
 
