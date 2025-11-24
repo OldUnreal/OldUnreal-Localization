@@ -14,7 +14,7 @@ Object=(Name=relics.RelicDeath,Class=Class,MetaClass=Engine.Mutator,Description=
 
 [RelicInventory]
 ; EN: PickupMessage="You picked up a null Relic."
-PickupMessage="Вы подобрали нулевой реликт."
+PickupMessage="Вы подобрали нулевой Реликт."
 ; EN: ItemName="Relic"
 ItemName="Реликт"
 
@@ -34,7 +34,7 @@ ItemName="Реликт Силы"
 ; EN: PickupMessage="You picked up the Relic of Vengeance!"
 PickupMessage="Вы подобрали Реликт Возмездия!"
 ; EN: ItemName="Relic of Vengeance"
-ItemName="Реликт Аозмездия"
+ItemName="Реликт Возмездия"
 
 [RelicDefenseInventory]
 ; EN: PickupMessage="You picked up the Relic of Defense!"
@@ -46,7 +46,7 @@ ItemName="Реликт Защиты"
 ; EN: PickupMessage="You picked up the Relic of Speed!"
 PickupMessage="Вы подобрали Реликт Скорости!"
 ; EN: ItemName="Relic of Speed"
-ItemName="Реликт Мкорости"
+ItemName="Реликт Скорости"
 
 [RelicRegenInventory]
 ; EN: PickupMessage="You picked up the Relic of Regeneration!"
