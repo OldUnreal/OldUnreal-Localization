@@ -3518,7 +3518,7 @@ ItemName="Бутылочка здоровья"
 ; EN: PickupMessage="You picked up the Big Keg O' Health +"
 PickupMessage="Вы взяли Бочонок здоровья +"
 ; EN: ItemName="Super Health Pack"
-ItemName="Бочонок здоровья"
+ItemName="Супераптечка"
 
 [EClip]
 ; EN: PickupMessage="You picked up a clip."
@@ -3536,6 +3536,6 @@ WeaponDescription="Классификация: Личное устройство
 ; EN: DeathMessage="%o was telefragged by %k."
 DeathMessage="%o разорвало телефрагом %k."
 ; EN: PickupMessage="You got the Translocator Source Module"
-PickupMessage="Вы взяли Транслокатор, исходный модуль"
+PickupMessage="Вы взяли Исходный модуль Транслокатора"
 ; EN: ItemName="Translocator"
 ItemName="Транслокатор"
