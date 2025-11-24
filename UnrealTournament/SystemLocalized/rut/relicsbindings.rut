@@ -1,6 +1,6 @@
 ﻿[public]
-; EN: Object=(Name=RelicsBindings.ExtraRelicsBindings,Class=Class,MetaClass=UTMenu.UTExtraKeyBindings,Description="Реликты,Бросить реликт")
-Object=(Name=RelicsBindings.ExtraRelicsBindings,Class=Class,MetaClass=UTMenu.UTExtraKeyBindings,Description="Relics,Toss Relic")
+; EN: Object=(Name=RelicsBindings.ExtraRelicsBindings,Class=Class,MetaClass=UTMenu.UTExtraKeyBindings,Description="Relics,Toss Relic")
+Object=(Name=RelicsBindings.ExtraRelicsBindings,Class=Class,MetaClass=UTMenu.UTExtraKeyBindings,Description="Реликты,Бросить реликт")
 
 [ExtraRelicsBindings]
 ; EN: SectionName="Relics"
