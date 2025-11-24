@@ -1,6 +1,6 @@
 ﻿[public]
 ; EN: Object=(Name=TCowMeshSkins.WarCow,Class=Texture,Description="War Cow")
-Object=(Name=TCowMeshSkins.WarCow,Class=Texture,Description="Боевая корова")
+Object=(Name=TCowMeshSkins.WarCow,Class=Texture,Description="Корова войны")
 ; EN: Object=(Name=TCowMeshSkins.AtomicCow,Class=Texture,Description="Atomic Cow")
 Object=(Name=TCowMeshSkins.AtomicCow,Class=Texture,Description="Атомная корова")
 Object=(Name=TCowMeshSkins.T_Cow_0,Class=Texture)
