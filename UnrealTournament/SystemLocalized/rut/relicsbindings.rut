@@ -1,9 +1,9 @@
 ﻿[public]
-; EN: Object=(Name=RelicsBindings.ExtraRelicsBindings,Class=Class,MetaClass=UTMenu.UTExtraKeyBindings,Description="Реликвии,Бросить реликвию")
+; EN: Object=(Name=RelicsBindings.ExtraRelicsBindings,Class=Class,MetaClass=UTMenu.UTExtraKeyBindings,Description="Реликты,Бросить реликт")
 Object=(Name=RelicsBindings.ExtraRelicsBindings,Class=Class,MetaClass=UTMenu.UTExtraKeyBindings,Description="Relics,Toss Relic")
 
 [ExtraRelicsBindings]
 ; EN: SectionName="Relics"
-SectionName="Реликвии"
+SectionName="Реликты"
 ; EN: LabelList[0]="Toss Relic"
-LabelList[0]="Бросить реликвию"
+LabelList[0]="Бросить реликт"
