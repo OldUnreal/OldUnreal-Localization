@@ -787,7 +787,7 @@ TeamName[3]="Золотые: "
 
 [DispersionPistol]
 ; EN: DeathMessage="%o was killed by %k's %w. What a loser!"
-DeathMessage="%o убивает %w %k. Ну и лох!"
+DeathMessage="%o убивает %w %k. Вот лошара!"
 ; EN: PickupMessage="You got the Dispersion Pistol"
 PickupMessage="Вы взяли Дисперсионный пистолет"
 ; EN: ItemName="Dispersion Pistol"
