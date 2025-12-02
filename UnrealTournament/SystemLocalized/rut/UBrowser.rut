@@ -256,7 +256,7 @@ ConnectHelp="Подключиться к серверу IRC-чата."
 ; EN: DisconnectHelp="Disconnect from the IRC chat server."
 DisconnectHelp="Отключиться от сервера IRC-чата."
 ; EN: WarningText="The Chat facility will connect you to the Internet Relay Chat (IRC) network.\n\nNeither Epic Games nor OldUnreal are responsible for the content of any channels in IRC. You enter these channels at your own risk.\n\nAre you sure you still want to connect?"
-WarningText="Функция Чата соединит вас с сетью Internet Relay Chat (IRC).\n\n Ни Epic Games, ни OldUnreal не несут ответственности за содержание любых каналов в IRC. Вы заходите на эти каналы на свой страх и риск.\n\nВы действительно хотите подключиться?"
+WarningText="Функция Чата соединит вас с сетью Internet Relay Chat (IRC).\n\nНи Epic Games, ни OldUnreal не несут ответственности за содержание любых каналов в IRC. Вы заходите на эти каналы на свой страх и риск.\n\nВы действительно хотите подключиться?"
 ; EN: WarningTitle="Warning"
 WarningTitle="Внимание"
 
