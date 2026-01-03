@@ -75,3 +75,7 @@ Hint="Stiskni cervena tlacitka na zdi tim ze do nich vrazis."
 Message="Zalozni zdroj energie pro silove pole je zapnuty."
 ; EN: Hint="Press the red buttons on the wall by bumping into them."
 Hint="Stiskni cervena tlacitka na zdi tim ze do nich vrazis."
+
+[StingerAmmo17]
+; EN: PickupMessage="You picked up 80 Tarydium Shards"
+PickupMessage="Sebral jsi 80 Tarydiovych Strepu"
