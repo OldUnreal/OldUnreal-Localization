@@ -75,3 +75,7 @@ Hint="Trykk på de røde knappene på veggen ved å støte på dem."
 Message="Force Field strømkilde to status er aktiv."
 ; EN: Hint="Press the red buttons on the wall by bumping into them."
 Hint="Trykk på de røde knappene på veggen ved å støte på dem."
+
+[StingerAmmo17]
+; EN: PickupMessage="You picked up 80 Tarydium Shards"
+PickupMessage="Du plukket opp 80 Tarydium-Skjær"
