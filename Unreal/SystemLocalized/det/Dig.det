@@ -78,4 +78,4 @@ Hint="Drücke auf die roten Knöpfe an der Wand, indem du gegen sie stößt."
 
 [StingerAmmo17]
 ; EN: PickupMessage="You picked up 80 Tarydium Shards"
-PickupMessage="40 Tarydiumsplitter erhalten"
+PickupMessage="80 Tarydiumsplitter erhalten"
