@@ -75,3 +75,7 @@ Hint="Nyomd meg a piros gombokat a falon úgy, hogy nekik mész."
 Message="Kettes Erötér energiaforrása aktív."
 ; EN: Hint="Press the red buttons on the wall by bumping into them."
 Hint="Nyomd meg a piros gombokat a falon úgy, hogy nekik mész."
+
+[StingerAmmo17]
+; EN: PickupMessage="You picked up 80 Tarydium Shards"
+PickupMessage="Felvettél 80 Tarydium Szilánkot"
