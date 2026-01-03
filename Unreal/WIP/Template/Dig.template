@@ -75,3 +75,7 @@ Hint=""
 Message=""
 ; EN: Hint="Press the red buttons on the wall by bumping into them."
 Hint=""
+
+[StingerAmmo17]
+; EN: PickupMessage="You picked up 80 Tarydium Shards"
+PickupMessage=""
