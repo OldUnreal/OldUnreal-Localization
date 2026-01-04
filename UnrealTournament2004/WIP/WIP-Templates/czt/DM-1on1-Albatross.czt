@@ -17,20 +17,20 @@ LocationName="Dolní proud"
 LocationName="Malý kaňon"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Bio Ruiny"
+; EN: LocationName="Minigun Ruins"
+LocationName="Ruiny minigunu"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
 LocationName="Oblast mostu"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Dolní socha"
+; EN: LocationName="Lower Courtyard"
+LocationName="Dolní nádvoří"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="Výtah na minigun"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Výtah šokové pušky"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
