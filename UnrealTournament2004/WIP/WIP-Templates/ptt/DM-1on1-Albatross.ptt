@@ -17,19 +17,20 @@ LocationName="Fluxo Inferior"
 LocationName="Canyon pequeno"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Bio Ruínas"
+; EN: LocationName="Minigun Ruins"
+LocationName="Ruínas da Minigun"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
 LocationName="Área da Ponte"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Estátua inferior"
+; EN: LocationName="Lower Courtyard"
+LocationName="Pátio inferior"
 
 [Volume6]
-LocationName="Minigun Lift"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Elevador da Espingarda de Choque"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
