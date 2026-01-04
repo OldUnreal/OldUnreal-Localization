@@ -1,36 +1,36 @@
 [LevelInfo0]
 ; EN: Title="Albatross"
-Title="albatro"
+Title="Albatro"
 
 [LevelSummary]
 ; EN: Title="Albatross"
-Title="albatro"
+Title="Albatro"
 ; EN: Description="From the ancient days of the Tournament comes a classic 1-on-1 arena, renovated and redesigned to once again mediate in the fate of bloodshed. Do not be fooled by its ostensible simplicity.  Those who understand subtle design will always dominate in this arena."
-Description="Dai tempi antichi del Torneo arriva una classica arena 1 contro 1, rinnovata e ridisegnata per mediare ancora una volta nel destino dello spargimento di sangue. Non lasciatevi ingannare dalla sua apparente semplicità. Coloro che comprendono il design sottile domineranno sempre in quest'arena."
+Description="Ecco una classica arena 1-1 che risale ai tempi antichi del Torneo, rinnovata e riprogettata per nuovi spargimenti di sangue. Non farti ingannare dalla sua apparente semplicità: chi capisce le sottigliezze dell'architettura può dominare in questa arena."
 
 [Volume1]
 ; EN: LocationName="Lower Stream"
-LocationName="Flusso inferiore"
+LocationName="Corso d'acqua inferiore"
 
 [Volume2]
 ; EN: LocationName="Small Canyon"
-LocationName="piccolo canyon"
+LocationName="Piccolo canyon"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Rovine biologiche"
+; EN: LocationName="Minigun Ruins"
+LocationName="Rovine mitragliatrice"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
 LocationName="Zona del ponte"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Statua inferiore"
+; EN: LocationName="Lower Courtyard"
+LocationName="Cortile inferiore"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="Ascensore per mitragliatrice"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Sollevamento fucile a scossa"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
@@ -38,7 +38,7 @@ LocationName="Statua dell'albatro"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Al di fuori"
+LocationName="Esterno"
 
 [ZoneInfo1]
 ; EN: LocationName="Rocket Launcher Hall"
@@ -46,13 +46,13 @@ LocationName="Sala del lanciarazzi"
 
 [ZoneInfo2]
 ; EN: LocationName="inside"
-LocationName="dentro"
+LocationName="interno"
 
 [ZoneInfo3]
 ; EN: LocationName="inside"
-LocationName="dentro"
+LocationName="interno"
 
 [ZoneInfo4]
 ; EN: LocationName="inside"
-LocationName="dentro"
+LocationName="interno"
 
