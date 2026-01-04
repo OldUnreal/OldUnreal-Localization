@@ -17,20 +17,20 @@ LocationName="Corrent inferior"
 LocationName="Canó petit"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Ruïnes Bio"
+; EN: LocationName="Minigun Ruins"
+LocationName="Ruïnes de minigun"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
 LocationName="Zona del pont"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
+; EN: LocationName="Lower Courtyard"
 LocationName="Estàtua inferior"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="Ascensor Minigun"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Ascensor de Rifle de Xoc"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
