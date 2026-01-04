@@ -6,7 +6,7 @@ Title="Альбатрос"
 ; EN: Title="Albatross"
 Title="Альбатрос"
 ; EN: Description="From the ancient days of the Tournament comes a classic 1-on-1 arena, renovated and redesigned to once again mediate in the fate of bloodshed. Do not be fooled by its ostensible simplicity.  Those who understand subtle design will always dominate in this arena."
-Description="С давних времен Турнира появилась классическая арена один на один, обновленная и переработанная, чтобы снова стать посредником в судьбе кровопролития. Пусть вас не обманывает его кажущаяся простота. Те, кто понимает тонкий дизайн, всегда будут доминировать на этой арене."
+Description="С давних времен до нас дошла классическая арена, отремонтированная и перепроектированная с целью повышения зрелищности. Не поддавайся на ее мнимую простоту, на ней будут всегда доминировать сильнейший."
 
 [Volume1]
 ; EN: LocationName="Lower Stream"
@@ -17,42 +17,42 @@ LocationName="Нижний поток"
 LocationName="Малый каньон"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Био Руины"
+; EN: LocationName="Minigun Ruins"
+LocationName="Руины минигана"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
-LocationName="Площадь моста"
+LocationName="Район моста"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Нижняя статуя"
+; EN: LocationName="Lower Courtyard"
+LocationName="Нижний двор"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="Миниган Лифт"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Лифт для ударной винтовки"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
-LocationName="Статуя Альбатроса"
+LocationName="Статуя альбатроса"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Вне"
+LocationName="Снаружи"
 
 [ZoneInfo1]
 ; EN: LocationName="Rocket Launcher Hall"
-LocationName="Ракетный зал"
+LocationName="Зал с ракетницей"
 
 [ZoneInfo2]
 ; EN: LocationName="inside"
-LocationName="внутри"
+LocationName="Внутри"
 
 [ZoneInfo3]
 ; EN: LocationName="inside"
-LocationName="внутри"
+LocationName="Внутри"
 
 [ZoneInfo4]
 ; EN: LocationName="inside"
-LocationName="внутри"
+LocationName="Внутри"
 
