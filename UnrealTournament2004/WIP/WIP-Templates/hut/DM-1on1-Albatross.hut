@@ -17,19 +17,20 @@ LocationName="Alsó patak"
 LocationName="Kis kanyon"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Bio romok"
+; EN: LocationName="Minigun Ruins"
+LocationName="Minigun romok"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
 LocationName="Híd környéke"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Alsó szobor"
+; EN: LocationName="Lower Courtyard"
+LocationName="Alsó udvar"
 
 [Volume6]
-LocationName="Minigun Lift"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Lökéspuska lift"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
