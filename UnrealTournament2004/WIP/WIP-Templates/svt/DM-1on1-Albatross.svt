@@ -15,19 +15,20 @@ LocationName="Nedre ström"
 LocationName="Liten kanjon"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Bio Ruiner"
+; EN: LocationName="Minigun Ruins"
+LocationName="Ruiner av minigun"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
 LocationName="Broområde"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Nedre statyn"
+; EN: LocationName="Lower Courtyard"
+LocationName="Nedre gårdsplan"
 
 [Volume6]
-LocationName="Minigun Lift"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Hiss för chockgevär"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
