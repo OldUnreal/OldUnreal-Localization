@@ -17,20 +17,20 @@ LocationName="Lagere stroom"
 LocationName="Kleine kloof"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Bio-ruïnes"
+; EN: LocationName="Minigun Ruins"
+LocationName="Ruïnes van de Minigun"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
 LocationName="Bruggebied"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Lager standbeeld"
+; EN: LocationName="Lower Courtyard"
+LocationName="Benedenhof"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="Minigun-lift"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Lift van het Shock Rifle"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
