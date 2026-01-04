@@ -17,20 +17,20 @@ LocationName="Dolny strumień"
 LocationName="Mały Kanion"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Bio Ruiny"
+; EN: LocationName="Minigun Ruins"
+LocationName="Ruiny miniguna"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
 LocationName="Obszar mostu"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="Dolny Posąg"
+; EN: LocationName="Lower Courtyard"
+LocationName="Dolny dziedziniec"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="Podnośnik Miniguna"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Podnośnik karabinu udarowego"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
