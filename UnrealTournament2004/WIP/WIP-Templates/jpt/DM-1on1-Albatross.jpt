@@ -17,20 +17,20 @@ LocationName="下流"
 LocationName="スモールキャニオン"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="バイオ遺跡"
+; EN: LocationName="Minigun Ruins"
+LocationName="ミニガンの遺跡"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
 LocationName="ブリッジエリア"
 
 [Volume5]
-; EN: LocationName="Lower Statue"
-LocationName="下の像"
+; EN: LocationName="Lower Courtyard"
+LocationName="下庭"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="ミニガンリフト"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="ショックライフルリフト"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
