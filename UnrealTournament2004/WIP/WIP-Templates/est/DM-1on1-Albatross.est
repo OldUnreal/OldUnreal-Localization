@@ -6,7 +6,7 @@ Title="Albatros"
 ; EN: Title="Albatross"
 Title="Albatros"
 ; EN: Description="From the ancient days of the Tournament comes a classic 1-on-1 arena, renovated and redesigned to once again mediate in the fate of bloodshed. Do not be fooled by its ostensible simplicity.  Those who understand subtle design will always dominate in this arena."
-Description="Desde los tiempos antiguos del Torneo llega una arena clásica de 1 contra 1, renovada y rediseñada para mediar una vez más en el destino del derramamiento de sangre. No se deje engañar por su aparente sencillez. Aquellos que entienden el diseño sutil siempre dominarán en este campo."
+Description="Desde los antiguos días del Torneo llega un estadio clásico 1 contra 1, renovado y rediseñado para volver a acoger derramamientos de sangre. No te dejes engañar por su sencillez manifiesta, ya que quienes entiendan la sutileza de su diseño siempre dominarán en este estadio."
 
 [Volume1]
 ; EN: LocationName="Lower Stream"
@@ -17,20 +17,20 @@ LocationName="Corriente inferior"
 LocationName="Cañón pequeño"
 
 [Volume3]
-; EN: LocationName="Bio Ruins"
-LocationName="Bio ruinas"
+; EN: LocationName="Minigun Ruins"
+LocationName="Ruinas de Minipistola"
 
 [Volume4]
 ; EN: LocationName="Bridge Area"
-LocationName="Área del puente"
+LocationName="Zona de puente"
 
 [Volume5]
 ; EN: LocationName="Lower Statue"
 LocationName="Estatua inferior"
 
 [Volume6]
-; EN: LocationName="Minigun Lift"
-LocationName="Elevador de ametralladora"
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Suspensor de Rifle de Choque"
 
 [Volume7]
 ; EN: LocationName="Albatross Statue"
@@ -38,11 +38,11 @@ LocationName="Estatua de albatros"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Fuera de"
+LocationName="Exteriores"
 
 [ZoneInfo1]
 ; EN: LocationName="Rocket Launcher Hall"
-LocationName="Sala de lanzacohetes"
+LocationName="Cámara de Lanzacohetes"
 
 [ZoneInfo2]
 ; EN: LocationName="inside"
