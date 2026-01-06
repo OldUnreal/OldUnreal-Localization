@@ -60,9 +60,9 @@ Object=(Name=Botpack.PulseGun,Class=Class,MetaClass=Botpack.TournamentWeapon,Des
 ; EN: Object=(Name=Botpack.ripper,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Ripper")
 Object=(Name=Botpack.ripper,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Потрошитель")
 ; EN: Object=(Name=Botpack.minigun2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Minigun")
-Object=(Name=Botpack.minigun2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Пулемёт")
+Object=(Name=Botpack.minigun2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Миниган")
 ; EN: Object=(Name=Botpack.UT_FlakCannon,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Flak Cannon")
-Object=(Name=Botpack.UT_FlakCannon,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Осколочная пушка")
+Object=(Name=Botpack.UT_FlakCannon,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Зенитная пушка")
 ; EN: Object=(Name=Botpack.UT_Eightball,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Rocket Launcher")
 Object=(Name=Botpack.UT_Eightball,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Ракетница")
 ; EN: Object=(Name=Botpack.SniperRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Sniper Rifle")
@@ -87,7 +87,7 @@ Object=(Name=Botpack.JumpMatch,Class=Class,MetaClass=Engine.Mutator,Description=
 ; EN: Object=(Name=Botpack.NoRedeemer,Class=Class,MetaClass=Engine.Mutator,Description="No Redeemer,The Redeemer is removed from the game.")
 Object=(Name=Botpack.NoRedeemer,Class=Class,MetaClass=Engine.Mutator,Description="Без Искупителя,Искупитель убран из игры.")
 ; EN: Object=(Name=Botpack.FlakArena,Class=Class,MetaClass=Engine.Mutator,Description="Flak Arena,All weapon and ammo pickups are replaced with Flak Cannons and Flak Ammo.")
-Object=(Name=Botpack.FlakArena,Class=Class,MetaClass=Engine.Mutator,Description="Осколочная арена,Всё оружие и патроны заменены на Осколочные пушки и Осколочные патроны.")
+Object=(Name=Botpack.FlakArena,Class=Class,MetaClass=Engine.Mutator,Description="Зенитная арена,Всё оружие и патроны заменены на Зенитные пушки и Зенитные патроны.")
 ; EN: Object=(Name=Botpack.impactarena,Class=Class,MetaClass=Engine.Mutator,Description="Impact Hammer Arena,Weapons and items are removed from the match, and players only carry an Impact Hammer.")
 Object=(Name=Botpack.impactarena,Class=Class,MetaClass=Engine.Mutator,Description="Ударная арена,Оружие и предметы убраны из игры, и у игроков есть только Ударные молоты.")
 ; EN: Object=(Name=Botpack.ChainsawMelee,Class=Class,MetaClass=Engine.Mutator,Description="Chainsaw Melee,The Chainsaw replaces the Impact Hammer as the starting melee weapon.")
@@ -101,7 +101,7 @@ Object=(Name=Botpack.RocketArena,Class=Class,MetaClass=Engine.Mutator,Descriptio
 ; EN: Object=(Name=Botpack.PulseArena,Class=Class,MetaClass=Engine.Mutator,Description="Pulse Arena,All weapon and ammo pickups are replaced with Pulse Guns and Pulse Ammo.")
 Object=(Name=Botpack.PulseArena,Class=Class,MetaClass=Engine.Mutator,Description="Пульсовая арена,Всё оружие и патроны заменены на Pulse Gun'ы и Пульсовые патроны.")
 ; EN: Object=(Name=Botpack.MinigunArena,Class=Class,MetaClass=Engine.Mutator,Description="Minigun Arena,All weapon and ammo pickups are replaced with Miniguns and Minigun Ammo.")
-Object=(Name=Botpack.MinigunArena,Class=Class,MetaClass=Engine.Mutator,Description="Пулемётная арена,Всё оружие и патроны заменены на Пулемёты и Пулемётные патроны.")
+Object=(Name=Botpack.MinigunArena,Class=Class,MetaClass=Engine.Mutator,Description="Миниганная арена,Всё оружие и патроны заменены на Миниганы и Миниганные патроны.")
 ; Map Lists
 ; EN: Object=(Name=BotPack.TDMDefaultMapList,Class=Class,MetaClass=Botpack.TDMmaplist,Description="Default Maps")
 Object=(Name=BotPack.TDMDefaultMapList,Class=Class,MetaClass=Botpack.TDMmaplist,Description="Карты по умолчанию")
@@ -1046,13 +1046,13 @@ ItemName="Усилитель урона"
 
 [UT_FlakCannon]
 ; EN: WeaponDescription="Classification: Heavy Shrapnel\n\nPrimary Fire: White hot chunks of scrap metal are sprayed forth, shotgun style.\n\nSecondary Fire: A grenade full of shrapnel is lobbed at the enemy. The grenade can hurt you if you're in its splash range.\n\nTechniques: The Flak Cannon is far more useful in close range combat situations."
-WeaponDescription="Классификация: Тяжёлое осколочное\n\nОсновной огонь: Нагретые до белого каления куски металлолома выбрасываются вперёд, как из ружья.\n\nВторичный огонь: Граната, наполненная шрапнелью, бросается во врага. Взрывается при попадании. Может убить и вас, если находитесь в зоне её поражения.\n\nТехники: Осколочная пушка гораздо полезнее в условиях ближнего боя."
+WeaponDescription="Классификация: Тяжёлое осколочное\n\nОсновной огонь: Нагретые до белого каления куски металлолома выбрасываются вперёд, как из ружья.\n\nВторичный огонь: Граната, наполненная шрапнелью, бросается во врага. Взрывается при попадании. Может убить и вас, если находитесь в зоне её поражения.\n\nТехники: Зенитная пушка гораздо полезнее в условиях ближнего боя."
 ; EN: DeathMessage="%o was ripped to shreds by %k's %w."
 DeathMessage="%o разрывает в клочья %w %k."
 ; EN: PickupMessage="You got the Flak Cannon."
-PickupMessage="Вы взяли Осколочную пушку."
+PickupMessage="Вы взяли Зенитную пушку."
 ; EN: ItemName="Flak Cannon"
-ItemName="Осколочная пушка"
+ItemName="Зенитная пушка"
 
 [MultiKillMessage]
 ; EN: DoubleKillString="Double Kill!"
@@ -1090,9 +1090,9 @@ WeaponDescription="Классификация: Орудие Гатлинга\n\n
 ; EN: DeathMessage="%k's %w turned %o into a leaky piece of meat."
 DeathMessage="%w %k превращает %o в протекающий обрубок."
 ; EN: PickupMessage="You got the Minigun."
-PickupMessage="Вы взяли Пулемёт."
+PickupMessage="Вы взяли Миниган."
 ; EN: ItemName="Minigun"
-ItemName="Пулемёт"
+ItemName="Миниган"
 
 [ChainSaw]
 ; EN: WeaponDescription="Classification: Melee Blade\n\nPrimary Fire: When the trigger is held down, the chain covered blade will rev up. Drive this blade into opponents to inflict massive damage.\n\nSecondary Fire: The revved up blade can be swung horizontally and can cause instant decapitation of foes.\n\nTechniques: The chainsaw makes a loud and recognizable roar and can be avoided by listening for audio cues."
@@ -2951,9 +2951,9 @@ ItemName="Пачка лезвий"
 
 [FlakAmmo]
 ; EN: PickupMessage="You picked up 10 Flak Shells."
-PickupMessage="Вы взяли 10 Осколочных снарядов."
+PickupMessage="Вы взяли 10 Зенитных снарядов."
 ; EN: ItemName="Flak Shells"
-ItemName="Осколочные снаряды"
+ItemName="Зенитные снаряды"
 
 [DominationScoreboard]
 ; EN: FragGoal="Score Limit:"
