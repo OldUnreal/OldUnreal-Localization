@@ -1,0 +1,108 @@
+[Public]
+Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xMutantGame,Description="DM|Mutant|BonusPack.Tab_IAMutant|BonusPack.MapListMutant|false")
+Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xLastManStandingGame,Description="DM|Last Man Standing|BonusPack.Tab_IALastManStanding|BonusPack.MapListLastManStanding|false")
+
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="Añade el combo de Camuflaje (RRRR).")
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutPintSizeCombo,Description="Añade el combo Mini-yo (LLLL).")
+
+[ComboCrate]
+; EN: ExecMessage="Camouflaged!"
+ExecMessage="¡Camuflado!"
+
+[ComboMiniMe]
+; EN: ExecMessage="Pint-sized!"
+ExecMessage="¡Miniatura!"
+
+[DamTypeMutant]
+; EN: DeathString="%o suffered a fatal mutation!"
+DeathString="¡%o ha sufrido una mutación fatal!"
+; EN: FemaleSuicide="%o suffered a fatal mutation!"
+FemaleSuicide="¡%o ha sufrido una mutación fatal!"
+; EN: MaleSuicide="%o suffered a fatal mutation!"
+MaleSuicide="¡%o ha sufrido una mutación fatal!"
+
+[HudLMS]
+; EN: LivesRemainingString="Lives Remaining"
+LivesRemainingString="Vidas restantes"
+; EN: PlayersRemainString="Players Remain -- "
+PlayersRemainString="Jugadores Restantes: "
+
+[HudMutant]
+MutantRangeFontName="UT2003Fonts.FontMono"
+; EN: BottomFeederText="BOTTOM FEEDER"
+BottomFeederText="PRESA FÁCIL"
+
+[LMSMessage]
+; EN: YouAreCamperMessage="You Are Camping!"
+YouAreCamperMessage="¡Estás Acampando!"
+SomeoneIsCamperMessage="¡"
+; EN: SomeoneIsCamperMessageTrailer="Is Camping!"
+SomeoneIsCamperMessageTrailer="está Acampando!"
+
+[MutCrateCombo]
+; EN: FriendlyName="Camouflage Combo"
+FriendlyName="Combo de Camuflaje"
+; EN: Description="Adds the Camouflage Combo (RRRR)."
+Description="Añade el combo de Camuflaje (DDDD)."
+
+[MutPintSizeCombo]
+; EN: FriendlyName="Pint-sized Combo"
+FriendlyName="Combo de Miniatura"
+; EN: Description="Adds the Pint-sized combo (LLLL)."
+Description="Añade el Combo de Miniatura (IIII)."
+
+[MutantMessage]
+; EN: YouAreMutantMessage="You Have Mutated!"
+YouAreMutantMessage="¡Has mutado!"
+SomeoneIsMutantMessage="¡"
+; EN: SomeoneIsMutantMessageTrailer="Has Mutated!"
+SomeoneIsMutantMessageTrailer="ha mutado!"
+; EN: FFAMessage="First Blood Mutates!"
+FFAMessage="¡El primero en verter sangre muta!"
+; EN: BottomFeederMessage="You Are The Bottom Feeder!"
+BottomFeederMessage="¡Eres la Presa Fácil!"
+; EN: NotBottomFeederMessage="No Longer Bottom Feeder!"
+NotBottomFeederMessage="¡Ya no eres más la Presa Fácil!"
+
+[MutantNameMessage]
+; EN: BottomFeederMesg="(BOTTOM FEEDER)"
+BottomFeederMesg="(PRESA FÁCIL)"
+
+[ScoreBoardLMS]
+; EN: LivesText="LIVES"
+LivesText="VIDAS"
+
+[Tab_IALastManStanding]
+; EN: IARulesExtraLives.Caption="Killing Gives Health"
+IARulesExtraLives.Caption="Matar Restaura Salud"
+; EN: IARulesExtraLives.Hint="When selected, a portion of the player's health is restored with each kill."
+IARulesExtraLives.Hint="Si se activa, un jugador ganará salud después de matar a otro jugador."
+; EN: IARulesLMSAllowAdrenaline.Caption="Allow Adrenaline"
+IARulesLMSAllowAdrenaline.Caption="Permitir Adrenalina"
+; EN: IARulesLMSAllowAdrenaline.Hint="When selected, players can use Adrenaline."
+IARulesLMSAllowAdrenaline.Hint="Si se activa, los jugadores podrán utilizar combos de Adrenalina."
+; EN: IARulesLMSAllowPickups.Caption="Allow Pickups"
+IARulesLMSAllowPickups.Caption="Permitir Recogidas"
+; EN: IARulesLMSAllowPickups.Hint="When selected, allow normal pickups."
+IARulesLMSAllowPickups.Hint="Si se activa, se permiten las recogidas normales."
+; EN: IARulesSuperWeaps.Caption="Allow Super Weapons"
+IARulesSuperWeaps.Caption="Permitir Superarmas"
+; EN: IARulesSuperWeaps.Hint="When selected, allow super weapon pickups."
+IARulesSuperWeaps.Hint="Si se activa, se permite recoger superarmas."
+
+[Tab_IAMutant]
+; EN: TargetScoreString="Score Limit"
+TargetScoreString="Límite de Puntuación"
+; EN: IARulesBottomFeeders.Caption="Bottom Feeder"
+IARulesBottomFeeders.Caption="Presa Fácil"
+; EN: IARulesBottomFeeders.Hint="When selected, bottom ranked player(s) can kill anyone."
+IARulesBottomFeeders.Hint="Si se activa, permite que los jugadores de menor rango puedan matar a cualquiera."
+
+[xLastManStandingGame]
+; EN: GameName="Last Man Standing"
+GameName="Último Hombre en Pie"
+
+[xMutantGame]
+; EN: GameName="Mutant"
+GameName="Mutante"
+

@@ -6,47 +6,47 @@ Title="Concentrado"
 ; EN: Title="Concentrate"
 Title="Concentrado"
 ; EN: Description="On this derelict outpost set deep in the Elorean Seas, there is no escape for the struggling... except through victory.  The only way out is through."
-Description="En este puesto avanzado abandonado en lo profundo de los mares Elorean, no hay escapatoria para los que luchan ... excepto a través de la victoria. La única salida es a través de."
+Description="En este puesto avanzado abandonado en lo profundo de los mares Eloreanos, no hay escapatoria para los que luchan, excepto a través de la victoria. La única salida es a través."
 
 [PhysicsVolume0]
 ; EN: LocationName="Red Spike Pit"
-LocationName="Pozo de pinchos rojos"
+LocationName="Pozo de Pinchos Rojos"
 
 [PhysicsVolume1]
 ; EN: LocationName="Red Spike Pit"
-LocationName="Pozo de pinchos rojos"
+LocationName="Pozo de Pinchos Rojos"
 
 [PhysicsVolume2]
 ; EN: LocationName="Blue Spike Pit"
-LocationName="Pozo de pinchos azules"
+LocationName="Pozo de Pinchos Azules"
 
 [PhysicsVolume3]
 ; EN: LocationName="Red Spike Pit"
-LocationName="Pozo de pinchos rojos"
+LocationName="Pozo de Pinchos Rojos"
 
 [PhysicsVolume4]
 ; EN: LocationName="Red Spike Pit"
-LocationName="Pozo de pinchos rojos"
+LocationName="Pozo de Pinchos Rojos"
 
 [PhysicsVolume5]
 ; EN: LocationName="Red Spike Pit"
-LocationName="Pozo de pinchos rojos"
+LocationName="Pozo de Pinchos Rojos"
 
 [Volume1]
 ; EN: LocationName="Blue Flag Pit"
-LocationName="Hoyo Bandera Azul"
+LocationName="Pozo de Bandera Azul"
 
 [Volume10]
 ; EN: LocationName="Red Upper Area"
-LocationName="Área superior roja"
+LocationName="Área Superior Roja"
 
 [Volume11]
 ; EN: LocationName="Red Flag Room"
-LocationName="Habitación Bandera Roja"
+LocationName="Sala de Bandera Roja"
 
 [Volume12]
 ; EN: LocationName="Red Spawn Area"
-LocationName="Área de aparición roja"
+LocationName="Área de Reaparición Roja"
 
 [Volume3]
 ; EN: LocationName="Central Area"
@@ -54,69 +54,69 @@ LocationName="Area Central"
 
 [Volume4]
 ; EN: LocationName="Blue Upper Area"
-LocationName="Área superior azul"
+LocationName="Área Superior Azul"
 
 [Volume5]
 ; EN: LocationName="Blue Upper Area"
-LocationName="Área superior azul"
+LocationName="Área Superior Azul"
 
 [Volume6]
 ; EN: LocationName="Red Flag Room"
-LocationName="Habitación Bandera Roja"
+LocationName="Sala de Bandera Roja"
 
 [Volume7]
 ; EN: LocationName="Red Flag Pit"
-LocationName="Hoyo de bandera roja"
+LocationName="Pozo de Bandera Roja"
 
 [Volume8]
 ; EN: LocationName="Red Spawn Area"
-LocationName="Área de aparición roja"
+LocationName="Área de Reaparición Roja"
 
 [Volume9]
 ; EN: LocationName="Red Upper Area"
-LocationName="Área superior roja"
+LocationName="Área Superior Roja"
 
 [ZoneInfo0]
 ; EN: LocationName="Somewhere Else"
-LocationName="En algún otro lugar"
+LocationName="En Algún Otro Lugar"
 
 [ZoneInfo1]
 ; EN: LocationName="Red Upper Corridor"
-LocationName="Corredor superior rojo"
+LocationName="Corredor Superior Rojo"
 
 [ZoneInfo2]
 ; EN: LocationName="Red Lower Corridor"
-LocationName="Corredor inferior rojo"
+LocationName="Corredor Inferior Rojo"
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Lower Corridor"
-LocationName="Pasillo inferior azul"
+LocationName="Corredor Inferior Azul"
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Upper Corridor"
-LocationName="Pasillo superior azul"
+LocationName="Corredor Superior Azul"
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Base"
-LocationName="Base azul"
+LocationName="Base Azul"
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base"
-LocationName="Base roja"
+LocationName="Base Roja"
 
 [fell_nogibs]
 ; EN: DeathString="%o was spiked."
-DeathString="% o fue enriquecido."
+DeathString="%o ha tenido un puntiagudo final."
 ; EN: FemaleSuicide="%o was spiked."
-FemaleSuicide="% o fue enriquecido."
+FemaleSuicide="%o ha tenido un puntiagudo final."
 ; EN: MaleSuicide="%o was spiked."
-MaleSuicide="% o fue enriquecido."
+MaleSuicide="%o ha tenido un puntiagudo final."
 
 [fell_nogibs2]
 ; EN: DeathString="%o fell off."
-DeathString="% o cayó."
+DeathString="%o se ha caído."
 ; EN: FemaleSuicide="%o fell off."
-FemaleSuicide="% o cayó."
+FemaleSuicide="%o se ha caído."
 ; EN: MaleSuicide="%o fell off."
-MaleSuicide="% o cayó."
+MaleSuicide="%o se ha caído."
 

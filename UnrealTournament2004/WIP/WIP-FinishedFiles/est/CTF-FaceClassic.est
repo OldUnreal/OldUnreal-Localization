@@ -1,102 +1,102 @@
 [LevelInfo0]
 ; EN: Title="Face Classic"
-Title="Cara clásica"
+Title="Mundos Enfrentados Versión Clásica"
 
 [LevelInfo13]
-; EN: Title="Facing Worlds"
-Title="Enfrentando mundos"
+; EN: Title="Face Classic"
+Title="Mundos Enfrentados Versión Clásica"
 
 [LevelSummary]
 ; EN: Title="Face Classic"
-Title="Cara clásica"
+Title="Mundos Enfrentados Versión Clásica"
 ; EN: Description="This island-asteroid and its two towers have proven to be a perfect setting for Tournament CTF matches, so face your enemy and let the games begin!"
-Description="Esta isla-asteroide y sus dos torres han demostrado ser un escenario perfecto para las partidas del Torneo CTF, ¡así que enfréntate a tu enemigo y deja que comiencen las partidas!"
+Description="Esta isla asteroide y sus dos torres han demostrado ser un lugar perfecto para combates del Torneo, ¡así que enfréntate a tu enemigo y que comiencen los juegos!"
 
 [Volume0]
 ; EN: LocationName="Blue Base Lower Sniper Loft"
-LocationName="Desván de francotirador inferior con base azul"
+LocationName="Nido de Francotirador Inferior Azul"
 
 [Volume1]
 ; EN: LocationName="Blue Base Top Sniper Ledge"
-LocationName="Repisa de francotirador superior de base azul"
+LocationName="Cornisa de Francotirador Superior Azul"
 
 [Volume2]
 ; EN: LocationName="Red Base Top Sniper Ledge"
-LocationName="Repisa de francotirador superior de base roja"
+LocationName="Cornisa de Francotirador Superior Roja"
 
 [Volume3]
 ; EN: LocationName="Red Base Lower Sniper Loft"
-LocationName="Desván de francotirador inferior con base roja"
+LocationName="Nido de Francotirador Inferior Rojo"
 
 [Volume4]
 ; EN: LocationName="Central Open Ground"
-LocationName="Terreno abierto central"
+LocationName="Campo Abierto Central"
 
 [ZoneInfo0]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Nivel inferior de la base roja"
+LocationName="Nivel Inferior de Base Roja"
 
 [ZoneInfo1]
 ; EN: LocationName="Red Base Top Sniper Ledge"
-LocationName="Repisa de francotirador superior de base roja"
+LocationName="Cornisa de Francotirador Superior Roja"
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Side Open Ground"
-LocationName="Terreno abierto del lado azul"
+LocationName="Terreno Abierto Azul"
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Nivel inferior de la base azul"
+LocationName="Nivel Inferior de Base Azul"
 
 [ZoneInfo19]
 ; EN: LocationName="Blue Base Top Sniper Ledge"
-LocationName="Repisa de francotirador superior de base azul"
+LocationName="Cornisa de Francotirador Superior Azul"
 
 [ZoneInfo2]
 ; EN: LocationName="Red Base Lower Sniper Loft"
-LocationName="Desván de francotirador inferior con base roja"
+LocationName="Nido de Francotirador Inferior Rojo"
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Base Lower Sniper Loft"
-LocationName="Desván de francotirador inferior con base azul"
+LocationName="Nido de Francotirador Inferior Azul"
 
 [ZoneInfo21]
 ; EN: LocationName="Blue Base Redeemer Loft"
-LocationName="Loft Blue Base Redeemer"
+LocationName="Desván de Redentor Azul"
 
 [ZoneInfo22]
 ; EN: LocationName="Blue Base Entrance"
-LocationName="Entrada base azul"
+LocationName="Entrada a Base Azul"
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Nivel inferior de la base azul"
+LocationName="Nivel Inferior de Base Azul"
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Nivel inferior de la base azul"
+LocationName="Nivel Inferior de Base Azul"
 
 [ZoneInfo3]
 ; EN: LocationName="Red Base Redeemer Loft"
-LocationName="Loft Red Base Redeemer"
+LocationName="Desván de Redentor Rojo"
 
 [ZoneInfo4]
 ; EN: LocationName="Red Base Entrance"
-LocationName="Entrada base roja"
+LocationName="Entrada a Base Roja"
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Nivel inferior de la base roja"
+LocationName="Nivel Inferior de Base Roja"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Nivel inferior de la base roja"
+LocationName="Nivel Inferior de Base Roja"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Nivel inferior de la base roja"
+LocationName="Nivel Inferior de Base Roja"
 
 [ZoneInfo9]
 ; EN: LocationName="Red Side Open Ground"
-LocationName="Terreno abierto del lado rojo"
+LocationName="Terreno Abierto Rojo"
 

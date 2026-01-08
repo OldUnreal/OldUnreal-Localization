@@ -1,14 +1,14 @@
 [LevelInfo0]
 ; EN: Title="December"
-Title="diciembre"
+Title="December"
 
 [LevelSummary]
 ; EN: Title="December"
-Title="diciembre"
+Title="December"
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Lower Access"
-LocationName="Acceso inferior azul"
+LocationName="Acceso Inferior Azul"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Platform"
@@ -16,101 +16,103 @@ LocationName="Plataforma Azul"
 
 [ZoneInfo10]
 ; EN: LocationName="Red Pipe Exit"
-LocationName="Salida de tubería roja"
+LocationName="Salida de Tubería Roja"
 
 [ZoneInfo11]
 ; EN: LocationName="Red Flag Access"
-LocationName="Acceso con bandera roja"
+LocationName="Acceso de Bandera Rojo"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Doors (Right)"
-LocationName="Puertas rojas (derecha)"
+LocationName="Puertas Rojas (Derecha)"
 
 [ZoneInfo13]
-LocationName="Red Lift 2"
+; EN: LocationName="Red Lift 2"
+LocationName="Ascensor 2 Rojo"
 
 [ZoneInfo14]
 ; EN: LocationName="Blue Bunker Support Chamber"
-LocationName="Cámara de soporte del búnker azul"
+LocationName="Cámara Soporte de Búnker Azul"
 
 [ZoneInfo16]
 ; EN: LocationName="Red Flag Base"
-LocationName="Base de bandera roja"
+LocationName="Base de Bandera Roja"
 
 [ZoneInfo17]
 ; EN: LocationName="Red Upper Flag Base"
-LocationName="Base de bandera superior roja"
+LocationName="Base Superior de Bandera Roja"
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Hall de entrada azul"
+LocationName="Corredor de Entrada Azul"
 
 [ZoneInfo19]
 ; EN: LocationName="Blue Entrance Stairs"
-LocationName="Escaleras de entrada azules"
+LocationName="Escaleras de Entrada Base Azul"
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Foyer"
-LocationName="Vestíbulo azul"
+LocationName="Vestíbulo Azul"
 
 [ZoneInfo21]
 ; EN: LocationName="Red Lower Access"
-LocationName="Acceso inferior rojo"
+LocationName="Acceso Inferior Rojo"
 
 [ZoneInfo22]
 ; EN: LocationName="Blue Junction"
-LocationName="Unión azul"
+LocationName="Cruce Azul"
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Access Hall"
-LocationName="Pasillo de acceso azul"
+LocationName="Corredor de Acceso Azul"
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Doors (Left)"
-LocationName="Puertas azules (izquierda)"
+LocationName="Puertas Azules (Izquierda)"
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Pipe Exit"
-LocationName="Salida de tubería azul"
+LocationName="Salida de Tubería Azul"
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Flag Access"
-LocationName="Acceso con bandera azul"
+LocationName="Acceso de Bandera Azul"
 
 [ZoneInfo27]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Hall de entrada rojo"
+LocationName="Corredor de Entrada Rojo"
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Doors (Right)"
-LocationName="Puertas azules (derecha)"
+LocationName="Puertas Azules (Derecha)"
 
 [ZoneInfo29]
-LocationName="Blue Lift 2"
+; EN: LocationName="Blue Lift 2"
+LocationName="Ascensor 2 Azul"
 
 [ZoneInfo3]
 ; EN: LocationName="Red Entrance Stairs"
-LocationName="Escaleras de entrada rojas"
+LocationName="Escaleras de Entrada Base Roja"
 
 [ZoneInfo31]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base Bandera Azul"
+LocationName="Base de Bandera Azul"
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Upper Flag Base"
-LocationName="Base de bandera superior azul"
+LocationName="Base Superior de Bandera Azul"
 
 [ZoneInfo34]
 ; EN: LocationName="Red Bunker Entrance"
-LocationName="Entrada al búnker rojo"
+LocationName="Entrada al Búnker Rojo"
 
 [ZoneInfo35]
 ; EN: LocationName="Blue Bunker"
-LocationName="Búnker azul"
+LocationName="Búnker Azul"
 
 [ZoneInfo36]
 ; EN: LocationName="Red Lower Hallway"
-LocationName="Pasillo inferior rojo"
+LocationName="Corredor Inferior Rojo"
 
 [ZoneInfo38]
 ; EN: LocationName="Docks"
@@ -118,56 +120,57 @@ LocationName="Muelles"
 
 [ZoneInfo39]
 ; EN: LocationName="Red Lift Room"
-LocationName="Habitación Red Lift"
+LocationName="Sala de Ascensor Base Roja"
 
 [ZoneInfo4]
 ; EN: LocationName="Red Foyer"
-LocationName="Vestíbulo rojo"
+LocationName="Vestíbulo Rojo"
 
 [ZoneInfo40]
 ; EN: LocationName="Blue Lower Hallway"
-LocationName="Pasillo inferior azul"
+LocationName="Corredor Inferior Azul"
 
 [ZoneInfo41]
 ; EN: LocationName="Red Aux. Hall"
-LocationName="Aux rojo. sala"
+LocationName="Sala Auxiliar Base Roja"
 
 [ZoneInfo42]
 ; EN: LocationName="Blue Lift Room"
-LocationName="Habitación Blue Lift"
+LocationName="Sala de Ascensor Base Azul"
 
 [ZoneInfo43]
 ; EN: LocationName="Blue Aux. Hall"
-LocationName="Aux azul. sala"
+LocationName="Sala Auxiliar Base Azul"
 
 [ZoneInfo44]
 ; EN: LocationName="Red Lift 1"
-LocationName="Levantamiento rojo 1"
+LocationName="Ascensor 1 Rojo"
 
 [ZoneInfo45]
 ; EN: LocationName="Blue Lift 1"
-LocationName="Levantamiento azul 1"
+LocationName="Ascensor 1 Azul"
 
 [ZoneInfo46]
 ; EN: LocationName="Red Bunker"
-LocationName="Búnker rojo"
+LocationName="Búnker Rojo"
 
 [ZoneInfo47]
 ; EN: LocationName="Red Bunker Support Chamber"
-LocationName="Cámara de soporte del búnker rojo"
+LocationName="Cámara Soporte de Búnker Roja"
 
 [ZoneInfo5]
 ; EN: LocationName="Red Platform"
-LocationName="Plataforma roja"
+LocationName="Plataforma Roja"
 
 [ZoneInfo6]
-LocationName="Red Junction"
+; EN: LocationName="Red Junction"
+LocationName="Cruce Rojo"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Doors (Left)"
-LocationName="Puertas rojas (izquierda)"
+LocationName="Puertas Rojas (Izquierda)"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Access Hall"
-LocationName="Hall de acceso rojo"
+LocationName="Corredor de Acceso Rojo"
 

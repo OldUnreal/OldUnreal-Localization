@@ -1,0 +1,250 @@
+[LevelInfo0]
+; EN: Title="Double Dammage"
+Title="Represa Doble"
+
+[LevelSummary]
+; EN: Title="Double Dammage"
+Title="Represa Doble"
+; EN: Description="Some people would say you'd have to be insane to play atop a water dam in the middle of winter.  Around here, we call those people "victims"."
+Description="Hay quien dice que tendrías que estar loco para jugar en lo más alto de una presa en pleno invierno. Por aquí, a esa gente la llamamos ''víctimas''."
+
+[PhysicsVolume1]
+; EN: LocationName="Ice Field"
+LocationName="Campo Helado"
+
+[ZoneInfo0]
+; EN: LocationName="Blue Flag Room"
+LocationName="Sala de Bandera Azul"
+
+[ZoneInfo11]
+; EN: LocationName="Blue Back Room"
+LocationName="Sala Trasera Azul"
+
+[ZoneInfo20]
+; EN: LocationName="Blue Back Room"
+LocationName="Sala Trasera Azul"
+
+[ZoneInfo24]
+; EN: LocationName="Red Flag Room"
+LocationName="Sala de Bandera Roja"
+
+[ZoneInfo29]
+; EN: LocationName="Red Back Room"
+LocationName="Sala Trasera Roja"
+
+[ZoneInfo30]
+; EN: LocationName="Blue Entrance Hall"
+LocationName="Corredor de Entrada Azul"
+
+[ZoneInfo37]
+; EN: LocationName="Blue Foyer"
+LocationName="Vestíbulo Azul"
+
+[ZoneInfo40]
+; EN: LocationName="Blue Left Upper Hall"
+LocationName="Corredor Superior Izquierdo Azul"
+
+[ZoneInfo41]
+; EN: LocationName="Blue Left Upper Hall"
+LocationName="Corredor Superior Izquierdo Azul"
+
+[ZoneInfo42]
+; EN: LocationName="Blue Right Upper Hall"
+LocationName="Corredor Superior Derecho Azul"
+
+[ZoneInfo43]
+; EN: LocationName="Blue Right Upper Hall"
+LocationName="Corredor Superior Derecho Azul"
+
+[ZoneInfo44]
+; EN: LocationName="Red Sniper Lift"
+LocationName="Ascensor de Francotirador Rojo"
+
+[ZoneInfo45]
+; EN: LocationName="Red Back Room"
+LocationName="Sala Trasera Roja"
+
+[ZoneInfo46]
+; EN: LocationName="Red Back Room"
+LocationName="Sala Trasera Roja"
+
+[ZoneInfo47]
+; EN: LocationName="Red Entrance Hall"
+LocationName="Corredor de Entrada Rojo"
+
+[ZoneInfo48]
+; EN: LocationName="Red Foyer"
+LocationName="Vestíbulo Rojo"
+
+[ZoneInfo49]
+; EN: LocationName="Red Left Upper Hall"
+LocationName="Corredor Superior Izquierdo Rojo"
+
+[ZoneInfo5]
+; EN: LocationName="Blue Back Room"
+LocationName="Sala Trasera Azul"
+
+[ZoneInfo50]
+; EN: LocationName="Red Left Upper Hall"
+LocationName="Corredor Superior Izquierdo Rojo"
+
+[ZoneInfo51]
+; EN: LocationName="Red Right Upper Hall"
+LocationName="Corredor Superior Derecho Rojo"
+
+[ZoneInfo52]
+; EN: LocationName="Red Right Upper Hall"
+LocationName="Corredor Superior Derecho Rojo"
+
+[ZoneInfo53]
+; EN: LocationName="Red Right Upper Hall"
+LocationName="Corredor Superior Derecho Rojo"
+
+[ZoneInfo54]
+; EN: LocationName="Red Foyer"
+LocationName="Vestíbulo Rojo"
+
+[ZoneInfo56]
+; EN: LocationName="Red Upper Foyer"
+LocationName="Vestíbulo Superior Rojo"
+
+[ZoneInfo57]
+; EN: LocationName="Red Upper Foyer"
+LocationName="Vestíbulo Superior Rojo"
+
+[ZoneInfo58]
+; EN: LocationName="Red Left Upper Hall"
+LocationName="Corredor Superior Izquierdo Rojo"
+
+[ZoneInfo59]
+; EN: LocationName="Red Left Hallway"
+LocationName="Corredor Izquierdo Rojo"
+
+[ZoneInfo6]
+; EN: LocationName="Blue Sniper Lift"
+LocationName="Ascensor de Francotirador Azul"
+
+[ZoneInfo60]
+; EN: LocationName="Blue Right Upper Hall"
+LocationName="Corredor Superior Derecho Azul"
+
+[ZoneInfo61]
+; EN: LocationName="Red Foyer"
+LocationName="Vestíbulo Rojo"
+
+[ZoneInfo62]
+; EN: LocationName="Red Foyer"
+LocationName="Vestíbulo Rojo"
+
+[ZoneInfo63]
+; EN: LocationName="Red Left Hallway"
+LocationName="Corredor Izquierdo Rojo"
+
+[ZoneInfo64]
+; EN: LocationName="Red Left Hallway"
+LocationName="Corredor Izquierdo Rojo"
+
+[ZoneInfo65]
+; EN: LocationName="Red Left Hallway"
+LocationName="Corredor Izquierdo Rojo"
+
+[ZoneInfo66]
+; EN: LocationName="Blue Foyer"
+LocationName="Vestíbulo Azul"
+
+[ZoneInfo67]
+; EN: LocationName="Red Right Hallway"
+LocationName="Corredor Derecho Rojo"
+
+[ZoneInfo68]
+; EN: LocationName="Red Right Hallway"
+LocationName="Corredor Derecho Rojo"
+
+[ZoneInfo69]
+; EN: LocationName="Red Foyer"
+LocationName="Vestíbulo Rojo"
+
+[ZoneInfo7]
+; EN: LocationName="Outside"
+LocationName="Exteriores"
+
+[ZoneInfo70]
+; EN: LocationName="Blue Foyer"
+LocationName="Vestíbulo Azul"
+
+[ZoneInfo71]
+; EN: LocationName="Red Storage Room"
+LocationName="Sala de Almacenamiento Roja"
+
+[ZoneInfo72]
+; EN: LocationName="Red Storage Room"
+LocationName="Sala de Almacenamiento Roja"
+
+[ZoneInfo73]
+; EN: LocationName="Red Storage Room"
+LocationName="Sala de Almacenamiento Roja"
+
+[ZoneInfo74]
+; EN: LocationName="Red Right Hallway"
+LocationName="Corredor Derecho Rojo"
+
+[ZoneInfo75]
+; EN: LocationName="Blue Upper Foyer"
+LocationName="Vestíbulo Superior Azul"
+
+[ZoneInfo76]
+; EN: LocationName="Blue Upper Foyer"
+LocationName="Vestíbulo Superior Azul"
+
+[ZoneInfo77]
+; EN: LocationName="Blue Left Upper Hall"
+LocationName="Corredor Superior Izquierdo Azul"
+
+[ZoneInfo78]
+; EN: LocationName="Blue Left Hallway"
+LocationName="Corredor Izquierdo Azul"
+
+[ZoneInfo79]
+; EN: LocationName="Blue Foyer"
+LocationName="Vestíbulo Azul"
+
+[ZoneInfo80]
+; EN: LocationName="Blue Foyer"
+LocationName="Vestíbulo Azul"
+
+[ZoneInfo81]
+; EN: LocationName="Blue Left Hallway"
+LocationName="Corredor Izquierdo Azul"
+
+[ZoneInfo82]
+; EN: LocationName="Blue Left Hallway"
+LocationName="Corredor Izquierdo Azul"
+
+[ZoneInfo83]
+; EN: LocationName="Blue Left Hallway"
+LocationName="Corredor Izquierdo Azul"
+
+[ZoneInfo84]
+; EN: LocationName="Blue Right Hallway"
+LocationName="Corredor Derecho Azul"
+
+[ZoneInfo85]
+; EN: LocationName="Blue Right Hallway"
+LocationName="Corredor Derecho Azul"
+
+[ZoneInfo87]
+; EN: LocationName="Blue Storage Room"
+LocationName="Sala de Almacenamiento Azul"
+
+[ZoneInfo88]
+; EN: LocationName="Blue Storage Room"
+LocationName="Sala de Almacenamiento Azul"
+
+[ZoneInfo89]
+; EN: LocationName="Blue Storage Room"
+LocationName="Sala de Almacenamiento Azul"
+
+[ZoneInfo90]
+; EN: LocationName="Blue Right Hallway"
+LocationName="Corredor Derecho Azul"
+
