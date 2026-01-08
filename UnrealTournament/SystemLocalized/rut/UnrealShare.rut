@@ -26,7 +26,7 @@ Object=(Name=UnrealShare.SinglePlayer,Class=Class,MetaClass=UnrealShare.SinglePl
 ; EN: ClassCaption="Deathmatch"
 ClassCaption="Deathmatch"
 ; EN: GlobalNameChange=" changed name to "
-GlobalNameChange=" теперь зовут "
+GlobalNameChange=" меняет имя на "
 ; EN: NoNameChange=" is already in use"
 NoNameChange=" уже используется"
 ; EN: TimeMessage[0]="5 minutes left in the game!"
@@ -52,7 +52,7 @@ TimeMessage[11]="1..."
 ; EN: TimeMessage[12]="Time Up!"
 TimeMessage[12]="Время вышло!"
 ; EN: GameName="DeathMatch"
-GameName="DeathMatch"
+GameName="Бой насмерть"
 
 [UnrealGameOptionsMenu]
 ; EN: MenuTitle="GAME OPTIONS"
@@ -438,9 +438,9 @@ MenuTitle="СОХРАНИТЬ ИГРУ"
 
 [RocketCan]
 ; EN: PickupMessage="You picked up 12 Eightballs"
-PickupMessage="Вы взяли 12 Eightball'ов"
+PickupMessage="Вы взяли 12 «Восьмёрок»"
 ; EN: ItemName="Eightballs"
-ItemName="Eightball'ы"
+ItemName="«Восьмёрки»"
 
 [Amplifier]
 ; EN: ExpireMessage="Energy Amplifier is out of power."
@@ -944,7 +944,7 @@ MenuList[6]="Обзор мышью"
 ; EN: HelpMessage[6]="If enabled, the mouse is always used for looking up and down, with no need for a mouselook key."
 HelpMessage[6]="Если включено, мышь всегда используется для обзора вверх и вниз, без необходимости в клавише обзора мышью."
 ; EN: MenuList[7]="Auto Slope Look"
-MenuList[7]="Автоналон"
+MenuList[7]="Автонаклон"
 ; EN: HelpMessage[7]="If enabled, when not mouse-looking your view will automatically be adjusted to look up and down slopes and stairs."
 HelpMessage[7]="Если включено, когда обзор мышью неактивен, ваш взгляд будет автоматически подстраиваться под склон или лестницу."
 ; EN: MenuList[8]="Weapon Flash"
@@ -1006,11 +1006,11 @@ ItemName="ASMD"
 
 [Eightball]
 ; EN: DeathMessage="%o was smacked down multiple times by %k's %w."
-DeathMessage="%o размазало по полу несколько раз подряд из %w'а %k."
+DeathMessage="%o размазывает по полу несколько раз подряд %w %k."
 ; EN: PickupMessage="You got the Eightball gun"
-PickupMessage="Вы взяли Eightball"
+PickupMessage="Вы взяли пушку-«Восьмёрку»"
 ; EN: ItemName="Eightball"
-ItemName="Eightball"
+ItemName="«Восьмёрка»"
 
 [UnrealKeyboardMenu]
 ; EN: MenuTitle="CONTROLS"
@@ -1095,11 +1095,11 @@ M_TransMessage="Сообщение Переводчика"
 
 [AutoMag]
 ; EN: DeathMessage="%o got gatted by %k's %w."
-DeathMessage="%k расстрелял %o из %w'а."
+DeathMessage="%o расстреливается из %w'а %o."
 ; EN: PickupMessage="You got the Automag"
-PickupMessage="Вы взяли Automag"
+PickupMessage="Вы взяли «Автомаг»"
 ; EN: ItemName="Automag"
-ItemName="Automag"
+ItemName="«Автомаг»"
 
 [UnrealChooseGameMenu]
 ; EN: MenuTitle="CHOOSE GAME"
@@ -1200,9 +1200,9 @@ HelpMessage[4]="Смертный приговор."
 ; EN: DeathMessage="%o was perforated by %k's %w."
 DeathMessage="%o продырявило %w'ом %k."
 ; EN: PickupMessage="You picked up the Stinger"
-PickupMessage="Вы взяли Stinger"
+PickupMessage="Вы взяли «Стингер»"
 ; EN: ItemName="Stinger"
-ItemName="Stinger"
+ItemName="«Стингер»"
 
 [UnrealCoopGameOptions]
 ; EN: MenuList[3]="Difficulty"
