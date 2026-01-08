@@ -1,108 +1,108 @@
 [LevelInfo0]
 ; EN: Title="Facing Worlds 3"
-Title="Enfrentando mundos 3"
+Title="Mundos Enfrentados 3"
 
 [LevelSummary]
 ; EN: Title="Facing Worlds 3"
-Title="Enfrentando mundos 3"
+Title="Mundos Enfrentados 3"
 
 [Volume0]
 ; EN: LocationName="Red Level 3"
-LocationName="Nivel rojo 3"
+LocationName="Nivel 3 Base Roja"
 
 [Volume1]
 ; EN: LocationName="Blue Level 3"
-LocationName="Nivel azul 3"
+LocationName="Nivel 3 Base Azul"
 
 [Volume10]
 ; EN: LocationName="Red Shield"
-LocationName="escudo rojo"
+LocationName="Escudo Rojo"
 
 [Volume11]
 ; EN: LocationName="Blue Shield"
-LocationName="Escudo azul"
+LocationName="Escudo Azul"
 
 [Volume12]
 ; EN: LocationName="Red Backdoor"
-LocationName="Puerta trasera roja"
+LocationName="Puerta Trasera Roja"
 
 [Volume13]
 ; EN: LocationName="Blue Backdoor"
-LocationName="Puerta trasera azul"
+LocationName="Puerta Trasera Azul"
 
 [Volume2]
 ; EN: LocationName="Blue Level 2"
-LocationName="Nivel azul 2"
+LocationName="Nivel 2 Base Azul"
 
 [Volume3]
-; EN: LocationName="Red Level2"
-LocationName="Nivel rojo 2"
+; EN: LocationName="Red Level 2"
+LocationName="Nivel 2 Base Roja"
 
 [Volume4]
 ; EN: LocationName="Blue Flak"
-LocationName="Antiaéreo azul"
+LocationName="Metralla Base Azul"
 
 [Volume5]
 ; EN: LocationName="Red Flak"
-LocationName="Antiaéreo rojo"
+LocationName="Metralla Base Roja"
 
 [Volume6]
 ; EN: LocationName="Blue Flak"
-LocationName="Antiaéreo azul"
+LocationName="Metralla Base Azul"
 
 [Volume7]
 ; EN: LocationName="Blue Flak"
-LocationName="Antiaéreo azul"
+LocationName="Metralla Base Azul"
 
 [Volume8]
 ; EN: LocationName="Red Flak"
-LocationName="Antiaéreo rojo"
+LocationName="Metralla Base Roja"
 
 [Volume9]
 ; EN: LocationName="Red Flak"
-LocationName="Antiaéreo rojo"
+LocationName="Metralla Base Roja"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Base"
-LocationName="Base azul"
+LocationName="Base Azul"
 
 [ZoneInfo10]
 ; EN: LocationName="Red Minigun"
-LocationName="Minigun rojo"
+LocationName="Ametralladora Roja"
 
 [ZoneInfo11]
 ; EN: LocationName="Red Pillars"
-LocationName="Pilares rojos"
+LocationName="Pilares Rojos"
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Minigun"
-LocationName="Minigun azul"
+LocationName="Ametralladora Azul"
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Minigun"
-LocationName="Minigun azul"
+LocationName="Ametralladora Azul"
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Pillars"
-LocationName="Pilares azules"
+LocationName="Pilares Azules"
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Minigun"
-LocationName="Minigun azul"
+LocationName="Ametralladora Azul"
 
 [ZoneInfo6]
 ; EN: LocationName="Outside"
-LocationName="Fuera de"
+LocationName="Exteriores"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Base"
-LocationName="Base roja"
+LocationName="Base Roja"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Minigun"
-LocationName="Minigun rojo"
+LocationName="Ametralladora Roja"
 
 [ZoneInfo9]
 ; EN: LocationName="Red Minigun"
-LocationName="Minigun rojo"
+LocationName="Ametralladora Roja"
 

@@ -1,122 +1,122 @@
 [LevelInfo0]
 ; EN: Title="Absolute Zero"
-Title="Cero absoluto"
+Title="Cero Absoluto"
 
 [LevelSummary]
 ; EN: Title="Absolute Zero"
-Title="Cero absoluto"
+Title="Cero Absoluto"
 ; EN: Description="Absolute Zero was initially constructed as a scientific outpost to study glacial drift. Over the years, global warming and massive earth tremors nearly shook the base off of its foundation. The researchers and scientists were hastily evacuated and Liandri quickly purchased the base for the Tournament. The warm reception given to you by your team may help offset the sub-zero temperatures, but don't get too comfortable, your foes have something much colder in store for you..."
-Description="Absolute Zero se construyó inicialmente como un puesto científico para estudiar la deriva glacial. A lo largo de los años, el calentamiento global y los temblores masivos de la tierra casi sacudieron la base de sus cimientos. Los investigadores y científicos fueron evacuados apresuradamente y Liandri compró rápidamente la base para el Torneo. La cálida recepción que te brinda tu equipo puede ayudar a compensar las temperaturas bajo cero, pero no te pongas demasiado cómodo, tus enemigos tienen algo mucho más frío para ti ..."
+Description="Cero absoluto se construyó para ser un puesto científico de estudio de la deriva glacial. Con los años, el calentamiento global y los masivos temblores de tierra casi arrancaron la base de sus cimientos. Los investigadores y los científicos fueron evacuados con rapidez y Liandri no perdió tiempo en comprar la base para el torneo. La cálida recepción que te dará tu equipo puede ayudar a resistir las temperaturas bajo cero, pero no te pongas demasiado cómodo, el enemigo te tiene preparado algo mucho más frío..."
 
 [Volume0]
 ; EN: LocationName="Red Lower Generator Room"
-LocationName="Habitación roja del generador inferior"
+LocationName="Sala Inferior de Generador Rojo"
 
 [Volume1]
 ; EN: LocationName="Blue Lower Generator Room"
-LocationName="Habitación azul del generador inferior"
+LocationName="Sala Inferior de Generador Azul"
 
 [Volume10]
 ; EN: LocationName="Blue Lower Hall"
-LocationName="Salón Inferior Azul"
+LocationName="Corredor Inferior Azul"
 
 [Volume11]
 ; EN: LocationName="Red Lower Hall"
-LocationName="Salón Inferior Rojo"
+LocationName="Corredor Inferior Rojo"
 
 [Volume12]
 ; EN: LocationName="Red Flag Room"
-LocationName="Habitación Bandera Roja"
+LocationName="Sala de Bandera Roja"
 
 [Volume13]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Habitación Bandera Azul"
+LocationName="Sala de Bandera Azul"
 
 [Volume14]
 ; EN: LocationName="Blue Upper Hall A-Side"
-LocationName="Lado A del pasillo superior azul"
+LocationName="Lado A Pasillo Superior Azul"
 
 [Volume15]
 ; EN: LocationName="Blue Upper Hall B-Side"
-LocationName="Lado B del pasillo superior azul"
+LocationName="Lado B Pasillo Superior Azul"
 
 [Volume16]
 ; EN: LocationName="Blue Flag Stairs"
-LocationName="Escaleras Bandera Azul"
+LocationName="Escaleras de Bandera Azul"
 
 [Volume17]
 ; EN: LocationName="Red Upper Hall A-Side"
-LocationName="Lado A del pasillo superior rojo"
+LocationName="Lado A Pasillo Superior Rojo"
 
 [Volume18]
 ; EN: LocationName="Red Upper Hall B-Side"
-LocationName="Lado B del pasillo superior rojo"
+LocationName="Lado B Pasillo Superior Rojo"
 
 [Volume19]
 ; EN: LocationName="Red Flag Stairs"
-LocationName="Escaleras de bandera roja"
+LocationName="Escaleras de Bandera Roja"
 
 [Volume2]
 ; EN: LocationName="Blue Upper Generator Room"
-LocationName="Habitación Blue Upper Generator"
+LocationName="Sala Superior de Generador Azul"
 
 [Volume20]
 ; EN: LocationName="Red Upper Hall"
-LocationName="Salón superior rojo"
+LocationName="Corredor Superior Rojo"
 
 [Volume21]
 ; EN: LocationName="Blue Upper Hall"
-LocationName="Salón superior azul"
+LocationName="Corredor Superior Azul"
 
 [Volume23]
 ; EN: LocationName="Ion Painter Bridge"
-LocationName="Puente de pintor de iones"
+LocationName="Puente del Emisor de Iones"
 
 [Volume24]
 ; EN: LocationName="Redeemer Bridge"
-LocationName="Puente Redentor"
+LocationName="Puente del Redentor"
 
 [Volume25]
 ; EN: LocationName="Blue Sniper Tower: Redeemer Side"
-LocationName="Torre de francotirador azul: Lado del redentor"
+LocationName="Torre Francotirador Azul: Lado del Redentor"
 
 [Volume26]
 ; EN: LocationName="Blue Sniper Tower: Painter Side"
-LocationName="Torre de francotirador azul: Lado del pintor"
+LocationName="Torre Francotirador Azul: Lado del Emisor de Iones"
 
 [Volume27]
 ; EN: LocationName="Red Sniper Tower: Redeemer Side"
-LocationName="Torre de francotirador roja: Lado del redentor"
+LocationName="Torre Francotirador Roja: Lado del Redentor"
 
 [Volume28]
 ; EN: LocationName="Red Sniper Tower: Painter Side"
-LocationName="Torre de francotirador roja: Lado del pintor"
+LocationName="Torre Francotirador Roja: Lado del Emisor de Iones"
 
 [Volume29]
 ; EN: LocationName="Blue Outside"
-LocationName="Azul afuera"
+LocationName="Exteriores Base Azul"
 
 [Volume3]
 ; EN: LocationName="Red Upper Generator Room"
-LocationName="Habitación Red Upper Generator"
+LocationName="Sala Superior de Generador Rojo"
 
 [Volume30]
 ; EN: LocationName="Red Outside"
-LocationName="Rojo afuera"
+LocationName="Exteriores Base Roja"
 
 [Volume6]
 ; EN: LocationName="Red Lower Hall B-Side"
-LocationName="Lado B del pasillo inferior rojo"
+LocationName="Lado B Pasillo Inferior Rojo"
 
 [Volume7]
 ; EN: LocationName="Red Lower Hall A-Side"
-LocationName="Lado A del pasillo inferior rojo"
+LocationName="Lado A Pasillo Inferior Rojo"
 
 [Volume8]
 ; EN: LocationName="Blue Lower Hall B-Side"
-LocationName="Lado B del pasillo inferior azul"
+LocationName="Lado B Pasillo Inferior Azul"
 
 [Volume9]
 ; EN: LocationName="Blue Lower Hall A-Side"
-LocationName="Lado A del pasillo inferior azul"
+LocationName="Lado A Pasillo Inferior Azul"
 

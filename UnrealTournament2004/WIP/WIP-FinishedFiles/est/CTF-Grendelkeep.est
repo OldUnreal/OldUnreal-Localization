@@ -1,44 +1,48 @@
 [LevelInfo0]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title="Bastión de Grendel"
 
 [LevelInfo12]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title="Bastión de Grendel"
 
 [LevelInfo6]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title="Bastión de Grendel"
 
 [LevelSummary]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title="Bastión de Grendel"
 ; EN: Description="Prieth Callas was a hard, cruel man, fond of torturing his enemies before sending them to their deaths. He raised creatures of great size and ferocity, setting them against his prisoners in arenas of his own creation. Grendelkeep is the last of his diabolical constructions, left to fall into ruin after Callas was dragged from the battlements by his own men and fed to the creatures he bred in the dark kennels below. The rain has washed away the blood, but the evil that bred here has left a much deeper stain."
-Description="Prieth Callas era un hombre duro y cruel, aficionado a torturar a sus enemigos antes de enviarlos a la muerte. Crió criaturas de gran tamaño y ferocidad, poniéndolas contra sus prisioneros en arenas de su propia creación. Grendelkeep es la última de sus diabólicas construcciones, dejada para caer en ruinas después de que Callas fuera arrastrado desde las almenas por sus propios hombres y alimentado a las criaturas que crió en las oscuras perreras de abajo. La lluvia ha lavado la sangre, pero el mal que aquí se engendró ha dejado una mancha mucho más profunda."
+Description="Prieth Callas fue un hombre cruel y duro, aficionado a torturar a sus enemigos antes de acabar definitivamente con ellos. Crió seres de gran tamaño y ferocidad, arrojándolos contra sus prisioneros en estadios que él mismo diseñó. El Bastión de Grendel es la última de sus diabólicas creaciones, abandonada desde que Callas fue arrojado desde las almenas por sus propios hombres y fue ofrecido como comida a las criaturas que criaba en las oscuras perreras subterráneas. La lluvia ha borrado la sangre, pero el mal que creció allí tiene raíces mucho más profundas."
 
 [ZoneInfo0]
 ; EN: LocationName="BLUE Main Room"
-LocationName="Habitación principal AZUL"
+LocationName="Sala Principal AZUL"
 
 [ZoneInfo1]
 ; EN: LocationName="Great Room"
-LocationName="Buena habitación"
+LocationName="Gran Sala"
 
 [ZoneInfo10]
 ; EN: LocationName="Center"
-LocationName="Centrar"
+LocationName="Centro"
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Main Hall"
-LocationName="Salón principal AZUL"
+LocationName="Corredor Principal AZUL"
 
 [ZoneInfo12]
 ; EN: LocationName="Great Room"
-LocationName="Buena habitación"
+LocationName="Gran Sala"
 
 [ZoneInfo13]
 ; EN: LocationName="BLUE Lower Flak Hall"
-LocationName="Salón AZUL Inferior Antiaéreo"
+LocationName="Corredor Metralla Inferior AZUL"
 
 [ZoneInfo14]
 ; EN: LocationName="BLUE Lower Hall"
-LocationName="Salón Inferior AZUL"
+LocationName="Corredor Inferior AZUL"
 
 [ZoneInfo2]
 ; EN: LocationName="BLUE Base"
@@ -46,151 +50,151 @@ LocationName="Base AZUL"
 
 [ZoneInfo28]
 ; EN: LocationName="BLUE Spawn"
-LocationName="Engendro AZUL"
+LocationName="Reaparición AZUL"
 
 [ZoneInfo3]
 ; EN: LocationName="BLUE Spawn"
-LocationName="Engendro AZUL"
+LocationName="Reaparición AZUL"
 
 [ZoneInfo30]
 ; EN: LocationName="BLUE Main Room"
-LocationName="Habitación principal AZUL"
+LocationName="Sala principal AZUL"
 
 [ZoneInfo31]
 ; EN: LocationName="Great Room"
-LocationName="Buena habitación"
+LocationName="Gran Sala"
 
 [ZoneInfo32]
 ; EN: LocationName="Great Room Hall"
-LocationName="Salón Gran Salón"
+LocationName="Corredor Gran Sala"
 
 [ZoneInfo33]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Gran salón de amplificadores"
+LocationName="Corredor Sala Doble Daño"
 
 [ZoneInfo34]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Sala de cohetes superior"
+LocationName="Corredor Superior Cohetes"
 
 [ZoneInfo35]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Sala de cohetes superior"
+LocationName="Corredor Superior Cohetes"
 
 [ZoneInfo36]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Sala de cohetes superior"
+LocationName="Corredor Superior Cohetes"
 
 [ZoneInfo37]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini Salón"
+LocationName="Mini Corredor"
 
 [ZoneInfo38]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini Salón"
+LocationName="Mini Corredor"
 
 [ZoneInfo39]
 ; EN: LocationName="Great Tower"
-LocationName="Gran torre"
+LocationName="Gran Torre"
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Main Room"
-LocationName="Habitación principal AZUL"
+LocationName="Sala Principal AZUL"
 
 [ZoneInfo40]
 ; EN: LocationName="Sniper Nest"
-LocationName="Nido de francotirador"
+LocationName="Nido de Francotirador"
 
 [ZoneInfo41]
 ; EN: LocationName="Great Room Hall"
-LocationName="Salón Gran Salón"
+LocationName="Corredor Gran Sala"
 
 [ZoneInfo42]
 ; EN: LocationName="Lower Flak Hall"
-LocationName="Salón antiaéreo inferior"
+LocationName="Corredor Metralla Inferior"
 
 [ZoneInfo43]
 ; EN: LocationName="Great Room Hall"
-LocationName="Salón Gran Salón"
+LocationName="Corredor Gran Sala"
 
 [ZoneInfo44]
 ; EN: LocationName="Great Room"
-LocationName="Buena habitación"
+LocationName="Gran Sala"
 
 [ZoneInfo45]
 ; EN: LocationName="RED Lower Flak Hall"
-LocationName="Salón antiaéreo inferior ROJO"
+LocationName="Corredor Metralla Inferior ROJO"
 
 [ZoneInfo47]
 ; EN: LocationName="Great Room"
-LocationName="Buena habitación"
+LocationName="Gran Sala"
 
 [ZoneInfo48]
 ; EN: LocationName="Great Room Hall"
-LocationName="Salón Gran Salón"
+LocationName="Corredor Gran Sala"
 
 [ZoneInfo49]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Gran salón de amplificadores"
+LocationName="Corredor Sala Doble Daño"
 
 [ZoneInfo5]
 ; EN: LocationName="BLUE Spawn"
-LocationName="Engendro AZUL"
+LocationName="Reaparición AZUL"
 
 [ZoneInfo50]
 ; EN: LocationName="RED Main Room"
-LocationName="Habitación principal ROJA"
+LocationName="Sala principal ROJA"
 
 [ZoneInfo51]
 ; EN: LocationName="RED Main Room"
-LocationName="Habitación principal ROJA"
+LocationName="Sala principal ROJA"
 
 [ZoneInfo52]
-; EN: LocationName="RED BASE"
-LocationName="BASE ROJA"
+; EN: LocationName="RED Base"
+LocationName="Base ROJA"
 
 [ZoneInfo53]
 ; EN: LocationName="RED Spawn"
-LocationName="Engendro ROJO"
+LocationName="Reaparición ROJA"
 
 [ZoneInfo54]
 ; EN: LocationName="RED Spawn"
-LocationName="Engendro ROJO"
+LocationName="Reaparición ROJA"
 
 [ZoneInfo55]
 ; EN: LocationName="RED Spawn"
-LocationName="Engendro ROJO"
+LocationName="Reaparición ROJA"
 
 [ZoneInfo56]
 ; EN: LocationName="RED Sniper Hall"
-LocationName="Salón de francotirador ROJO"
+LocationName="Corredor Francotirador ROJO"
 
 [ZoneInfo57]
 ; EN: LocationName="RED Sniper Hall"
-LocationName="Salón de francotirador ROJO"
+LocationName="Corredor Francotirador ROJO"
 
 [ZoneInfo58]
 ; EN: LocationName="RED round stairs"
-LocationName="Escaleras redondas ROJAS"
+LocationName="Escaleras Caracol ROJAS"
 
 [ZoneInfo59]
 ; EN: LocationName="Center"
-LocationName="Centrar"
+LocationName="Centro"
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Sniper Hall"
-LocationName="Salón de francotirador AZUL"
+LocationName="Nido de Francotirador AZUL"
 
 [ZoneInfo60]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Sala de cohetes superior"
+LocationName="Corredor Superior Cohetes"
 
 [ZoneInfo61]
 ; EN: LocationName="RED Main Hall"
-LocationName="Salón principal ROJO"
+LocationName="Corredor Principal ROJO"
 
 [ZoneInfo62]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Sala de cohetes superior"
+LocationName="Corredor Superior Cohetes"
 
 [ZoneInfo64]
 ; EN: LocationName="RED Lower Hall"
@@ -198,57 +202,57 @@ LocationName="Salón Inferior ROJO"
 
 [ZoneInfo65]
 ; EN: LocationName="RED Main Room"
-LocationName="Habitación principal ROJA"
+LocationName="Sala Principal ROJA"
 
 [ZoneInfo66]
 ; EN: LocationName="Great Room"
-LocationName="Buena habitación"
+LocationName="Gran Sala"
 
 [ZoneInfo67]
 ; EN: LocationName="Great Room"
-LocationName="Buena habitación"
+LocationName="Gran Sala"
 
 [ZoneInfo68]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Sala de cohetes superior"
+LocationName="Corredor Superior Cohetes"
 
 [ZoneInfo69]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini Salón"
+LocationName="Mini Corredor"
 
 [ZoneInfo7]
 ; EN: LocationName="BLUE Sniper Hall"
-LocationName="Salón de francotirador AZUL"
+LocationName="Corredor Francotirador AZUL"
 
 [ZoneInfo70]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini Salón"
+LocationName="Mini Corredor"
 
 [ZoneInfo72]
 ; EN: LocationName="Sniper Nest"
-LocationName="Nido de francotirador"
+LocationName="Nido de Francotirador"
 
 [ZoneInfo73]
 ; EN: LocationName="Sniper Nest"
-LocationName="Nido de francotirador"
+LocationName="Nido de Francotirador"
 
 [ZoneInfo74]
 ; EN: LocationName="Great Room Hall"
-LocationName="Salón Gran Salón"
+LocationName="Corredor Gran Sala"
 
 [ZoneInfo76]
 ; EN: LocationName="Great Room Hall"
-LocationName="Salón Gran Salón"
+LocationName="Corredor Gran Sala"
 
 [ZoneInfo77]
 ; EN: LocationName="Great Room"
-LocationName="Buena habitación"
+LocationName="Gran Sala"
 
 [ZoneInfo8]
 ; EN: LocationName="BLUE Round Stairs"
-LocationName="Escaleras Redondas AZUL"
+LocationName="Escaleras Caracol AZUL"
 
 [ZoneInfo9]
 ; EN: LocationName="Center"
-LocationName="Centrar"
+LocationName="Centro"
 

@@ -8,97 +8,97 @@ Title="Geotermia"
 
 [Volume0]
 ; EN: LocationName="Middle Walkway"
-LocationName="Pasarela media"
+LocationName="Pasarela Media"
 
 [WaterVolume5]
 ; EN: LocationName="Blue Water"
-LocationName="Agua Azul"
+LocationName="Agua Azules"
 
 [WaterVolume7]
 ; EN: LocationName="Red Water"
-LocationName="Agua roja"
+LocationName="Agua Rojos"
 
 [ZoneInfo0]
 ; EN: LocationName="RED Flag Room"
-LocationName="Habitación Bandera ROJA"
+LocationName="Sala de Bandera ROJA"
 
 [ZoneInfo1]
 ; EN: LocationName="RED Machine Room"
-LocationName="Cuarto de Máquinas ROJO"
+LocationName="Sala de Máquinas Base ROJA"
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Machine Room"
-LocationName="Sala de máquinas AZUL"
+LocationName="Sala de Máquinas Base AZUL"
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Water Room"
-LocationName="Sala de agua AZUL"
+LocationName="Sala de Agua AZUL"
 
 [ZoneInfo12]
 ; EN: LocationName="RED Flag Room"
-LocationName="Habitación Bandera ROJA"
+LocationName="Sala de Bandera ROJA"
 
 [ZoneInfo13]
 ; EN: LocationName="Middle"
-LocationName="Medio"
+LocationName="Centro"
 
 [ZoneInfo14]
 ; EN: LocationName="RED High Entrance"
-LocationName="Entrada alta ROJA"
+LocationName="Entrada Superior Base ROJA"
 
 [ZoneInfo15]
 ; EN: LocationName="BLUE Low Entrance"
-LocationName="Entrada baja AZUL"
+LocationName="Entrada Inferior Base AZUL"
 
 [ZoneInfo19]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="Entrada alta AZUL"
+LocationName="Entrada Superior Base AZUL"
 
 [ZoneInfo2]
 ; EN: LocationName="RED Water Room"
-LocationName="Habitación RED Water"
+LocationName="Sala de Agua ROJA"
 
 [ZoneInfo20]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="Entrada alta AZUL"
+LocationName="Entrada Superior Base AZUL"
 
 [ZoneInfo23]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="Entrada alta AZUL"
+LocationName="Entrada Superior Base AZUL"
 
 [ZoneInfo24]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="Habitación Bandera AZUL"
+LocationName="Sala de Bandera AZUL"
 
 [ZoneInfo25]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="Habitación Bandera AZUL"
+LocationName="Sala de Bandera AZUL"
 
 [ZoneInfo26]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="Entrada alta AZUL"
+LocationName="Entrada Superior Base AZUL"
 
 [ZoneInfo4]
 ; EN: LocationName="RED Low Entrance"
-LocationName="Entrada baja ROJA"
+LocationName="Entrada Inferior Base ROJA"
 
 [ZoneInfo5]
 ; EN: LocationName="RED High Entrance"
-LocationName="Entrada alta ROJA"
+LocationName="Entrada Superior Base ROJA"
 
 [ZoneInfo6]
 ; EN: LocationName="RED High Entrance"
-LocationName="Entrada alta ROJA"
+LocationName="Entrada Superior Base ROJA"
 
 [ZoneInfo7]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="Habitación Bandera AZUL"
+LocationName="Sala de Bandera AZUL"
 
 [ZoneInfo8]
 ; EN: LocationName="RED High Entrance"
-LocationName="Entrada alta ROJA"
+LocationName="Entrada Superior Base ROJA"
 
 [ZoneInfo9]
 ; EN: LocationName="RED Flag Room"
-LocationName="Habitación Bandera ROJA"
+LocationName="Sala de Bandera ROJA"
 

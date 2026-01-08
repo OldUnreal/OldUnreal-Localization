@@ -1,0 +1,108 @@
+[LevelInfo0]
+; EN: Title="Facing Worlds 3"
+Title="Mundos Enfrentados 3"
+
+[LevelSummary]
+; EN: Title="Facing Worlds 3"
+Title="Mundos Enfrentados 3"
+
+[Volume0]
+; EN: LocationName="Red Level 3"
+LocationName="Nivel 3 Base Roja"
+
+[Volume1]
+; EN: LocationName="Blue Level 3"
+LocationName="Nivel 3 Base Azul"
+
+[Volume10]
+; EN: LocationName="Red Shield"
+LocationName="Escudo Rojo"
+
+[Volume11]
+; EN: LocationName="Blue Shield"
+LocationName="Escudo Azul"
+
+[Volume12]
+; EN: LocationName="Red Backdoor"
+LocationName="Puerta Trasera Roja"
+
+[Volume13]
+; EN: LocationName="Blue Backdoor"
+LocationName="Puerta Trasera Azul"
+
+[Volume2]
+; EN: LocationName="Blue Level 2"
+LocationName="Nivel 2 Base Azul"
+
+[Volume3]
+; EN: LocationName="Red Level 2"
+LocationName="Nivel 2 Base Roja"
+
+[Volume4]
+; EN: LocationName="Blue Flak"
+LocationName="Metralla Base Azul"
+
+[Volume5]
+; EN: LocationName="Red Flak"
+LocationName="Metralla Base Roja"
+
+[Volume6]
+; EN: LocationName="Blue Flak"
+LocationName="Metralla Base Azul"
+
+[Volume7]
+; EN: LocationName="Blue Flak"
+LocationName="Metralla Base Azul"
+
+[Volume8]
+; EN: LocationName="Red Flak"
+LocationName="Metralla Base Roja"
+
+[Volume9]
+; EN: LocationName="Red Flak"
+LocationName="Metralla Base Roja"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[ZoneInfo10]
+; EN: LocationName="Red Minigun"
+LocationName="Ametralladora Roja"
+
+[ZoneInfo11]
+; EN: LocationName="Red Pillars"
+LocationName="Pilares Rojos"
+
+[ZoneInfo2]
+; EN: LocationName="Blue Minigun"
+LocationName="Ametralladora Azul"
+
+[ZoneInfo3]
+; EN: LocationName="Blue Minigun"
+LocationName="Ametralladora Azul"
+
+[ZoneInfo4]
+; EN: LocationName="Blue Pillars"
+LocationName="Pilares Azules"
+
+[ZoneInfo5]
+; EN: LocationName="Blue Minigun"
+LocationName="Ametralladora Azul"
+
+[ZoneInfo6]
+; EN: LocationName="Outside"
+LocationName="Exteriores"
+
+[ZoneInfo7]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[ZoneInfo8]
+; EN: LocationName="Red Minigun"
+LocationName="Ametralladora Roja"
+
+[ZoneInfo9]
+; EN: LocationName="Red Minigun"
+LocationName="Ametralladora Roja"
+

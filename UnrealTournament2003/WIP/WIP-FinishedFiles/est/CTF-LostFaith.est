@@ -1,0 +1,28 @@
+[LevelInfo0]
+; EN: Title="Lost Faith"
+Title="Fe Perdida"
+
+[LevelSummary]
+; EN: Title="Lost Faith"
+Title="Fe Perdida"
+
+[Volume0]
+; EN: LocationName="Blue base Flak"
+LocationName="Metralla de Base Azul"
+
+[Volume1]
+; EN: LocationName="Blue base Link"
+LocationName="Enlazadora de Base Azul"
+
+[Volume2]
+; EN: LocationName="Red base Flak"
+LocationName="Metralla de Base Roja"
+
+[Volume3]
+; EN: LocationName="Red base Link"
+LocationName="Enlazadora de Base Roja"
+
+[Volume4]
+; EN: LocationName="Waterfall"
+LocationName="Cascada"
+

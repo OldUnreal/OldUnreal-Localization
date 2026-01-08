@@ -1,0 +1,32 @@
+[LevelInfo0]
+; EN: Title="Maul"
+Title="Mazo"
+
+[LevelSummary]
+; EN: Title="Maul"
+Title="Mazo"
+
+[Volume0]
+; EN: LocationName="Blue Side"
+LocationName="Lado Azul"
+
+[Volume1]
+; EN: LocationName="Red Side"
+LocationName="Lado Rojo"
+
+[Volume2]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume3]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume4]
+; EN: LocationName="Blue Roof"
+LocationName="Techo Azul"
+
+[Volume5]
+; EN: LocationName="Red Roof"
+LocationName="Techo Rojo"
+

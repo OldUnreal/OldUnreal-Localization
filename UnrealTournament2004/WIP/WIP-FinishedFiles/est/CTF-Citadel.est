@@ -1,0 +1,96 @@
+[LevelInfo0]
+; EN: Title="Citadel"
+Title="Ciudadela"
+
+[LevelSummary]
+; EN: Title="Citadel"
+Title="Ciudadela"
+
+[Volume0]
+; EN: LocationName="Middle Bridge"
+LocationName="Puente Central"
+
+[Volume1]
+; EN: LocationName="Red High Bridge"
+LocationName="Puente Superior Rojo"
+
+[Volume10]
+; EN: LocationName="Red Sloped Entrance"
+LocationName="Rampa de Entrada Roja"
+
+[Volume11]
+; EN: LocationName="Red Entrance"
+LocationName="Entrada Base Roja"
+
+[Volume12]
+; EN: LocationName="Blue Entrance"
+LocationName="Entrada Base Azul"
+
+[Volume2]
+; EN: LocationName="Red Low Bridge"
+LocationName="Puente Inferior Rojo"
+
+[Volume3]
+; EN: LocationName="Blue Low Bridge"
+LocationName="Puente Inferior Azul"
+
+[Volume4]
+; EN: LocationName="Blue High Bridge"
+LocationName="Puente Superior Azul"
+
+[Volume5]
+; EN: LocationName="Blue Mesa"
+LocationName="Meseta Base Azul"
+
+[Volume6]
+; EN: LocationName="Red Mesa"
+LocationName="Meseta Base Roja"
+
+[Volume7]
+; EN: LocationName="Blue Sloped Entrance"
+LocationName="Rampa de Entrada Azul"
+
+[Volume8]
+; EN: LocationName="Blue Flag Base"
+LocationName="Base de Bandera Azul"
+
+[Volume9]
+; EN: LocationName="Red Flag Base"
+LocationName="Base de Bandera Roja"
+
+[ZoneInfo0]
+; EN: LocationName="Blue Sloped Entrance"
+LocationName="Rampa de Entrada Azul"
+
+[ZoneInfo1]
+; EN: LocationName="Outside"
+LocationName="Exteriores"
+
+[ZoneInfo3]
+; EN: LocationName="Red Sloped Entrance"
+LocationName="Rampa de Entrada Roja"
+
+[ZoneInfo4]
+; EN: LocationName="Red Flag Base"
+LocationName="Base de Bandera Roja"
+
+[ZoneInfo5]
+; EN: LocationName="Red Entrance"
+LocationName="Entrada Base Roja"
+
+[ZoneInfo6]
+; EN: LocationName="Red Entrance"
+LocationName="Entrada Base Roja"
+
+[ZoneInfo7]
+; EN: LocationName="Blue Entrance"
+LocationName="Entrada Base Azul"
+
+[ZoneInfo8]
+; EN: LocationName="Blue Entrance"
+LocationName="Entrada Base Azul"
+
+[ZoneInfo9]
+; EN: LocationName="Blue Flag Room"
+LocationName="Base de Bandera Azul"
+

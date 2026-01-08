@@ -1,54 +1,54 @@
 [LevelInfo0]
 ; EN: Title="Pistola Battle Grounds"
-Title="Campos de batalla de Pistola"
+Title="Campos de Batalla Pistola"
 
 [LevelSummary]
 ; EN: Title="Pistola Battle Grounds"
-Title="Campos de batalla de Pistola"
+Title="Campos de Batalla Pistola"
 ; EN: Description="This twin complex of concrete and metal combines the beauty of nature with the harsh lines of industrial architecture to create a fierce battle arena.  Where is my Pistola?"
 Description="Este complejo gemelo de hormigón y metal combina la belleza de la naturaleza con las duras líneas de la arquitectura industrial para crear un campo de batalla feroz. ¿Dónde está mi Pistola?"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Fuera de"
+LocationName="Exteriores"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Flagroom"
-LocationName="Flagroom azul"
+LocationName="Sala de Bandera Azul"
 
 [ZoneInfo11]
 ; EN: LocationName="Red Flagroom"
-LocationName="Flagroom rojo"
+LocationName="Sala de Bandera Roja"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Interials A"
-LocationName="Interiales rojos A"
+LocationName="Interiores Base Roja A"
 
 [ZoneInfo13]
 ; EN: LocationName="Red Interials B"
-LocationName="Interiales rojos B"
+LocationName="Interiores Base Roja B"
 
 [ZoneInfo14]
 ; EN: LocationName="Red Flak Foyer"
-LocationName="Vestíbulo Red Flak"
+LocationName="Vestíbulo Metralla Base Roja"
 
 [ZoneInfo15]
 ; EN: LocationName="Red Foyer A"
-LocationName="Vestíbulo rojo A"
+LocationName="Vestíbulo Base Roja A"
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Interials A"
-LocationName="Interiales azules A"
+LocationName="Interiores Base Azul A"
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Interials B"
-LocationName="Interiales azules B"
+LocationName="Interiores Base Azul B"
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Flak Foyer"
-LocationName="Vestíbulo Blue Flak"
+LocationName="Vestíbulo Metralla Base Azul"
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Foyer A"
-LocationName="Vestíbulo azul A"
+LocationName="Vestíbulo Base Azul A"
 

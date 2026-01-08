@@ -1,0 +1,94 @@
+[LevelInfo0]
+Title="Magma"
+
+[LevelSummary]
+Title="Magma"
+
+[Volume0]
+; EN: LocationName="Inside Blue Base"
+LocationName="Interior de Base Azul"
+
+[Volume1]
+; EN: LocationName="Inside Red Base"
+LocationName="Interior de Base Roja"
+
+[Volume10]
+; EN: LocationName="Red Walkways"
+LocationName="Pasarelas Base Roja"
+
+[Volume11]
+; EN: LocationName="Blue Walkways"
+LocationName="Pasarelas Base Azul"
+
+[Volume2]
+; EN: LocationName="Upper Red Base"
+LocationName="Parte Superior Base Roja"
+
+[Volume3]
+; EN: LocationName="Upper Blue Base"
+LocationName="Parte Superior Base Azul"
+
+[Volume4]
+; EN: LocationName="Red Tower"
+LocationName="Torre Roja"
+
+[Volume5]
+; EN: LocationName="Blue Tower"
+LocationName="Torre Azul"
+
+[Volume6]
+; EN: LocationName="Blue Tower Bottom"
+LocationName="Parte Inferior Torre Azul"
+
+[Volume7]
+; EN: LocationName="Red Tower Bottom"
+LocationName="Parte Inferior Torre Roja"
+
+[Volume8]
+; EN: LocationName="Under Red Base"
+LocationName="Debajo de Base Roja"
+
+[Volume9]
+; EN: LocationName="Under Blue Base"
+LocationName="Debajo de Base Azul"
+
+[WaterVolume0]
+; EN: LocationName="Lava Pit"
+LocationName="Pozo de lava"
+
+[ZoneInfo0]
+; EN: LocationName="Cave"
+LocationName="Cueva"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Side"
+LocationName="Lado Azul"
+
+[ZoneInfo2]
+; EN: LocationName="Cave"
+LocationName="Cueva"
+
+[ZoneInfo3]
+; EN: LocationName="Cave"
+LocationName="Cueva"
+
+[ZoneInfo4]
+; EN: LocationName="Cave"
+LocationName="Cueva"
+
+[ZoneInfo5]
+; EN: LocationName="Cave"
+LocationName="Cueva"
+
+[ZoneInfo6]
+; EN: LocationName="Cave"
+LocationName="Cueva"
+
+[ZoneInfo7]
+; EN: LocationName="cave"
+LocationName="cueva"
+
+[ZoneInfo8]
+; EN: LocationName="Red Side"
+LocationName="Lado Rojo"
+
