@@ -1,0 +1,131 @@
+[LavaVolume0]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume1]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume10]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume11]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume12]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume13]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume2]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume3]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume4]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume5]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume6]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume7]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume8]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LavaVolume9]
+; EN: LocationName="in lava"
+LocationName="en la lava"
+
+[LevelInfo0]
+; EN: Title="LavaGiant 2"
+Title="Lava Gigante 2"
+
+[LevelSummary]
+; EN: Title="LavaGiant 2"
+Title="Lava Gigante 2"
+
+[Volume0]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume1]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume2]
+; EN: LocationName="Little Rock"
+LocationName="Roca Pequeña"
+
+[Volume3]
+; EN: LocationName="Top Ridge"
+LocationName="Alto del Cerro"
+
+[Volume4]
+; EN: LocationName="Lower Red Area"
+LocationName="Zona Inferior Roja"
+
+[Volume5]
+; EN: LocationName="Lower Blue Area"
+LocationName="Zona Inferior Azul"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Exteriores"
+
+[ZoneInfo1]
+; EN: LocationName="Middle Generator Room"
+LocationName="Medio - Sala del Generador"
+
+[ZoneInfo10]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[ZoneInfo2]
+; EN: LocationName="Middle Generator Room"
+LocationName="Medio - Sala del Generador"
+
+[ZoneInfo3]
+; EN: LocationName="Middle Shield Room"
+LocationName="Medio - Sala del Escudo"
+
+[ZoneInfo4]
+; EN: LocationName="Middle Rocket Room"
+LocationName="Medio - Sala de Cohetes"
+
+[ZoneInfo5]
+; EN: LocationName="Middle Rocket Room"
+LocationName="Medio - Sala de Cohetes"
+
+[ZoneInfo6]
+; EN: LocationName="Middle Rocket Room"
+LocationName="Medio - Sala de Cohetes"
+
+[ZoneInfo7]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[ZoneInfo8]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[ZoneInfo9]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
