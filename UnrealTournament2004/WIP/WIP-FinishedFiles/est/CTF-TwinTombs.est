@@ -6,11 +6,11 @@ Title="Tumbas Gemelas"
 ; EN: Title="Twin Tombs"
 Title="Tumbas Gemelas"
 ; EN: Description="Winter has fallen on the tombs and the dead are restless.  This elegant recreation of the twin tombs of brothers Ramses III and Rudamon has a reputation for speed, brutality, and treachery, just like the pharaohs interred within."
-Description="El invierno ha caído sobre las tumbas y los muertos están inquietos. Esta elegante recreación de las tumbas gemelas de los hermanos Ramsés III y Rudamon tiene una reputación de velocidad, brutalidad y traición, al igual que los faraones enterrados en su interior."
+Description="El invierno ha llegado a las tumbas y los muertos están inquietos. Esta elegante recreación de las tumbas gemelas de los hermanos Ramses III y Rudamon tiene reputación de ser veloz, brutal y traicionera, igual que los faraones aquí sepultados."
 
 [ZoneInfo0]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Pasillo superior azul"
+LocationName="Corredor superior azul"
 
 [ZoneInfo1]
 ; EN: LocationName="Blue base"
@@ -22,19 +22,19 @@ LocationName="Base roja"
 
 [ZoneInfo12]
 ; EN: LocationName="Red lower hallway"
-LocationName="Pasillo inferior rojo"
+LocationName="Corredor inferior rojo"
 
 [ZoneInfo13]
 ; EN: LocationName="Red jump pads"
-LocationName="Almohadillas de salto rojas"
+LocationName="Plataformas de salto rojas"
 
 [ZoneInfo15]
 ; EN: LocationName="Blue jump pads"
-LocationName="Almohadillas de salto azules"
+LocationName="Plataformas de salto azules"
 
 [ZoneInfo16]
 ; EN: LocationName="Red upper hallway"
-LocationName="Pasillo superior rojo"
+LocationName="Corredor superior rojo"
 
 [ZoneInfo17]
 ; EN: LocationName="Red roof top"
@@ -42,27 +42,27 @@ LocationName="Techo rojo"
 
 [ZoneInfo18]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Pasillo inferior azul"
+LocationName="Corredor inferior azul"
 
 [ZoneInfo19]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Pasillo superior azul"
+LocationName="Corredor superior azul"
 
 [ZoneInfo2]
 ; EN: LocationName="Outside Area"
-LocationName="Área exterior"
+LocationName="Exteriores"
 
 [ZoneInfo21]
 ; EN: LocationName="Red lower hallway"
-LocationName="Pasillo inferior rojo"
+LocationName="Corredor inferior rojo"
 
 [ZoneInfo23]
 ; EN: LocationName="Red lower hallway"
-LocationName="Pasillo inferior rojo"
+LocationName="Corredor inferior rojo"
 
 [ZoneInfo24]
 ; EN: LocationName="Blue rooftop"
-LocationName="Azotea azul"
+LocationName="Techo azul"
 
 [ZoneInfo26]
 ; EN: LocationName="Red base"
@@ -70,7 +70,7 @@ LocationName="Base roja"
 
 [ZoneInfo27]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Pasillo inferior azul"
+LocationName="Corredor inferior azul"
 
 [ZoneInfo28]
 ; EN: LocationName="Blue foyer"
@@ -86,27 +86,27 @@ LocationName="Vestíbulo rojo"
 
 [ZoneInfo30]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Pasillo superior azul"
+LocationName="Corredor superior azul"
 
 [ZoneInfo31]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Pasillo superior azul"
+LocationName="Corredor superior azul"
 
 [ZoneInfo32]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Pasillo superior azul"
+LocationName="Corredor superior azul"
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Habitación Bandera Azul"
+LocationName="Sala de Bandera Azul"
 
 [ZoneInfo34]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Pasillo superior azul"
+LocationName="Corredor superior azul"
 
 [ZoneInfo35]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Pasillo inferior azul"
+LocationName="Corredor inferior azul"
 
 [ZoneInfo36]
 ; EN: LocationName="Blue base"
@@ -114,15 +114,15 @@ LocationName="Base azul"
 
 [ZoneInfo37]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Pasillo inferior azul"
+LocationName="Corredor inferior azul"
 
 [ZoneInfo38]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Pasillo superior azul"
+LocationName="Corredor superior azul"
 
 [ZoneInfo39]
 ; EN: LocationName="Red upper hallway"
-LocationName="Pasillo superior rojo"
+LocationName="Corredor superior rojo"
 
 [ZoneInfo4]
 ; EN: LocationName="Red foyer"
@@ -130,29 +130,29 @@ LocationName="Vestíbulo rojo"
 
 [ZoneInfo40]
 ; EN: LocationName="Blue roof top"
-LocationName="Azotea azul"
+LocationName="Techo azul"
 
 [ZoneInfo42]
 ; EN: LocationName="Red lower hallway"
-LocationName="Pasillo inferior rojo"
+LocationName="Corredor inferior rojo"
 
 [ZoneInfo43]
 ; EN: LocationName="Red rooftop"
-LocationName="Azotea roja"
+LocationName="Techo rojo"
 
 [ZoneInfo5]
 ; EN: LocationName="Red upper hallway"
-LocationName="Pasillo superior rojo"
+LocationName="Corredor superior rojo"
 
 [ZoneInfo6]
 ; EN: LocationName="Red upper hallway"
-LocationName="Pasillo superior rojo"
+LocationName="Corredor superior rojo"
 
 [ZoneInfo8]
 ; EN: LocationName="Red Flag Room"
-LocationName="Habitación Bandera Roja"
+LocationName="Sala de Bandera Roja"
 
 [ZoneInfo9]
 ; EN: LocationName="Red upper hallway"
-LocationName="Pasillo superior rojo"
+LocationName="Corredor superior rojo"
 
