@@ -2,7 +2,7 @@
 Object=(Name=UnrealI.KingOfTheHill,Class=Class,MetaClass=Engine.GameInfo)
 Object=(Name=UnrealI.DarkMatch,Class=Class,MetaClass=Engine.GameInfo)
 ; EN: Object=(Name=UnrealI.FlakCannon,Class=Class,MetaClass=Engine.Weapon,Description="Flak Cannon")
-Object=(Name=UnrealI.FlakCannon,Class=Class,MetaClass=Engine.Weapon,Description="Flak Cannon")
+Object=(Name=UnrealI.FlakCannon,Class=Class,MetaClass=Engine.Weapon,Description="Зенитная пушка")
 ; EN: Object=(Name=UnrealI.Rifle,Class=Class,MetaClass=Engine.Weapon,Description="Sniper Rifle")
 Object=(Name=UnrealI.Rifle,Class=Class,MetaClass=Engine.Weapon,Description="Снайперская винтовка")
 ; EN: Object=(Name=UnrealI.Minigun,Class=Class,MetaClass=Engine.Weapon,Description="Minigun")
@@ -79,9 +79,9 @@ ItemName="Лезвия"
 
 [FlakBox]
 ; EN: PickupMessage="You picked up 10 Flak Shells"
-PickupMessage="Вы взяли 10 Flak-снарядов"
+PickupMessage="Вы взяли 10 Зенитных снарядов"
 ; EN: ItemName="Flak Shells"
-ItemName="Flak-снаряды"
+ItemName="Зенитные снаряды"
 
 [MaleOne]
 ; EN: MenuName="Male 1"
@@ -151,15 +151,15 @@ ItemName="Невидимость"
 
 [DarkMatch]
 ; EN: ClassCaption="DarkMatch"
-ClassCaption="Тёмный DeathMatch"
+ClassCaption="Тёмный Бой насмерть"
 ; EN: GameName="DarkMatch"
-GameName="Тёмный DeathMatch"
+GameName="Тёмный Бой насмерть"
 
 [FlakShellAmmo]
 ; EN: PickupMessage="You got a Flak Shell"
-PickupMessage="Вы взяли Flak-снаряд"
+PickupMessage="Вы взяли Зенитный снаряд"
 ; EN: ItemName="Flak Shell"
-ItemName="Flak-снаряд"
+ItemName="Зенитный снаряд"
 
 [AsbestosSuit]
 ; EN: PickupMessage="You picked up the Asbestos Suit"
@@ -355,7 +355,7 @@ GameName="Царь Горы"
 
 [ParentBlob]
 ; EN: BlobKillMessage="was corroded by a Blob"
-BlobKillMessage="был разъеден Каплей"
+BlobKillMessage="разъедается Каплей"
 ; EN: NameArticle=" a "
 NameArticle=" "
 ; EN: MenuName="Blob"
@@ -363,11 +363,11 @@ MenuName="Капля"
 
 [FlakCannon]
 ; EN: DeathMessage="%o was ripped to shreds by %k's %w."
-DeathMessage="%o разорвало в клочья из %w &k."
+DeathMessage="%o разрвыает в клочья %w &k."
 ; EN: PickupMessage="You got the Flak Cannon"
-PickupMessage="Вы взяли Flak Cannon"
+PickupMessage="Вы взяли Зенитную пушку"
 ; EN: ItemName="Flak Cannon"
-ItemName="Flak Cannon"
+ItemName="Зенитная пушка"
 
 [Rifle]
 ; EN: DeathMessage="%k put a bullet through %o's head."
@@ -421,9 +421,9 @@ AltName="лишается головы"
 
 [Corroded]
 ; EN: Name="corroded"
-Name="растворяется"
+Name="разъедается"
 ; EN: AltName="slimed"
-AltName="разъело"
+AltName="растворяется"
 
 [Burned]
 ; EN: Name="burned"
