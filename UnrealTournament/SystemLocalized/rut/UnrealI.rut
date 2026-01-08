@@ -10,7 +10,7 @@ Object=(Name=UnrealI.Minigun,Class=Class,MetaClass=Engine.Weapon,Description="М
 ; EN: Object=(Name=UnrealI.GESBioRifle,Class=Class,MetaClass=Engine.Weapon,Description="GES BioRifle")
 Object=(Name=UnrealI.GESBioRifle,Class=Class,MetaClass=Engine.Weapon,Description="GES-биоружьё")
 ; EN: Object=(Name=UnrealI.RazorJack,Class=Class,MetaClass=Engine.Weapon,Description="RazorJack")
-Object=(Name=UnrealI.RazorJack,Class=Class,MetaClass=Engine.Weapon,Description="RazorJack")
+Object=(Name=UnrealI.RazorJack,Class=Class,MetaClass=Engine.Weapon,Description="Потрошитель")
 ; EN: Object=(Name=UnrealI.QuadShot,Class=Class,MetaClass=Engine.Weapon,Description="Quad-Barreled Shotgun")
 Object=(Name=UnrealI.QuadShot,Class=Class,MetaClass=Engine.Weapon,Description="Четырёхствольное ружьё")
 ; EN: Object=(Name=UnrealI.PeaceMaker,Class=Class,MetaClass=Engine.Weapon,Description="Peacemaker")
@@ -395,11 +395,11 @@ ItemName="GES-биоружьё"
 
 [RazorJack]
 ; EN: DeathMessage="%k took a bloody chunk out of %o with the %w."
-DeathMessage="%k отрывает кровавый кусок мяса %o своим %w'ом."
+DeathMessage="&w %k срезает кровавый кусок мяса c %o."
 ; EN: PickupMessage="You got the RazorJack"
-PickupMessage="Вы взяли RazorJack"
+PickupMessage="Вы взяли Потрошитель"
 ; EN: ItemName="Razorjack"
-ItemName="RazorJack"
+ItemName="Потрошитель"
 
 [Fell]
 ; EN: Name="fell"
