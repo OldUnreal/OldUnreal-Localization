@@ -13,6 +13,8 @@ AskNgStatsText="Este servidor tiene activado el registro de estadísticas. Tu co
 ActiveText="Activo"
 ; EN: InactiveText="Inactive"
 InactiveText="Inactivo"
+; EN: SpecsName="Spectators"
+SpecsName="Espectadores"
 
 [UTBrowserMainWindow]
 ; EN: WindowTitleString="Unreal Tournament Server Browser"

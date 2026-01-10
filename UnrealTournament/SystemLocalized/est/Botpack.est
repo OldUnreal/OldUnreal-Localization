@@ -726,6 +726,8 @@ Titles[6]="Campeón"
 StartUpMessage="Último Hombre en Pie. ¿Cuánto tiempo puedes resistir?"
 ; EN: GameName="Last Man Standing"
 GameName="Último Hombre en Pie"
+; EN: AltStartupMessage="Last Man Standing - already in progress!"
+AltStartupMessage="Último Hombre en Pie - ¡partida en progreso!"
 
 [VacuumZone]
 ; EN: DamageString="%o was depressurized"
