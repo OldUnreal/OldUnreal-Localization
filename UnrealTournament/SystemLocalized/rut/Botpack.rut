@@ -814,6 +814,8 @@ StartUpMessage="Последний герой. Сколько ты сможеш�
 ; EN: GameName="Last Man Standing"
 GameName="Последний герой"
 
+; EN: AltStartupMessage="Last Man Standing - already in progress!"
+AltStartupMessage="Последний герой – в процессе!"
 [VacuumZone]
 ; EN: DamageString="%o was depressurized"
 DamageString="%o раздувается"
