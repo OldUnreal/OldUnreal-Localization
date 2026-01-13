@@ -30,7 +30,7 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=BloomAmount,Title="Сте
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LinearBrightness,Title="Linear Brightness",Description="Adjust brightness for all pixels")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LinearBrightness,Title="Линейная яркость",Description="Регулирует яркость всех элементов.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Contrast,Title="Contrast",Description="Adjust pixel contrast")
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Contrast,Title="Контраст",Description="Регулирует контрастность элементовв.")
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Contrast,Title="Контраст",Description="Регулирует контрастность элементов.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Saturation,Title="Saturation",Description="Adjust how saturated the colors are")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Saturation,Title="Насыщенность",Description="Управляет насышенностью цветов.")
 
