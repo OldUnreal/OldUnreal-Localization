@@ -4,8 +4,8 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=AntialiasMode,Title="Сг
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Light Mode",Description="Adjust how map surfaces and actors are lit",Value("Normal"),Value("One-X Blending"),Value("Brighter Actors"))
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LightMode,Title="Режим освещения",Description="Определяет, каким способом освещаются поверхности и объекты. ",Value("Обычный"),Value("Однократное смешивание"),Value("Яркие объекты"))
 
-; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=UsePrecache,Title="Precaching",Description="If checked, all textures will be precached onto video memory.")
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=UsePrecache,Title="Подгрузка",Description="Если отмечено, все текстуры будут кэшироваться в видеопамять.")
+; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=UsePrecache,Title="Precaching",Description="If checked, all textures will be precached onto video memory. This increases load times, but reduces fluctuations in the frame rate.")
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=UsePrecache,Title="Кэширование",Description="Если отмечено, все текстуры будут подгружаться в видеопамять. Это увеличивает время загрузки, но снижает скачки частоты кадров.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=DetailTextures,Title="Detail Texturing",Description="If checked, enables Detail Texturing.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=DetailTextures,Title="Детальное текстурирование",Description="Если включено, на определённых текстурах будут отображаться мелкие детали.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HighDetailActors,Title="High Detail Actors",Description="If enabled, high-detail version of specific objects will be used. Disabling this might improve performance but significantly reduce image quality.")
