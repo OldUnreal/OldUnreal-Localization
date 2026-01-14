@@ -1,12 +1,13 @@
 ﻿[Public]
 Object=(Name=Frucore.FrucoreRenderDevice,Class=Class,MetaClass=Engine.RenderDevice)
 ; EN: Preferences=(Caption="Apple Metal Support",Parent="Rendering",Class=Frucore.FrucoreRenderDevice,Immediate=True,Category="Options")
-Preferences=(Caption="",Parent="Rendering",Class=Frucore.FrucoreRenderDevice,Immediate=True,Category="Options")
+Preferences=(Caption="Soporte para Apple Metal",Parent="Rendering",Class=Frucore.FrucoreRenderDevice,Immediate=True,Category="Options")
 
 [FrucoreRenderDevice]
 ; EN: ClassCaption="Apple Metal Support"
-ClassCaption=""
+ClassCaption="Soporte para Apple Metal"
 ; EN: AskInstalled="Do you have a graphics card that supports Apple's Metal API?"
-AskInstalled=""
+AskInstalled="¿Tienes instalada una tarjeta compatible que soporte la API Metal de Apple?"
 ; EN: AskUse="Do you want Unreal Tournament to use Apple Metal?"
-AskUse=""
+AskUse="¿Quieres que Unreal Tournament utilice Apple Metal?"
+
