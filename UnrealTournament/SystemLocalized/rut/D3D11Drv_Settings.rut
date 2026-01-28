@@ -25,7 +25,7 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=HdrScale,Title="Масш�
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Bloom,Title="Bloom",Description="Bloom overbright pixels")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=Bloom,Title="Свечение",Description="Если включено, яркие области изображения будут светиться.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=BloomAmount,Title="Bloom Amount",Description="Bloom amount")
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=BloomAmount,Title="Степень свечения",Description="Регулирует степень эффекты свечения.")
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=BloomAmount,Title="Степень свечения",Description="Регулирует степень эффектасвечения.")
 
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LinearBrightness,Title="Linear Brightness",Description="Adjust brightness for all pixels")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=LinearBrightness,Title="Линейная яркость",Description="Регулирует яркость всех элементов.")
