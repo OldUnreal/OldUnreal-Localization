@@ -41,7 +41,7 @@ Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffset,Title="Сдв
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetRed,Title="Gamma Offset Red",Description="Offsets the normal brightness option on the red channel. Positive values will make the image brighter, negatives will make it darker.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetRed,Title="Сдвиг гаммы – красный",Description="Позволяет сдвинуть яркость красного канала. Положительные значения повышают яркость, а отрицательные – понижают.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetGreen,Title="Gamma Offset Green",Description="Offsets the normal brightness option on the green channel. Positive values will make the image brighter, negatives will make it darker.")
-Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetGreen,Title=@Сдвиг гаммы – зелёный",Description="Позволяет сдвинуть яркость зелёного канала. Положительные значения повышают яркость, а отрицательные – понижают.")
+Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetGreen,Title="Сдвиг гаммы – зелёный",Description="Позволяет сдвинуть яркость зелёного канала. Положительные значения повышают яркость, а отрицательные – понижают.")
 ; EN: Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetBlue,Title="Gamma Offset Blue",Description="Offsets the normal brightness option on the blue channel. Positive values will make the image brighter, negatives will make it darker.")
 Property=(Config,Class=D3D11Drv.D3D11RenderDevice,Name=GammaOffsetBlue,Title="Сдвиг гаммы – синий",Description="Позволяет сдвинуть яркость синего канала. Положительные значения повышают яркость, а отрицательные – понижают.")
 
