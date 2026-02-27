@@ -74,8 +74,8 @@ I'll update as I remember them, but here are some things:
 
 * Use an editor that allows colored display of text such as Notepad++. The localization files are fashioned after INI files, but some of them may have some variables. If you have an editor that can support INI files with variables, use it.
 * Don't hesitate to recycle lines. It's better to use exactly-matching text already written for another game than to write multiple strings in different games for the same, well, string. The Spanish localization reuses strings whenever possible.
-* Changes of certain names in one game must be reflected in all other games such a name appears, if only for consistency sake. For example, weapon names can be localized, but (for example) the Flak Cannon's name must be shared between U1-UT-UT200X. And the same goes for option names, which are the ones that will appear the most across all games.
-* Proper names (team names, character names, non-proper race names, etc) must NOT be translated. They were named that way for a reason.
+* Remember, it's called **LOCAL**ization for a reason. Proper names (team names, character names, location proper names, company names) shouldn't be modified, however gamemode names, weapon/item names, arena names (except those with a proper name), option names, etc, are fair game.
+    * Addendum to the above: changes of certain names in one game must be reflected in all other games such a name appears, if only for consistency sake. For example, weapon names can be localized, but (for example) the Flak Cannon's name must be shared between U1-UT-UT200X. And the same goes for all other recurring non-proper names.
 
 ## But what if I don't want to work in GitHub?
 
