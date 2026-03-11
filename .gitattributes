@@ -1,6 +1,2 @@
 # Auto detect text files and perform LF normalization
-# * text=auto
-Unreal/*.*	text working-tree-encoding=utf-8-bom diff=text eol=crlf
-UnrealTournament/*.*	text working-tree-encoding=utf-8-bom diff=text eol=crlf
-UnrealTournament2003/*.*	text working-tree-encoding=utf-16le-bom diff=text eol=crlf
-UnrealTournament2004/*.*	text working-tree-encoding=utf-8-bom diff=text eol=crlf
+* text=auto
