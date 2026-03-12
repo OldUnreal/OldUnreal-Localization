@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Didacticiel pour Bombe de balle"
 
 [LevelInfo6]
@@ -14,13 +14,13 @@ LocationName="Pointeur de la dune de sable"
 LocationName="Dune de sable super bouclier"
 
 [ZoneInfo10]
-LocationName="Pièce de réapparition bleue"
+LocationName="PiÃ¨ce de rÃ©apparition bleue"
 
 [ZoneInfo12]
-LocationName="Pièce de réapparition bleue"
+LocationName="PiÃ¨ce de rÃ©apparition bleue"
 
 [ZoneInfo13]
-LocationName="Pièce de réapparition bleue"
+LocationName="PiÃ¨ce de rÃ©apparition bleue"
 
 [ZoneInfo14]
 LocationName="Cour rouge"
@@ -32,55 +32,55 @@ LocationName="Base rouge"
 LocationName="Base rouge"
 
 [ZoneInfo17]
-LocationName="Pièce de réapparition rouge"
+LocationName="PiÃ¨ce de rÃ©apparition rouge"
 
 [ZoneInfo18]
-LocationName="Pièce de réapparition bleue"
+LocationName="PiÃ¨ce de rÃ©apparition bleue"
 
 [ZoneInfo19]
-LocationName="Pièce de réapparition rouge"
+LocationName="PiÃ¨ce de rÃ©apparition rouge"
 
 [ZoneInfo2]
-LocationName="Pièce à canon Flak"
+LocationName="PiÃ¨ce Ã  canon Flak"
 
 [ZoneInfo20]
-LocationName="Pièce de réapparition rouge"
+LocationName="PiÃ¨ce de rÃ©apparition rouge"
 
 [ZoneInfo21]
-LocationName="Pièce de réapparition rouge"
+LocationName="PiÃ¨ce de rÃ©apparition rouge"
 
 [ZoneInfo22]
-LocationName="Pièce de réapparition rouge"
+LocationName="PiÃ¨ce de rÃ©apparition rouge"
 
 [ZoneInfo23]
-LocationName="Pièce de réapparition bleue"
+LocationName="PiÃ¨ce de rÃ©apparition bleue"
 
 [ZoneInfo24]
-LocationName="Pièce de réapparition bleue"
+LocationName="PiÃ¨ce de rÃ©apparition bleue"
 
 [ZoneInfo25]
-LocationName="Pièce de réapparition avec bombe"
+LocationName="PiÃ¨ce de rÃ©apparition avec bombe"
 
 [ZoneInfo26]
-LocationName="Pièce lance-missiles"
+LocationName="PiÃ¨ce lance-missiles"
 
 [ZoneInfo27]
-LocationName="Pièce lance-missiles"
+LocationName="PiÃ¨ce lance-missiles"
 
 [ZoneInfo28]
-LocationName="Pièce à canon Flak"
+LocationName="PiÃ¨ce Ã  canon Flak"
 
 [ZoneInfo29]
-LocationName="Pièce de réapparition avec bombe"
+LocationName="PiÃ¨ce de rÃ©apparition avec bombe"
 
 [ZoneInfo3]
-LocationName="Pièce de réapparition rouge"
+LocationName="PiÃ¨ce de rÃ©apparition rouge"
 
 [ZoneInfo30]
 LocationName="Cour rouge"
 
 [ZoneInfo31]
-LocationName="Pièce de réapparition avec bombe"
+LocationName="PiÃ¨ce de rÃ©apparition avec bombe"
 
 [ZoneInfo32]
 LocationName="Cour rouge"

@@ -1,4 +1,4 @@
-[General]
+﻿[General]
 FrameWindow="Editeur de niveau"
 Start="UnrealEd (Lancement"
 Exit="UnrealEd (Sorie)"

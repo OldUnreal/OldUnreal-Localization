@@ -1,14 +1,14 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Maul"
 
 [LevelSummary]
 Title="Maul"
 
 [Volume0]
-LocationName="Côté bleu"
+LocationName="CÃ´tÃ© bleu"
 
 [Volume1]
-LocationName="Côté rouge"
+LocationName="CÃ´tÃ© rouge"
 
 [Volume2]
 LocationName="Base rouge"
@@ -17,7 +17,7 @@ LocationName="Base rouge"
 LocationName="Base bleue"
 
 [Volume4]
-LocationName="Toît bleu"
+LocationName="ToÃ®t bleu"
 
 [Volume5]
-LocationName="Toît rouge"
+LocationName="ToÃ®t rouge"

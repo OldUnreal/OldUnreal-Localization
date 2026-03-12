@@ -1,75 +1,75 @@
-[ASCriticalObjectiveVolume2]
-LocationName="Entrée station métro"
+ï»¿[ASCriticalObjectiveVolume2]
+LocationName="EntrÃ©e station mÃ©tro"
 
 [ASCriticalObjectiveVolume3]
-LocationName="Rame métro"
+LocationName="Rame mÃ©tro"
 
 [ASCriticalObjectiveVolume4]
 LocationName="Station"
 
 [DestroyableObjective_SM0]
 ObjectiveName="Verrou de porte"
-DestructionMessage="Verrou de porte détruit !"
-ObjectiveDescription="Détruire le verrou de porte"
-Objective_Info_Attacker="Détruire verrou de porte"
-Objective_Info_Defender="Protéger verrou de porte"
+DestructionMessage="Verrou de porte dÃ©truit !"
+ObjectiveDescription="DÃ©truire le verrou de porte"
+Objective_Info_Attacker="DÃ©truire verrou de porte"
+Objective_Info_Defender="ProtÃ©ger verrou de porte"
 
 [DestroyableObjective_SM1]
 ObjectiveName="barricade"
-DestructionMessage="barricade détruite !"
-ObjectiveDescription="Détruire la barricade"
-Objective_Info_Attacker="Détruire barricade"
-Objective_Info_Defender="Protéger barricade"
+DestructionMessage="barricade dÃ©truite !"
+ObjectiveDescription="DÃ©truire la barricade"
+Objective_Info_Attacker="DÃ©truire barricade"
+Objective_Info_Defender="ProtÃ©ger barricade"
 
 [DestroyableObjective_SM2]
 ObjectiveName="Verrou de porte"
-DestructionMessage="Verrou de porte détruit !"
-ObjectiveDescription="Détruire le verrou de porte"
-Objective_Info_Attacker="Détruire verrou de porte"
-Objective_Info_Defender="Protéger verrou de porte"
+DestructionMessage="Verrou de porte dÃ©truit !"
+ObjectiveDescription="DÃ©truire le verrou de porte"
+Objective_Info_Attacker="DÃ©truire verrou de porte"
+Objective_Info_Defender="ProtÃ©ger verrou de porte"
 
 [HoldObjective0]
-ObjectiveName="Explosif n°2"
+ObjectiveName="Explosif nÂ°2"
 DestructionMessage="Les explosifs sont en place !"
 ObjectiveDescription="Poser un explosif"
-Objective_Info_Attacker="Détruire centre commandement"
-Objective_Info_Defender="Protéger centre commandement"
+Objective_Info_Attacker="DÃ©truire centre commandement"
+Objective_Info_Defender="ProtÃ©ger centre commandement"
 
 [HoldObjective1]
-ObjectiveName="Poste avancé"
-DestructionMessage="Poste avancé pris !"
-ObjectiveDescription="Prendre poste avancé"
-Objective_Info_Attacker="Sécuriser poste avancé"
-Objective_Info_Defender="Protéger poste avancé"
+ObjectiveName="Poste avancÃ©"
+DestructionMessage="Poste avancÃ© pris !"
+ObjectiveDescription="Prendre poste avancÃ©"
+Objective_Info_Attacker="SÃ©curiser poste avancÃ©"
+Objective_Info_Defender="ProtÃ©ger poste avancÃ©"
 
 [HoldObjective2]
-ObjectiveName="Explosif n°1"
+ObjectiveName="Explosif nÂ°1"
 DestructionMessage="Les explosifs sont en place !"
 ObjectiveDescription="Poser un explosif"
-Objective_Info_Attacker="Détruire centre commandement"
-Objective_Info_Defender="Protéger centre commandement"
+Objective_Info_Attacker="DÃ©truire centre commandement"
+Objective_Info_Defender="ProtÃ©ger centre commandement"
 
 [LevelInfo0]
-Title="La ville déchue"
+Title="La ville dÃ©chue"
 
 [LevelSummary]
-Title="La ville déchue"
-Description="Après la guerre entre humains et skaarj, nombre de villes terriennes étaient en ruines. Alors qu'il tentait de reprendre le contrôle de ces régions, le Nouveau Gouvernement Terrien dut affronter de nombreux groupes de rebelles, souvent financés clandestinement par les corporations, qui s'étaient installés dans les cités détruites. Ce scénario reconstitue la destruction d'un centre de commandement rebelle par les forces du NGT. Pour respecter l'histoire, le point d'insertion des attaquants est assez éloigné du centre de commandement en raison des puissantes défenses antiaériennes qui entouraient le bunker."
+Title="La ville dÃ©chue"
+Description="AprÃ¨s la guerre entre humains et skaarj, nombre de villes terriennes Ã©taient en ruines. Alors qu'il tentait de reprendre le contrÃ´le de ces rÃ©gions, le Nouveau Gouvernement Terrien dut affronter de nombreux groupes de rebelles, souvent financÃ©s clandestinement par les corporations, qui s'Ã©taient installÃ©s dans les citÃ©s dÃ©truites. Ce scÃ©nario reconstitue la destruction d'un centre de commandement rebelle par les forces du NGT. Pour respecter l'histoire, le point d'insertion des attaquants est assez Ã©loignÃ© du centre de commandement en raison des puissantes dÃ©fenses antiaÃ©riennes qui entouraient le bunker."
 
 [SceneSubtitles1]
-SubTitles=("La guerre entre les Humains et les Skaarjs détruisit de nombreuses villes sur Terre. Lorsque le Nouveau Gouvernement Terrien voulut prendre le contrôle de ces zones","il se heurta à des groupes rebelles armés, secrètement financés par les grandes corporations qui avaient établi des bases dans ces ruines.","Ce scénario recrée la destruction d'un centre de commandement rebelle par les forces du NGT.","Comme dans la réalité, le point d'insertion des assaillants est éloigné du centre de commandement à cause de l'importante défense anti-aérienne placée autour du bunker.","Les assaillants doivent d'abord se frayer un chemin à pied dans les rues et éliminer toute résistance. Quand la zone sera nettoyée, des équipements seront largués pour vous permettre de continuer.","Ils doivent ensuite prendre le poste avancé. Lorsque le seteur sera nettoyé, une cargaison plus lourde sera larguée pour vous aider à continuer.","Les défenseurs se sont réfugiés au fond de ce bunker. Vous devrez passer les défenses et infiltrer le bunker pour atteindre leur centre de commandement.","Rejoignez le centre de commandement souterrain et placez des explosifs pour détruire toute la base. Cela devrait anéantir la résistance.")
+SubTitles=("La guerre entre les Humains et les Skaarjs dÃ©truisit de nombreuses villes sur Terre. Lorsque le Nouveau Gouvernement Terrien voulut prendre le contrÃ´le de ces zones","il se heurta Ã  des groupes rebelles armÃ©s, secrÃ¨tement financÃ©s par les grandes corporations qui avaient Ã©tabli des bases dans ces ruines.","Ce scÃ©nario recrÃ©e la destruction d'un centre de commandement rebelle par les forces du NGT.","Comme dans la rÃ©alitÃ©, le point d'insertion des assaillants est Ã©loignÃ© du centre de commandement Ã  cause de l'importante dÃ©fense anti-aÃ©rienne placÃ©e autour du bunker.","Les assaillants doivent d'abord se frayer un chemin Ã  pied dans les rues et Ã©liminer toute rÃ©sistance. Quand la zone sera nettoyÃ©e, des Ã©quipements seront larguÃ©s pour vous permettre de continuer.","Ils doivent ensuite prendre le poste avancÃ©. Lorsque le seteur sera nettoyÃ©, une cargaison plus lourde sera larguÃ©e pour vous aider Ã  continuer.","Les dÃ©fenseurs se sont rÃ©fugiÃ©s au fond de ce bunker. Vous devrez passer les dÃ©fenses et infiltrer le bunker pour atteindre leur centre de commandement.","Rejoignez le centre de commandement souterrain et placez des explosifs pour dÃ©truire toute la base. Cela devrait anÃ©antir la rÃ©sistance.")
 
 [Trigger_ASMessageTrigger0]
-Message="Bunker infiltré !"
+Message="Bunker infiltrÃ© !"
 
 [Trigger_ASMessageTrigger2]
-Message="Centre de commandement détruit !"
+Message="Centre de commandement dÃ©truit !"
 
 [Trigger_ASMessageTrigger3]
 Message="Explosifs en place !"
 
 [Volume0]
-LocationName="Poste avancé"
+LocationName="Poste avancÃ©"
 
 [Volume1]
 LocationName="Zone largage attaquants"
@@ -78,7 +78,7 @@ LocationName="Zone largage attaquants"
 LocationName="Escaliers"
 
 [Volume11]
-LocationName="Accueil station métro"
+LocationName="Accueil station mÃ©tro"
 
 [Volume12]
 LocationName="Toit station"
@@ -87,10 +87,10 @@ LocationName="Toit station"
 LocationName="Conduits"
 
 [Volume14]
-LocationName="Rame métro"
+LocationName="Rame mÃ©tro"
 
 [Volume15]
-LocationName="Voie métro"
+LocationName="Voie mÃ©tro"
 
 [Volume2]
 LocationName="Poste guet rebelle"
@@ -117,5 +117,5 @@ LocationName="Passage romain"
 LocationName="Distributeur tickets"
 
 [ZoneInfo0]
-LocationName="Ville détruite"
+LocationName="Ville dÃ©truite"
 

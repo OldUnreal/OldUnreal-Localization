@@ -1,9 +1,9 @@
-[ASTurret_IonCannon]
-VehiclePositionString="contrôle un canon ionique"
+ï»¿[ASTurret_IonCannon]
+VehiclePositionString="contrÃ´le un canon ionique"
 VehicleNameString="Canon ionique"
 
 [ASTurret_LinkTurret]
-VehiclePositionString="contrôle une tourelle link"
+VehiclePositionString="contrÃ´le une tourelle link"
 VehicleNameString="Tourelle Link"
 
 [ASVehicle_SpaceFighter_Human]
@@ -14,34 +14,34 @@ VehicleNameString="Chasseur spatial humain"
 VehicleNameString="Chasseur spatial skaarj"
 
 [DamTypeBallTurretPlasma]
-DeathString="%o a reçu de %k une dose de plasma supplémentaire."
-FemaleSuicide="%o s'est grillée avec son propre tir de plasma."
-MaleSuicide="%o s'est grillé avec son propre tir de plasma."
+DeathString="%o a reÃ§u de %k une dose de plasma supplÃ©mentaire."
+FemaleSuicide="%o s'est grillÃ©e avec son propre tir de plasma."
+MaleSuicide="%o s'est grillÃ© avec son propre tir de plasma."
 
 [DamTypeIonCannonBlast]
-DeathString="%o a été OBLITERE(E)"
-FemaleSuicide="%o a été OBLITEREE"
-MaleSuicide="%o a été OBLITERE"
+DeathString="%o a Ã©tÃ© OBLITERE(E)"
+FemaleSuicide="%o a Ã©tÃ© OBLITEREE"
+MaleSuicide="%o a Ã©tÃ© OBLITERE"
 
 [DamTypeLinkTurretBeam]
-DeathString="%o empalé(e) par le pieu vert de %k."
-FemaleSuicide="%o s'est empalée."
-MaleSuicide="%o s'est empalé."
+DeathString="%o empalÃ©(e) par le pieu vert de %k."
+FemaleSuicide="%o s'est empalÃ©e."
+MaleSuicide="%o s'est empalÃ©."
 
 [DamTypeLinkTurretPlasma]
-DeathString="%o a reçu de %k une dose de plasma supplémentaire."
-FemaleSuicide="%o s'est grillée avec son propre tir de plasma."
-MaleSuicide="%o s'est grillé avec son propre tir de plasma."
+DeathString="%o a reÃ§u de %k une dose de plasma supplÃ©mentaire."
+FemaleSuicide="%o s'est grillÃ©e avec son propre tir de plasma."
+MaleSuicide="%o s'est grillÃ© avec son propre tir de plasma."
 
 [DamTypeSpaceFighterLaser]
-DeathString="%o a reçu de %k une dose de laser supplémentaire."
-FemaleSuicide="%o s'est grillée avec son propre tir laser."
-MaleSuicide="%o s'est grillé avec son propre tir laser."
+DeathString="%o a reÃ§u de %k une dose de laser supplÃ©mentaire."
+FemaleSuicide="%o s'est grillÃ©e avec son propre tir laser."
+MaleSuicide="%o s'est grillÃ© avec son propre tir laser."
 
 [DamTypeSpaceFighterMissile]
-DeathString="%o n'a pas pu éviter le missile de %k."
-FemaleSuicide="%o s'est explosée hors de l'espace."
-MaleSuicide="%o s'est explosé hors de l'espace."
+DeathString="%o n'a pas pu Ã©viter le missile de %k."
+FemaleSuicide="%o s'est explosÃ©e hors de l'espace."
+MaleSuicide="%o s'est explosÃ© hors de l'espace."
 
 [Weapon_LinkTurret]
 ItemName="Arme de tourelle"

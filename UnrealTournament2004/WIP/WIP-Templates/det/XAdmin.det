@@ -1,4 +1,4 @@
-[AdminIni]
+﻿[AdminIni]
 ; EN: Msg_FinishGameEditFirst="You must finish your Game Edit before restarting the map"
 Msg_FinishGameEditFirst="Sie müssen Ihre Spielbearbeitung beenden, bevor Sie die Karte neu starten können"
 ; EN: Msg_FinishGameRestart="You must finish your Game Edit before changing or restarting the map"

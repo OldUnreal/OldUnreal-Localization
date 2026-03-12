@@ -1,4 +1,4 @@
-[Counter0]
+Ôªø[Counter0]
 CompleteMessage="Portelli di sfiato del nucleo aperti!"
 
 [Counter2]
@@ -126,7 +126,7 @@ Title="Assalto alla nave madre"
 
 [LevelSummary]
 Title="Assalto alla nave madre"
-Description="Il primo contatto con gli Skaarj avvenne durante il recupero del trasporto carcerario Vortex Rikers su Na Pali. Nel giro di un anno, gli Skaarj distrussero quasi completamente l'umanit‡. Questo scenario ricostruisce la battaglia finale per la Terra e la splendida vittoria degli Umani, che sembravano condannati. Una nave madre Skaarj orbitava attorno alla Terra, martellandola senza sosta per preparare lo sbarco finale. In una temeraria missione suicida, gli Umani attaccarono la nave madre Skaarj con dei caccia monoposto, per colpire un punto debole che avevano scoperto."
+Description="Il primo contatto con gli Skaarj avvenne durante il recupero del trasporto carcerario Vortex Rikers su Na Pali. Nel giro di un anno, gli Skaarj distrussero quasi completamente l'umanit√†. Questo scenario ricostruisce la battaglia finale per la Terra e la splendida vittoria degli Umani, che sembravano condannati. Una nave madre Skaarj orbitava attorno alla Terra, martellandola senza sosta per preparare lo sbarco finale. In una temeraria missione suicida, gli Umani attaccarono la nave madre Skaarj con dei caccia monoposto, per colpire un punto debole che avevano scoperto."
 
 [MessageTrigger15]
 Message="Preparati ad attaccare!"
@@ -142,7 +142,7 @@ Objective_Info_Attacker="Raggiungi la zona di atterraggio"
 Objective_Info_Defender="Impedisci agli umani di attraccare"
 
 [SceneSubtitles0]
-SubTitles=("Il primo contatto con gli Skaarj avvenne durante il recupero del trasporto carcerario Vortex Rikers su Na Pali. "," Nel giro di un anno, gli Skaarj distrussero quasi completamente l'umanit‡."," Questo scenario ricostruisce la battaglia finale per la Terra e la splendida vittoria degli Umani, che sembravano condannati. Una nave madre Skaarj orbitava attorno alla Terra, martellandola senza sosta per preparare lo sbarco finale."," In una temeraria missione suicida, gli Umani attaccarono la nave madre Skaarj con dei caccia monoposto, per colpire un punto debole che avevano scoperto.","Abbatti il generatore all'interno della sezione bassa della nave madre per disattivare i campi di forza.","Una volta completato, dirigiti verso l'alto nel corpo principale della nave madre Skaarj.","Distruggi i generatori superiori per disattivare lo scudo della zona d'atterraggio.","Continua e atterra nella zona d'atterraggio della nave madre.","Avviati a piedi e procedi alla sezione seguente.","Due meccanismi deviatori d'energia dovranno essere distrutti per procedere verso la stiva.","Otrepassato il ponte troverai il nucleo.","Una volta arrivato nella stiva troverai tre sentinelle.","Liberarsi delle sentinelle Ë l'unico modo per continuare.","Il campo di forza si disattiva una volta che le sentinelle sono state annientate.","Superato il ponte, il nucleo ti aspetta. ","Attiva il pannello per aprire i blocchi del portello.","Una volta attivati i pannelli, fai fuoco sui due conduttori del nucleo energico per destabilizzarlo.")
+SubTitles=("Il primo contatto con gli Skaarj avvenne durante il recupero del trasporto carcerario Vortex Rikers su Na Pali. "," Nel giro di un anno, gli Skaarj distrussero quasi completamente l'umanit√†."," Questo scenario ricostruisce la battaglia finale per la Terra e la splendida vittoria degli Umani, che sembravano condannati. Una nave madre Skaarj orbitava attorno alla Terra, martellandola senza sosta per preparare lo sbarco finale."," In una temeraria missione suicida, gli Umani attaccarono la nave madre Skaarj con dei caccia monoposto, per colpire un punto debole che avevano scoperto.","Abbatti il generatore all'interno della sezione bassa della nave madre per disattivare i campi di forza.","Una volta completato, dirigiti verso l'alto nel corpo principale della nave madre Skaarj.","Distruggi i generatori superiori per disattivare lo scudo della zona d'atterraggio.","Continua e atterra nella zona d'atterraggio della nave madre.","Avviati a piedi e procedi alla sezione seguente.","Due meccanismi deviatori d'energia dovranno essere distrutti per procedere verso la stiva.","Otrepassato il ponte troverai il nucleo.","Una volta arrivato nella stiva troverai tre sentinelle.","Liberarsi delle sentinelle √® l'unico modo per continuare.","Il campo di forza si disattiva una volta che le sentinelle sono state annientate.","Superato il ponte, il nucleo ti aspetta. ","Attiva il pannello per aprire i blocchi del portello.","Una volta attivati i pannelli, fai fuoco sui due conduttori del nucleo energico per destabilizzarlo.")
 
 [Trigger_ASMessageTrigger14]
 Message="Campo di forza disattivato..."
@@ -163,7 +163,7 @@ Message="Gli attaccanti sono sbarcati!"
 Message="Gli attaccanti sono entrati nel nucleo!"
 
 [Trigger_ASMessageTrigger8]
-Message="Il nucleo Ë diventato instabile!"
+Message="Il nucleo √® diventato instabile!"
 
 [Trigger_ASMessageTrigger9]
 Message="Campo di forza della zona di atterraggio disattivato"

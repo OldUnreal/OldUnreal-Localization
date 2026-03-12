@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ; EN: ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UnrealGame.MutBigHead,Description="Head size depends on how well you are doing.")
 ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UnrealGame.MutBigHead,Description="La taille de la tête dépend de la façon dont vous vous débrouillez.")
 ; EN: ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UnrealGame.MutLowGrav,Description="Low gravity.")

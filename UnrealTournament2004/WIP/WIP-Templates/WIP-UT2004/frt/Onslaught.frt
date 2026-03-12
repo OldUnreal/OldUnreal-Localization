@@ -1,75 +1,75 @@
-[ActionMessage_ONS]
-Messages[0]="Bienvenue à l'entraînement du mode Attaque"
-Messages[1]="Différents types de véhicules sont disponibles."
-Messages[2]="UTILISER vous permet d'entrer dans les véhicules ou d'en sortir."
-Messages[3]="Certains véhicules peuvent transporter des passagers."
-Messages[4]="Chaque équipe dans ce mode a un générateur."
-Messages[5]="Ces générateurs sont connectés l'un à l'autre par des relais."
-Messages[6]="Vous pouvez voir le réseau de relais sur la carte aérienne."
-Messages[7]="L'objectif est de détruire le générateur d'énergie de l'autre équipe."
-Messages[8]=" Seuls les relais ou générateurs adjacents à un des vôtres."
-Messages[9]="Vous devez tout d'abord détruire le relais."
-Messages[10]="Passez sur le point d'accès pour déclencher la construction."
-Messages[11]="Des véhicules apparaissent."
-Messages[12]="Ils seront tout d'abord verrouillés par l'équipe adverse"
-Messages[13]="Le Link Gun peut réparer les véhicules et relais abîmés."
-Messages[14]="Les générateurs endommagés ne peuvent être réparés."
-Messages[15]="Construisez un réseau entre les relais énergétiques"
-Messages[16]="pour atteindre le générateur ennemi et détruisez-le."
+ï»¿[ActionMessage_ONS]
+Messages[0]="Bienvenue Ã  l'entraÃ®nement du mode Attaque"
+Messages[1]="DiffÃ©rents types de vÃ©hicules sont disponibles."
+Messages[2]="UTILISER vous permet d'entrer dans les vÃ©hicules ou d'en sortir."
+Messages[3]="Certains vÃ©hicules peuvent transporter des passagers."
+Messages[4]="Chaque Ã©quipe dans ce mode a un gÃ©nÃ©rateur."
+Messages[5]="Ces gÃ©nÃ©rateurs sont connectÃ©s l'un Ã  l'autre par des relais."
+Messages[6]="Vous pouvez voir le rÃ©seau de relais sur la carte aÃ©rienne."
+Messages[7]="L'objectif est de dÃ©truire le gÃ©nÃ©rateur d'Ã©nergie de l'autre Ã©quipe."
+Messages[8]=" Seuls les relais ou gÃ©nÃ©rateurs adjacents Ã  un des vÃ´tres."
+Messages[9]="Vous devez tout d'abord dÃ©truire le relais."
+Messages[10]="Passez sur le point d'accÃ¨s pour dÃ©clencher la construction."
+Messages[11]="Des vÃ©hicules apparaissent."
+Messages[12]="Ils seront tout d'abord verrouillÃ©s par l'Ã©quipe adverse"
+Messages[13]="Le Link Gun peut rÃ©parer les vÃ©hicules et relais abÃ®mÃ©s."
+Messages[14]="Les gÃ©nÃ©rateurs endommagÃ©s ne peuvent Ãªtre rÃ©parÃ©s."
+Messages[15]="Construisez un rÃ©seau entre les relais Ã©nergÃ©tiques"
+Messages[16]="pour atteindre le gÃ©nÃ©rateur ennemi et dÃ©truisez-le."
 Messages[17]="Fin du didacticiel Attaque. Bonne chance !"
 
 [DamTypeAttackCraftMissle]
-DeathString="%o n'a pas su éviter le missile air-air de %k."
-FemaleSuicide="%o s'est évaporée toute seule dans le ciel."
-MaleSuicide="%o s'est évaporé tout seul dans le ciel."
+DeathString="%o n'a pas su Ã©viter le missile air-air de %k."
+FemaleSuicide="%o s'est Ã©vaporÃ©e toute seule dans le ciel."
+MaleSuicide="%o s'est Ã©vaporÃ© tout seul dans le ciel."
 
 [DamTypeAttackCraftPlasma]
-DeathString="Le Raptor de %k a aspergé %o de plasma."
+DeathString="Le Raptor de %k a aspergÃ© %o de plasma."
 FemaleSuicide="%o s'est faite frire avec son plasma."
 MaleSuicide="%o s'est fait frire avec son plasma."
 
 [DamTypeChargingBeam]
-DeathString="%o a été incinéré(e) par les faisceaux jumelés de %k."
-FemaleSuicide="%o a réussi à se tuer avec une tourelle."
-MaleSuicide="%o a réussi à se tuer avec une tourelle."
+DeathString="%o a Ã©tÃ© incinÃ©rÃ©(e) par les faisceaux jumelÃ©s de %k."
+FemaleSuicide="%o a rÃ©ussi Ã  se tuer avec une tourelle."
+MaleSuicide="%o a rÃ©ussi Ã  se tuer avec une tourelle."
 
 [DamTypeDestroyedVehicleRoadKill]
-DeathString="Un engin de %k a écrabouillé %o"
-FemaleSuicide="%o n'a pas pu éviter l'engin qu'elle a détruit."
-MaleSuicide="%o n'a pas pu éviter l'engin qu'il a détruit."
+DeathString="Un engin de %k a Ã©crabouillÃ© %o"
+FemaleSuicide="%o n'a pas pu Ã©viter l'engin qu'elle a dÃ©truit."
+MaleSuicide="%o n'a pas pu Ã©viter l'engin qu'il a dÃ©truit."
 
 [DamTypeHoverBikeHeadshot]
-DeathString="%k a explosé la tête de %o."
+DeathString="%k a explosÃ© la tÃªte de %o."
 
 [DamTypeHoverBikePlasma]
-DeathString="Le Manta de %k a aspergé %o de plasma."
+DeathString="Le Manta de %k a aspergÃ© %o de plasma."
 FemaleSuicide="%o s'est faite frire avec son plasma."
 MaleSuicide="%o s'est fait frire avec son plasma."
 
 [DamTypeONSAVRiLRocket]
-DeathString="%k a explosé %o avec un AVRiL."
-FemaleSuicide="%o a tenu son arme à l'envers."
-MaleSuicide="%o a tenu son arme à l'envers."
+DeathString="%k a explosÃ© %o avec un AVRiL."
+FemaleSuicide="%o a tenu son arme Ã  l'envers."
+MaleSuicide="%o a tenu son arme Ã  l'envers."
 
 [DamTypeONSChainGun]
-DeathString="%o a été découpé(e) par le minigun de %k."
-FemaleSuicide="%o a retourné son minigun contre elle."
-MaleSuicide="%o a retourné son minigun contre lui."
+DeathString="%o a Ã©tÃ© dÃ©coupÃ©(e) par le minigun de %k."
+FemaleSuicide="%o a retournÃ© son minigun contre elle."
+MaleSuicide="%o a retournÃ© son minigun contre lui."
 
 [DamTypeONSGrenade]
-DeathString="%o a joué avec la baballe de %k..."
+DeathString="%o a jouÃ© avec la baballe de %k..."
 FemaleSuicide="Eh, %o, les grenades sont pour les ennemis..."
 MaleSuicide="Eh, %o, les grenades sont pour les ennemis..."
 
 [DamTypeONSMine]
-DeathString="%o est entré(e) chez %k"
-FemaleSuicide="%o a essayé une de ses mines... Elles marchent !"
-MaleSuicide="%o a essayé une de ses mines... Elles marchent !"
+DeathString="%o est entrÃ©(e) chez %k"
+FemaleSuicide="%o a essayÃ© une de ses mines... Elles marchent !"
+MaleSuicide="%o a essayÃ© une de ses mines... Elles marchent !"
 
 [DamTypeONSRVBlade]
-DeathString="%o a été tranché(e)."
-FemaleSuicide="%o a été tranchée."
-MaleSuicide="%o a été tranché."
+DeathString="%o a Ã©tÃ© tranchÃ©(e)."
+FemaleSuicide="%o a Ã©tÃ© tranchÃ©e."
+MaleSuicide="%o a Ã©tÃ© tranchÃ©."
 
 [DamTypeONSVehicle]
 DeathString="%o a eu un accident."
@@ -77,59 +77,59 @@ FemaleSuicide="%o a eu un accident."
 MaleSuicide="%o a eu un accident."
 
 [DamTypeONSVehicleExplosion]
-DeathString="%k a tué %o grâce à une explosion de véhicule."
-FemaleSuicide="%o était un peu trop près de l'engin qu'elle a explosé."
-MaleSuicide="%o était un peu trop près de l'engin qu'il a explosé."
+DeathString="%k a tuÃ© %o grÃ¢ce Ã  une explosion de vÃ©hicule."
+FemaleSuicide="%o Ã©tait un peu trop prÃ¨s de l'engin qu'elle a explosÃ©."
+MaleSuicide="%o Ã©tait un peu trop prÃ¨s de l'engin qu'il a explosÃ©."
 
 [DamTypeONSWeb]
-DeathString="%o a été englué(e) par %k."
+DeathString="%o a Ã©tÃ© engluÃ©(e) par %k."
 FemaleSuicide="%o a eu une fin gluante."
 MaleSuicide="%o a eu une fin gluante."
 
 [DamTypePRVCombo]
-DeathString="%o n'a pas pu échapper à la puissance de la mine volante de %k."
-FemaleSuicide="%o a fait péter un peu trop tôt ses mines volantes."
-MaleSuicide="%o a fait péter un peu trop tôt ses mines volantes."
+DeathString="%o n'a pas pu Ã©chapper Ã  la puissance de la mine volante de %k."
+FemaleSuicide="%o a fait pÃ©ter un peu trop tÃ´t ses mines volantes."
+MaleSuicide="%o a fait pÃ©ter un peu trop tÃ´t ses mines volantes."
 
 [DamTypePRVLaser]
-DeathString="Le laser de %k a grillé %o."
-FemaleSuicide="%o s'est rôtie avec son laser."
-MaleSuicide="%o s'est rôti avec son laser."
+DeathString="Le laser de %k a grillÃ© %o."
+FemaleSuicide="%o s'est rÃ´tie avec son laser."
+MaleSuicide="%o s'est rÃ´ti avec son laser."
 
 [DamTypePancake]
-DeathString="%o écrasé(e) par %k."
-FemaleSuicide="%o écrasée."
-MaleSuicide="%o écrasé."
+DeathString="%o Ã©crasÃ©(e) par %k."
+FemaleSuicide="%o Ã©crasÃ©e."
+MaleSuicide="%o Ã©crasÃ©."
 
 [DamTypeRoadkill]
-DeathString="%k a renversé %o"
-FemaleSuicide="%o s'est renversée"
-MaleSuicide="%o s'est renversé"
+DeathString="%k a renversÃ© %o"
+FemaleSuicide="%o s'est renversÃ©e"
+MaleSuicide="%o s'est renversÃ©"
 
 [DamTypeSkyMine]
-DeathString="%o est passé(e) sur une mine volante de %k."
-FemaleSuicide="%o est passée sur sa mine volante."
-MaleSuicide="%o est passé sur sa mine volante."
+DeathString="%o est passÃ©(e) sur une mine volante de %k."
+FemaleSuicide="%o est passÃ©e sur sa mine volante."
+MaleSuicide="%o est passÃ© sur sa mine volante."
 
 [DamTypeTankShell]
-DeathString="La roquette de %k a fait des étincelles de %o."
-FemaleSuicide="%o a tiré trop vite sa roquette."
-MaleSuicide="%o a tiré trop vite sa roquette."
+DeathString="La roquette de %k a fait des Ã©tincelles de %o."
+FemaleSuicide="%o a tirÃ© trop vite sa roquette."
+MaleSuicide="%o a tirÃ© trop vite sa roquette."
 
 [DamTypeTurretBeam]
-DeathString="La tourelle de %k a électrocuté %o."
-FemaleSuicide="%o a réussi à se tuer avec une tourelle."
-MaleSuicide="%o a réussi à se tuer avec une tourelle."
+DeathString="La tourelle de %k a Ã©lectrocutÃ© %o."
+FemaleSuicide="%o a rÃ©ussi Ã  se tuer avec une tourelle."
+MaleSuicide="%o a rÃ©ussi Ã  se tuer avec une tourelle."
 
 [MutBigWheels]
 FriendlyName="Grosses roues"
-Description="La taille des roues dépend de vos performances."
+Description="La taille des roues dÃ©pend de vos performances."
 
 [MutLightweightVehicles]
 DisplayText="Multiplicateur de moment"
-DescText="Le moment appliqué aux véhicules par les dégâts est multiplié d'autant. "
-FriendlyName="Véhicules légers"
-Description="Les véhicules volent plus loin lorsqu'on les frappe."
+DescText="Le moment appliquÃ© aux vÃ©hicules par les dÃ©gÃ¢ts est multipliÃ© d'autant. "
+FriendlyName="VÃ©hicules lÃ©gers"
+Description="Les vÃ©hicules volent plus loin lorsqu'on les frappe."
 
 [MutOnslaughtWeapons]
 ONSWeaponDisplayText[0]="Inclure AVRiL"
@@ -138,21 +138,21 @@ ONSWeaponDisplayText[2]="Inclure poseur de mines"
 ONSWeaponDisplayText[3]="Remplacer par poseur de mines"
 ONSWeaponDisplayText[4]="Inclure lance-grenades"
 ONSWeaponDisplayText[5]="Remplacer par lance-grenades"
-ONSWeaponDescText[0]="Choisir si l'AVRiL sera ajouté à la partie"
+ONSWeaponDescText[0]="Choisir si l'AVRiL sera ajoutÃ© Ã  la partie"
 ONSWeaponDescText[1]="Remplacer arme par AVRiL"
-ONSWeaponDescText[2]="Choisir si le poseur de mines sera ajouté à la partie"
+ONSWeaponDescText[2]="Choisir si le poseur de mines sera ajoutÃ© Ã  la partie"
 ONSWeaponDescText[3]="Remplacer arme par poseur de mines"
-ONSWeaponDescText[4]="Choisir si le lance-grenades sera ajouté à la partie"
+ONSWeaponDescText[4]="Choisir si le lance-grenades sera ajoutÃ© Ã  la partie"
 ONSWeaponDescText[5]="Remplacer arme par lance-grenades"
 FriendlyName="Armes d'Attaque"
 Description="Ajouter les armes du mode Attaque aux autres parties"
 
 [MutWheeledVehicleStunts]
-FriendlyName="Acrobaties véhic."
-Description="Les joueurs peuvent faire sauter le véhicules sur roues. Maintenez la touche 's'accroupir' appuyée puis relâchez-la pour sauter. Les joueurs peuvent aussi contrôler les véhicules sur roues en vol."
+FriendlyName="Acrobaties vÃ©hic."
+Description="Les joueurs peuvent faire sauter le vÃ©hicules sur roues. Maintenez la touche 's'accroupir' appuyÃ©e puis relÃ¢chez-la pour sauter. Les joueurs peuvent aussi contrÃ´ler les vÃ©hicules sur roues en vol."
 
 [ONSAVRiL]
-Description="Le lance-roquettes anti-engins AVRiL tire des missiles guidés très puissants."
+Description="Le lance-roquettes anti-engins AVRiL tire des missiles guidÃ©s trÃ¨s puissants."
 ItemName="AVRiL"
 
 [ONSAVRiLAmmo]
@@ -180,7 +180,7 @@ StuntInfoString5="Retournement :"
 StuntInfoString6="Roulis :"
 StuntInfoString7=","
 StuntInfoString8="sec"
-StuntDegrees="°"
+StuntDegrees="Â°"
 
 [ONSGrenadeAmmo]
 ItemName="Grenades"
@@ -189,7 +189,7 @@ ItemName="Grenades"
 PickupMessage="Vous avez des grenades"
 
 [ONSGrenadeLauncher]
-Description="Le lance-grenades MGG tire des grenades à accrochage magnétique qui s'agrippent aux joueurs et aux véhicules."
+Description="Le lance-grenades MGG tire des grenades Ã  accrochage magnÃ©tique qui s'agrippent aux joueurs et aux vÃ©hicules."
 ItemName="Lance-grenades"
 
 [ONSGrenadePickup]
@@ -204,15 +204,15 @@ VehiclePositionString="dans un Goliath"
 VehicleNameString="Goliath"
 
 [ONSLinkDesignMessage]
-SaveSetupString="Config. connexions sauvegardée."
-LoadSetupString="Config. connexions chargée."
-SaveFailedString="Impossible d'écraser les config. connexions officielles !"
+SaveSetupString="Config. connexions sauvegardÃ©e."
+LoadSetupString="Config. connexions chargÃ©e."
+SaveFailedString="Impossible d'Ã©craser les config. connexions officielles !"
 LoadFailedString="Aucune config. connexions de ce nom. Chargement impossible."
-DeleteSetupString="Config. connexions effacée."
+DeleteSetupString="Config. connexions effacÃ©e."
 DeleteOfficialFailedString="Impossible d'effacer les config. connexions officielles !"
 DeleteNothingString="Aucune config. connexions de ce nom. Effacement impossible."
-NoPathToPowerCoreString="Impossible de sauvegarder la config.  de liaison : il doit exister un chemin complet entre générateurs."
-LoadFailedNoPathToCoreString="Echec du chargement de config. de connexions car le chemin entre les deux générateurs n'est pas complet ."
+NoPathToPowerCoreString="Impossible de sauvegarder la config.  de liaison : il doit exister un chemin complet entre gÃ©nÃ©rateurs."
+LoadFailedNoPathToCoreString="Echec du chargement de config. de connexions car le chemin entre les deux gÃ©nÃ©rateurs n'est pas complet ."
 
 [ONSMineAmmo]
 ItemName="Mines parasites"
@@ -221,79 +221,79 @@ ItemName="Mines parasites"
 PickupMessage="Vous avez des mines parasites"
 
 [ONSMineLayer]
-Description="Le poseur de mines Spider dépose des mines araignées autonomes très efficaces contre les fantassins et les véhicules."
+Description="Le poseur de mines Spider dÃ©pose des mines araignÃ©es autonomes trÃ¨s efficaces contre les fantassins et les vÃ©hicules."
 ItemName="Poseur de mines"
 
 [ONSMineLayerPickup]
 PickupMessage="Vous avez le poseur de mines."
 
 [ONSOnslaughtGame]
-ONSPropsDisplayText[0]="Drainage de gén. en prolong."
-ONSPropsDisplayText[1]="Config. aléatoire"
-ONSPropsDisplayText[2]="Les équipes changent de côté après réinitialisation"
-ONSPropDescText[0]="En prolongation, les générateurs perdent au maximum cette quantité de santé chaque seconde."
-ONSPropDescText[1]="Après réinitialisation, une nouvelle config. connexions sera choisie au hasard."
-ONSPropDescText[2]="Après réinitialisation, les équipes changent de côté pour défendre le Générateur qu'elles attaquaient auparavant."
-ONSHints=("Si vous recevez un avertissement de verrouillage missile, tâchez de disparaître rapidement !","Les missiles du Raptor se verrouillent automatiquement sur les Manta et les autres Raptor.","A bord du Raptor, appuyez sur %JUMP% pour monter et sur %DUCK% pour descendre.","Le Manta peut descendre rapidement pour frapper l'ennemi en appuyant sur %DUCK% ou %ALTFIRE%.","Appuyez sur %JUMP% pour faire un 180 à bord du Hellbender ou du Scorpion.","Le Manta est le seul véhicule capable de sauter.","Déployé, le Leviathan est très vulnérable aux attaques aériennes.","Il est possible de remettre en état un engin ami à l'aide du tir secondaire du link gun.","Il est possible de remettre en état un relais ami à l'aide du tir secondaire du link gun.","Il est impossible de remettre en état le générateur : protégez-le à tout prix !","Appuyez sur %TOGGLERADARMAP% pour afficher/masquer la carte radar.","Vous risquez d'être blessé ou tué par l'explosion d'un véhicule.","Il est possible de détruire les mines spider ennemies, mais toutes les armes ne sont pas aussi efficaces.","Appuyer sur %USE% à un relais permet de se téléporter vers tout relais contrôlé par votre équipe.","Il est impossible de réapparaître dans un relais attaqué, même s'il est contrôlé par votre équipe.","Si vous mourez, toutes les grenades et mines Spider que vous aurez lancées exploseront.","Appuyez sur %VOICETALK% pour discuter oralement avec votre équipe.","%BASEPATH 0% indique le chemin vers le plus proche relais ou générateur que peut attaquer l'équipe rouge, tandis que %BASEPATH 1% remplit la même fonction pour l'équipe bleue.","Appuyez sur %TOGGLEBEHINDVIEW% pour basculer entre la vue subjective et la vue extérieure depuis un véhicule.","Les roquettes AVRiL resteront verrouillées sur un engin occupé par l'ennemi tant que vous maintiendrez le réticule sur cet engin.","Lorsque vous trouverez une cible avec l'AVRiL, utilisez le tir secondaire pour zoomer et verrouiller votre visée sur cette cible.","Une lumière verte au-dessus de casiers à munitions indique qu'ils contiennent des munitions supplémentaires.","Attaquez les relais surplombés par un faisceau lumineux de la couleur de l'équipe adverse.","Il est impossible d'attaquer le générateur ou un relais en cas de présence d'un bouclier énergétique. Supprimez le bouclier en contrôlant un relais auquel il est relié.","Le lance-grenades tire des grenades adhésives qui se fixent aux véhicules et aux joueurs. Vous devrez les faire exploser à l'aide du tir secondaire (appuyez sur %ALTFIRE%)","Le bombardier appelé par l'illuminateur de cible peut être abattu par l'ennemi.")
+ONSPropsDisplayText[0]="Drainage de gÃ©n. en prolong."
+ONSPropsDisplayText[1]="Config. alÃ©atoire"
+ONSPropsDisplayText[2]="Les Ã©quipes changent de cÃ´tÃ© aprÃ¨s rÃ©initialisation"
+ONSPropDescText[0]="En prolongation, les gÃ©nÃ©rateurs perdent au maximum cette quantitÃ© de santÃ© chaque seconde."
+ONSPropDescText[1]="AprÃ¨s rÃ©initialisation, une nouvelle config. connexions sera choisie au hasard."
+ONSPropDescText[2]="AprÃ¨s rÃ©initialisation, les Ã©quipes changent de cÃ´tÃ© pour dÃ©fendre le GÃ©nÃ©rateur qu'elles attaquaient auparavant."
+ONSHints=("Si vous recevez un avertissement de verrouillage missile, tÃ¢chez de disparaÃ®tre rapidement !","Les missiles du Raptor se verrouillent automatiquement sur les Manta et les autres Raptor.","A bord du Raptor, appuyez sur %JUMP% pour monter et sur %DUCK% pour descendre.","Le Manta peut descendre rapidement pour frapper l'ennemi en appuyant sur %DUCK% ou %ALTFIRE%.","Appuyez sur %JUMP% pour faire un 180 Ã  bord du Hellbender ou du Scorpion.","Le Manta est le seul vÃ©hicule capable de sauter.","DÃ©ployÃ©, le Leviathan est trÃ¨s vulnÃ©rable aux attaques aÃ©riennes.","Il est possible de remettre en Ã©tat un engin ami Ã  l'aide du tir secondaire du link gun.","Il est possible de remettre en Ã©tat un relais ami Ã  l'aide du tir secondaire du link gun.","Il est impossible de remettre en Ã©tat le gÃ©nÃ©rateur : protÃ©gez-le Ã  tout prix !","Appuyez sur %TOGGLERADARMAP% pour afficher/masquer la carte radar.","Vous risquez d'Ãªtre blessÃ© ou tuÃ© par l'explosion d'un vÃ©hicule.","Il est possible de dÃ©truire les mines spider ennemies, mais toutes les armes ne sont pas aussi efficaces.","Appuyer sur %USE% Ã  un relais permet de se tÃ©lÃ©porter vers tout relais contrÃ´lÃ© par votre Ã©quipe.","Il est impossible de rÃ©apparaÃ®tre dans un relais attaquÃ©, mÃªme s'il est contrÃ´lÃ© par votre Ã©quipe.","Si vous mourez, toutes les grenades et mines Spider que vous aurez lancÃ©es exploseront.","Appuyez sur %VOICETALK% pour discuter oralement avec votre Ã©quipe.","%BASEPATH 0% indique le chemin vers le plus proche relais ou gÃ©nÃ©rateur que peut attaquer l'Ã©quipe rouge, tandis que %BASEPATH 1% remplit la mÃªme fonction pour l'Ã©quipe bleue.","Appuyez sur %TOGGLEBEHINDVIEW% pour basculer entre la vue subjective et la vue extÃ©rieure depuis un vÃ©hicule.","Les roquettes AVRiL resteront verrouillÃ©es sur un engin occupÃ© par l'ennemi tant que vous maintiendrez le rÃ©ticule sur cet engin.","Lorsque vous trouverez une cible avec l'AVRiL, utilisez le tir secondaire pour zoomer et verrouiller votre visÃ©e sur cette cible.","Une lumiÃ¨re verte au-dessus de casiers Ã  munitions indique qu'ils contiennent des munitions supplÃ©mentaires.","Attaquez les relais surplombÃ©s par un faisceau lumineux de la couleur de l'Ã©quipe adverse.","Il est impossible d'attaquer le gÃ©nÃ©rateur ou un relais en cas de prÃ©sence d'un bouclier Ã©nergÃ©tique. Supprimez le bouclier en contrÃ´lant un relais auquel il est reliÃ©.","Le lance-grenades tire des grenades adhÃ©sives qui se fixent aux vÃ©hicules et aux joueurs. Vous devrez les faire exploser Ã  l'aide du tir secondaire (appuyez sur %ALTFIRE%)","Le bombardier appelÃ© par l'illuminateur de cible peut Ãªtre abattu par l'ennemi.")
 GameName="Attaque"
-Description="Votre équipe doit contrôler les relais en "reliant les points" afin d'établir une ligne menant au générateur ennemi. Après avoir établi un lien vers le relais suivant, vous pourrez le détruire s'il est contrôlé par l'ennemi. Prenez le contrôle d'un relais en le touchant afin de lancer le processus de construction (utilisez le tir secondaire du link gun pour accélérer la construction). Lorsque votre équipe aura une connexion au générateur ennemi, attaquez et détruisez-le."
+Description="Votre Ã©quipe doit contrÃ´ler les relais en "reliant les points" afin d'Ã©tablir une ligne menant au gÃ©nÃ©rateur ennemi. AprÃ¨s avoir Ã©tabli un lien vers le relais suivant, vous pourrez le dÃ©truire s'il est contrÃ´lÃ© par l'ennemi. Prenez le contrÃ´le d'un relais en le touchant afin de lancer le processus de construction (utilisez le tir secondaire du link gun pour accÃ©lÃ©rer la construction). Lorsque votre Ã©quipe aura une connexion au gÃ©nÃ©rateur ennemi, attaquez et dÃ©truisez-le."
 
 [ONSOnslaughtMessage]
-RedTeamDominatesString="L'équipe rouge a gagné !"
-BlueTeamDominatesString="L'équipe bleue a gagné !"
-RedTeamPowerCoreString="Relais équipe rouge construit !"
-BlueTeamPowerCoreString="Relais équipe bleue construit !"
-VehicleLockedString="Engin verrouillé !"
-InvincibleCoreString="Impossible d'endommager des relais non connectés !"
-UnattainableNodeString="Impossible d'obtenir des relais non connectés !"
-RedPowerCoreAttackedString="Générateur équipe rouge attaqué !"
-BluePowerCoreAttackedString="Générateur équipe bleue attaqué !"
-RedPowerNodeAttackedString="Relais équipe rouge attaqué !"
-BluePowerNodeAttackedString="Relais équipe bleue attaqué !"
-InWayOfVehicleSpawnString="Vous génez l'apparition d'un véhicule !"
-MissileLockOnString="Missile verrouillé !"
-UnpoweredString="Tourelle non alimentée !"
-RedPowerCoreDestroyedString="Générateur rouge détruit"
-BluePowerCoreDestroyedString="Générateur bleu détruit"
-RedPowerNodeDestroyedString="Relais rouge détruit"
-BluePowerNodeDestroyedString="Relais bleu détruit"
-RedPowerCoreCriticalString="Générateur rouge critique !"
-BluePowerCoreCriticalString="Générateur bleu critique !"
-PressUseToTeleportString="Touche UTILISER : se téléporter vers autre relais"
-RedPowerCoreVulnerableString="Générateur rouge vulnérable !"
-BluePowerCoreVulnerableString="Générateur bleu vulnérable !"
+RedTeamDominatesString="L'Ã©quipe rouge a gagnÃ© !"
+BlueTeamDominatesString="L'Ã©quipe bleue a gagnÃ© !"
+RedTeamPowerCoreString="Relais Ã©quipe rouge construit !"
+BlueTeamPowerCoreString="Relais Ã©quipe bleue construit !"
+VehicleLockedString="Engin verrouillÃ© !"
+InvincibleCoreString="Impossible d'endommager des relais non connectÃ©s !"
+UnattainableNodeString="Impossible d'obtenir des relais non connectÃ©s !"
+RedPowerCoreAttackedString="GÃ©nÃ©rateur Ã©quipe rouge attaquÃ© !"
+BluePowerCoreAttackedString="GÃ©nÃ©rateur Ã©quipe bleue attaquÃ© !"
+RedPowerNodeAttackedString="Relais Ã©quipe rouge attaquÃ© !"
+BluePowerNodeAttackedString="Relais Ã©quipe bleue attaquÃ© !"
+InWayOfVehicleSpawnString="Vous gÃ©nez l'apparition d'un vÃ©hicule !"
+MissileLockOnString="Missile verrouillÃ© !"
+UnpoweredString="Tourelle non alimentÃ©e !"
+RedPowerCoreDestroyedString="GÃ©nÃ©rateur rouge dÃ©truit"
+BluePowerCoreDestroyedString="GÃ©nÃ©rateur bleu dÃ©truit"
+RedPowerNodeDestroyedString="Relais rouge dÃ©truit"
+BluePowerNodeDestroyedString="Relais bleu dÃ©truit"
+RedPowerCoreCriticalString="GÃ©nÃ©rateur rouge critique !"
+BluePowerCoreCriticalString="GÃ©nÃ©rateur bleu critique !"
+PressUseToTeleportString="Touche UTILISER : se tÃ©lÃ©porter vers autre relais"
+RedPowerCoreVulnerableString="GÃ©nÃ©rateur rouge vulnÃ©rable !"
+BluePowerCoreVulnerableString="GÃ©nÃ©rateur bleu vulnÃ©rable !"
 RedPowerNodeUnderConstructionString="Relais rouge en construction !"
 BluePowerNodeUnderConstructionString="Relais bleu en construction !"
-RedPowerCoreDamagedString="Générateur rouge à 50% !"
-BluePowerCoreDamagedString="Générateur bleu à 50% !"
-RedPowerNodeSeveredString="Relais rouge isolé !"
-BluePowerNodeSeveredString="Relais bleu isolé !"
-PowerCoresAreDrainingString="Les générateurs consomment !"
-UnhealablePowerCoreString="Impossible de remettre en état votre générateur"
-AvrilLockOnString="Missile à guidage IR en approche" 
-CameraDeploy="Utilisez le tir secondaire pour déployer la caméra" 
+RedPowerCoreDamagedString="GÃ©nÃ©rateur rouge Ã  50% !"
+BluePowerCoreDamagedString="GÃ©nÃ©rateur bleu Ã  50% !"
+RedPowerNodeSeveredString="Relais rouge isolÃ© !"
+BluePowerNodeSeveredString="Relais bleu isolÃ© !"
+PowerCoresAreDrainingString="Les gÃ©nÃ©rateurs consomment !"
+UnhealablePowerCoreString="Impossible de remettre en Ã©tat votre gÃ©nÃ©rateur"
+AvrilLockOnString="Missile Ã  guidage IR en approche" 
+CameraDeploy="Utilisez le tir secondaire pour dÃ©ployer la camÃ©ra" 
 MoveReticle=""
-SPMAAcquiredString="Acquisition Artillerie motorisée" 
+SPMAAcquiredString="Acquisition Artillerie motorisÃ©e" 
 
 [ONSPRV]
 VehiclePositionString="dans un HellBender"
 VehicleNameString="HellBender"
 
 [ONSPRVRearGunPawn]
-VehiclePositionString="dans une tourelle arrière de Hellbender"
-VehicleNameString="Tourelle arrière Hellbender"
+VehiclePositionString="dans une tourelle arriÃ¨re de Hellbender"
+VehicleNameString="Tourelle arriÃ¨re Hellbender"
 
 [ONSPRVSideGunPawn]
-VehiclePositionString="dans une tourelle latérale de Hellbender"
-VehicleNameString="Tourelle latérale Hellbender"
+VehiclePositionString="dans une tourelle latÃ©rale de Hellbender"
+VehicleNameString="Tourelle latÃ©rale Hellbender"
 
 [ONSPowerCore]
-ObjectiveStringSuffix=" Générateur équipe"
+ObjectiveStringSuffix=" GÃ©nÃ©rateur Ã©quipe"
 
 [ONSPowerNode]
 NeutralString="Relais neutre"
-ConstructingString=" Relais équipe en construction"
-ObjectiveStringSuffix=" Relais équipe"
+ConstructingString=" Relais Ã©quipe en construction"
+ObjectiveStringSuffix=" Relais Ã©quipe"
 
 [ONSRV]
 VehiclePositionString="dans un Scorpion"
@@ -301,7 +301,7 @@ VehicleNameString="Scorpion"
 
 [ONSStationaryWeaponPawn]
 VehiclePositionString="servant une tourelle"
-VehicleNameString="Tourelle à énergie"
+VehicleNameString="Tourelle Ã  Ã©nergie"
 
 [ONSTankSecondaryTurretPawn]
 VehiclePositionString="dans une tourelle de Goliath"
@@ -310,10 +310,10 @@ VehicleNameString="Tourelle minigun de Goliath"
 [ONSVehicleKillMessage]
 KillString[0]="Frag en roulant !"
 KillString[1]="Frappe et fuite !"
-KillString[2]="Rage routière !"
-KillString[3]="Massacre motorisé !"
+KillString[2]="Rage routiÃ¨re !"
+KillString[3]="Massacre motorisÃ© !"
 KillString[4]="Galette !"
 KillString[5]="Oeil de lynx !"
 KillString[6]="Top gun !"
-KillString[7]="Plieur de tôle !"
+KillString[7]="Plieur de tÃ´le !"
 

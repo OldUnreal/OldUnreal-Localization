@@ -1,4 +1,4 @@
-[Setup]
+Ôªø[Setup]
 LocalProduct="Demo di Unreal Tournament 2004"
 DefaultFolder="C:\UT2004Demo"
 ReadMe=Help\ReadMe-Demo.int.txt
@@ -19,11 +19,11 @@ EditLevelCommand="&Modifica questo livello di UT2004"
 
 [UnrealGameContentGroup]
 Caption="Contenuto del gioco"
-Description="L'installazione Ë necessaria."
+Description="L'installazione √® necessaria."
 
 [GameGroup]
 Caption="Demo di Unreal Tournament 2004"
-Description="L'installazione Ë necessaria."
+Description="L'installazione √® necessaria."
 
 [DirectXGroup]
 Caption="DirectX 8.1"
@@ -37,7 +37,7 @@ Description="Necessario per gli effetti audio 3D accelerati in hardware."
 Caption="Gioca alla demo di UT2004"
 
 [SafeModeShortcut]
-Caption="Demo di UT2004 - modalit‡ sicura"
+Caption="Demo di UT2004 - modalit√† sicura"
 
 [DocumentationShortcut]
 Caption="Note di pubblicazione"

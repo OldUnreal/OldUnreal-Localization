@@ -1,4 +1,4 @@
-[ASCriticalObjectiveVolume1]
+﻿[ASCriticalObjectiveVolume1]
 ; EN: LocationName="Facility Entrance"
 LocationName="Wejście do obiektu"
 

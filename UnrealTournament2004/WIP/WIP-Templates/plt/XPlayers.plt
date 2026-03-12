@@ -1,4 +1,4 @@
-[DecoText]
+﻿[DecoText]
 ; EN: Default="No data."
 Default="Brak danych."
 

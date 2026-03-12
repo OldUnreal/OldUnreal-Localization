@@ -1,4 +1,4 @@
-[General]
+﻿[General]
 ; EN: Start="Unreal Tournament 2004 (Starting)"
 Start="Unreal Tournament 2004 (Départ)"
 ; EN: Exit="Unreal Tournament 2004 (Exiting)"

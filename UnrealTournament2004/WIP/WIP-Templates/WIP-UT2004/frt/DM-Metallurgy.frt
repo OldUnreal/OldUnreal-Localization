@@ -1,18 +1,18 @@
-[LevelInfo0]
-Title="Métallurgie"
+ï»¿[LevelInfo0]
+Title="MÃ©tallurgie"
 
 [LevelSummary]
-Title="Métallurgie"
-Description="Distinguant les lents des rapides, les forts des faibles et les talentueux des incompétents, cette arène mettra votre courage à l'épreuve."
+Title="MÃ©tallurgie"
+Description="Distinguant les lents des rapides, les forts des faibles et les talentueux des incompÃ©tents, cette arÃ¨ne mettra votre courage Ã  l'Ã©preuve."
 
 [Volume0]
-LocationName="Près du tanker"
+LocationName="PrÃ¨s du tanker"
 
 [Volume1]
-LocationName="A l'extérieur de la cascade de métal en fusion"
+LocationName="A l'extÃ©rieur de la cascade de mÃ©tal en fusion"
 
 [Volume10]
-LocationName="Entre les conduites de métal en fusion"
+LocationName="Entre les conduites de mÃ©tal en fusion"
 
 [Volume11]
 LocationName="Entre les colonnes"
@@ -21,13 +21,13 @@ LocationName="Entre les colonnes"
 LocationName="Entre les colonnes"
 
 [Volume13]
-LocationName="Pont deuxième niveau"
+LocationName="Pont deuxiÃ¨me niveau"
 
 [Volume14]
-LocationName="Pont deuxième niveau"
+LocationName="Pont deuxiÃ¨me niveau"
 
 [Volume15]
-LocationName="Pont deuxième niveau"
+LocationName="Pont deuxiÃ¨me niveau"
 
 [Volume16]
 LocationName="Pont premier niveau"
@@ -42,35 +42,35 @@ LocationName="Pont premier niveau"
 LocationName="Sur le toit"
 
 [Volume2]
-LocationName="Extérieur sud"
+LocationName="ExtÃ©rieur sud"
 
 [Volume3]
-LocationName="Extérieur ouest"
+LocationName="ExtÃ©rieur ouest"
 
 [Volume4]
-LocationName="Extérieur nord"
+LocationName="ExtÃ©rieur nord"
 
 [Volume5]
-LocationName="Extérieur nord"
+LocationName="ExtÃ©rieur nord"
 
 [Volume6]
-LocationName="Extérieur nord"
+LocationName="ExtÃ©rieur nord"
 
 [Volume7]
-LocationName="Extérieur nord"
+LocationName="ExtÃ©rieur nord"
 
 [Volume8]
 LocationName="Tour communications"
 
 [Volume9]
-LocationName="Au-dessus des conduites de métal en fusion"
+LocationName="Au-dessus des conduites de mÃ©tal en fusion"
 
 [ZoneInfo2]
-LocationName="Cascade de métal en fusion"
+LocationName="Cascade de mÃ©tal en fusion"
 
 [ZoneInfo3]
-LocationName="Intérieur - atrium"
+LocationName="IntÃ©rieur - atrium"
 
 [ZoneInfo4]
-LocationName="Intérieur - rez-de-chaussée"
+LocationName="IntÃ©rieur - rez-de-chaussÃ©e"
 

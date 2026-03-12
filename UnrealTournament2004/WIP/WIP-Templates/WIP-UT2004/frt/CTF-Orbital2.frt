@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Orbital2"
 
 [LevelSummary]
@@ -17,25 +17,25 @@ LocationName="Salle du milieu"
 LocationName="Halls Minigun bleus"
 
 [ZoneInfo12]
-LocationName="Halls inférieurs bleus"
+LocationName="Halls infÃ©rieurs bleus"
 
 [ZoneInfo13]
-LocationName="Halls supérieurs bleus"
+LocationName="Halls supÃ©rieurs bleus"
 
 [ZoneInfo14]
-LocationName="Halls inférieurs bleus"
+LocationName="Halls infÃ©rieurs bleus"
 
 [ZoneInfo15]
 LocationName="Halls Link Gun rouge"
 
 [ZoneInfo16]
-LocationName="Halls supérieurs rouges"
+LocationName="Halls supÃ©rieurs rouges"
 
 [ZoneInfo17]
 LocationName="Salle drapeau rouge"
 
 [ZoneInfo18]
-LocationName="Halls supérieurs rouges"
+LocationName="Halls supÃ©rieurs rouges"
 
 [ZoneInfo19]
 LocationName="Salle Canon Flak rouge"
@@ -44,7 +44,7 @@ LocationName="Salle Canon Flak rouge"
 LocationName="Salle drapeau bleu"
 
 [ZoneInfo20]
-LocationName="Halls inférieurs rouges"
+LocationName="Halls infÃ©rieurs rouges"
 
 [ZoneInfo21]
 LocationName="Halls Minigun rouges"
@@ -59,10 +59,10 @@ LocationName="Salle drapeau rouge"
 LocationName="Salle drapeau rouge"
 
 [ZoneInfo25]
-LocationName="Halls inférieurs rouges"
+LocationName="Halls infÃ©rieurs rouges"
 
 [ZoneInfo26]
-LocationName="Halls supérieurs rouges"
+LocationName="Halls supÃ©rieurs rouges"
 
 [ZoneInfo27]
 LocationName="Halls Minigun rouges"
@@ -74,7 +74,7 @@ LocationName="Salle drapeau bleu"
 LocationName="Salle du milieu"
 
 [ZoneInfo5]
-LocationName="Halls supérieurs bleus"
+LocationName="Halls supÃ©rieurs bleus"
 
 [ZoneInfo6]
 LocationName="Salle Canon Flak bleu"
@@ -83,7 +83,7 @@ LocationName="Salle Canon Flak bleu"
 LocationName="Halls Minigun bleus"
 
 [ZoneInfo8]
-LocationName="Halls supérieurs bleus"
+LocationName="Halls supÃ©rieurs bleus"
 
 [ZoneInfo9]
-LocationName="Halls supérieurs bleus"
+LocationName="Halls supÃ©rieurs bleus"

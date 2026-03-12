@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Torlan"
 
 [LevelSummary]
 Title="Torlan"
-Description="A la périphérie aride d'un continent luxuriant, deux factions s'affrontent férocement pour le contrôle d'une importante tour de communications et de sa centrale énergétique. Le barrage retenant les eaux de la jungle toute proche, le lit asséché du fleuve qui traverse le champ de bataille constitue une voie d'assaut évidente qui pourrait apporter au vainqueur le contrôle de la tour de comms."
+Description="A la pÃ©riphÃ©rie aride d'un continent luxuriant, deux factions s'affrontent fÃ©rocement pour le contrÃ´le d'une importante tour de communications et de sa centrale Ã©nergÃ©tique. Le barrage retenant les eaux de la jungle toute proche, le lit assÃ©chÃ© du fleuve qui traverse le champ de bataille constitue une voie d'assaut Ã©vidente qui pourrait apporter au vainqueur le contrÃ´le de la tour de comms."
 
 [Volume0]
 LocationName="Base bleue"
@@ -12,7 +12,7 @@ LocationName="Base bleue"
 LocationName="Canyon central"
 
 [Volume10]
-LocationName="Réapparition - centre"
+LocationName="RÃ©apparition - centre"
 
 [Volume11]
 LocationName="Canyon central"
@@ -48,5 +48,5 @@ LocationName="1er relais bleu"
 LocationName="Tour centrale"
 
 [ZoneInfo0]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 

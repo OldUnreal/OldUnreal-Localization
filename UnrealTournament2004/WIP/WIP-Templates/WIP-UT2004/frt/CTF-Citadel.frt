@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Citadelle"
 
 [LevelSummary]
@@ -11,13 +11,13 @@ LocationName="Pont du milieu"
 LocationName="Pont du haut rouge"
 
 [Volume10]
-LocationName="Entrée en montée rouge"
+LocationName="EntrÃ©e en montÃ©e rouge"
 
 [Volume11]
-LocationName="Entrée rouge"
+LocationName="EntrÃ©e rouge"
 
 [Volume12]
-LocationName="Entrée bleue"
+LocationName="EntrÃ©e bleue"
 
 [Volume2]
 LocationName="Pont du bas rouge"
@@ -35,7 +35,7 @@ LocationName="Mesa bleue"
 LocationName="Mesa rouge"
 
 [Volume7]
-LocationName="Entrée en montée bleue"
+LocationName="EntrÃ©e en montÃ©e bleue"
 
 [Volume8]
 LocationName="Base drapeau bleu"
@@ -44,28 +44,28 @@ LocationName="Base drapeau bleu"
 LocationName="Base drapeau rouge"
 
 [ZoneInfo0]
-LocationName="Entrée en montée bleue"
+LocationName="EntrÃ©e en montÃ©e bleue"
 
 [ZoneInfo1]
 LocationName="Dehors"
 
 [ZoneInfo3]
-LocationName="Entrée en montée rouge"
+LocationName="EntrÃ©e en montÃ©e rouge"
 
 [ZoneInfo4]
 LocationName="Base drapeau rouge"
 
 [ZoneInfo5]
-LocationName="Entrée rouge"
+LocationName="EntrÃ©e rouge"
 
 [ZoneInfo6]
-LocationName="Entrée rouge"
+LocationName="EntrÃ©e rouge"
 
 [ZoneInfo7]
-LocationName="Entrée bleue"
+LocationName="EntrÃ©e bleue"
 
 [ZoneInfo8]
-LocationName="Entrée bleue"
+LocationName="EntrÃ©e bleue"
 
 [ZoneInfo9]
 LocationName="Salle drapeau bleu"

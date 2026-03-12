@@ -1,40 +1,40 @@
-[LevelInfo0]
+Ôªø[LevelInfo0]
 Title="Goliath"
 
 [LevelSummary]
 Title="Goliath"
-Description="Loin au-dessus de Calaban VII, les stations orbitales de classe Goliath fournissent Ènergie et protection aux colonies en plein essor. Virtuellement immunisÈes contre les tirs d'armes lÈgËres, ces plates-formes sont devenues des arËnes de tournoi trËs apprÈciÈes. Des fuites de radiations ont parfois lieu dans ces arËnes qui sont non seulement distrayantes, mais aussi autonettoyantes."
+Description="Loin au-dessus de Calaban VII, les stations orbitales de classe Goliath fournissent √©nergie et protection aux colonies en plein essor. Virtuellement immunis√©es contre les tirs d'armes l√©g√®res, ces plates-formes sont devenues des ar√®nes de tournoi tr√®s appr√©ci√©es. Des fuites de radiations ont parfois lieu dans ces ar√®nes qui sont non seulement distrayantes, mais aussi autonettoyantes."
 
 [Volume0]
-LocationName="Plate-forme de toit secrËte"
+LocationName="Plate-forme de toit secr√®te"
 
 [Volume1]
-LocationName="Lieu discret de saut en faible gravitÈ"
+LocationName="Lieu discret de saut en faible gravit√©"
 
 [ZoneInfo0]
 LocationName="Salle fusil shock"
 
 [ZoneInfo1]
-LocationName="Hall rÈapparition UdÈg‚ts"
+LocationName="Hall r√©apparition Ud√©g√¢ts"
 
 [ZoneInfo2]
 LocationName="Salle minigun"
 
 [ZoneInfo3]
-LocationName="Hall rÈapparition ampoules de santÈ"
+LocationName="Hall r√©apparition ampoules de sant√©"
 
 [ZoneInfo4]
 LocationName="Grande salle lightning gun"
 
 [ZoneInfo5]
-LocationName="Hall rÈapparition recharge armure +100"
+LocationName="Hall r√©apparition recharge armure +100"
 
 [ZoneInfo6]
 LocationName="Grande salle lightning gun"
 
 [ZoneInfo7]
-LocationName="Halls centraux infÈrieurs"
+LocationName="Halls centraux inf√©rieurs"
 
 [ZoneInfo8]
-LocationName="Halls centraux supÈrieurs"
+LocationName="Halls centraux sup√©rieurs"
 

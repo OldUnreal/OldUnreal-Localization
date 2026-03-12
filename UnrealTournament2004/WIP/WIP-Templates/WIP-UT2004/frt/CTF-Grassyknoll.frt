@@ -1,33 +1,33 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Butte herbeuse"
 
 [LevelSummary]
 Title="Butte herbeuse"
-Description="A travers les arbres, un vent chaud apporte des odeurs de métal brûlant et de soufre et le parfum cuivré du sang. Devant vous, un rire dément fait écho aux tirs de plasma et pour pousser à la faute un ennemi invisible. La seule réponse est un grésillement de chair grillée. Ici, pas de balles en argent, pas de conspiration, rien qu'un groupe d'ennemis à vaincre pour rapporter leur drapeau."
+Description="A travers les arbres, un vent chaud apporte des odeurs de mÃ©tal brÃ»lant et de soufre et le parfum cuivrÃ© du sang. Devant vous, un rire dÃ©ment fait Ã©cho aux tirs de plasma et pour pousser Ã  la faute un ennemi invisible. La seule rÃ©ponse est un grÃ©sillement de chair grillÃ©e. Ici, pas de balles en argent, pas de conspiration, rien qu'un groupe d'ennemis Ã  vaincre pour rapporter leur drapeau."
 
 [LimitationVolume1]
 LocationName="Champ de mines"
 
 [PhysicsVolume12]
-LocationName="Extérieur rouge"
+LocationName="ExtÃ©rieur rouge"
 
 [PhysicsVolume13]
-LocationName="Extérieur Bleu"
+LocationName="ExtÃ©rieur Bleu"
 
 [Volume0]
-LocationName="Adrénaline Bleue"
+LocationName="AdrÃ©naline Bleue"
 
 [Volume1]
-LocationName="Forêt - sniper"
+LocationName="ForÃªt - sniper"
 
 [Volume2]
 LocationName="Super bouclier"
 
 [Volume3]
-LocationName="Adrénaline Rouge"
+LocationName="AdrÃ©naline Rouge"
 
 [Volume4]
-LocationName="Doubles dégâts"
+LocationName="Doubles dÃ©gÃ¢ts"
 
 [Volume5]
 LocationName="Base Bleue"

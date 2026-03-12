@@ -1,4 +1,4 @@
-[Errors]
+﻿[Errors]
 ; EN: MissingProductTitle="%s can't be %s in this folder"
 MissingProductTitle="%s kan niet %s zijn in deze map"
 ; EN: MissingProductInstalled="installed"

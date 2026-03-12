@@ -1,30 +1,30 @@
-[LevelInfo0]
-Title="MalÈdiction4"
+Ôªø[LevelInfo0]
+Title="Mal√©diction4"
 
 [LevelSummary]
-Title="MalÈdiction4"
-Description="Vous sentez les murs se resserrer ? La claustrophobie vous guette ? Lorsque dÈbuteront les tirs de flak et les combos shock, lorsque vous vous retrouverez acculÈ par un assaillant, vous saurez ce que signifie la mot "malÈdiction"."
+Title="Mal√©diction4"
+Description="Vous sentez les murs se resserrer ? La claustrophobie vous guette ? Lorsque d√©buteront les tirs de flak et les combos shock, lorsque vous vous retrouverez accul√© par un assaillant, vous saurez ce que signifie la mot "mal√©diction"."
 
 [ZoneInfo0]
-LocationName="Salle UdÈg‚ts"
+LocationName="Salle Ud√©g√¢ts"
 
 [ZoneInfo1]
 LocationName="Couloir sous-sol"
 
 [ZoneInfo10]
-LocationName="Atrium supÈrieur"
+LocationName="Atrium sup√©rieur"
 
 [ZoneInfo11]
 LocationName="Salle canon flak"
 
 [ZoneInfo13]
-LocationName="Atrium supÈrieur"
+LocationName="Atrium sup√©rieur"
 
 [ZoneInfo14]
-LocationName="Atrium supÈrieur"
+LocationName="Atrium sup√©rieur"
 
 [ZoneInfo15]
-LocationName="Atrium supÈrieur"
+LocationName="Atrium sup√©rieur"
 
 [ZoneInfo16]
 LocationName="Salle minigun"
@@ -33,7 +33,7 @@ LocationName="Salle minigun"
 LocationName="Salle minigun"
 
 [ZoneInfo18]
-LocationName="Atrium supÈrieur"
+LocationName="Atrium sup√©rieur"
 
 [ZoneInfo19]
 LocationName="Loft lance-roquettes"
@@ -42,7 +42,7 @@ LocationName="Loft lance-roquettes"
 LocationName="Couloir sous-sol"
 
 [ZoneInfo20]
-LocationName="Atrium supÈrieur"
+LocationName="Atrium sup√©rieur"
 
 [ZoneInfo21]
 LocationName="Salle canon flak"
@@ -51,10 +51,10 @@ LocationName="Salle canon flak"
 LocationName="Salle canon flak"
 
 [ZoneInfo23]
-LocationName="Salle UdÈg‚ts"
+LocationName="Salle Ud√©g√¢ts"
 
 [ZoneInfo24]
-LocationName="Salle UdÈg‚ts"
+LocationName="Salle Ud√©g√¢ts"
 
 [ZoneInfo25]
 LocationName="Couloir Lightning gun"
@@ -69,16 +69,16 @@ LocationName="Couloir Lightning gun"
 LocationName="Couloir Lightning gun"
 
 [ZoneInfo29]
-LocationName="Salle UdÈg‚ts"
+LocationName="Salle Ud√©g√¢ts"
 
 [ZoneInfo3]
-LocationName="Salle tÍtes de dragon"
+LocationName="Salle t√™tes de dragon"
 
 [ZoneInfo4]
 LocationName="Couloir Lightning gun"
 
 [ZoneInfo5]
-LocationName="Couloir latÈral"
+LocationName="Couloir lat√©ral"
 
 [ZoneInfo6]
 LocationName="Couloir Lightning gun"
@@ -90,5 +90,5 @@ LocationName="Salle canon flak"
 LocationName="Couloir Lightning gun"
 
 [ZoneInfo9]
-LocationName="Salle mÈdiane"
+LocationName="Salle m√©diane"
 

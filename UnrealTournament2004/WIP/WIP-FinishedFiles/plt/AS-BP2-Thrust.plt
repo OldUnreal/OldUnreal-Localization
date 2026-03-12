@@ -1,4 +1,4 @@
-[ASCriticalObjectiveVolume0]
+﻿[ASCriticalObjectiveVolume0]
 ; EN: LocationName="Guidance Rocket Switch"
 LocationName="Naprowadzający przełącznik rakietowy"
 

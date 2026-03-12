@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Crossfire"
 
 [LevelSummary]
 Title="Crossfire"
-Description="En 2352, une éruption volcanique sortant de l'ordinaire intervenue aux abords de Jérusalem déterra partiellement une cité enfouie : la cité perdue d'Ekron. Quantre années de fouilles révélèrent l'existence d'une civilisation antérieure à l'histoire humaine. Depuis son achat par la Liandri corporation pour le prix des fouilles, les âmes des combattants des arènes rejoignent maintenant celles des morts d'un passé oublié."
+Description="En 2352, une Ã©ruption volcanique sortant de l'ordinaire intervenue aux abords de JÃ©rusalem dÃ©terra partiellement une citÃ© enfouie : la citÃ© perdue d'Ekron. Quantre annÃ©es de fouilles rÃ©vÃ©lÃ¨rent l'existence d'une civilisation antÃ©rieure Ã  l'histoire humaine. Depuis son achat par la Liandri corporation pour le prix des fouilles, les Ã¢mes des combattants des arÃ¨nes rejoignent maintenant celles des morts d'un passÃ© oubliÃ©."
 
 
 [Volume0]
@@ -40,4 +40,4 @@ LocationName="Relais Sud"
 LocationName="Relais Sud"
 
 [ZoneInfo0]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"

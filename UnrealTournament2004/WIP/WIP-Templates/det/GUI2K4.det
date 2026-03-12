@@ -1,4 +1,4 @@
-[AdminPanelLogin]
+﻿[AdminPanelLogin]
 ; EN: WaitingForLoginText="Please wait while your login credentials are verified..."
 WaitingForLoginText="Bitte warten Sie, während Ihre Zugangsdaten überprüft werden..."
 ; EN: PanelCaption="Login"

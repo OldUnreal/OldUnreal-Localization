@@ -1,4 +1,4 @@
-[ASCriticalObjectiveVolume1]
+﻿[ASCriticalObjectiveVolume1]
 ; EN: LocationName="Facility Entrance"
 LocationName="Entrée de l'installation"
 

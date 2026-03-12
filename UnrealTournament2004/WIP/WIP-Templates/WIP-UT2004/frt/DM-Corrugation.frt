@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Ondulation"
 
 [LevelSummary]
 Title="Ondulation"
-Description="Après de nombreuses années de batailles de tournoi, cette arène est lentement dévorée par les tirs de roquettes et de fusils shock. A vous d'enlever votre pierre à l'édifice..."
+Description="AprÃ¨s de nombreuses annÃ©es de batailles de tournoi, cette arÃ¨ne est lentement dÃ©vorÃ©e par les tirs de roquettes et de fusils shock. A vous d'enlever votre pierre Ã  l'Ã©difice..."
 
 [ZoneInfo1]
 LocationName="Zone du fourneau"
@@ -12,16 +12,16 @@ LocationName="Zone du fourneau"
 LocationName="Zone ouest"
 
 [ZoneInfo11]
-LocationName="Entrée des égouts"
+LocationName="EntrÃ©e des Ã©gouts"
 
 [ZoneInfo12]
-LocationName="Zone égouts est"
+LocationName="Zone Ã©gouts est"
 
 [ZoneInfo13]
 LocationName="Zone sud"
 
 [ZoneInfo14]
-LocationName="Zone égouts est"
+LocationName="Zone Ã©gouts est"
 
 [ZoneInfo15]
 LocationName="Atrium"
@@ -42,7 +42,7 @@ LocationName="Zone est"
 LocationName="Egout central"
 
 [ZoneInfo20]
-LocationName="Zone égouts sud"
+LocationName="Zone Ã©gouts sud"
 
 [ZoneInfo3]
 LocationName="Cage ascenseur ouest"
@@ -51,7 +51,7 @@ LocationName="Cage ascenseur ouest"
 LocationName="Egout sud-est"
 
 [ZoneInfo5]
-LocationName="Couloir incurvé est"
+LocationName="Couloir incurvÃ© est"
 
 [ZoneInfo6]
 LocationName="Zone est"
@@ -60,7 +60,7 @@ LocationName="Zone est"
 LocationName="Zone centrale"
 
 [ZoneInfo8]
-LocationName="Couloir incurvé est"
+LocationName="Couloir incurvÃ© est"
 
 [ZoneInfo9]
 LocationName="Zone de la pompe"

@@ -1,8 +1,8 @@
-[Setup]
+锘縖Setup]
 LocalProduct="Unreal Tournament 2004"
 DefaultFolder="C:\UT2004"
 ReadMe=Help\ReadMe.int.txt
-SetupWindowTitle=Configuraci髇 de Unreal Tournament 2004
+SetupWindowTitle=Configuraci贸n de Unreal Tournament 2004
 AutoplayWindowTitle="Opciones de Unreal Tournament 2004"
 ProductURL=http://www.unrealtournament2004.com/
 VersionURL=http://unreal.epicgames.com/versions.htm
@@ -14,25 +14,25 @@ License=License.int
 [General]
 PlayLevelCommand="&Jugar este nivel de UT2004"
 OpenLinkCommand="&Abrir este enlace de UT2004"
-InstallModuleCommand="&Instalar este m骴ulo de UT2004"
+InstallModuleCommand="&Instalar este m贸dulo de UT2004"
 EditLevelCommand="&Editar este nivel de UT2004"
 SafeDiscAdminRights="Para ejecutar este programa necesitas privilegios de administrador, no vale una cuenta limitada de usuario ni una de invitado."
 SafeDiscNoDisk="No hay disco en la unidad. Inserta el disco con la etiqueta 'Unreal Tournament 2004 Play Disc' para continuar."
 SafeDiscNoDrive="No se ha detectado CD-ROM ni DVD-ROM."
 SafeDiscTitlebar="Unreal Tournament 2004"
-SafeDiscWrongDisc="Disco err髇eo en la unidad. Inserta el disco con la etiqueta 'Unreal Tournament 2004 Play Disc' para continuar."
+SafeDiscWrongDisc="Disco err贸neo en la unidad. Inserta el disco con la etiqueta 'Unreal Tournament 2004 Play Disc' para continuar."
 
 [UnrealGameContentGroup]
 Caption="Contenidos del juego"
-Description="Inst醠alo para obtener el mejor rendimiento. Si no lo seleccionas, los contenidos del juego se cargar醤 durante su ejecuci髇 desde el CD, disminuyendo el rendimiento, pero usando menos espacio en el disco duro."
+Description="Inst谩lalo para obtener el mejor rendimiento. Si no lo seleccionas, los contenidos del juego se cargar谩n durante su ejecuci贸n desde el CD, disminuyendo el rendimiento, pero usando menos espacio en el disco duro."
 
 [GameGroup]
 Caption="Juego UT2004"
-Description="Se necesita una instalaci髇."
+Description="Se necesita una instalaci贸n."
 
 [DirectXGroup]
 Caption="DirectX 9.0b"
-Description="Controladores opcionales de Microsoft Direct 9.0b para conseguir compatibilidad con gr醘icos, sonido y joystick mejorados."
+Description="Controladores opcionales de Microsoft Direct 9.0b para conseguir compatibilidad con gr谩ficos, sonido y joystick mejorados."
 
 [OpenALGroup]
 Caption="OpenAL"
@@ -40,11 +40,11 @@ Description="Necesario para los efectos de sonido acelerados 3D."
 
 [Win2000XPGroup]
 Caption="Windows 2000/XP Direct3D"
-Description="Necesario para Windows 2000/XP [temporal- no para la edici髇]"
+Description="Necesario para Windows 2000/XP [temporal- no para la edici贸n]"
 
 [EditorGroup]
 Caption="Editor Unreal"
-Description="Editor de mundos de Unreal, para crear tus propios entornos 3D de Unreal. Para usuarios avanzados, la instalaci髇 es opcional."
+Description="Editor de mundos de Unreal, para crear tus propios entornos 3D de Unreal. Para usuarios avanzados, la instalaci贸n es opcional."
 
 [PlayShortcut]
 Caption="Jugar UT2004"
@@ -56,10 +56,10 @@ Caption="Modo a prueba de fallos de UT2004"
 Caption="Editor de UT2004"
 
 [DocumentationShortcut]
-Caption="Notas de edici髇"
+Caption="Notas de edici贸n"
 
 [WebShortcut]
-Caption="P醙ina web de UT2004"
+Caption="P谩gina web de UT2004"
 
 [UninstallShortcut]
 Caption="Desinstalar Unreal Tournament 2004"

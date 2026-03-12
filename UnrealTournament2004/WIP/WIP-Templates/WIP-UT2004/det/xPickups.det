@@ -1,4 +1,4 @@
-[AdrenalinePickup]
+﻿[AdrenalinePickup]
 PickupMessage="Adrenalin"
 
 [MiniHealthPack]
@@ -8,7 +8,7 @@ PickupMessage="Gesundheitsflakon aufgesammelt +"
 PickupMessage="Satz Schilde aufgesammelt +"
 
 [SuperHealthPack]
-PickupMessage="Gro�es Fass Gesundheit aufgesammelt +"
+PickupMessage="Großes Fass Gesundheit aufgesammelt +"
 
 [SuperShieldPack]
 PickupMessage="Satz Superschilde aufgesammelt +"

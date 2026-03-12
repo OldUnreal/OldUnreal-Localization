@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Insidious"
 LevelEnterText="DM-Insidious"
 
@@ -13,19 +13,19 @@ LocationName="Cuves contre murs"
 LocationName="Hall Fusil Bio"
 
 [ZoneInfo10]
-LocationName="Hall inférieur"
+LocationName="Hall infÃ©rieur"
 
 [ZoneInfo11]
 LocationName="Hall Canon Flak"
 
 [ZoneInfo12]
-LocationName="Halls supérieurs"
+LocationName="Halls supÃ©rieurs"
 
 [ZoneInfo13]
 LocationName="Cuves de clonage"
 
 [ZoneInfo15]
-LocationName="Halls supérieurs"
+LocationName="Halls supÃ©rieurs"
 
 [ZoneInfo2]
 LocationName="Cuves de clonage"
@@ -34,7 +34,7 @@ LocationName="Cuves de clonage"
 LocationName="Cuves de clonage"
 
 [ZoneInfo4]
-LocationName="Hall inférieur"
+LocationName="Hall infÃ©rieur"
 
 [ZoneInfo7]
 LocationName="Cuves contre murs"

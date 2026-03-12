@@ -1,9 +1,9 @@
-[LevelInfo0]
-Title="Lourd ch‚timent"
+Ôªø[LevelInfo0]
+Title="Lourd ch√¢timent"
 
 [LevelSummary]
-Title="Lourd ch‚timent"
-Description="La terre tremble sous vos pieds et le ciel fait pleuvoir sur vous feu et cendres. Le chemin de la victoire est aussi traÓtre et meurtrier que vos ennemis et pardonne encore moins..."
+Title="Lourd ch√¢timent"
+Description="La terre tremble sous vos pieds et le ciel fait pleuvoir sur vous feu et cendres. Le chemin de la victoire est aussi tra√Ætre et meurtrier que vos ennemis et pardonne encore moins..."
 
 [Volume10]
 LocationName="Chemins princ. base Rouge"
@@ -54,16 +54,16 @@ LocationName="Chemins inf. base Bleue"
 LocationName="Fortifications base Rouge"
 
 [ZoneInfo0]
-LocationName="EntrÈe cave base Rouge"
+LocationName="Entr√©e cave base Rouge"
 
 [ZoneInfo1]
 LocationName="Hors limites !"
 
 [ZoneInfo11]
-LocationName="EntrÈe princ. base Bleue"
+LocationName="Entr√©e princ. base Bleue"
 
 [ZoneInfo12]
-LocationName="EntrÈe cave base Bleue"
+LocationName="Entr√©e cave base Bleue"
 
 [ZoneInfo13]
 LocationName="Salle drapeau Bleu"
@@ -75,16 +75,16 @@ LocationName="Cavernes du volcan"
 LocationName="Cavernes du volcan"
 
 [ZoneInfo16]
-LocationName="EntrÈe princ. base Bleue"
+LocationName="Entr√©e princ. base Bleue"
 
 [ZoneInfo17]
-LocationName="AccËs cave base Bleue"
+LocationName="Acc√®s cave base Bleue"
 
 [ZoneInfo18]
-LocationName="EntrÈe princ. base Rouge"
+LocationName="Entr√©e princ. base Rouge"
 
 [ZoneInfo19]
-LocationName="AccËs cave base Rouge"
+LocationName="Acc√®s cave base Rouge"
 
 [ZoneInfo2]
 LocationName="Cave base Rouge"
@@ -102,7 +102,7 @@ LocationName="Tour base Rouge"
 LocationName="Cave base Bleue"
 
 [ZoneInfo24]
-LocationName="EntrÈe cave base Bleue"
+LocationName="Entr√©e cave base Bleue"
 
 [ZoneInfo25]
 LocationName="Cave base Bleue"
@@ -117,14 +117,14 @@ LocationName="Cave base Rouge"
 LocationName="Cave base Rouge"
 
 [ZoneInfo5]
-LocationName="EntrÈe cave base Rouge"
+LocationName="Entr√©e cave base Rouge"
 
 [ZoneInfo6]
-LocationName="EntrÈe princ. base Rouge"
+LocationName="Entr√©e princ. base Rouge"
 
 [ZoneInfo8]
-LocationName="EntrÈe tour base Rouge"
+LocationName="Entr√©e tour base Rouge"
 
 [ZoneInfo9]
-LocationName="EntrÈe tour base Bleue"
+LocationName="Entr√©e tour base Bleue"
 

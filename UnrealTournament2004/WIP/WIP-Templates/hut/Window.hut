@@ -1,4 +1,4 @@
-[Errors]
+﻿[Errors]
 ; EN: Critical="Critical Error"
 Critical="Kritikus hiba"
 ; EN: FailedConfigLoad="%s (failed load)"

@@ -1,12 +1,12 @@
-[LevelInfo0]
-Title="Ile déserte"
+ï»¿[LevelInfo0]
+Title="Ile dÃ©serte"
 
 [LevelSummary]
-Title="Ile déserte"
-Description="Sous le soleil brûlant, un ruisseau symbolise la vie pour cette îlot de vert perdu dans un océan de sable. Que se passera-t-il quand son eau virera au rouge ?"
+Title="Ile dÃ©serte"
+Description="Sous le soleil brÃ»lant, un ruisseau symbolise la vie pour cette Ã®lot de vert perdu dans un ocÃ©an de sable. Que se passera-t-il quand son eau virera au rouge ?"
 
 [Volume0]
-LocationName="Fin de rivière"
+LocationName="Fin de riviÃ¨re"
 
 [Volume1]
 LocationName="La colline"
@@ -15,8 +15,8 @@ LocationName="La colline"
 LocationName="Source"
 
 [Volume3]
-LocationName="Milieu de rivière"
+LocationName="Milieu de riviÃ¨re"
 
 [ZoneInfo0]
-LocationName="=Désert="
+LocationName="=DÃ©sert="
 

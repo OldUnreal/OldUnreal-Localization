@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ;Object=(Name=Engine.Console,Class=Class,MetaClass=Engine.Console)
 Object=(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.MasterMD5Commandlet,Class=Class,MetaClass=Core.Commandlet)

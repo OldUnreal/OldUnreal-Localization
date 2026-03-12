@@ -1,4 +1,4 @@
-[Setup]
+ï»¿[Setup]
 LocalProduct="Unreal Tournament 2003"
 DefaultFolder="C:\UT2003"
 ReadMe=Help\ReadMe.frt.txt
@@ -16,15 +16,15 @@ PlayLevelCommand="&Jouer ce niveau UT2003"
 OpenLinkCommand="&Ouvrir ce lien UT2003"
 InstallModuleCommand="&Installer ce module UT2003"
 EditLevelCommand="&Editer ce niveau UT2003"
-SafeDiscAdminRights="Vous devez lancer ce programme en tant qu'administrateur, pas en tant qu'utilisateur limité."
-SafeDiscNoDisk="Pas de disque dans le lecteur. Veuillez insérez le disque 'Unreal Tournament 2003 Play Disc' pour continuer."
-SafeDiscNoDrive="Aucun CD-ROM ou DVD-ROM détecté."
+SafeDiscAdminRights="Vous devez lancer ce programme en tant qu'administrateur, pas en tant qu'utilisateur limitÃ©."
+SafeDiscNoDisk="Pas de disque dans le lecteur. Veuillez insÃ©rez le disque 'Unreal Tournament 2003 Play Disc' pour continuer."
+SafeDiscNoDrive="Aucun CD-ROM ou DVD-ROM dÃ©tectÃ©."
 SafeDiscTitlebar="Unreal Tournament 2003"
-SafeDiscWrongDisc="Mauvais disque dans le lecteur. Veuillez insérer le disque 'Unreal Tournament 2003 Play Disc' pour continuer."
+SafeDiscWrongDisc="Mauvais disque dans le lecteur. Veuillez insÃ©rer le disque 'Unreal Tournament 2003 Play Disc' pour continuer."
 
 [UnrealGameContentGroup]
 Caption="Contenu du jeu"
-Description="Installation recommandée pour de meilleures performances. Si vous déselectionnez cette option, le contenu du jeu se chargera à partir du CD pendant votre partie, ce qui vous permettra d'économiser de l'espace disque, mais au détriment de la fluidité du déroulement du jeu."
+Description="Installation recommandÃ©e pour de meilleures performances. Si vous dÃ©selectionnez cette option, le contenu du jeu se chargera Ã  partir du CD pendant votre partie, ce qui vous permettra d'Ã©conomiser de l'espace disque, mais au dÃ©triment de la fluiditÃ© du dÃ©roulement du jeu."
 
 [GameGroup]
 Caption="Jeu UT2003"
@@ -36,7 +36,7 @@ Description="Pilotes Microsoft DirectX 8.1 en option permettant d'obtenir de mei
 
 [OpenALGroup]
 Caption="OpenAL"
-Description="Requis pour l'accélération matérielle des effets sonores 3D."
+Description="Requis pour l'accÃ©lÃ©ration matÃ©rielle des effets sonores 3D."
 
 [Win2000XPGroup]
 Caption="Direct3D Windows 2000/XP"
@@ -44,13 +44,13 @@ Description="Requis pour Windows 2000/XP [temporaire-pas pour la livraison]."
 
 [EditorGroup]
 Caption="Editeur Unreal"
-Description="Editeur de mondes Unreal pour créer vos propres environnements Unreal en 3D. Réservé aux joueurs expérimentés. Installation optionnelle."
+Description="Editeur de mondes Unreal pour crÃ©er vos propres environnements Unreal en 3D. RÃ©servÃ© aux joueurs expÃ©rimentÃ©s. Installation optionnelle."
 
 [PlayShortcut]
-Caption="Jouer à UT2003"
+Caption="Jouer Ã  UT2003"
 
 [SafeModeShortcut]
-Caption="Mode sans échec UT2003"
+Caption="Mode sans Ã©chec UT2003"
 
 [EditorShortcut]
 Caption="Editeur UT2003"
@@ -62,4 +62,4 @@ Caption="Fichier LisezMoi"
 Caption="Page web UT2003"
 
 [UninstallShortcut]
-Caption="Désinstaller Unreal Tournament 2003"
+Caption="DÃ©sinstaller Unreal Tournament 2003"

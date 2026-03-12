@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM|Invasion|SkaarjPack.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
 
 [DamTypeBelch]

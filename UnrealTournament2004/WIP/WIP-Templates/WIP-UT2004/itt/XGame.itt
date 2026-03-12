@@ -1,4 +1,4 @@
-[Public]
+Ôªø[Public]
 Object=(Name=XGame.AlienFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
 Object=(Name=XGame.AlienMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
 Object=(Name=XGame.JuggFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
@@ -57,10 +57,10 @@ ExecMessage="Devastazione!"
 ExecMessage="Booster!"
 
 [ComboInvis]
-ExecMessage="Invisibilit‡!"
+ExecMessage="Invisibilit√†!"
 
 [ComboSpeed]
-ExecMessage="Velocit‡!"
+ExecMessage="Velocit√†!"
 
 [DMRosterBeatTeam]
 TeamName="Death Match"
@@ -87,25 +87,25 @@ CountDownTrailer="..."
 WarningString="Sei stato individuato da un satellite ionico orbitante!"
 
 [JuggFemaleVoice]
-TauntString[21]="La vita Ë dolore, abbandonala."
+TauntString[21]="La vita √® dolore, abbandonala."
 TauntString[22]="Proprio in mezzo agli occhi!"
 TauntString[23]="Prendeteli e fateli fuori!"
 TauntString[24]="Proprio brutale!"
 TauntString[25]="Sanguinare ti riesce meglio che sparare."
 TauntString[26]="Fai schifo!"
 TauntString[27]="Leccami le suole."
-OtherString[32]="Non sento pi˘ le gambe!"
+OtherString[32]="Non sento pi√π le gambe!"
 OtherString[33]="Bel tiro."
 VoicePackName="Femmina Juggernaut"
 
 [JuggMaleVoice]
-TauntString[21]="La vita Ë dolore, abbandonala."
+TauntString[21]="La vita √® dolore, abbandonala."
 TauntString[22]="Proprio in mezzo agli occhi!"
 TauntString[23]="Prendeteli e fateli fuori!"
 TauntString[24]="Proprio brutale!"
 TauntString[25]="Sanguinare ti riesce meglio che sparare."
 TauntString[26]="Fai schifo!"
-OtherString[32]="Non sento pi˘ le gambe!"
+OtherString[32]="Non sento pi√π le gambe!"
 OtherString[33]="Bel tiro."
 VoicePackName="Maschio Juggernaut"
 
@@ -120,7 +120,7 @@ ChallengeDescription="Uno scontro diretto contro il capo di un'altra squadra."
 TauntString[21]="La prossima volta abbassati prima!"
 TauntString[22]="Non muoverti, accidenti!"
 TauntString[23]="Porca malora!"
-TauntString[24]="Su, non muoverti e farÚ in fretta."
+TauntString[24]="Su, non muoverti e far√≤ in fretta."
 TauntString[25]="Fateli fuori tutti!"
 TauntString[26]="Inchiodato!"
 TauntString[27]="Siamo proprio lontani."
@@ -135,7 +135,7 @@ VoicePackName="Femmina mercenaria"
 TauntString[21]="La prossima volta abbassati prima!"
 TauntString[22]="Non muoverti, accidenti!"
 TauntString[23]="Porca malora!"
-TauntString[24]="Su, non muoverti e farÚ in fretta."
+TauntString[24]="Su, non muoverti e far√≤ in fretta."
 TauntString[25]="Fateli fuori tutti!"
 TauntString[26]="Inchiodato!"
 TauntString[27]="Siamo proprio lontani."
@@ -203,35 +203,35 @@ Description="Uccisione istantanea con fucili shock modificati con mirino telesco
 [NightFemaleVoice]
 TauntString[21]="Carne fresca!"
 TauntString[22]="Ti devo spezzare."
-TauntString[23]="BerrÚ la tua anima!"
-TauntString[24]="La tua anima Ë perduta."
+TauntString[23]="Berr√≤ la tua anima!"
+TauntString[24]="La tua anima √® perduta."
 TauntString[25]="Sono il tuo carnefice."
-TauntString[26]="Il mio nome Ë Morte!"
+TauntString[26]="Il mio nome √® Morte!"
 TauntString[27]="Niente lacrime, prego."
-TauntString[28]="Il dolore ti purificher‡."
+TauntString[28]="Il dolore ti purificher√†."
 VoicePackName="Femmina di Incubo"
 
 [NightMaleVoice]
 TauntString[21]="Carne fresca!"
 TauntString[22]="Ti devo spezzare."
-TauntString[23]="BerrÚ la tua anima!"
-TauntString[24]="La tua anima Ë perduta."
+TauntString[23]="Berr√≤ la tua anima!"
+TauntString[24]="La tua anima √® perduta."
 TauntString[25]="Sono il tuo carnefice."
-TauntString[26]="Il mio nome Ë Morte!"
+TauntString[26]="Il mio nome √® Morte!"
 TauntString[27]="Niente lacrime, prego."
-TauntString[28]="Il dolore ti purificher‡."
+TauntString[28]="Il dolore ti purificher√†."
 VoicePackName="Maschio di Incubo"
 
 [PhantomBloodReavers]
-TeamDescription="I Mietitori di sangue sono un'organizzazione di mercenari e specialisti ex-militari a cui interessano la fama e la fortuna. Vogliono vincere il Torneo per il premio in palio: ricchezza e potenza pressochÈ senza limiti."
+TeamDescription="I Mietitori di sangue sono un'organizzazione di mercenari e specialisti ex-militari a cui interessano la fama e la fortuna. Vogliono vincere il Torneo per il premio in palio: ricchezza e potenza pressoch√© senza limiti."
 TeamName="Mietitori di sangue"
 
 [PhantomDarkPhalanx]
-TeamDescription="La Falange oscura Ë un insieme di onorati specialisti militari che si sono distinti nelle guerre fra Umani e Skaarj e ora cercano nuova gloria nel Torneo."
+TeamDescription="La Falange oscura √® un insieme di onorati specialisti militari che si sono distinti nelle guerre fra Umani e Skaarj e ora cercano nuova gloria nel Torneo."
 TeamName="Falange oscura"
 
 [PhantomEpic]
-TeamDescription="Fondata nel 1991, Epic Ë da tempo pioniera nello sviluppo di ottimi giochi per PC, nuovi modelli commerciali e rivoluzionarie tecnologie dei videogiochi. Epic Ë stata fondata da Tim Sweeney (Jill of the Jungle, Unreal), a cui poi si sono affiancati Mark Rein (vicepresidente marketing), James Schmalz (Epic Pinball, Extreme Pinball, Unreal) e Cliff Bleszinski (Jazz Jackrabbit, Unreal)."
+TeamDescription="Fondata nel 1991, Epic √® da tempo pioniera nello sviluppo di ottimi giochi per PC, nuovi modelli commerciali e rivoluzionarie tecnologie dei videogiochi. Epic √® stata fondata da Tim Sweeney (Jill of the Jungle, Unreal), a cui poi si sono affiancati Mark Rein (vicepresidente marketing), James Schmalz (Epic Pinball, Extreme Pinball, Unreal) e Cliff Bleszinski (Jazz Jackrabbit, Unreal)."
 TeamName="Epic Games, Inc."
 
 [PhantomNecrisBlackLegion]
@@ -239,21 +239,21 @@ TeamDescription="Questa potente squadra di assassini Phayder di Necris intende d
 TeamName="Legione nera di Necris"
 
 [PhantomRawSteel]
-TeamDescription="Solo i maschi sono ammessi nella forza combattente nota come 'Acciaio grezzo', un'amalgama di muscoli umani e metalli polivalenti che considera virt˘ massime la forza e la potenza."
+TeamDescription="Solo i maschi sono ammessi nella forza combattente nota come 'Acciaio grezzo', un'amalgama di muscoli umani e metalli polivalenti che considera virt√π massime la forza e la potenza."
 TeamName="Acciaio grezzo"
 
 [RobotVoice]
 TauntString[21]="Muori, umano!"
-TauntString[22]="Pi˘ veloce. Pi˘ forte. Migliore."
+TauntString[22]="Pi√π veloce. Pi√π forte. Migliore."
 TauntString[23]="Abbi paura di me."
-TauntString[24]="La carne Ë un errore di progettazione!"
+TauntString[24]="La carne √® un errore di progettazione!"
 TauntString[25]="Mors tua vita mea."
 TauntString[26]="Non disprezzabile."
 TauntString[27]="Processo impazzito terminato."
 TauntString[28]="Ammira la mia perfezione."
 TauntString[29]="Muori troppo facilmente."
 TauntString[30]="Sei una preda troppo facile."
-TauntString[31]="La tua programmazione Ë inferiore."
+TauntString[31]="La tua programmazione √® inferiore."
 OtherString[32]="Riconfigurazione sistemi critici."
 OtherString[33]="Sai adattarti bene."
 VoicePackName="Robot"
@@ -326,7 +326,7 @@ TeamName="Maciullatori di ossa"
 TeamName="Gelido acciaio"
 
 [TeamCorrupt]
-TeamDescription="Xan Kriegor Ë stato considerato invincibile per molto tempo, fino a quando Malcolm non lo sconfisse nella quarta edizione ufficiale delle finali del Torneo. Dopo una lunga assenza, Ë tornato per guidare alla vittoria la squadra della Liandri, i Corrotti. Xan non partecipa ai primi turni, che considera indegni del suo interesse."
+TeamDescription="Xan Kriegor √® stato considerato invincibile per molto tempo, fino a quando Malcolm non lo sconfisse nella quarta edizione ufficiale delle finali del Torneo. Dopo una lunga assenza, √® tornato per guidare alla vittoria la squadra della Liandri, i Corrotti. Xan non partecipa ai primi turni, che considera indegni del suo interesse."
 TeamName="I Corrotti"
 
 [TeamCrusaders]
@@ -339,34 +339,34 @@ TeamName="Soffio di drago"
 TeamName="Tempesta di fuoco"
 
 [TeamGoliath]
-TeamDescription="Dopo il successo degli Juggernaut di Gorge nel torneo dell'anno scorso, la Corporazione di ricerca Axon Ë decisa a promuovere Golia per giungere a una finale di soli Juggernaut."
+TeamDescription="Dopo il successo degli Juggernaut di Gorge nel torneo dell'anno scorso, la Corporazione di ricerca Axon √® decisa a promuovere Golia per giungere a una finale di soli Juggernaut."
 TeamName="Golia"
 
 [TeamHellions]
-TeamDescription="Gli Hellion, che in passato erano temuti nello spazio controllato dagli Umani per le loro attivit‡ di pirati e mercenari, vogliono guadagnare maggior rispetto come mercenari e partecipano al Torneo per dimostrare le loro capacit‡ ai potenziali clienti."
+TeamDescription="Gli Hellion, che in passato erano temuti nello spazio controllato dagli Umani per le loro attivit√† di pirati e mercenari, vogliono guadagnare maggior rispetto come mercenari e partecipano al Torneo per dimostrare le loro capacit√† ai potenziali clienti."
 TeamName=""
 
 [TeamIronGuard]
 TeamName="Barriera di ferro"
 
 [TeamIronSkull]
-TeamDescription="Quest'anno, l'impero Skaarj Ë rappresentato dal clan Teschio di ferro, che vuole ripristinare il suo onore dopo essere stato a lungo ritenuto responsabile della perdita della nave madre Skaarj nelle guerre fra Umani e Skaarj."
+TeamDescription="Quest'anno, l'impero Skaarj √® rappresentato dal clan Teschio di ferro, che vuole ripristinare il suo onore dopo essere stato a lungo ritenuto responsabile della perdita della nave madre Skaarj nelle guerre fra Umani e Skaarj."
 TeamName="Teschio di ferro Skaarj"
 
 [TeamJuggernauts]
-TeamDescription="Gorge Ë deciso a dimostrare che non Ë stato campione del Torneo per caso, dunque ha ricreato la squadra di Juggernaut che aveva guidato alla conquista del titolo mondiale. La Corporazione di ricerca Axon ha effettuato degli aggiornamenti biogenetici e difensivi agli Juggernaut specificamente per il Torneo di quest'anno."
+TeamDescription="Gorge √® deciso a dimostrare che non √® stato campione del Torneo per caso, dunque ha ricreato la squadra di Juggernaut che aveva guidato alla conquista del titolo mondiale. La Corporazione di ricerca Axon ha effettuato degli aggiornamenti biogenetici e difensivi agli Juggernaut specificamente per il Torneo di quest'anno."
 TeamName="Juggernaut"
 
 [TeamNewBlacklegion]
-TeamDescription="La Legione nera Ë costituita dai soggetti orrendamente deformati da esperimenti di mutazione genetica a scopo bellico. Quest'anno obbediscono a un nuovo capo, Abbadon, il miglior risultato attuale degli esperimenti."
+TeamDescription="La Legione nera √® costituita dai soggetti orrendamente deformati da esperimenti di mutazione genetica a scopo bellico. Quest'anno obbediscono a un nuovo capo, Abbadon, il miglior risultato attuale degli esperimenti."
 TeamName="Legione nera"
 
 [TeamNewBloodfist]
-TeamDescription="Il Pugno di sangue Ë l'unica squadra interamente cibernetica del Torneo. I suoi guerrieri ricevono ogni anno un aggiornamento del software per diventare sempre pi˘ letali."
+TeamDescription="Il Pugno di sangue √® l'unica squadra interamente cibernetica del Torneo. I suoi guerrieri ricevono ogni anno un aggiornamento del software per diventare sempre pi√π letali."
 TeamName="Pugno di sangue"
 
 [TeamNewFirestorm]
-TeamDescription="I Mokara sono guerrieri temuti e rispettati. La loro unit‡ combattente d'Èlite, la Tempesta di fuoco, invia ogni anno al torneo una squadra dei suoi migliori soldati."
+TeamDescription="I Mokara sono guerrieri temuti e rispettati. La loro unit√† combattente d'√©lite, la Tempesta di fuoco, invia ogni anno al torneo una squadra dei suoi migliori soldati."
 TeamName="Tempesta di fuoco"
 
 [TeamNewIronGuard]
@@ -374,11 +374,11 @@ TeamDescription="Brock e Lauren hanno unito le forze con Malcolm mentre era camp
 TeamName="Barriera di ferro"
 
 [TeamNewSunblade]
-TeamDescription="La Lama solare Ë composta da ex-Guardiani del Tempio e veterani della Legione del deserto. Secondo loro, la vittoria nel Torneo Ë l'unica possibilit‡ che hanno di essere sepolti nella Valle dei Re di Luxor IV per assicurarsi la vita eterna."
+TeamDescription="La Lama solare √® composta da ex-Guardiani del Tempio e veterani della Legione del deserto. Secondo loro, la vittoria nel Torneo √® l'unica possibilit√† che hanno di essere sepolti nella Valle dei Re di Luxor IV per assicurarsi la vita eterna."
 TeamName="Lama solare"
 
 [TeamNewSuperNova]
-TeamDescription="La Supernova, una squadra di mercenari della Settima Flotta Mercenaria, Ë entrata nel Torneo per pagare i suoi debiti verso la Corporazione Izanagi."
+TeamDescription="La Supernova, una squadra di mercenari della Settima Flotta Mercenaria, √® entrata nel Torneo per pagare i suoi debiti verso la Corporazione Izanagi."
 TeamName="Supernova"
 
 [TeamNightstalkers]
@@ -394,7 +394,7 @@ TeamName="Lame solari"
 TeamName="Supernova"
 
 [TeamThundercrash]
-TeamDescription="Dopo la discussa rottura con Brock e Lauren, che sono stati suoi compagni a lungo, Malcolm Ë tornato per guidare la sua vecchia squadra, la Rombo di tuono. Attualmente, si sta riprendendo da una ferita ricevuta durante il campionato dell'anno scorso, ma dovrebbe rimettersi in tempo per partecipare alle finali del Torneo."
+TeamDescription="Dopo la discussa rottura con Brock e Lauren, che sono stati suoi compagni a lungo, Malcolm √® tornato per guidare la sua vecchia squadra, la Rombo di tuono. Attualmente, si sta riprendendo da una ferita ricevuta durante il campionato dell'anno scorso, ma dovrebbe rimettersi in tempo per partecipare alle finali del Torneo."
 TeamName="Rombo di tuono"
 
 [TeamVenom]
@@ -443,8 +443,8 @@ EnemyHasFlagString="Il nemico ha la palla, riprendila!"
 [xBombMessage]
 ReturnBlue="salva la palla!"
 ReturnRed="salva la palla!"
-ReturnedBlue="La palla Ë stata salvata!"
-ReturnedRed="La palla Ë stata salvata!"
+ReturnedBlue="La palla √® stata salvata!"
+ReturnedRed="La palla √® stata salvata!"
 CaptureBlue="ha segnato il punto!"
 CaptureRed="ha segnato il punto!"
 DroppedBlue="ha lasciato la palla!"
@@ -458,19 +458,19 @@ ObjectiveName="Apparizione bomba"
 [xBombingRun]
 BRPropText="Attesa contatto palla"
 BRPropText2="Lancia palla scarica translocatore"
-BRDescText="Se questa opzione Ë attiva, il giocatore deve attendere qualche istante dopo aver lanciato la palla prima di poterla riprendere."
-BRDescText2="Se questa opzione Ë attiva, per usare il translocatore il giocatore deve attendere qualche istante dopo aver lanciato la palla (oppure deve aspettare che qualcun altro la prenda o la raccolga)."
-BRHints=("Puoi usare %BASEPATH 0% per vedere il percorso per la base rossa e %BASEPATH 1% per vedere quello per la base blu.","Quando lo attivi, il translocatore invia il suo localizzatore. Premendo nuovamente %FIRE%, il localizzatore torna indietro, mentre premendo %ALTFIRE% raggiungerai immediatamente la posizione del localizzatore, se questi puÚ accoglierti.","Quando hai la palla, puoi curare il compagno selezionato premendo %ALTFIRE%. Premendo %FIRE%, gli passerai la palla.","Premendo %SWITCHWEAPON 10% dopo aver lanciato il translocatore, potrai vedere attraverso la sua telecamera interna.","Premendo %FIRE%, mentre %ALTFIRE% Ë premuto, dopo esserti teletrasportato con il translocatore, selezionerai líarma precedente.")
+BRDescText="Se questa opzione √® attiva, il giocatore deve attendere qualche istante dopo aver lanciato la palla prima di poterla riprendere."
+BRDescText2="Se questa opzione √® attiva, per usare il translocatore il giocatore deve attendere qualche istante dopo aver lanciato la palla (oppure deve aspettare che qualcun altro la prenda o la raccolga)."
+BRHints=("Puoi usare %BASEPATH 0% per vedere il percorso per la base rossa e %BASEPATH 1% per vedere quello per la base blu.","Quando lo attivi, il translocatore invia il suo localizzatore. Premendo nuovamente %FIRE%, il localizzatore torna indietro, mentre premendo %ALTFIRE% raggiungerai immediatamente la posizione del localizzatore, se questi pu√≤ accoglierti.","Quando hai la palla, puoi curare il compagno selezionato premendo %ALTFIRE%. Premendo %FIRE%, gli passerai la palla.","Premendo %SWITCHWEAPON 10% dopo aver lanciato il translocatore, potrai vedere attraverso la sua telecamera interna.","Premendo %FIRE%, mentre %ALTFIRE% √® premuto, dopo esserti teletrasportato con il translocatore, selezionerai l‚Äôarma precedente.")
 GameName="Attacco con la bomba"
-Description="Ogni livello si apre con una palla nel mezzo del campo da gioco. La tua squadra segna spedendola attraverso l'anello della squadra nemica. Segna 7 punti saltando attraverso il cerchio con la presa sulla palla e 3 punti lanciando la palla nel cerchio. La palla puÚ essere passata ai compagni di squadra e, se il giocatore che la porta viene ucciso, cade a terra."
+Description="Ogni livello si apre con una palla nel mezzo del campo da gioco. La tua squadra segna spedendola attraverso l'anello della squadra nemica. Segna 7 punti saltando attraverso il cerchio con la presa sulla palla e 3 punti lanciando la palla nel cerchio. La palla pu√≤ essere passata ai compagni di squadra e, se il giocatore che la porta viene ucciso, cade a terra."
 
 [xCTFGame]
 GameName="Cattura la bandiera"
-Description="La tua squadra segna catturando la bandiera dalla base nemica e riportandola presso la bandiera della propria squadra. Se il portatore della bandiera viene ucciso, la bandiera cade a terra e puÚ essere raccolta da chiunque. Se viene catturata la bandiera della tua squadra, devi recuperarla (toccandola dopo che Ë stata fatta cadere) prima che la tua squadra possa segnare un punto."
+Description="La tua squadra segna catturando la bandiera dalla base nemica e riportandola presso la bandiera della propria squadra. Se il portatore della bandiera viene ucciso, la bandiera cade a terra e pu√≤ essere raccolta da chiunque. Se viene catturata la bandiera della tua squadra, devi recuperarla (toccandola dopo che √® stata fatta cadere) prima che la tua squadra possa segnare un punto."
 
 [xDeathMatch]
 GameName="Death Match"
-Description="Uccidi tutti gli altri o vieni ucciso. Vince il giocatore con pi˘ frag."
+Description="Uccidi tutti gli altri o vieni ucciso. Vince il giocatore con pi√π frag."
 
 [xDeathMessage]
 KilledString="muore per mano di"
@@ -492,7 +492,7 @@ ObjectiveName="Punto B"
 DDomPropsDisplayText[0]="Tempo per segnare"
 DDomPropsDisplayText[1]="Punti disattivati"
 DDomPropDescText[0]="Specifica per quanto tempo bisogna controllare i punti di dominazione per segnare."
-DDomPropDescText[1]="Specifica per quanto tempo non si guadagnano punti di dominazione dopo che ne Ë stato vinto uno."
+DDomPropDescText[1]="Specifica per quanto tempo non si guadagnano punti di dominazione dopo che ne √® stato vinto uno."
 GameName="Doppio dominio"
 Description="La tua squadra segna catturando e trattenendo entrambi i punti di comando per 10 secondi. Catturi i punti di comando toccandoli. Dopo aver segnato, i punti di comando ritornano neutri."
 
@@ -512,7 +512,7 @@ Description="Due squadre si scontrano per stabilire la supremazia sul campo di b
 [xUtil]
 NoPreference="Nessun'arma preferita"
 FavoriteWeapon="Arma preferita:"
-AgilityString="Agilit‡:"
+AgilityString="Agilit√†:"
 TacticsString="Tattiche di squadra:"
 AccuracyString="Precisione:"
 AggressivenessString="Aggressione:"
@@ -520,7 +520,7 @@ AggressivenessString="Aggressione:"
 [xVehicleCTFGame]
 VCTFHints=("Non puoi trasportare la bandiera con un Manta o un Raptor.")
 GameName="CLB con veicoli"
-Description="La tradizionale modalit‡ Cattura la bandiera, ma con i veicoli! Solo quelli terrestri possono trasportare la bandiera."
+Description="La tradizionale modalit√† Cattura la bandiera, ma con i veicoli! Solo quelli terrestri possono trasportare la bandiera."
 
 [xVictimMessage]
 YouWereKilledBy="Sei stato ucciso da"
@@ -535,7 +535,7 @@ FFireString[0]="Sono nella tua squadra!"
 FFireString[1]="Sono nella tua stessa squadra, idiota!"
 FFireString[2]="Stessa squadra!"
 FFireAbbrev[1]="Sono con te, idiota!"
-TauntString[0]="E stai gi˘!"
+TauntString[0]="E stai gi√π!"
 TauntString[1]="Qualcun altro ne vuole un po'?"
 TauntString[2]="Bum!"
 TauntString[3]="Brucia, BRUCIA!"
@@ -547,7 +547,7 @@ TauntString[8]="Baciami il culo"
 TauntString[9]="Perdente"
 TauntString[10]="Sei a casa MIA!"
 TauntString[11]="Avanti il prossimo!"
-TauntString[12]="Oh, SÃ!"
+TauntString[12]="Oh, S√å!"
 TauntString[13]="Possesso."
 TauntString[14]="Ci vediamo."
 TauntString[15]="DI SICURO ti ha fatto male."
@@ -568,7 +568,7 @@ OrderString[13]="Attacca il punto Bravo"
 OrderString[14]="Prendi la palla"
 OrderAbbrev[0]="Difendi"
 OrderAbbrev[2]="Attacca"
-OtherString[0]="La base Ë indifesa!"
+OtherString[0]="La base √® indifesa!"
 OtherString[1]="Qualcuno riprenda la nostra bandiera!"
 OtherString[2]="Ho io la bandiera."
 OtherString[3]="Ti copro."
@@ -580,15 +580,15 @@ OtherString[8]="Ho la nostra bandiera."
 OtherString[9]="Sono in posizione %|"
 OtherString[10]="Sto entrando!"
 OtherString[11]="Area sicura."
-OtherString[12]="Il portabandiera nemico Ë %|"
+OtherString[12]="Il portabandiera nemico √® %|"
 OtherString[13]="Mi serve assistenza %|"
 OtherString[14]="Fuoco in arrivo!"
-OtherString[15]="Il nemico che ha la palla Ë %|"
+OtherString[15]="Il nemico che ha la palla √® %|"
 OtherString[16]="Punto Alfa al sicuro!"
 OtherString[17]="Punto Bravo al sicuro!"
 OtherString[18]="Attacca il punto Alfa"
 OtherString[19]="Attacca il punto Bravo"
-OtherString[20]="La base Ë attaccata %|"
+OtherString[20]="La base √® attaccata %|"
 OtherString[21]="Ci stanno sopraffacendo %|!"
 OtherString[22]="Siamo sotto grave attacco %|"
 OtherString[23]="Difendi il punto Alfa!"

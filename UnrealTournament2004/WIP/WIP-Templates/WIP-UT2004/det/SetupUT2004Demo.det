@@ -1,4 +1,4 @@
-[Setup]
+ï»¿[Setup]
 LocalProduct="Unreal Tournament 2004 Demo"
 DefaultFolder="C:\UT2004Demo"
 ReadMe=Help\ReadMe-Demo.int.txt
@@ -13,7 +13,7 @@ License=License.int
 
 [General]
 PlayLevelCommand="Dieses UT2004-Level &spielen"
-OpenLinkCommand="Diesen UT2004-Link &öffnen"
+OpenLinkCommand="Diesen UT2004-Link &Ã¶ffnen"
 InstallModuleCommand="Dieses UT2004-Modul &installieren"
 EditLevelCommand="Dieses UT2004-Level &bearbeiten"
 
@@ -27,11 +27,11 @@ Description="Installation ist erforderlich."
 
 [DirectXGroup]
 Caption="DirectX 8.1"
-Description="Optionale Microsoft DirectX 8.1-Treiber für verbesserte Grafik und Sound sowie Joystick-Support."
+Description="Optionale Microsoft DirectX 8.1-Treiber fÃ¼r verbesserte Grafik und Sound sowie Joystick-Support."
 
 [OpenALGroup]
 Caption="OpenAL"
-Description="Wird für bessere 3D-Soundeffekte benötigt."
+Description="Wird fÃ¼r bessere 3D-Soundeffekte benÃ¶tigt."
 
 [PlayShortcut]
 Caption="UT2004 Demo spielen"

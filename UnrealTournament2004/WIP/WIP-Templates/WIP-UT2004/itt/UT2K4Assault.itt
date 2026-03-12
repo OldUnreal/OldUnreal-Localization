@@ -1,4 +1,4 @@
-[ACTION_ASOpenSentinel]
+ï»¿[ACTION_ASOpenSentinel]
 ActionString="Sentinella sveglia"
 
 [ACTION_ASSetPlayerSpawnArea]
@@ -24,9 +24,9 @@ ASPropDescText[1]="Specifica la durata di ogni turno."
 ASPropDescText[2]="Specifica quanto tempo trascorre fra un turno e l'altro."
 ASPropDescText[3]="Specifica l'intervallo di tempo per l'arrivo dei rinforzi."
 ASPropDescText[4]="Specifica la durata in secondi del turno di allenamento online."
-ASHints=("Una tappa indica la posizione di un obiettivo.","Presta attenzione agli avvisi acustici e visivi quando un obiettivo è in pericolo.","Quando è stata attivata una nuova zona di rientro, premi %SWITCHWEAPON 10% per teletrasportarti immediatamente laggiù.","Premi %BASEPATH 0% o %BASEPATH 1% per evidenziare l’obiettivo attuale e il percorso necessario, facendo scorrere l’elenco degli obiettivi.","Osserva il conto alla rovescia del rientro per scoprire quando arriveranno i rinforzi.","Alcune armi sono più efficaci di altre a distruggere le mine ragno nemiche.","Puoi essere ferito o ucciso dai veicoli che esplodono vicino a te.","Puoi riparare un veicolo amico con il fuoco secondario del fucile Link.","Se muori, le mine ragno e le granate che hai lanciato esplodono.","La luce verde alla sommità degli armadietti delle armi indica che contengono munizioni aggiuntive.","Tutte le torrette possono zoomare in avanti premendo %MOVEFORWARD% e zoomare all'indietro premendo %MOVEBACKWARD%.","Le torrette Link hanno le stesse proprietà del fucile Link.","Il cannone a ioni e il carro a ioni, quando caricano il loro colpo, illuminano il loro bersaglio con un fascio laser.","Puoi selezionare le torrette comandate a distanza premendo %NEXTWEAPON% e %PREVWEAPON%.","Usando un caccia spaziale, puoi selezionare i bersagli premendo %NEXTWEAPON% e %PREVWEAPON%.","Puoi procurarti diversi trofei distruggendo un veicolo o torretta chiave, raggiungendo un obiettivo o attaccando con successo.","Il giocatore che raggiunge un obiettivo vince un trofeo, ma i punti di ricompensa vengono suddivisi fra tutti coloro che hanno contribuito.","Premi %TOGGLEBEHINDVIEW% per selezionare la modalità in prima o in terza persona sui veicoli.")
+ASHints=("Una tappa indica la posizione di un obiettivo.","Presta attenzione agli avvisi acustici e visivi quando un obiettivo Ã¨ in pericolo.","Quando Ã¨ stata attivata una nuova zona di rientro, premi %SWITCHWEAPON 10% per teletrasportarti immediatamente laggiÃ¹.","Premi %BASEPATH 0% o %BASEPATH 1% per evidenziare lâ€™obiettivo attuale e il percorso necessario, facendo scorrere lâ€™elenco degli obiettivi.","Osserva il conto alla rovescia del rientro per scoprire quando arriveranno i rinforzi.","Alcune armi sono piÃ¹ efficaci di altre a distruggere le mine ragno nemiche.","Puoi essere ferito o ucciso dai veicoli che esplodono vicino a te.","Puoi riparare un veicolo amico con il fuoco secondario del fucile Link.","Se muori, le mine ragno e le granate che hai lanciato esplodono.","La luce verde alla sommitÃ  degli armadietti delle armi indica che contengono munizioni aggiuntive.","Tutte le torrette possono zoomare in avanti premendo %MOVEFORWARD% e zoomare all'indietro premendo %MOVEBACKWARD%.","Le torrette Link hanno le stesse proprietÃ  del fucile Link.","Il cannone a ioni e il carro a ioni, quando caricano il loro colpo, illuminano il loro bersaglio con un fascio laser.","Puoi selezionare le torrette comandate a distanza premendo %NEXTWEAPON% e %PREVWEAPON%.","Usando un caccia spaziale, puoi selezionare i bersagli premendo %NEXTWEAPON% e %PREVWEAPON%.","Puoi procurarti diversi trofei distruggendo un veicolo o torretta chiave, raggiungendo un obiettivo o attaccando con successo.","Il giocatore che raggiunge un obiettivo vince un trofeo, ma i punti di ricompensa vengono suddivisi fra tutti coloro che hanno contribuito.","Premi %TOGGLEBEHINDVIEW% per selezionare la modalitÃ  in prima o in terza persona sui veicoli.")
 GameName="Assalto"
-Description="In ogni turno, una squadra gioca come attaccante, mentre l'altra è in difesa, nell'intervallarsi di scenari famosi (o nefasti). Dopo una coppia di turno, la squadra più efficace in attacco vince un punto."
+Description="In ogni turno, una squadra gioca come attaccante, mentre l'altra Ã¨ in difesa, nell'intervallarsi di scenari famosi (o nefasti). Dopo una coppia di turno, la squadra piÃ¹ efficace in attacco vince un punto."
 
 [ASGameReplicationInfo]
 ERW_PracticeRoundEndedStr="Turno di allenamento finito. Pronto!"
@@ -71,7 +71,7 @@ VehicleNameString="Sentinella sul tetto"
 VehicleNameString="Sentinella sul pavimento"
 
 [ASVehicle_SpaceFighter]
-Text_Speed="Velocità:"
+Text_Speed="VelocitÃ :"
 
 [Ammo_Dummy]
 ItemName="Finto"

@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 Title="Golia"
 
 [LevelSummary]
@@ -9,7 +9,7 @@ Description="Sospese nel cielo di Calaban VII, le stazioni energetiche orbitali 
 LocationName="Piattaforma segreta sul tetto"
 
 [Volume1]
-LocationName="Punto di quadrisalto a bassa gravit�"
+LocationName="Punto di quadrisalto a bassa gravità"
 
 [ZoneInfo0]
 LocationName="Stanza del fucile shock"

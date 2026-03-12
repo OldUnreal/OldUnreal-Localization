@@ -1,4 +1,4 @@
-[ASCriticalObjectiveVolume2]
+Ôªø[ASCriticalObjectiveVolume2]
 LocationName="Entrata della stazione della metropolitana"
 
 [ASCriticalObjectiveVolume3]
@@ -53,11 +53,11 @@ Objective_Info_Defender="Difendi il centro di comando"
 Title="Fallen city"
 
 [LevelSummary]
-Title="La citt‡ caduta"
-Description="Dopo le guerre fra Umani e Skaarj, molte citt‡ terrestri erano ridotte in rovine. Quando il Nuovo Governo Terrestre cercÚ di esercitare la sua autorit‡ su queste zone, dovette affrontare molti gruppi ribelli che avevano stabilito le loro basi nelle citt‡ distrutte e spesso erano finanziati in segreto dalle grandi corporazioni. Questo scenario ricostruisce la distruzione di un centro di comando ribelle per mano delle forze dell'NGT. Per garantire l'accuratezza storica, il punto di arrivo degli attaccanti Ë piuttosto lontano dal centro di comando. Il bunker era infatti circondato da postazioni contraeree."
+Title="La citt√† caduta"
+Description="Dopo le guerre fra Umani e Skaarj, molte citt√† terrestri erano ridotte in rovine. Quando il Nuovo Governo Terrestre cerc√≤ di esercitare la sua autorit√† su queste zone, dovette affrontare molti gruppi ribelli che avevano stabilito le loro basi nelle citt√† distrutte e spesso erano finanziati in segreto dalle grandi corporazioni. Questo scenario ricostruisce la distruzione di un centro di comando ribelle per mano delle forze dell'NGT. Per garantire l'accuratezza storica, il punto di arrivo degli attaccanti √® piuttosto lontano dal centro di comando. Il bunker era infatti circondato da postazioni contraeree."
 
 [SceneSubtitles1]
-SubTitles=("Dopo le guerre fra Umani e Skaarj, molte citt‡ terrestri erano ridotte in rovine. Quando il Nuovo Governo Terrestre cercÚ di esercitare la sua autorit‡ su queste zone,","dovette affrontare molti gruppi ribelli che avevano stabilito le loro basi nelle citt‡ distrutte e spesso erano finanziati in segreto dalle grandi corporazioni.","Questo scenario ricostruisce la distruzione di un centro di comando ribelle per mano delle forze dell'NGT. ","Per garantire l'accuratezza storica, il punto di arrivo degli attaccanti Ë piuttosto lontano dal centro di comando. Il bunker era infatti circondato da postazioni contraeree. ","Chi attacca deve farsi strada a piedi tra le strade, sconfiggere tutta la resistenza e distruggere le barricate per poter proseguire al prossimo obiettivo.","Inseguito, bisogna annientare l'avanposto frontale. Quando l'area Ë sgombrata, una pesanta stiva sar‡ consegnata per aiutarti a procedere.","Chi difende Ë appostato nel profondo di questo bunker. Dovrai oltrepassare la difesa e infiltrarti nel bunker per raggiungere la loro base di comando.","Raggiungi la base di comando sotterranea e usa esplosivi per distruggere l'intera struttura. In questo modo la resistenza dovrebbe essere messa in ginocchio.")
+SubTitles=("Dopo le guerre fra Umani e Skaarj, molte citt√† terrestri erano ridotte in rovine. Quando il Nuovo Governo Terrestre cerc√≤ di esercitare la sua autorit√† su queste zone,","dovette affrontare molti gruppi ribelli che avevano stabilito le loro basi nelle citt√† distrutte e spesso erano finanziati in segreto dalle grandi corporazioni.","Questo scenario ricostruisce la distruzione di un centro di comando ribelle per mano delle forze dell'NGT. ","Per garantire l'accuratezza storica, il punto di arrivo degli attaccanti √® piuttosto lontano dal centro di comando. Il bunker era infatti circondato da postazioni contraeree. ","Chi attacca deve farsi strada a piedi tra le strade, sconfiggere tutta la resistenza e distruggere le barricate per poter proseguire al prossimo obiettivo.","Inseguito, bisogna annientare l'avanposto frontale. Quando l'area √® sgombrata, una pesanta stiva sar√† consegnata per aiutarti a procedere.","Chi difende √® appostato nel profondo di questo bunker. Dovrai oltrepassare la difesa e infiltrarti nel bunker per raggiungere la loro base di comando.","Raggiungi la base di comando sotterranea e usa esplosivi per distruggere l'intera struttura. In questo modo la resistenza dovrebbe essere messa in ginocchio.")
 
 [Trigger_ASMessageTrigger0]
 Message="Bunker violato!"
@@ -117,5 +117,5 @@ LocationName="Sentiero romano"
 LocationName="Biglietteria della metropolitana"
 
 [ZoneInfo0]
-LocationName="Citt‡ distrutta"
+LocationName="Citt√† distrutta"
 

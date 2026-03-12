@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Name=XWebAdmin.UT2K3Skin,Class=Class,MetaClass=XWebAdmin.WebSkin)
 Object=(Name=XWebAdmin.ClassicUT,Class=Class,MetaClass=XWebAdmin.WebSkin)
 Object=(Name=XWebAdmin.UT2K3Stats,Class=Class,MetaClass=XWebAdmin.WebSkin)

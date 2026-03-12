@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Phobos Moon 2"
 
 [LevelSummary]
@@ -38,7 +38,7 @@ LocationName="Central"
 LocationName="Salle Lightning Gun"
 
 [ZoneInfo17]
-LocationName="Salle Baril santé"
+LocationName="Salle Baril santÃ©"
 
 [ZoneInfo18]
 LocationName="Couloir de sniper"
@@ -47,7 +47,7 @@ LocationName="Couloir de sniper"
 LocationName="Central"
 
 [ZoneInfo2]
-LocationName="Salle Baril santé"
+LocationName="Salle Baril santÃ©"
 
 [ZoneInfo20]
 LocationName="Couloir Canon Flak"
@@ -71,10 +71,10 @@ LocationName="Couloir recharge Bouclier +100"
 LocationName="Couloir Lance-roquettes"
 
 [ZoneInfo3]
-LocationName="Salle Baril santé"
+LocationName="Salle Baril santÃ©"
 
 [ZoneInfo4]
-LocationName="Salle Baril santé"
+LocationName="Salle Baril santÃ©"
 
 [ZoneInfo5]
 LocationName="Couloir Lance-roquettes"

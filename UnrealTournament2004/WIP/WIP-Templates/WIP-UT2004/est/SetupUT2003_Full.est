@@ -1,4 +1,4 @@
-[Setup]
+Ôªø[Setup]
 LocalProduct="Unreal Tournament 2003"
 DefaultFolder="C:\UT2003"
 ReadMe=Help\ReadMe.est.txt
@@ -13,26 +13,26 @@ License=License.est
 
 [General]
 PlayLevelCommand="&Jugar este nivel de UT2003"
-OpenLinkCommand="&Abrir este vÌnculo de UT2003"
-InstallModuleCommand="&Instalar este mÛdulo de UT2003"
+OpenLinkCommand="&Abrir este v√≠nculo de UT2003"
+InstallModuleCommand="&Instalar este m√≥dulo de UT2003"
 EditLevelCommand="&Editar este nivel de UT2003"
-SafeDiscAdminRights="Necesitas lanzar este programa como administrador, no como huÈsped o usuario limitado."
-SafeDiscNoDisk="Ning˙n disco en la unidad. Por favor inserta el disco 'Unreal Tournament 2003 Play Disc' para continuar."
+SafeDiscAdminRights="Necesitas lanzar este programa como administrador, no como hu√©sped o usuario limitado."
+SafeDiscNoDisk="Ning√∫n disco en la unidad. Por favor inserta el disco 'Unreal Tournament 2003 Play Disc' para continuar."
 SafeDiscNoDrive="Ninguna unidad CD-ROM o DVD-ROM detectada."
 SafeDiscTitlebar="Unreal Tournament 2003"
 SafeDiscWrongDisc="Disco incorrecto en la unidad. Por favor inserta el disco 'Unreal Tournament 2003 Play Disc' para continuar."
 
 [UnrealGameContentGroup]
 Caption="Contenido del juego"
-Description="Realiza la instalaciÛn para obtener las mejores prestaciones. Si no seleccionas esta opciÛn, el juego se cargar· desde el CD, perdiendo prestaciones pero ahorrando espacio en el disco duro."
+Description="Realiza la instalaci√≥n para obtener las mejores prestaciones. Si no seleccionas esta opci√≥n, el juego se cargar√° desde el CD, perdiendo prestaciones pero ahorrando espacio en el disco duro."
 
 [GameGroup]
 Caption="Juego UT2003"
-Description="Necesita instalaciÛn."
+Description="Necesita instalaci√≥n."
 
 [DirectXGroup]
 Caption="DirectX 8.1"
-Description="Controladores opcionales Microsoft DirectX 8.1 que mejoran los gr·ficos, el sonido y el soporte del joystick."
+Description="Controladores opcionales Microsoft DirectX 8.1 que mejoran los gr√°ficos, el sonido y el soporte del joystick."
 
 [OpenALGroup]
 Caption="OpenAL"
@@ -40,11 +40,11 @@ Description="Necesario para efectos de sonido 3D acelerados por hardware."
 
 [Win2000XPGroup]
 Caption="Windows 2000/XP Direct3D"
-Description="Necesario para Windows 2000/XP [temporal-no para la versiÛn final]."
+Description="Necesario para Windows 2000/XP [temporal-no para la versi√≥n final]."
 
 [EditorGroup]
 Caption="Unreal Editor"
-Description="Editor de mundos Unreal, para crear tus entornos tridimensionales propios. Para usuarios avanzados; la instalaciÛn es opcional."
+Description="Editor de mundos Unreal, para crear tus entornos tridimensionales propios. Para usuarios avanzados; la instalaci√≥n es opcional."
 
 [PlayShortcut]
 Caption="Jugar con UT2003"
@@ -56,7 +56,7 @@ Caption="Modo a prueba de fallos de UT2003"
 Caption="Editor UT2003"
 
 [DocumentationShortcut]
-Caption="DocumentaciÛn"
+Caption="Documentaci√≥n"
 
 [WebShortcut]
 Caption="UT2003 Web Page"

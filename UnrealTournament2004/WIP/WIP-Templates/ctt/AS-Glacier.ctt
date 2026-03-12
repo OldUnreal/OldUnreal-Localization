@@ -1,4 +1,4 @@
-[DestroyableObjective1]
+﻿[DestroyableObjective1]
 ; EN: ObjectiveName="Secondary Dam Controls"
 ObjectiveName="Controls de presa secundària"
 ; EN: DestructionMessage="Secondary Dam Shutdown"

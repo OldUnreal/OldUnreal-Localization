@@ -1,7 +1,7 @@
-[DamTypeIonTankBlast]
-DeathString="%o wurde AUSGELÖSCHT"
-FemaleSuicide="%o wurde AUSGELÖSCHT"
-MaleSuicide="%o wurde AUSGELÖSCHT"
+ï»¿[DamTypeIonTankBlast]
+DeathString="%o wurde AUSGELÃ–SCHT"
+FemaleSuicide="%o wurde AUSGELÃ–SCHT"
+MaleSuicide="%o wurde AUSGELÃ–SCHT"
 
 [DamTypeMASCannon]
 DeathString="%o wurde von %k PULVERISIERT!"
@@ -19,7 +19,7 @@ VehiclePositionString="in einer DragonFly"
 VehicleNameString="DragonFly"
 
 [ONSGenericSD]
-VehiclePositionString="außer Gefecht"
+VehiclePositionString="auÃŸer Gefecht"
 VehicleNameString="TC-1200"
 
 [ONSHoverTank_IonPlasma]
@@ -35,7 +35,7 @@ VehiclePositionString="in einem Leviathan"
 VehicleNameString="Leviathan"
 
 [ONSPainter]
-Description="Der Target Painter funktioniert ähnlich wie der Ion Painter. Er feuert einen harmlosen Niedrigenergie-Laser mit dem Primärfeuer ab. Im Gegensatz zum Ion Painter ruft diese Waffe jedoch einen Bomber herbei, der einen Bombenteppich in die Richtung abwirft, in die der Benutzer blickt, d.h. auf das markierte Ziel. Die Bomben äschern das Ziel und alle Unglückseligen ein, die sich gerade in dessen Nähe befinden."
+Description="Der Target Painter funktioniert Ã¤hnlich wie der Ion Painter. Er feuert einen harmlosen Niedrigenergie-Laser mit dem PrimÃ¤rfeuer ab. Im Gegensatz zum Ion Painter ruft diese Waffe jedoch einen Bomber herbei, der einen Bombenteppich in die Richtung abwirft, in die der Benutzer blickt, d.h. auf das markierte Ziel. Die Bomben Ã¤schern das Ziel und alle UnglÃ¼ckseligen ein, die sich gerade in dessen NÃ¤he befinden."
 ItemName="Target Painter"
 
 [ONSPainterPickup]

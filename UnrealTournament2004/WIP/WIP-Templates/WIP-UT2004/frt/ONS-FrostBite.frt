@@ -1,21 +1,21 @@
-[Counter0]
-CompleteMessage="Secret activé !"
+ï»¿[Counter0]
+CompleteMessage="Secret activÃ© !"
 
 [LevelInfo0]
 Title="Gelure"
 
 [LevelSummary]
 Title="Gelure"
-Description="Ne vous laissez pas abuser par l'apparente simplicité de ce paysage glacé. Bien qu'étant l'une des plus petites arènes de mode Attaque, Gelure génère des combats sanglants à un rythme effréné."
+Description="Ne vous laissez pas abuser par l'apparente simplicitÃ© de ce paysage glacÃ©. Bien qu'Ã©tant l'une des plus petites arÃ¨nes de mode Attaque, Gelure gÃ©nÃ¨re des combats sanglants Ã  un rythme effrÃ©nÃ©."
 
 [PhysicsVolume51]
-LocationName="Cachette souterraine secrète"
+LocationName="Cachette souterraine secrÃ¨te"
 
 [Volume1]
 LocationName="Base rouge"
 
 [Volume18]
-LocationName="Vallée sud-est"
+LocationName="VallÃ©e sud-est"
 
 [Volume19]
 LocationName="Lac rouge"
@@ -24,7 +24,7 @@ LocationName="Lac rouge"
 LocationName="Lac bleu"
 
 [Volume21]
-LocationName="Vallée nord-est"
+LocationName="VallÃ©e nord-est"
 
 [Volume22]
 LocationName="Lac central"
@@ -48,28 +48,28 @@ LocationName="Base bleue"
 LocationName="Base centrale"
 
 [ZoneInfo0]
-LocationName="Entrée bleue"
+LocationName="EntrÃ©e bleue"
 
 [ZoneInfo1]
 LocationName="Tour bleue"
 
 [ZoneInfo10]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 [ZoneInfo11]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 [ZoneInfo12]
 LocationName="Tour rouge"
 
 [ZoneInfo13]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 [ZoneInfo2]
 LocationName="Tour rouge"
 
 [ZoneInfo3]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 [ZoneInfo4]
 LocationName="Tour rouge"
@@ -78,14 +78,14 @@ LocationName="Tour rouge"
 LocationName="Tour bleue"
 
 [ZoneInfo6]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 [ZoneInfo7]
 LocationName="Tour rouge"
 
 [ZoneInfo8]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 [ZoneInfo9]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 

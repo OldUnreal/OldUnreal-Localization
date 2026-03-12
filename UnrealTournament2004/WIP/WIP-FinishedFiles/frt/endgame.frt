@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="End Game"
 Title="Fin du Jeu"
 

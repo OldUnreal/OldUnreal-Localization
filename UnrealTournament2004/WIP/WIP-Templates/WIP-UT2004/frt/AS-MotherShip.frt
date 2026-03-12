@@ -1,14 +1,14 @@
-[Trigger_ASMessageTrigger14]
-Message="Champ de force désactivé..."
+ï»¿[Trigger_ASMessageTrigger14]
+Message="Champ de force dÃ©sactivÃ©..."
 
 [Trigger_ASMessageTrigger15]
-Message="Déverrouillez le noyau !"
+Message="DÃ©verrouillez le noyau !"
 
 [Trigger_ASMessageTrigger3]
 Message="Ecoutilles de noyau ouvertes..."
 
 [Trigger_ASMessageTrigger4]
-Message="Champs de force supérieurs désactivés..."
+Message="Champs de force supÃ©rieurs dÃ©sactivÃ©s..."
 
 [Trigger_ASMessageTrigger5]
 Message="Les attaquants ont atterri !"
@@ -17,16 +17,16 @@ Message="Les attaquants ont atterri !"
 Message="Les attaquants sont dans le noyau !"
 
 [Trigger_ASMessageTrigger8]
-Message="Noyau déstabilisé !"
+Message="Noyau dÃ©stabilisÃ© !"
 
 [Trigger_ASMessageTrigger9]
-Message="Champ de force du hangar d'atterrissage désactivé"
+Message="Champ de force du hangar d'atterrissage dÃ©sactivÃ©"
 
 [ZoneInfo1]
 LocationName="Couloir droit moteur gravifique"
 
 [ZoneInfo10]
-LocationName="Générateur énergie 2"
+LocationName="GÃ©nÃ©rateur Ã©nergie 2"
 
 [ZoneInfo12]
 LocationName="Le noyau"
@@ -38,28 +38,28 @@ LocationName="Conduit droit"
 LocationName="Conduit principal central"
 
 [ZoneInfo16]
-LocationName="Extérieur du noyau"
+LocationName="ExtÃ©rieur du noyau"
 
 [ZoneInfo17]
-LocationName="Extérieur du noyau"
+LocationName="ExtÃ©rieur du noyau"
 
 [ZoneInfo18]
-LocationName="Conduit interne supérieur"
+LocationName="Conduit interne supÃ©rieur"
 
 [ZoneInfo19]
-LocationName="Extérieur du noyau"
+LocationName="ExtÃ©rieur du noyau"
 
 [ZoneInfo2]
 LocationName="Dans l'espace"
 
 [ZoneInfo20]
-LocationName="Carrefour inférieur"
+LocationName="Carrefour infÃ©rieur"
 
 [ZoneInfo21]
-LocationName="Réapparition dérivation défenseurs"
+LocationName="RÃ©apparition dÃ©rivation dÃ©fenseurs"
 
 [ZoneInfo22]
-LocationName="Réapparition dérivation défenseurs"
+LocationName="RÃ©apparition dÃ©rivation dÃ©fenseurs"
 
 [ZoneInfo23]
 LocationName="Soute"
@@ -74,16 +74,16 @@ LocationName="Soute"
 LocationName="Soute"
 
 [ZoneInfo27]
-LocationName="Réapparition dérivation défenseurs"
+LocationName="RÃ©apparition dÃ©rivation dÃ©fenseurs"
 
 [ZoneInfo28]
-LocationName="Hangar à vaisseaux"
+LocationName="Hangar Ã  vaisseaux"
 
 [ZoneInfo29]
 LocationName="Couloir soute"
 
 [ZoneInfo3]
-LocationName="Conduit générateur section inférieure"
+LocationName="Conduit gÃ©nÃ©rateur section infÃ©rieure"
 
 [ZoneInfo30]
 LocationName="Cage ascenseur"
@@ -92,16 +92,16 @@ LocationName="Cage ascenseur"
 LocationName="Passage ascenseur"
 
 [ZoneInfo32]
-LocationName="Soute - pont supérieur gauche"
+LocationName="Soute - pont supÃ©rieur gauche"
 
 [ZoneInfo33]
-LocationName="Soute - pont supérieur droit"
+LocationName="Soute - pont supÃ©rieur droit"
 
 [ZoneInfo34]
 LocationName="Passage ascenseur"
 
 [ZoneInfo35]
-LocationName="Salle dérivation énergétique"
+LocationName="Salle dÃ©rivation Ã©nergÃ©tique"
 
 [ZoneInfo36]
 LocationName="Couloir gauche"
@@ -113,16 +113,16 @@ LocationName="Hangar atterrissage attaquants"
 LocationName="Couloir droit"
 
 [ZoneInfo39]
-LocationName="Entrée supérieure dérivation énergétique"
+LocationName="EntrÃ©e supÃ©rieure dÃ©rivation Ã©nergÃ©tique"
 
 [ZoneInfo4]
-LocationName="Hangar atterrissage défenseurs"
+LocationName="Hangar atterrissage dÃ©fenseurs"
 
 [ZoneInfo40]
-LocationName="Entrée du noyau"
+LocationName="EntrÃ©e du noyau"
 
 [ZoneInfo41]
-LocationName="Extérieur du noyau"
+LocationName="ExtÃ©rieur du noyau"
 
 [ZoneInfo42]
 LocationName="Passage gauche pont noyau"
@@ -149,7 +149,7 @@ LocationName="Passage droit pont noyau"
 LocationName="Soute"
 
 [ZoneInfo5]
-LocationName="Générateur énergie 1"
+LocationName="GÃ©nÃ©rateur Ã©nergie 1"
 
 [ZoneInfo50]
 LocationName="Couloir soute"
@@ -176,7 +176,7 @@ LocationName="Hangar d'atterrissage"
 LocationName="hangar d'atterrissage"
 
 [ZoneInfo8]
-LocationName="Hangar atterrissage défenseurs"
+LocationName="Hangar atterrissage dÃ©fenseurs"
 
 [ZoneInfo9]
 LocationName="Conduit gauche"

@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Name=Editor.MasterCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MakeCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ConformCommandlet,Class=Class,MetaClass=Core.Commandlet)

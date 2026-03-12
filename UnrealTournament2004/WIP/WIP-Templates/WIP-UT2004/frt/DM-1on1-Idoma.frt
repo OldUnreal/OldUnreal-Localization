@@ -1,9 +1,9 @@
-[LevelInfo0]
+Ôªø[LevelInfo0]
 Title="Idoma"
 
 [LevelSummary]
 Title="Idoma"
-Description="Petite map atmosphÈrique situÈe dans un b‚timent de bois et de mÈtal."
+Description="Petite map atmosph√©rique situ√©e dans un b√¢timent de bois et de m√©tal."
 
 [Volume0]
 LocationName="Zone roquettes"

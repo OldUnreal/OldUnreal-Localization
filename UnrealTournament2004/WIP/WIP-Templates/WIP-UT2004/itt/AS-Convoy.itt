@@ -1,12 +1,12 @@
-[HoldObjective1]
+ï»¿[HoldObjective1]
 
-DestructionMessage="Il deposito anteriore di armi è stato saccheggiato!"
+DestructionMessage="Il deposito anteriore di armi Ã¨ stato saccheggiato!"
 ObjectiveDescription="Apri il pannello per avanzare."
 Objective_Info_Attacker="Apri il pannello"
 Objective_Info_Defender="Difendi il pannello"
 
 [HoldObjective2]
-DestructionMessage="La piattaforma d'imbarco è stata estratta!"
+DestructionMessage="La piattaforma d'imbarco Ã¨ stata estratta!"
 ObjectiveDescription="Estrai la piattaforma d'imbarco per continuare ad avanzare."
 Objective_Info_Attacker="Estrai la piattaforma d'imbarco"
 Objective_Info_Defender="Difendi la piattaforma d'imbarco"
@@ -58,16 +58,16 @@ Title="Convoglio"
 
 [LevelSummary]
 Title="Convoglio"
-Description="Questo scenario ricostruisce il recupero dei prototipi di missile 'Nexus', rubati dagli Hellion, effettuato dai militari dell'NGT. Le forze dell'NGT hanno scoperto dove si trova il deposito grazie a un localizzatore nascosto in queste armi devastanti. È stato possibile rilevare la posizione precisa dei missili solo durante il breve intervallo di tempo in cui sono stati trasportati all'aperto su Taron. I militari sono stati costretti ad attaccare proprio allora."
+Description="Questo scenario ricostruisce il recupero dei prototipi di missile 'Nexus', rubati dagli Hellion, effettuato dai militari dell'NGT. Le forze dell'NGT hanno scoperto dove si trova il deposito grazie a un localizzatore nascosto in queste armi devastanti. Ãˆ stato possibile rilevare la posizione precisa dei missili solo durante il breve intervallo di tempo in cui sono stati trasportati all'aperto su Taron. I militari sono stati costretti ad attaccare proprio allora."
 
 [SceneSubtitles0]
-SubTitles=("Questo scenario ricostruisce il recupero dei prototipi di missile 'Nexus', rubati dagli Hellion, effettuato dai militari dell'NGT.","Le forze dell'NGT hanno scoperto dove si trova il deposito grazie a un localizzatore nascosto in queste armi devastanti.","È stato possibile rilevare la posizione precisa dei missili solo durante il breve intervallo di tempo in cui sono stati trasportati all'aperto su Taron. I militari sono stati costretti ad attaccare proprio allora.","Gli attaccanti devono prima trovare la via fino alla piattaforma d'inbarco Hellions, manipolare i controlli e allungare la piattaforma per poter continuare.",,"Una buona idea per gli attaccanti sarebbe di togliere questo pannello di controllo in modo che funzioni a loro favore invece che per Hellions. Così facendo l'equipaggiamento delle armi avanzerà più velocemente.",,"Gli attaccanti devono attraversare la piattaforma d'inbarco, raggiungere e minare la porta posteriore per accedere l'interno della nave riparatrice.",,"Per avanzare più in fretta apri la porta posteriore della nave riparatrice, in modo che gli attaccanti si trovino più vicino al prossimo obiettivo.",,"Una precauzione, dentro la navetta riparatrice c'è una tanica di gasolio, fai attenzione o potrebbe esplodere rendendo i tuoi progressi molto più difficili.",,"Gli attaccanti devono premere questo interuttore in modo di poter proseguire, controllare le porte laterali e continuare all'obiettivo finale.",,"Gli attaccanti devono arrivare al carrello di armi e una volta entrati devono premere l'interuttore per riconquistare il missile Nexus.")
+SubTitles=("Questo scenario ricostruisce il recupero dei prototipi di missile 'Nexus', rubati dagli Hellion, effettuato dai militari dell'NGT.","Le forze dell'NGT hanno scoperto dove si trova il deposito grazie a un localizzatore nascosto in queste armi devastanti.","Ãˆ stato possibile rilevare la posizione precisa dei missili solo durante il breve intervallo di tempo in cui sono stati trasportati all'aperto su Taron. I militari sono stati costretti ad attaccare proprio allora.","Gli attaccanti devono prima trovare la via fino alla piattaforma d'inbarco Hellions, manipolare i controlli e allungare la piattaforma per poter continuare.",,"Una buona idea per gli attaccanti sarebbe di togliere questo pannello di controllo in modo che funzioni a loro favore invece che per Hellions. CosÃ¬ facendo l'equipaggiamento delle armi avanzerÃ  piÃ¹ velocemente.",,"Gli attaccanti devono attraversare la piattaforma d'inbarco, raggiungere e minare la porta posteriore per accedere l'interno della nave riparatrice.",,"Per avanzare piÃ¹ in fretta apri la porta posteriore della nave riparatrice, in modo che gli attaccanti si trovino piÃ¹ vicino al prossimo obiettivo.",,"Una precauzione, dentro la navetta riparatrice c'Ã¨ una tanica di gasolio, fai attenzione o potrebbe esplodere rendendo i tuoi progressi molto piÃ¹ difficili.",,"Gli attaccanti devono premere questo interuttore in modo di poter proseguire, controllare le porte laterali e continuare all'obiettivo finale.",,"Gli attaccanti devono arrivare al carrello di armi e una volta entrati devono premere l'interuttore per riconquistare il missile Nexus.")
 
 [Trigger_ASMessageTrigger0]
 Message="Attacco aereo in arrivo! Cercate immediatamente rifugio!"
 
 [TriggeredObjective0]
-DestructionMessage="Il rimorchio dei missili Nexus è stato aperto!"
+DestructionMessage="Il rimorchio dei missili Nexus Ã¨ stato aperto!"
 ObjectiveDescription="Raggiungi il rimorchio dei missili Nexus e aprilo"
 Objective_Info_Attacker="Raggiungi il rimorchio dei missili Nexus"
 Objective_Info_Defender="Difendi il rimorchio dei missili Nexus"

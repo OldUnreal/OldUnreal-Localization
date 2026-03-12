@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 Title="Didacticiel de Domination"
 
 [LevelSummary]

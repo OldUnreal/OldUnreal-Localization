@@ -1,18 +1,18 @@
-[LevelInfo0]
+Ôªø[LevelInfo0]
 Title="Squader"
 
 [LevelSummary]
 Title="Squader"
-Description="Ce b‚timent glacial, qui appartenait autrefois ‡ une installation de recherche militaire secrËte, accueille dÈsormais la premiËre de certains combats singuliers du tournoi. La pression est forte... Supporterez-vous la lumiËre des projecteurs ?"
+Description="Ce b√¢timent glacial, qui appartenait autrefois √† une installation de recherche militaire secr√®te, accueille d√©sormais la premi√®re de certains combats singuliers du tournoi. La pression est forte... Supporterez-vous la lumi√®re des projecteurs ?"
 
 [ZoneInfo0]
 LocationName="Zone super bouclier"
 
 [ZoneInfo10]
-LocationName="Salles UdÈg‚ts"
+LocationName="Salles Ud√©g√¢ts"
 
 [ZoneInfo11]
-LocationName="Salles UdÈg‚ts"
+LocationName="Salles Ud√©g√¢ts"
 
 [ZoneInfo12]
 LocationName="Zone super bouclier"
@@ -27,17 +27,17 @@ LocationName="Hall Flak"
 LocationName="Hall Flak"
 
 [ZoneInfo5]
-LocationName="Double santÈ"
+LocationName="Double sant√©"
 
 [ZoneInfo6]
 LocationName="Coin fusil bio"
 
 [ZoneInfo7]
-LocationName="Vaste zone vitrÈe"
+LocationName="Vaste zone vitr√©e"
 
 [ZoneInfo8]
-LocationName="Vaste zone vitrÈe"
+LocationName="Vaste zone vitr√©e"
 
 [ZoneInfo9]
-LocationName="Salles UdÈg‚ts"
+LocationName="Salles Ud√©g√¢ts"
 

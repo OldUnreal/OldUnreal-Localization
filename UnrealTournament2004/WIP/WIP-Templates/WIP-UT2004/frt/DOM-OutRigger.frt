@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 Title="Outrigger"
 LocationName="Inconnu"
 
@@ -48,7 +48,7 @@ LocationName="Dom A, Plate-forme 1"
 LocationName="Dom B, Plate-forme 1"
 
 [Volume8]
-LocationName="Espaces de r�apparition"
+LocationName="Espaces de réapparition"
 
 [ZoneInfo1]
 LocationName="Dom B, Sous-sol"

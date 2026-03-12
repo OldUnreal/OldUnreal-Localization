@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Geothermal"
 
 [LevelSummary]
@@ -29,22 +29,22 @@ LocationName="Salle drapeau rouge"
 LocationName="Milieu"
 
 [ZoneInfo14]
-LocationName="Entrée supérieure rouge"
+LocationName="EntrÃ©e supÃ©rieure rouge"
 
 [ZoneInfo15]
-LocationName="Entrée inférieure bleue"
+LocationName="EntrÃ©e infÃ©rieure bleue"
 
 [ZoneInfo19]
-LocationName="Entrée supérieure bleue"
+LocationName="EntrÃ©e supÃ©rieure bleue"
 
 [ZoneInfo2]
 LocationName="Salle d'eau rouge"
 
 [ZoneInfo20]
-LocationName="Entrée supérieure bleue"
+LocationName="EntrÃ©e supÃ©rieure bleue"
 
 [ZoneInfo23]
-LocationName="Entrée supérieure bleue"
+LocationName="EntrÃ©e supÃ©rieure bleue"
 
 [ZoneInfo24]
 LocationName="Salle drapeau bleu"
@@ -53,22 +53,22 @@ LocationName="Salle drapeau bleu"
 LocationName="Salle drapeau bleu"
 
 [ZoneInfo26]
-LocationName="Entrée supérieure bleue"
+LocationName="EntrÃ©e supÃ©rieure bleue"
 
 [ZoneInfo4]
-LocationName="Entrée inférieure rouge"
+LocationName="EntrÃ©e infÃ©rieure rouge"
 
 [ZoneInfo5]
-LocationName="Entrée supérieure rouge"
+LocationName="EntrÃ©e supÃ©rieure rouge"
 
 [ZoneInfo6]
-LocationName="Entrée supérieure rouge"
+LocationName="EntrÃ©e supÃ©rieure rouge"
 
 [ZoneInfo7]
 LocationName="Salle drapeau bleu"
 
 [ZoneInfo8]
-LocationName="Entrée supérieure rouge"
+LocationName="EntrÃ©e supÃ©rieure rouge"
 
 [ZoneInfo9]
 LocationName="Salle drapeau rouge"

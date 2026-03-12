@@ -1,4 +1,4 @@
-[DamTypeIonTankBlast]
+Ôªø[DamTypeIonTankBlast]
 DeathString="%o SVANISCE NEL NULLA"
 FemaleSuicide="%o SVANISCE NEL NULLA"
 MaleSuicide="%o SVANISCE NEL NULLA"
@@ -10,7 +10,7 @@ MaleSuicide="%o DIVENTA VAPORE!"
 
 [MutVehicleArena]
 ArenaDisplayText="Veicolo per l'arena"
-ArenaDescText="Stabilisce quale tipo di veicolo verr‡ usato nell'incontro."
+ArenaDescText="Stabilisce quale tipo di veicolo verr√† usato nell'incontro."
 FriendlyName="Veicolo unico"
 Description="Sostituisce tutti i veicoli di una mappa con un dato modello."
 
@@ -35,7 +35,7 @@ VehiclePositionString="in un Leviathan"
 VehicleNameString="Leviathan"
 
 [ONSPainter]
-Description="Il puntatore laser, similmente allo ionizzatore, proietta un innocuo raggio laser a bassa potenza che serve a richiamare un bombardiere. Quest'ultimo lancia un carico di bombe nella direzione in cui Ë rivolto l'utente, mirando al punto illuminato dal laser. Le bombe distruggeranno il bersaglio e chiunque abbia la sfortuna di trovarsi nei paraggi."
+Description="Il puntatore laser, similmente allo ionizzatore, proietta un innocuo raggio laser a bassa potenza che serve a richiamare un bombardiere. Quest'ultimo lancia un carico di bombe nella direzione in cui √® rivolto l'utente, mirando al punto illuminato dal laser. Le bombe distruggeranno il bersaglio e chiunque abbia la sfortuna di trovarsi nei paraggi."
 ItemName="Puntatore laser"
 
 [ONSPainterPickup]

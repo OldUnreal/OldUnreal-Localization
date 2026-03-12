@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Class=Texture,Name=TeamSymbols_UT2004.Corrupt,Description="SP")
 Object=(Class=Texture,Name=TeamSymbols_UT2004.Design1,Description="")
 Object=(Class=Texture,Name=TeamSymbols_UT2004.Design2,Description="")

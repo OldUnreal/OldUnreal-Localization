@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Ironic"
 
 [LevelSummary]
 Title="Ironic"
-Description="Isolé au beau milieu de plates-formes abandonnées en Nouvelle-Argentine, ce lieu jadis tranquille où vivent animaux et autres oiseaux rares est maintenant la cible de lance-roquettes et autres fusils Shock. Assez de bavardage, il est temps pour vous de participer à un Deathmatch à l'ancienne !"
+Description="IsolÃ© au beau milieu de plates-formes abandonnÃ©es en Nouvelle-Argentine, ce lieu jadis tranquille oÃ¹ vivent animaux et autres oiseaux rares est maintenant la cible de lance-roquettes et autres fusils Shock. Assez de bavardage, il est temps pour vous de participer Ã  un Deathmatch Ã  l'ancienne !"
 
 [ZoneInfo0]
 LocationName="Fusil Shock"
@@ -12,10 +12,10 @@ LocationName="Fusil Shock"
 LocationName="Fusil Bio"
 
 [ZoneInfo10]
-LocationName="Hall supérieur"
+LocationName="Hall supÃ©rieur"
 
 [ZoneInfo11]
-LocationName="Hall supérieur"
+LocationName="Hall supÃ©rieur"
 
 [ZoneInfo12]
 LocationName="Canon Flak"
@@ -24,7 +24,7 @@ LocationName="Canon Flak"
 LocationName="Canon Flak"
 
 [ZoneInfo14]
-LocationName="Fusil à impulsions"
+LocationName="Fusil Ã  impulsions"
 
 [ZoneInfo15]
 LocationName="Amplifieur"
@@ -51,16 +51,16 @@ LocationName="Ascenseur"
 LocationName="Ascenseur"
 
 [ZoneInfo5]
-LocationName="Pièce à bouclier"
+LocationName="PiÃ¨ce Ã  bouclier"
 
 [ZoneInfo6]
-LocationName="Pièce à bouclier"
+LocationName="PiÃ¨ce Ã  bouclier"
 
 [ZoneInfo7]
-LocationName="Hall supérieur"
+LocationName="Hall supÃ©rieur"
 
 [ZoneInfo8]
-LocationName="Hall supérieur"
+LocationName="Hall supÃ©rieur"
 
 [ZoneInfo9]
 LocationName="Ascenseur"

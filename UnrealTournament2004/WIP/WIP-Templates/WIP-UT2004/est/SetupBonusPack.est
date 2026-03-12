@@ -1,4 +1,4 @@
-[Setup]
+﻿[Setup]
 LocalProduct="Unreal Tournament 2003 Bonus Pack"
 ReadMe=Help\BonusPackReadme.txt
 SetupWindowTitle=Unreal Tournament 2003 Bonus Pack Setup

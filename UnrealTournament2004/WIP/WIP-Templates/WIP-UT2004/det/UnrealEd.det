@@ -1,7 +1,7 @@
-[General]
+﻿[General]
 FrameWindow="Unreal Level-Editor"
 Start="UnrealEd (Startet)"
 Exit="UnrealEd (Wird beendet)"
-Run="UnrealEd (Wird ausgef�hrt)"
+Run="UnrealEd (Wird ausgeführt)"
 Product="UnrealEd"
 Abbreviation="UEd"

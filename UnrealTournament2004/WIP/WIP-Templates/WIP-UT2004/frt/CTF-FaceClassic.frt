@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Face Classic"
 
 [LevelInfo13]
@@ -6,10 +6,10 @@ Title="Des mondes s'affrontent"
 
 [LevelSummary]
 Title="Face Classic"
-Description="Cette île-astéroïde et ses deux tours se sont révélés un site parfait pour les épreuve de capture de drapeau du tournoi. Alors, affrontez vos adversaires et que les jeux commencent !"
+Description="Cette Ã®le-astÃ©roÃ¯de et ses deux tours se sont rÃ©vÃ©lÃ©s un site parfait pour les Ã©preuve de capture de drapeau du tournoi. Alors, affrontez vos adversaires et que les jeux commencent !"
 
 [Volume0]
-LocationName="Base bleue - site inférieur sniper"
+LocationName="Base bleue - site infÃ©rieur sniper"
 
 [Volume1]
 LocationName="Base bleue - corniche sommet sniper"
@@ -18,59 +18,59 @@ LocationName="Base bleue - corniche sommet sniper"
 LocationName="Base rouge - corniche sommet sniper"
 
 [Volume3]
-LocationName="Base rouge - site inférieur sniper"
+LocationName="Base rouge - site infÃ©rieur sniper"
 
 [Volume4]
-LocationName="Terrain dégagé central"
+LocationName="Terrain dÃ©gagÃ© central"
 
 [ZoneInfo0]
-LocationName="Base rouge - niveau inférieur"
+LocationName="Base rouge - niveau infÃ©rieur"
 
 [ZoneInfo1]
 LocationName="Base rouge - corniche sommet sniper"
 
 [ZoneInfo10]
-LocationName="Terrain dégagé côté bleu"
+LocationName="Terrain dÃ©gagÃ© cÃ´tÃ© bleu"
 
 [ZoneInfo18]
-LocationName="Base bleue - niveau inférieur"
+LocationName="Base bleue - niveau infÃ©rieur"
 
 [ZoneInfo19]
 LocationName="Base bleue - corniche sommet sniper"
 
 [ZoneInfo2]
-LocationName="Base rouge - site inférieur sniper"
+LocationName="Base rouge - site infÃ©rieur sniper"
 
 [ZoneInfo20]
-LocationName="Base bleue - site inférieur sniper"
+LocationName="Base bleue - site infÃ©rieur sniper"
 
 [ZoneInfo21]
-LocationName="Base bleue - site rédempteur"
+LocationName="Base bleue - site rÃ©dempteur"
 
 [ZoneInfo22]
-LocationName="Entrée base Bleue"
+LocationName="EntrÃ©e base Bleue"
 
 [ZoneInfo24]
-LocationName="Base bleue - niveau inférieur"
+LocationName="Base bleue - niveau infÃ©rieur"
 
 [ZoneInfo25]
-LocationName="Base bleue - niveau inférieur"
+LocationName="Base bleue - niveau infÃ©rieur"
 
 [ZoneInfo3]
-LocationName="Base rouge - site rédempteur"
+LocationName="Base rouge - site rÃ©dempteur"
 
 [ZoneInfo4]
-LocationName="Entrée base Rouge"
+LocationName="EntrÃ©e base Rouge"
 
 [ZoneInfo6]
-LocationName="Base rouge - niveau inférieur"
+LocationName="Base rouge - niveau infÃ©rieur"
 
 [ZoneInfo7]
-LocationName="Base rouge - niveau inférieur"
+LocationName="Base rouge - niveau infÃ©rieur"
 
 [ZoneInfo8]
-LocationName="Base rouge - niveau inférieur"
+LocationName="Base rouge - niveau infÃ©rieur"
 
 [ZoneInfo9]
-LocationName="Terrain dégagé côté rouge"
+LocationName="Terrain dÃ©gagÃ© cÃ´tÃ© rouge"
 

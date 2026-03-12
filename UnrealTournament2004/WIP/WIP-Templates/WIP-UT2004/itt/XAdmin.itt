@@ -1,4 +1,4 @@
-[AdminIni]
+Ôªø[AdminIni]
 Msg_FinishGameEditFirst="Devi terminare di modificare la partita prima di riavviare la mappa."
 Msg_FinishGameRestart="Devi terminare di modificare la partita prima di cambiare o riavviare la mappa."
 Msg_MutNeedGameEdit="Devi usare il comando 'Modifica partita' prima dei comandi 'Mutatori'."
@@ -12,12 +12,12 @@ Msg_MapListNeedGameEdit="Devi usare 'Modifica partita' prima del comando 'MapLis
 Msg_MustEndGameEdit="Prima devi terminare di modificare la partita."
 Msg_EditingClass="Modifica di %Class%"
 Msg_EditFailed="Impossibile iniziare a modificare"
-Msg_AlreadyEdited="Qualcun altro sta gi‡ modificando la partita."
+Msg_AlreadyEdited="Qualcun altro sta gi√† modificando la partita."
 Msg_NotEditing="Non stai modificando le impostazioni di gioco, usa prima 'Modifica partita'."
 Msg_EditingCompleted="Modifica completata."
 Msg_EditingCancelled="Modifica annullata."
-Msg_NoBotGameFull="Impossibile aggiungere bot, la partita Ë completa."
-Msg_NoAddNamedBot="Quando la partita Ë iniziata si possono aggiungere solo bot con il nome."
+Msg_NoBotGameFull="Impossibile aggiungere bot, la partita √® completa."
+Msg_NoAddNamedBot="Quando la partita √® iniziata si possono aggiungere solo bot con il nome."
 Msg_NoBotsPlaying="Attualmente non sta giocando nessun bot."
 Msg_GameNoSupportBots="Il tipo di partita attuale non supporta i bot."
 Msg_StatsNoBots="Impossibile controllare i bot quando le statistiche mondiali sono attivate."
@@ -27,7 +27,7 @@ Msg_SetBotNeedVal="Questo comando richiede un valore numerico da 0 a 32."
 LoadMsg="Privilegi extra caricati."
 MainPrivs="X"
 SubPrivs="Xb|Xc|Xp|Xs|Xi|Xv|Xm"
-Tags=("Varie","Imposta abilit‡ bot","Usa la console","Elenco giocatori","Cambia skin amministratore","Gestisci politiche d'accesso","Gestione chat vocale","Impostazioni partita")
+Tags=("Varie","Imposta abilit√† bot","Usa la console","Elenco giocatori","Cambia skin amministratore","Gestisci politiche d'accesso","Gestione chat vocale","Impostazioni partita")
 
 [xGamePrivs]
 LoadMsg="Mappe e privilegi di gioco caricati"

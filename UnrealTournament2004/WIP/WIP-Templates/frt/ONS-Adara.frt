@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Adara Canyon"
 Title="Canyon d'Adara"
 

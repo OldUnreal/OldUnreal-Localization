@@ -1,15 +1,15 @@
-[LevelInfo0]
-Title="Accès"
+ï»¿[LevelInfo0]
+Title="AccÃ¨s"
 
 [LevelSummary]
-Title="Accès"
-Description="Scellez le point de domination de votre choix en contrôlant le bouton d'accès situé au milieu de l'arène."
+Title="AccÃ¨s"
+Description="Scellez le point de domination de votre choix en contrÃ´lant le bouton d'accÃ¨s situÃ© au milieu de l'arÃ¨ne."
 
 [ZoneInfo0]
 LocationName="Salle interrupteurs"
 
 [ZoneInfo1]
-LocationName="Halls réapparition Bleus"
+LocationName="Halls rÃ©apparition Bleus"
 
 [ZoneInfo10]
 LocationName="Salle interrupteurs"
@@ -21,19 +21,19 @@ LocationName="Salle point A"
 LocationName="Salle point B"
 
 [ZoneInfo2]
-LocationName="Halls réapparition Rouges"
+LocationName="Halls rÃ©apparition Rouges"
 
 [ZoneInfo3]
-LocationName="Halls réapparition Rouges"
+LocationName="Halls rÃ©apparition Rouges"
 
 [ZoneInfo4]
-LocationName="Halls réapparition Bleus"
+LocationName="Halls rÃ©apparition Bleus"
 
 [ZoneInfo5]
-LocationName="Halls réapparition Bleus"
+LocationName="Halls rÃ©apparition Bleus"
 
 [ZoneInfo6]
-LocationName="Halls réapparition Rouges"
+LocationName="Halls rÃ©apparition Rouges"
 
 [ZoneInfo7]
 LocationName="Salle interrupteurs"

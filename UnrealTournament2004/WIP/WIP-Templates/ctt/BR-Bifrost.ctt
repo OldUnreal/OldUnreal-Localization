@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Bifrost Bases"
 Title="Bases Bifrost"
 

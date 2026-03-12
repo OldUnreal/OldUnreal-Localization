@@ -1,4 +1,4 @@
-[Setup]
+锘縖Setup]
 LocalProduct="Demo de Unreal Tournament 2003"
 DefaultFolder="C:\UT2003Demo"
 ReadMe=Help\ReadMe-Demo.est.txt
@@ -13,21 +13,21 @@ License=License.est
 
 [General]
 PlayLevelCommand="&Jugar este nivel de UT2003"
-OpenLinkCommand="&Abrir este v韓culo de UT2003"
-InstallModuleCommand="&Instalar este m骴ulo de UT2003"
+OpenLinkCommand="&Abrir este v铆nculo de UT2003"
+InstallModuleCommand="&Instalar este m贸dulo de UT2003"
 EditLevelCommand="&Editar este nivel de UT2003"
 
 [UnrealGameContentGroup]
 Caption="Contenido del juego"
-Description="Necesita instalaci髇."
+Description="Necesita instalaci贸n."
 
 [GameGroup]
 Caption="Demo de Unreal Tournament 2003"
-Description="Necesita instalaci髇."
+Description="Necesita instalaci贸n."
 
 [DirectXGroup]
 Caption="DirectX 8.1"
-Description="Controladores opcionales Microsoft DirectX 8.1 que mejoran los gr醘icos, el sonido y el soporte del joystick."
+Description="Controladores opcionales Microsoft DirectX 8.1 que mejoran los gr谩ficos, el sonido y el soporte del joystick."
 
 [OpenALGroup]
 Caption="OpenAL"
@@ -35,11 +35,11 @@ Description="Necesario para efectos de sonido 3D acelerados por hardware."
 
 [Win2000XPGroup]
 Caption="Windows 2000/XP Direct3D"
-Description="Necesario para Windows 2000/XP [temporal-no para la versi髇 final]."
+Description="Necesario para Windows 2000/XP [temporal-no para la versi贸n final]."
 
 [EditorGroup]
 Caption="Unreal Editor"
-Description="Editor de mundos Unreal, para crear tus entornos tridimensionales propios. Para usuarios avanzados; la instalaci髇 es opcional."
+Description="Editor de mundos Unreal, para crear tus entornos tridimensionales propios. Para usuarios avanzados; la instalaci贸n es opcional."
 
 [PlayShortcut]
 Caption="Jugar con Demo de UT2003"
@@ -51,7 +51,7 @@ Caption="Modo a prueba de fallos de Demo de UT2003"
 Caption="Editor UT2003"
 
 [DocumentationShortcut]
-Caption="Documentaci髇"
+Caption="Documentaci贸n"
 
 [WebShortcut]
 Caption="UT2003 Web Page"

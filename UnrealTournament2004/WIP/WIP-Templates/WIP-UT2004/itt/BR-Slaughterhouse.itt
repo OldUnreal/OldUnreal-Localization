@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Slaughterhouse"
 LevelEnterText="The Slaughterhouse"
 
@@ -46,7 +46,7 @@ LocationName="Fognatura rossa"
 LocationName="Stanza porta blu"
 
 [ZoneInfo20]
-LocationName="Questo ragazzo è un pulcino. Pulcino al suolo nella stanza blu"
+LocationName="Questo ragazzo Ã¨ un pulcino. Pulcino al suolo nella stanza blu"
 
 [ZoneInfo21]
 LocationName="Stanza rigenerazione Alpha rossa"
@@ -58,7 +58,7 @@ LocationName="Corridoio sega rosso"
 LocationName="Corte blu"
 
 [ZoneInfo24]
-LocationName="OOoh, è morto nella zona rossa"
+LocationName="OOoh, Ã¨ morto nella zona rossa"
 
 [ZoneInfo25]
 LocationName="Corte blu"

@@ -1,4 +1,4 @@
-[Errors]
+Ôªø[Errors]
 Critical="Errore critico"
 FailedConfigLoad="%s (caricamento fallito)"
 
@@ -20,15 +20,15 @@ NextButton="&Avanti >"
 FinishButton="&Fine"
 CancelButton="Annulla"
 InstallButton="&Installa"
-YesButton="&SÏ"
+YesButton="&S√¨"
 NoButton="&No"
 AgreeButton="&Accetto"
 LanguagePrompt="Lingua:"
 LanguageWindow="Scelta lingua"
 LogWindow="Finestra del registro di %s"
 PropNone="Nessuna selezione"
-PropSingle="Propriet‡ di %s"
-PropMulti="Propriet‡ di %s (selezionato %i)"
+PropSingle="Propriet√† di %s"
+PropMulti="Propriet√† di %s (selezionato %i)"
 InsertCdText="Inserisci il CD-ROM di Unreal nel relativo lettore e clicca su 'OK' per continuare o su 'Annulla' per uscire."
 InsertCdTitle="All'avvio serve il CD"
 AdvancedOptionsTitle="Advanced Options"
@@ -38,8 +38,8 @@ New="Nuovo"
 
 [FirstRun]
 Caption="Configurazione iniziale"
-LowMemory="Unreal ha rilevato %i MB di RAM disponibili. Per migliorare le prestazioni, sono state attivate le opzioni relative a texture e audio di bassa qualit‡. Puoi cambiare queste impostazioni nel menu 'Prestazioni'."
-NonMMX="Unreal ha rilevato che stai usando un PC non MMX. Pertanto, Ë stata scelta la frequenza di riproduzione audio che utilizza al minimo la CPU. Puoi cambiare queste impostazioni nel menu 'Opzioni avanzate / Audio'."
+LowMemory="Unreal ha rilevato %i MB di RAM disponibili. Per migliorare le prestazioni, sono state attivate le opzioni relative a texture e audio di bassa qualit√†. Puoi cambiare queste impostazioni nel menu 'Prestazioni'."
+NonMMX="Unreal ha rilevato che stai usando un PC non MMX. Pertanto, √® stata scelta la frequenza di riproduzione audio che utilizza al minimo la CPU. Puoi cambiare queste impostazioni nel menu 'Opzioni avanzate / Audio'."
 Starting="Unreal sta partendo con le nuove impostazioni. Se ci sono problemi, leggi la sezione dedicata alla risoluzione problemi nelle Note sul gioco, accessibili dal menu 'Start'."
 
 [IDDIALOG_Directory]
@@ -47,7 +47,7 @@ IDC_Directory="Cartella di installazione"
 IDC_ChoosePrompt="Scegli la cartella di installazione."
 IDC_PathTitle="&Percorso:"
 IDC_DirectoryTitle="&Cartelle:"
-IDC_DrivesTitle="&Unit‡:"
+IDC_DrivesTitle="&Unit√†:"
 IDC_NetworkButton="&Rete"
 
 [IDDIALOG_Password]

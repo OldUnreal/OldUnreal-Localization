@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 Title="Tokara Forest"
 
 [LevelSummary]
@@ -11,5 +11,5 @@ LocationName="Niveau sol"
 LocationName="Socle crystal"
 
 [ZoneInfo0]
-LocationName="For�t"
+LocationName="Forêt"
 

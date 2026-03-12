@@ -1,4 +1,4 @@
-[ACTION_DamageActor]
+﻿[ACTION_DamageActor]
 ActionString="Figur besch�digen"
 
 [ACTION_DestroyActor]

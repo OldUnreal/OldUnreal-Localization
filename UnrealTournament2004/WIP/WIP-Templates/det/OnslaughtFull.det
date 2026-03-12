@@ -1,4 +1,4 @@
-[DamTypeIonTankBlast]
+﻿[DamTypeIonTankBlast]
 ; EN: DeathString="%o was OBLITERATED by %k"
 DeathString="%o wurde von %k . GELÖSCHT"
 ; EN: FemaleSuicide="%o was OBLITERATED"

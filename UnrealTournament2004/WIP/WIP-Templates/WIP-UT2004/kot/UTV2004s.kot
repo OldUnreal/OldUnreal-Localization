@@ -1,7 +1,7 @@
-[Public]
-Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTV2004s.utvMutator,Description="¸ğµÎº¸±â ¸ğµå¿¡¼­ÀÇ UTV2004¸¦ Áö¿øÇÏ±â À§ÇØ ÇÊ¿äÇÕ´Ï´Ù.")
+ï»¿[Public]
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTV2004s.utvMutator,Description="ëª¨ë‘ë³´ê¸° ëª¨ë“œì—ì„œì˜ UTV2004ë¥¼ ì§€ì›í•˜ê¸° ìœ„í•´ í•„ìš”í•©ë‹ˆë‹¤.")
 
 [utvMutator]
 FriendlyName="UTV2004S"
-Description="¸ğµÎº¸±â ¸ğµå¿¡¼­ÀÇ UTV2004¸¦ Áö¿øÇÏ±â À§ÇØ ÇÊ¿äÇÕ´Ï´Ù"
+Description="ëª¨ë‘ë³´ê¸° ëª¨ë“œì—ì„œì˜ UTV2004ë¥¼ ì§€ì›í•˜ê¸° ìœ„í•´ í•„ìš”í•©ë‹ˆë‹¤"
 

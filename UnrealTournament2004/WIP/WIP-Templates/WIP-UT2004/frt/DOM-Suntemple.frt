@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Sun Temple"
 
 [LevelSummary]
@@ -23,7 +23,7 @@ LocationName="Couloirs Dom A"
 LocationName="Couloirs Dom A"
 
 [ZoneInfo15]
-LocationName="voie d'entrée Dom A"
+LocationName="voie d'entrÃ©e Dom A"
 
 [ZoneInfo16]
 LocationName="Salle du haut Dom A"
@@ -35,7 +35,7 @@ LocationName="Salle du haut Dom A"
 LocationName="Court Dom A"
 
 [ZoneInfo2]
-LocationName="Voie d'entrée Dom B"
+LocationName="Voie d'entrÃ©e Dom B"
 
 [ZoneInfo23]
 LocationName="Point A Dom"

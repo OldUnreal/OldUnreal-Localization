@@ -1,18 +1,18 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Aswan"
 
 [LevelSummary]
 Title="Aswan"
-Description="Perdue au coeur de l'océan de dunes, une petite oasis de civilisation accueille le voyageur fatigué. Ceux qui franchissent les portes du temple d'Aswan sont les bienvenus, mais ils ne pourront pas repartir sans avoir pris part aux épreuves. Cela fait des siècles que les Anubiens utilisent ces épreuves pour tester leurs concurrents potentiels. Le succès rime avec gloire et célébrité, mais l'échec vous laissera à la merci des charognards. Avez-vous encore soif ?"
+Description="Perdue au coeur de l'ocÃ©an de dunes, une petite oasis de civilisation accueille le voyageur fatiguÃ©. Ceux qui franchissent les portes du temple d'Aswan sont les bienvenus, mais ils ne pourront pas repartir sans avoir pris part aux Ã©preuves. Cela fait des siÃ¨cles que les Anubiens utilisent ces Ã©preuves pour tester leurs concurrents potentiels. Le succÃ¨s rime avec gloire et cÃ©lÃ©britÃ©, mais l'Ã©chec vous laissera Ã  la merci des charognards. Avez-vous encore soif ?"
 
 [ZoneInfo0]
 LocationName="Centre"
 
 [ZoneInfo1]
-LocationName="Arrière-salle B"
+LocationName="ArriÃ¨re-salle B"
 
 [ZoneInfo2]
-LocationName="Arrière-salle A"
+LocationName="ArriÃ¨re-salle A"
 
 [ZoneInfo3]
 LocationName="Flak Cannon A"
@@ -27,8 +27,8 @@ LocationName="Flak Cannon B"
 LocationName="Lance-roquettes B"
 
 [ZoneInfo7]
-LocationName="Réapparition Bleue"
+LocationName="RÃ©apparition Bleue"
 
 [ZoneInfo8]
-LocationName="Réapparition Rouge"
+LocationName="RÃ©apparition Rouge"
 

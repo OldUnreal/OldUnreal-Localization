@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Antalus"
 
 [LevelSummary]
@@ -23,7 +23,7 @@ LocationName="Espace Bouclier/Link/Minigun"
 LocationName="Balcon sniper"
 
 [Volume6]
-LocationName="Allée d'Adrénaline"
+LocationName="AllÃ©e d'AdrÃ©naline"
 
 [WaterVolume0]
 LocationName="Sous l'eau"

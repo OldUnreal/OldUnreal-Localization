@@ -1,11 +1,11 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Leviathan"
 
 [LevelSummary]
 Title="Leviathan"
 
 [ZoneInfo0]
-LocationName="Couloir supérieur Nord Est"
+LocationName="Couloir supÃ©rieur Nord Est"
 
 [ZoneInfo1]
 LocationName="Salle principale"
@@ -14,7 +14,7 @@ LocationName="Salle principale"
 LocationName="Couloir Nord Est"
 
 [ZoneInfo2]
-LocationName="Couloir supérieur Nord Ouest"
+LocationName="Couloir supÃ©rieur Nord Ouest"
 
 [ZoneInfo3]
 LocationName="Couloir Nord Ouest"
@@ -26,10 +26,10 @@ LocationName="Chambre Ouest"
 LocationName="Couloir Sud Ouest"
 
 [ZoneInfo6]
-LocationName="Couloir supérieur Sud Ouest"
+LocationName="Couloir supÃ©rieur Sud Ouest"
 
 [ZoneInfo7]
-LocationName="Couloir supérieur Sud Est"
+LocationName="Couloir supÃ©rieur Sud Est"
 
 [ZoneInfo8]
 LocationName="Couloir Sud Est"

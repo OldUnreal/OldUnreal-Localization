@@ -1,9 +1,9 @@
-[Setup]
-LocalProduct="Démo Unreal Tournament 2003"
+ï»¿[Setup]
+LocalProduct="DÃ©mo Unreal Tournament 2003"
 DefaultFolder="C:\UT2003Demo"
 ReadMe=Help\ReadMe-Demo.frt.txt
 SetupWindowTitle=Unreal Tournament 2003 Demo Setup
-AutoplayWindowTitle="Options Démo Unreal Tournament 2003"
+AutoplayWindowTitle="Options DÃ©mo Unreal Tournament 2003"
 ProductURL=http://www.unrealtournament2003.com/
 VersionURL=http://unreal.epicgames.com/versions.htm
 Developer="Epic Games"
@@ -22,7 +22,7 @@ Caption="Contenu du jeu"
 Description="Installation requise."
 
 [GameGroup]
-Caption="Démo Unreal Tournament 2003"
+Caption="DÃ©mo Unreal Tournament 2003"
 Description="Installation requise."
 
 [DirectXGroup]
@@ -31,7 +31,7 @@ Description="Pilotes Microsoft DirectX 8.1 en option permettant d'obtenir de mei
 
 [OpenALGroup]
 Caption="OpenAL"
-Description="Requis pour l'accélération matérielle des effets sonores 3D."
+Description="Requis pour l'accÃ©lÃ©ration matÃ©rielle des effets sonores 3D."
 
 [Win2000XPGroup]
 Caption="Direct3D Windows 2000/XP"
@@ -39,13 +39,13 @@ Description="Requis pour Windows 2000/XP [temporaire-pas pour la livraison]."
 
 [EditorGroup]
 Caption="Editeur Unreal"
-Description="Editeur de mondes Unreal pour créer vos propres environnements Unreal en 3D. Réservé aux joueurs expérimentés. Installation optionnelle."
+Description="Editeur de mondes Unreal pour crÃ©er vos propres environnements Unreal en 3D. RÃ©servÃ© aux joueurs expÃ©rimentÃ©s. Installation optionnelle."
 
 [PlayShortcut]
-Caption="Jouer à Démo UT2003"
+Caption="Jouer Ã  DÃ©mo UT2003"
 
 [SafeModeShortcut]
-Caption="Mode sans échec Démo UT2003"
+Caption="Mode sans Ã©chec DÃ©mo UT2003"
 
 [EditorShortcut]
 Caption="Editeur UT2003"
@@ -57,4 +57,4 @@ Caption="Documentation"
 Caption="Page web UT2003"
 
 [UninstallShortcut]
-Caption="Désinstaller Démo Unreal Tournament 2003"
+Caption="DÃ©sinstaller DÃ©mo Unreal Tournament 2003"

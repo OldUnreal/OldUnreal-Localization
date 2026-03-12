@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Insidious"
 Title="Podstępny"
 LevelEnterText="DM-Insidious"

@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Severance"
 
 [LevelSummary]
 Title="Severance"
-Description="Il y a une éternité, les habitants de ces ruines oubliées ont invoqué un être des ténèbres élémentaires qu'ils emprisonnèrent et endormirent par d'innombrables sacrifices. Dans le calme qui règne entre les affrontements, on peut parfois entendre la voix de ce titan, tiré de son sommeil, qui attend votre sang."
+Description="Il y a une Ã©ternitÃ©, les habitants de ces ruines oubliÃ©es ont invoquÃ© un Ãªtre des tÃ©nÃ¨bres Ã©lÃ©mentaires qu'ils emprisonnÃ¨rent et endormirent par d'innombrables sacrifices. Dans le calme qui rÃ¨gne entre les affrontements, on peut parfois entendre la voix de ce titan, tirÃ© de son sommeil, qui attend votre sang."
 
 [Volume0]
 LocationName="Base bleue"
@@ -33,5 +33,5 @@ LocationName="Relais sud-ouest"
 LocationName="Base rouge"
 
 [ZoneInfo0]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 

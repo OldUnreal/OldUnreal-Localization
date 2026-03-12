@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Facing Worlds 3"
 Title="W obliczu światów 3"
 

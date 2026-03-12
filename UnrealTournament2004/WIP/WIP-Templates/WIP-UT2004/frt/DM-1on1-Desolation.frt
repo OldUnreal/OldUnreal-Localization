@@ -1,12 +1,12 @@
-[LevelInfo0]
-Title="Désolation"
+ï»¿[LevelInfo0]
+Title="DÃ©solation"
 
 [LevelSummary]
-Title="Désolation"
-Description="Cherchant la solitude, un artiste fit bâtir une maison en haut d'un gratte-ciel. Au sommet de cette maison se trouvait son propre musée abritant des œuvres que le public ne découvrit qu'après sa mort tragique. Son testament, trouvé à côté de son corps momifié, demandait que ce musée soit transformé en arène de combat singulier pour le tournoi, sa seule distraction en dehors de l'art. Ce gratte-ciel, depuis longtemps dépassé en hauteur et en luxe, est connu depuis sous le nom de Tour de la désolation."
+Title="DÃ©solation"
+Description="Cherchant la solitude, un artiste fit bÃ¢tir une maison en haut d'un gratte-ciel. Au sommet de cette maison se trouvait son propre musÃ©e abritant des Å“uvres que le public ne dÃ©couvrit qu'aprÃ¨s sa mort tragique. Son testament, trouvÃ© Ã  cÃ´tÃ© de son corps momifiÃ©, demandait que ce musÃ©e soit transformÃ© en arÃ¨ne de combat singulier pour le tournoi, sa seule distraction en dehors de l'art. Ce gratte-ciel, depuis longtemps dÃ©passÃ© en hauteur et en luxe, est connu depuis sous le nom de Tour de la dÃ©solation."
 
 [ZoneInfo0]
-LocationName="Fontaines fenêtres"
+LocationName="Fontaines fenÃªtres"
 
 [ZoneInfo1]
 LocationName="Statue de femme"
@@ -15,11 +15,11 @@ LocationName="Statue de femme"
 LocationName="Salle fusil shock"
 
 [ZoneInfo3]
-LocationName="Grande scène vitrée"
+LocationName="Grande scÃ¨ne vitrÃ©e"
 
 [ZoneInfo4]
 LocationName="Hall Flak"
 
 [ZoneInfo5]
-LocationName="Peinture supérieure"
+LocationName="Peinture supÃ©rieure"
 

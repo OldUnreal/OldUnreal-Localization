@@ -1,39 +1,39 @@
-[Errors]
-NetOpen=Fehler: Datei öff.
+ï»¿[Errors]
+NetOpen=Fehler: Datei Ã¶ff.
 NetWrite=Fehler: Datei schreib.
-NetRefused=%s' v. Server nicht übermitt.
-NetClose=Fehler b. Schließen
-NetSize=Größe unzulässig
+NetRefused=%s' v. Server nicht Ã¼bermitt.
+NetClose=Fehler b. SchlieÃŸen
+NetSize=GrÃ¶ÃŸe unzulÃ¤ssig
 NetMove=Fehler b. Verschieb
-NetInvalid=Ungültige Dateianfrage erhal.
-NoDownload=Herunterl. Datenpak. %s unmögl
+NetInvalid=UngÃ¼ltige Dateianfrage erhal.
+NoDownload=Herunterl. Datenpak. %s unmÃ¶gl
 DownloadFailed=Herunterl. Datenpak. %s fehlg.: %s
 RequestDenied=Server wollte Datei v. ausstehend. Level: Denied
 ConnectionFailed=Fehler b. Verbinden
-ChAllocate=Kanalzuweis. nicht möglich
+ChAllocate=Kanalzuweis. nicht mÃ¶glich
 NetAlready=Netzwerk vorhanden
 NetListen=Fehler b. Abfragen: Kein Verlinkungsumfeld
-LoadEntry=Laden nicht mögl: %s
-InvalidUrl=Ungült. URL: %s
-InvalidLink=Ungült. Link: %s
+LoadEntry=Laden nicht mÃ¶gl: %s
+InvalidUrl=UngÃ¼lt. URL: %s
+InvalidLink=UngÃ¼lt. Link: %s
 FailedBrowse=Fehler b. Eintrag %s: %s
 Listen=Fehler b. Abfra: %s
 AbortToEntry=Gescheitert; zur Eingabe
-ServerOpen=Server öffnen Netzw.-URLs nicht
+ServerOpen=Server Ã¶ffnen Netzw.-URLs nicht
 ServerListen=Dediz. Server reagiert nicht: %s
 Pending=Verbind. zu %s gescheitert; %s
 LoadPlayerClass=Fehler b. Laden d. Spielerkla.
 ServerOutdated=Zu alte Server-Version
-ClientOutdated=Sie müssen die neuesten Patches verwenden.
-InvalidCDKey=Ihr CD-Key scheint ungültig zu sein. Sie müssen das Spiel neu installieren und Ihren CD-Key eingeben, um das Problem zu beheben.
+ClientOutdated=Sie mÃ¼ssen die neuesten Patches verwenden.
+InvalidCDKey=Ihr CD-Key scheint ungÃ¼ltig zu sein. Sie mÃ¼ssen das Spiel neu installieren und Ihren CD-Key eingeben, um das Problem zu beheben.
 ConnectLost=Verbindung abgebrochen
-DemoFileMissing=Paket %s für Demo-Playback fehlt
+DemoFileMissing=Paket %s fÃ¼r Demo-Playback fehlt
 DownloadNotAllowed=Herunterladen von %s nicht gestattet
 
 [General]
 Upgrade=Zugriff auf diesen Server mit letzter, kostenloser Unreal-Aktualisierung. Auf der Epic-Website:
 UpgradeURL=http://www.unreal.com/upgrade
-UpgradeQuestion=Möchten Sie Ihren Web-Browser starten u. die Aktualisierungsseite öffnen?
+UpgradeQuestion=MÃ¶chten Sie Ihren Web-Browser starten u. die Aktualisierungsseite Ã¶ffnen?
 Version=Version %i
 
 [KeyNames]
@@ -78,9 +78,9 @@ PageUp=BILD AUF
 PageDown=BILD AB
 End=ENDE
 Home=POS1
-Select=AUSWÄHLEN
+Select=AUSWÃ„HLEN
 Print=DRUCK
-Execute=AUSFÜHREN
+Execute=AUSFÃœHREN
 PrintScrn=DRUCK
 Insert=EINFG
 Delete=ENTF
@@ -122,8 +122,8 @@ Loading=Laden
 Saving=Speichern
 Paused=Angehalten von %s
 ReceiveFile=Empfang %s (Abbr. m. F10)
-ReceiveOptionalFile=Empfang opt. Datei %s (Überspringen mit F10)
-ReceiveSize=Größe %iK, %3.1f%% fertig
+ReceiveOptionalFile=Empfang opt. Datei %s (Ãœberspringen mit F10)
+ReceiveSize=GrÃ¶ÃŸe %iK, %3.1f%% fertig
 ConnectingText="Verbindung herstellen (Abbrechen mit F10):"
 ConnectingURL=%s://%s/%s
 CorruptConnect=Inkompatible Spieldateien!
@@ -152,8 +152,8 @@ Preferences=(Caption="Drivers",Parent="Advanced Options",Class=Engine.Engine,Imm
 Preferences=(Caption="Public Server Information",Parent="Networking",Class=Engine.GameReplicationInfo,Immediate=True)
 
 [UpgradeDrivers]
-OutdatedDrivers=Sie haben veraltete Treiber für die Grafikkarte, die in Verbindung mit dem Spiel möglicherweise nicht funktionieren.
-OursOrWeb=Wählen Sie JA, um aktualisierte Treiber von der CD zu installieren, oder NEIN, um die Homepage des Herstellers zu besuchen.
+OutdatedDrivers=Sie haben veraltete Treiber fÃ¼r die Grafikkarte, die in Verbindung mit dem Spiel mÃ¶glicherweise nicht funktionieren.
+OursOrWeb=WÃ¤hlen Sie JA, um aktualisierte Treiber von der CD zu installieren, oder NEIN, um die Homepage des Herstellers zu besuchen.
 InsertCD=Bitte legen Sie Unreal Tournament CD 3 ein.
 NvidiaURL=http://www.nvidia.com/content/drivers/drivers.asp
 AtiURL=http://www.ati.com/support/driver.html
@@ -163,13 +163,13 @@ cancelButton=Nicht aktualisieren
 
 [MasterMD5Commandlet]
 HelpCmd=mastermd5
-HelpOneLiner=Master MD5-Datenbank ändern
+HelpOneLiner=Master MD5-Datenbank Ã¤ndern
 HelpUsage=mastermd5 [-Option..] <Parameter>
 HelpWebLink=http://unreal.epicgames.com/servertips.htm
 HelpParm[0]=-c
 HelpDesc[0]=Neue MD5-Datenbank erstellen
 HelpParm[1]=-a
-HelpDesc[1]=Der Datenbank neue Pakete hinzufügen
+HelpDesc[1]=Der Datenbank neue Pakete hinzufÃ¼gen
 HelpParm[2]=-s
 HelpDesc[2]=Aktuelle Datenbank anzeigen
 HelpParm[3]=-r
@@ -214,44 +214,44 @@ HelpDesc[4]=Destination file for exported entries.  Default filename is the name
 [AccessControl]
 IPBanned="IP-Adresse von diesem Server ausgeschlossen."
 WrongPassword="Das eingegebene Passwort ist falsch."
-NeedPassword="Zur Teilnahme müssen Sie ein Passwort eingeben."
+NeedPassword="Zur Teilnahme mÃ¼ssen Sie ein Passwort eingeben."
 SessionBanned="IP-Adresse wurde von aktueller Spielsitzung ausgeschlossen."
 KickedMsg="Sie wurden gewaltsam aus dem Spiel geworfen."
 DefaultKickReason="Nicht angegeben"
-IdleKickReason="Wegen Untätigkeit rausgeworfen."
+IdleKickReason="Wegen UntÃ¤tigkeit rausgeworfen."
 ACDisplayText[0]="Spiel-Passwort"
 ACDisplayText[1]="Zugangsrichtlinien"
 ACDisplayText[2]="Admin-Passwort"
-ACDisplayText[3]="Login-Verzögerung"
-ACDescText[0]="Wenn dieses Passwort festgelegt wird, müssen die Spieler es eingeben, um Zugriff auf diesen Server zu erhalten."
+ACDisplayText[3]="Login-VerzÃ¶gerung"
+ACDescText[0]="Wenn dieses Passwort festgelegt wird, mÃ¼ssen die Spieler es eingeben, um Zugriff auf diesen Server zu erhalten."
 ACDescText[1]="Gibt IP-Adressen oder Adressbereiche an, die gesperrt wurden."
-ACDescText[2]="Für den Zugang mit Administrator-Rechten wird auf diesem Server ein Passwort benötigt."
+ACDescText[2]="FÃ¼r den Zugang mit Administrator-Rechten wird auf diesem Server ein Passwort benÃ¶tigt."
 ACDescText[3]="Zeitspanne in Sekunden, die ein Benutzer nach einem misslungenen Login-Versuch warten muss, um sich erneut einzuloggen."
 
 [AdminBase]
 Msg_PlayerList="Spielerliste:"
-Msg_AllGameMaps="Gültige Maps (die hinzugefügt werden können)."
-Msg_AllMapLists="Verfügbare Maplisten für %gametype%."
-Msg_MapRotationList="Aktive Maps für Mapliste %maplist%."
-Msg_NoMapsAdded="Der Mapliste %maplist% wurden keine Maps hinzugefügt."
-Msg_AddedMapToList="Maps erfolgreich der Mapliste hinzugefügt."
+Msg_AllGameMaps="GÃ¼ltige Maps (die hinzugefÃ¼gt werden kÃ¶nnen)."
+Msg_AllMapLists="VerfÃ¼gbare Maplisten fÃ¼r %gametype%."
+Msg_MapRotationList="Aktive Maps fÃ¼r Mapliste %maplist%."
+Msg_NoMapsAdded="Der Mapliste %maplist% wurden keine Maps hinzugefÃ¼gt."
+Msg_AddedMapToList="Maps erfolgreich der Mapliste hinzugefÃ¼gt."
 Msg_NoMapsRemoved="Es wurden keine Maps von der Mapliste %maplist% entfernt."
 Msg_RemovedFromList="Maps erfolgreich von Mapliste entfernt."
 Msg_PlayerBanned="%Player% wurde auf diesem Server gesperrt."
-Msg_SessionBanned="%Player% wurde für dieses Match gesperrt."
+Msg_SessionBanned="%Player% wurde fÃ¼r dieses Match gesperrt."
 Msg_PlayerKicked="%Player% wurde rausgeworfen."
-Msg_NextMapNotFound="Nächste Map nicht gefunden; gleiche Map wird neu gestartet."
-Msg_ChangingMapTo="Map wird in %NextMap% geändert."
-Msg_NoMapInRotation="Es wurden keine Maps für %maplist% konfiguriert."
+Msg_NextMapNotFound="NÃ¤chste Map nicht gefunden; gleiche Map wird neu gestartet."
+Msg_ChangingMapTo="Map wird in %NextMap% geÃ¤ndert."
+Msg_NoMapInRotation="Es wurden keine Maps fÃ¼r %maplist% konfiguriert."
 Msg_NoMapsFound="Es wurden keine passenden Maps in Mapliste %maplist% gefunden."
 Msg_MapIsInRotation="Passende %maplist%-Maps."
-Msg_MapNotInRotation="Passende Maps, die nicht zu %maplist% gehören."
+Msg_MapNotInRotation="Passende Maps, die nicht zu %maplist% gehÃ¶ren."
 Msg_UnknownParam="Unbekannter Parameter : %Value%"
 Msg_NoParamsFound="Es wurden keine Parameter gefunden!"
 Msg_ParamModified="Modifikation erfolgreich"
 Msg_ParamNotModified="Parameter konnte nicht modifiziert werden."
-Msg_MapListAdded="Mapliste %listname% erfolgreich für den Spieltyp hinzugefügt."
-Msg_MapListRemoved="Mapliste %listname% erfolgreich für den Spieltyp entfernt."
+Msg_MapListAdded="Mapliste %listname% erfolgreich fÃ¼r den Spieltyp hinzugefÃ¼gt."
+Msg_MapListRemoved="Mapliste %listname% erfolgreich fÃ¼r den Spieltyp entfernt."
 Msg_EditingMapList="Mapliste wird jetzt bearbeitet."
 
 [Ammo]
@@ -260,8 +260,8 @@ PickupMessage="Munition aufgesammelt."
 [BroadcastHandler]
 BHDisplayText[0]="Stumme Zuschauer"
 BHDisplayText[1]="Zuschauer trennen"
-BHDescText[0]="Wählen Sie diese Option aus, um zu verhindern, dass Zuschauer während des Spiels miteinander chatten."
-BHDescText[1]="Wählen Sie diese Option aus, um den Zuschauer-Chat vom Spieler-Chat zu trennen."
+BHDescText[0]="WÃ¤hlen Sie diese Option aus, um zu verhindern, dass Zuschauer wÃ¤hrend des Spiels miteinander chatten."
+BHDescText[1]="WÃ¤hlen Sie diese Option aus, um den Zuschauer-Chat vom Spieler-Chat zu trennen."
 
 [Canvas]
 TinyFontName="UT2003Fonts.FontMono"
@@ -270,21 +270,21 @@ MedFontName="UT2003Fonts.FontMono800x600"
 
 [ChatRoomMessage]
 AnonText="Jemand"
-ChatRoomString[0]="Dieser Kanal ist ungültig oder konnte nicht gefunden werden: '%title%'"
+ChatRoomString[0]="Dieser Kanal ist ungÃ¼ltig oder konnte nicht gefunden werden: '%title%'"
 ChatRoomString[1]="Schon Mitglied von Kanal '%title%' ?"
-ChatRoomString[2]="Für Kanal '%title%' wird ein Kennwort benötigt!"
-ChatRoomString[3]="Ungültiges Kennwort für Kanal '%title%' !"
-ChatRoomString[4]="Sie wurden für den Kanal '%title%' gesperrt!"
-ChatRoomString[5]="Beitritt zu Kanal '%title%' nicht möglich. Kanal voll!"
-ChatRoomString[6]="Sie können Kanal '%title%' nicht beitreten!"
+ChatRoomString[2]="FÃ¼r Kanal '%title%' wird ein Kennwort benÃ¶tigt!"
+ChatRoomString[3]="UngÃ¼ltiges Kennwort fÃ¼r Kanal '%title%' !"
+ChatRoomString[4]="Sie wurden fÃ¼r den Kanal '%title%' gesperrt!"
+ChatRoomString[5]="Beitritt zu Kanal '%title%' nicht mÃ¶glich. Kanal voll!"
+ChatRoomString[6]="Sie kÃ¶nnen Kanal '%title%' nicht beitreten!"
 ChatRoomString[7]="Sie sind Kanal '%title%' beigetreten!"
 ChatRoomString[8]="Sie haben Kanal '%title%' verlassen."
 ChatRoomString[9]="spricht in Kanal '%title%'."
 ChatRoomString[10]="Spricht nicht mehr in Kanal '%title%'."
 ChatRoomString[11]="%pri%' ist Kanal '%title%' beigetreten."
 ChatRoomString[12]="%pri%' hat Kanal '%title%' verlassen."
-ChatRoomString[13]="%pri%' wurde von Ihrem persönlichen Chat-Kanal ausgeschlossen."
-ChatRoomString[14]="Ausschluss vom Sprach-Chat konnte nicht ausgeführt werden. Kein Spieler mit dieser ID gefunden!"
+ChatRoomString[13]="%pri%' wurde von Ihrem persÃ¶nlichen Chat-Kanal ausgeschlossen."
+ChatRoomString[14]="Ausschluss vom Sprach-Chat konnte nicht ausgefÃ¼hrt werden. Kein Spieler mit dieser ID gefunden!"
 ChatRoomString[15]="Sprach-Chat ist auf diesem Server nicht aktiviert."
 
 [Crushed]
@@ -293,19 +293,19 @@ FemaleSuicide="%o wurde zerschmettert."
 MaleSuicide="%o wurde zerschmettert."
 
 [DamRanOver]
-DeathString="%k hat %o überfahren."
-FemaleSuicide="%o hat sich selbst überfahren."
-MaleSuicide="%o hat sich selbst überfahren."
+DeathString="%k hat %o Ã¼berfahren."
+FemaleSuicide="%o hat sich selbst Ã¼berfahren."
+MaleSuicide="%o hat sich selbst Ã¼berfahren."
 
 [DamTypeTelefragged]
-DeathString="%o wurde von %k durch Telefrag getötet"
-FemaleSuicide="%o wurde von %k durch Telefrag getötet"
-MaleSuicide="%o wurde von %k durch Telefrag getötet"
+DeathString="%o wurde von %k durch Telefrag getÃ¶tet"
+FemaleSuicide="%o wurde von %k durch Telefrag getÃ¶tet"
+MaleSuicide="%o wurde von %k durch Telefrag getÃ¶tet"
 
 [DamageType]
-DeathString="%k tötete %o."
-FemaleSuicide="%o tötete sich selbst."
-MaleSuicide="%o tötete sich selbst."
+DeathString="%k tÃ¶tete %o."
+FemaleSuicide="%o tÃ¶tete sich selbst."
+MaleSuicide="%o tÃ¶tete sich selbst."
 
 [FailedConnect]
 FailMessage[0]="KONNTE SPIEL NICHT BEITRETEN. KENNWORT ERFORDERLICH."
@@ -314,18 +314,18 @@ FailMessage[2]="KONNTE SPIEL NICHT BEITRETEN. SPIEL HAT BEGONNEN."
 FailMessage[3]="KONNTE SPIEL NICHT BEITRETEN."
 
 [FellLava]
-DeathString="%k ließ %o ein tödliches Bad nehmen."
-FemaleSuicide="%o ist verunglückt."
-MaleSuicide="%o ist verunglückt."
+DeathString="%k lieÃŸ %o ein tÃ¶dliches Bad nehmen."
+FemaleSuicide="%o ist verunglÃ¼ckt."
+MaleSuicide="%o ist verunglÃ¼ckt."
 
 [GameInfo]
 bAlternateMode=true
 GoreLevelText[0]="Kein Blut"
 GoreLevelText[1]="Blut-Level reduzieren"
-GoreLevelText[2]="Höchster Blut-Level"
+GoreLevelText[2]="HÃ¶chster Blut-Level"
 DefaultPlayerName="Spieler"
 GameName="Spiel"
-GIPropsDisplayText[0]="Bot-Können"
+GIPropsDisplayText[0]="Bot-KÃ¶nnen"
 GIPropsDisplayText[1]="Waffen bleiben"
 GIPropsDisplayText[2]="Blut-Level reduzieren"
 GIPropsDisplayText[3]="Spieltempo"
@@ -336,48 +336,48 @@ GIPropsDisplayText[7]="Max. Leben"
 GIPropsDisplayText[8]="Zeitlimit"
 GIPropsDisplayText[9]="Weltstatistiken protokollieren"
 GIPropsDisplayText[10]="Wegwerfen von Waffen erlauben"
-GIPropsDisplayText[11]="Rückansicht erlauben"
+GIPropsDisplayText[11]="RÃ¼ckansicht erlauben"
 GIPropsDisplayText[12]="Admin-Pause erlauben"
 GIPropsDisplayText[13]="Faulenzer-Rauswurfzeit"
-GIPropsDisplayText[14]="Waffen-Rütteln"
-GIPropDescText[0]="Fähigkeiten der Bot-Gegner einstellen."
-GIPropDescText[1]="Bei Aktivierung sind die Waffen immer zum Aufsammeln verfügbar."
-GIPropDescText[2]="Wenn Sie diese Option aktivieren, wird die Menge an Blut und herumfliegenden Körperteilen reduziert, die zu sehen ist."
+GIPropsDisplayText[14]="Waffen-RÃ¼tteln"
+GIPropDescText[0]="FÃ¤higkeiten der Bot-Gegner einstellen."
+GIPropDescText[1]="Bei Aktivierung sind die Waffen immer zum Aufsammeln verfÃ¼gbar."
+GIPropDescText[2]="Wenn Sie diese Option aktivieren, wird die Menge an Blut und herumfliegenden KÃ¶rperteilen reduziert, die zu sehen ist."
 GIPropDescText[3]="Bestimmt, wie schnell die Zeit im Spiel verstreicht."
-GIPropDescText[4]="Bestimmt die maximale Anzahl an Zuschauern, die sich das Spiel ansehen können."
-GIPropDescText[5]="Bestimmt die maximale Anzahl an Spielern, die sich bei diesem Server anmelden können."
+GIPropDescText[4]="Bestimmt die maximale Anzahl an Zuschauern, die sich das Spiel ansehen kÃ¶nnen."
+GIPropDescText[5]="Bestimmt die maximale Anzahl an Spielern, die sich bei diesem Server anmelden kÃ¶nnen."
 GIPropDescText[6]="Wenn jemand diesen Punktestand erreicht, ist das Spiel zu Ende."
-GIPropDescText[7]="Bestimmt wie oft die Spielfiguren nach ihrem Tod weiterspielen können."
+GIPropDescText[7]="Bestimmt wie oft die Spielfiguren nach ihrem Tod weiterspielen kÃ¶nnen."
 GIPropDescText[8]="Das Spiel ist nach dieser Minutenzahl zu Ende."
 GIPropDescText[9]="Aktivieren Sie diese Option, um die Spielstatistiken dem globalen Statistik-Server von UT2004 zu senden."
-GIPropDescText[10]="Bei Aktivierung können die Spieler ihre aktuelle Waffe wegwerfen."
-GIPropDescText[11]="Bestimmt, ob die Spieler in eine Außen-Ansicht wechseln können."
-GIPropDescText[12]="Bestimmt, ob Administratoren das Spiel auf Pause stellen können."
-GIPropDescText[13]="Bestimmt, wie viel Zeit verstreicht, bevor untätige Spieler vom Server rausgeworfen werden."
-GIPropDescText[14]="Wenn diese Option aktiviert ist, verursachen einige Waffen ein Rütteln beim abfeuern."
-GIPropsExtras[0]="0.000000;Anfänger;1.000000;Normal;2.000000;Erfahren;3.000000;Geschult;4.000000;Kenner;5.000000;Meister;6.000000;Unmenschlich;7.000000;Göttergleich"
+GIPropDescText[10]="Bei Aktivierung kÃ¶nnen die Spieler ihre aktuelle Waffe wegwerfen."
+GIPropDescText[11]="Bestimmt, ob die Spieler in eine AuÃŸen-Ansicht wechseln kÃ¶nnen."
+GIPropDescText[12]="Bestimmt, ob Administratoren das Spiel auf Pause stellen kÃ¶nnen."
+GIPropDescText[13]="Bestimmt, wie viel Zeit verstreicht, bevor untÃ¤tige Spieler vom Server rausgeworfen werden."
+GIPropDescText[14]="Wenn diese Option aktiviert ist, verursachen einige Waffen ein RÃ¼tteln beim abfeuern."
+GIPropsExtras[0]="0.000000;AnfÃ¤nger;1.000000;Normal;2.000000;Erfahren;3.000000;Geschult;4.000000;Kenner;5.000000;Meister;6.000000;Unmenschlich;7.000000;GÃ¶ttergleich"
 NoBindString="[Kein]"
 
 [GameMessage]
 SwitchLevelMessage="Levelwechsel"
-LeftMessage=" verließ das Spiel."
-FailedTeamMessage="Kein Team für Spieler gefunden"
+LeftMessage=" verlieÃŸ das Spiel."
+FailedTeamMessage="Kein Team fÃ¼r Spieler gefunden"
 FailedPlaceMessage="Startpunkt nicht gefunden"
 FailedSpawnMessage="Spieler nicht angelegt"
 EnteredMessage=" kam ins Spiel."
-MaxedOutMessage="Server bei voller Kapazität."
-OvertimeMessage="Unentschieden nach regulärer Spielzeit. Sudden-Death!!!"
-GlobalNameChange="änderte Namen zu"
+MaxedOutMessage="Server bei voller KapazitÃ¤t."
+OvertimeMessage="Unentschieden nach regulÃ¤rer Spielzeit. Sudden-Death!!!"
+GlobalNameChange="Ã¤nderte Namen zu"
 NewTeamMessage="jetzt in"
 NoNameChange="Name schon in Gebrauch."
 VoteStarted="begann Abstimmung."
 VotePassed="Angenommen."
-MustHaveStats="Die Statistiken müssen aktiviert sein, um sich bei diesem Server anmelden zu können."
-CantBeSpectator="Zur Zeit können Sie leider kein Zuschauer werden."
-CantBePlayer="Zur Zeit können Sie leider kein aktiver Spieler werden."
+MustHaveStats="Die Statistiken mÃ¼ssen aktiviert sein, um sich bei diesem Server anmelden zu kÃ¶nnen."
+CantBeSpectator="Zur Zeit kÃ¶nnen Sie leider kein Zuschauer werden."
+CantBePlayer="Zur Zeit kÃ¶nnen Sie leider kein aktiver Spieler werden."
 BecameSpectator="ist Zuschauer geworden."
 NewPlayerMessage="Ein neuer Spieler hat das Spiel betreten."
-KickWarning="Sie werden gleich wegen Untätigkeit rausgeworfen!"
+KickWarning="Sie werden gleich wegen UntÃ¤tigkeit rausgeworfen!"
 NewSpecMessage="Ein Zuschauer hat das Spiel betreten/"
 SpecEnteredMessage=" ist als Zuschauer beigetreten."
 
@@ -399,9 +399,9 @@ GRIPropDescText[2]="E-Mail-Adresse des Server-Administrators"
 GRIPropDescText[3]="Nachricht des Tages"
 
 [Gibbed]
-DeathString="%o explodierte in tausend Körperteile"
-FemaleSuicide="%o explodierte in tausend Körperteile"
-MaleSuicide="%o explodierte in tausend Körperteile"
+DeathString="%o explodierte in tausend KÃ¶rperteile"
+FemaleSuicide="%o explodierte in tausend KÃ¶rperteile"
+MaleSuicide="%o explodierte in tausend KÃ¶rperteile"
 
 [HUD]
 ProgressFontName="UT2003Fonts.FontEurostile12"
@@ -429,9 +429,9 @@ Title="Unbenannt"
 
 [MaplistManager]
 DefaultListName="Standard"
-InvalidGameType="konnte nicht geladen werden. Für gewöhnlich bedeutet das, dass eine .u-Datei gelöscht wurde, aber die .int-Datei nicht."
+InvalidGameType="konnte nicht geladen werden. FÃ¼r gewÃ¶hnlich bedeutet das, dass eine .u-Datei gelÃ¶scht wurde, aber die .int-Datei nicht."
 ReallyInvalidGameType="Die angeforderte Spielart '%gametype%' konnte nicht geladen werden."
-DefaultListExists="Spielart verfügt bereits über eine Standardliste!"
+DefaultListExists="Spielart verfÃ¼gt bereits Ã¼ber eine Standardliste!"
 
 [MatSubAction]
 Desc="K. A."
@@ -441,7 +441,7 @@ PickupMessage="Objekt geschnappt."
 
 [PlayerController]
 QuickSaveString="Schnellspeicherung"
-NoPauseMessage="Anhalten nicht möglich"
+NoPauseMessage="Anhalten nicht mÃ¶glich"
 ViewingFrom="Ansicht von"
 OwnCamera="Ansicht eigene Kamera"
 
@@ -457,7 +457,7 @@ DefaultPlaylistName="Neue Wiedergabeliste"
 Desc="Kameraeffekt"
 
 [SubActionCameraShake]
-Desc="Rütteln"
+Desc="RÃ¼tteln"
 
 [SubActionFOV]
 Desc="Blickfeld"
@@ -489,7 +489,7 @@ MaleSuicide="%o hatte ein Aneurysma."
 TeamName="Team"
 ColorNames[0]="ROT"
 ColorNames[1]="BLAU"
-ColorNames[2]="GRÜN"
+ColorNames[2]="GRÃœN"
 ColorNames[3]="GOLD"
 
 [Vehicle]
@@ -497,7 +497,7 @@ VehiclePositionString="in einem Fahrzeug"
 VehicleNameString="Fahrzeug"
 
 [VoiceChatReplicationInfo]
-PublicChannelNames=("Öffentlich","Lokal")
+PublicChannelNames=("Ã–ffentlich","Lokal")
 VCDisplayText[0]="Sprach-Chat aktivieren"
 VCDisplayText[1]="Lokalen Kanal aktivieren"
 VCDisplayText[2]="Lokaler Chat-Bereich"
@@ -505,12 +505,12 @@ VCDisplayText[3]="Lokaler Chat-Radius"
 VCDisplayText[4]="Zugelassene VoIP-Codecs"
 VCDisplayText[5]="Zugelassene VoIP LAN-Codecs"
 VCDescText[0]="Auf diesem Server Sprach-Chat aktivieren."
-VCDescText[1]="Legt fest, ob ein "lokaler" Sprach-Chat-Kanal erstellt wird, mit dem die Spieler Stimmübertragungen an andere Spieler in der unmittelbaren Umgebung senden können."
-VCDescText[2]="Höchstentfernung, bei der eine Übertragung im lokalen Kanal noch hörbar ist."
-VCDescText[3]="Entfernung, bei der lokale Übertragungen anfangen, schwächer zu werden."
-VCDescText[4]="Konfigurieren Sie, welche Codecs auf dem Server zur Verfügung stehen und bei Internetspielen benutzt werden können."
-VCDescText[5]="Konfigurieren Sie, welche Codecs auf dem Server zur Verfügung stehen und bei LAN-Spielen benutzt werden können."
-InstalledCodec=((CodecName="Weniger Bandbreite",CodecDescription="(4,8 kbps) - Verwendet weniger Bandbreite, aber die Tonqualität ist nicht so gut."),(CodecName="Bessere Qualität",CodecDescription="(9,6 kbps) - Verwendet eine höhere Bandbreite, aber die Tonqualität ist vielbesser."))
+VCDescText[1]="Legt fest, ob ein "lokaler" Sprach-Chat-Kanal erstellt wird, mit dem die Spieler StimmÃ¼bertragungen an andere Spieler in der unmittelbaren Umgebung senden kÃ¶nnen."
+VCDescText[2]="HÃ¶chstentfernung, bei der eine Ãœbertragung im lokalen Kanal noch hÃ¶rbar ist."
+VCDescText[3]="Entfernung, bei der lokale Ãœbertragungen anfangen, schwÃ¤cher zu werden."
+VCDescText[4]="Konfigurieren Sie, welche Codecs auf dem Server zur VerfÃ¼gung stehen und bei Internetspielen benutzt werden kÃ¶nnen."
+VCDescText[5]="Konfigurieren Sie, welche Codecs auf dem Server zur VerfÃ¼gung stehen und bei LAN-Spielen benutzt werden kÃ¶nnen."
+InstalledCodec=((CodecName="Weniger Bandbreite",CodecDescription="(4,8 kbps) - Verwendet weniger Bandbreite, aber die TonqualitÃ¤t ist nicht so gut."),(CodecName="Bessere QualitÃ¤t",CodecDescription="(9,6 kbps) - Verwendet eine hÃ¶here Bandbreite, aber die TonqualitÃ¤t ist vielbesser."))
 
 [Volume]
 LocationName="K. A."
@@ -528,7 +528,7 @@ LookPresets[2].PresetName="Hybrid"
 LookPresets[3].PresetName="Angepasst"
 
 [fell]
-DeathString="%k hat %o über die Kante geschubst."
-FemaleSuicide="% hinterließ einen Krater"
-MaleSuicide="% hinterließ einen Krater"
+DeathString="%k hat %o Ã¼ber die Kante geschubst."
+FemaleSuicide="% hinterlieÃŸ einen Krater"
+MaleSuicide="% hinterlieÃŸ einen Krater"
 

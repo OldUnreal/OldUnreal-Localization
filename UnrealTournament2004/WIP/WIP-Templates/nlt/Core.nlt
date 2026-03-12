@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object="(Name=Core.HelloWorldCommandlet,Class=Class,MetaClass=Core.Commandlet)"
 Preferences="(Caption="File System",Parent="Advanced",Class=Core.System,Immediate=True)"
 

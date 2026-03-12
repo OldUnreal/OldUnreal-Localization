@@ -1,15 +1,15 @@
-[LevelInfo0]
-Title="ZÈro Absolu"
+Ôªø[LevelInfo0]
+Title="Z√©ro Absolu"
 
 [LevelSummary]
-Title="ZÈro Absolu"
-Description="ZÈro Absolu fut ‡ l'origine un avant-poste scientifique pour l'Ètude des glaciers. Au fil des annÈes, le rÈchauffement planÈtaire et d'importants sÈismes ont presque arrachÈ cette base de ses fondations. Les scientifiques ont ÈtÈ ÈvacuÈs en h‚te et la Liandri a rapidement rachetÈ l'installation pour le tournoi. L'accueil chaleureux de votre Èquipe pourra faire oublier les tempÈratures glaciales, mais ne laissez pas votre cúur fondre car l'ennemi vous refroidira ‡ la premiËre occasion."
+Title="Z√©ro Absolu"
+Description="Z√©ro Absolu fut √† l'origine un avant-poste scientifique pour l'√©tude des glaciers. Au fil des ann√©es, le r√©chauffement plan√©taire et d'importants s√©ismes ont presque arrach√© cette base de ses fondations. Les scientifiques ont √©t√© √©vacu√©s en h√¢te et la Liandri a rapidement rachet√© l'installation pour le tournoi. L'accueil chaleureux de votre √©quipe pourra faire oublier les temp√©ratures glaciales, mais ne laissez pas votre c≈ìur fondre car l'ennemi vous refroidira √† la premi√®re occasion."
 
 [Volume0]
-LocationName="Salle inf. gÈnÈrateur Rouge"
+LocationName="Salle inf. g√©n√©rateur Rouge"
 
 [Volume1]
-LocationName="Salle inf. gÈnÈrateur Bleue"
+LocationName="Salle inf. g√©n√©rateur Bleue"
 
 [Volume10]
 LocationName="Hall inf. Bleu"
@@ -24,25 +24,25 @@ LocationName="Salle drapeau Rouge"
 LocationName="Salle drapeau Bleu"
 
 [Volume14]
-LocationName="Hall sup. cÙtÈ A Bleu"
+LocationName="Hall sup. c√¥t√© A Bleu"
 
 [Volume15]
-LocationName="Hall sup. cÙtÈ B Bleu"
+LocationName="Hall sup. c√¥t√© B Bleu"
 
 [Volume16]
 LocationName="Escalier drapeau Bleu"
 
 [Volume17]
-LocationName="Hall sup. cÙtÈ A Rouge"
+LocationName="Hall sup. c√¥t√© A Rouge"
 
 [Volume18]
-LocationName="Hall sup. cÙtÈ B Rouge"
+LocationName="Hall sup. c√¥t√© B Rouge"
 
 [Volume19]
 LocationName="Escalier drapeau Rouge"
 
 [Volume2]
-LocationName="Salle sup. gÈnÈrateur Bleu"
+LocationName="Salle sup. g√©n√©rateur Bleu"
 
 [Volume20]
 LocationName="Hall sup. Rouge"
@@ -54,38 +54,38 @@ LocationName="Hall sup. Bleu"
 LocationName="Pont pointeur ionique"
 
 [Volume24]
-LocationName="Pont RÈdempteur"
+LocationName="Pont R√©dempteur"
 
 [Volume25]
-LocationName="Tour sniper Bleu - cÙtÈ RÈdempteur"
+LocationName="Tour sniper Bleu - c√¥t√© R√©dempteur"
 
 [Volume26]
-LocationName="Tour sniper Bleu - cÙtÈ pointeur"
+LocationName="Tour sniper Bleu - c√¥t√© pointeur"
 
 [Volume27]
-LocationName="Tour sniper Rouge - cÙtÈ RÈdempteur"
+LocationName="Tour sniper Rouge - c√¥t√© R√©dempteur"
 
 [Volume28]
-LocationName="Tour sniper Rouge - cÙtÈ pointeur"
+LocationName="Tour sniper Rouge - c√¥t√© pointeur"
 
 [Volume29]
-LocationName="ExtÈrieur Bleu"
+LocationName="Ext√©rieur Bleu"
 
 [Volume3]
-LocationName="Salle sup. gÈnÈrateur Rouge"
+LocationName="Salle sup. g√©n√©rateur Rouge"
 
 [Volume30]
-LocationName="ExtÈrieur Rouge"
+LocationName="Ext√©rieur Rouge"
 
 [Volume6]
-LocationName="Hall inf. cÙtÈ B Rouge"
+LocationName="Hall inf. c√¥t√© B Rouge"
 
 [Volume7]
-LocationName="Hall inf. cÙtÈ A Rouge"
+LocationName="Hall inf. c√¥t√© A Rouge"
 
 [Volume8]
-LocationName="Hall inf. cÙtÈ B Bleu"
+LocationName="Hall inf. c√¥t√© B Bleu"
 
 [Volume9]
-LocationName="Hall inf. cÙtÈ A Bleu"
+LocationName="Hall inf. c√¥t√© A Bleu"
 

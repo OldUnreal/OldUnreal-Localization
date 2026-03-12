@@ -1,4 +1,4 @@
-[Public]
+ï»¿[Public]
 Object=(Name=Editor.MasterCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MakeCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ConformCommandlet,Class=Class,MetaClass=Core.Commandlet)
@@ -28,47 +28,47 @@ Preferences="(Caption="Rotation Grid",Parent="Editor",Class=Editor.EditorEngine,
 
 [PkgCommandlet]
 HelpCmd="pkg"
-HelpOneLiner="Import/export données de/vers ensembles avec struct. répert."
+HelpOneLiner="Import/export donnÃ©es de/vers ensembles avec struct. rÃ©pert."
 HelpUsage="pkg [import/export] [texture/sound] [packagename] [directory]"
 HelpParm[0]="import/export"
-HelpDesc[0]="Ce que vous souhaitez faire des données"
+HelpDesc[0]="Ce que vous souhaitez faire des donnÃ©es"
 HelpParm[1]="texture/sound"
 HelpDesc[1]="Le type d'ensemble de travail"
 HelpParm[2]="packagename"
-HelpDesc[2]="L'ensemble de création/export"
+HelpDesc[2]="L'ensemble de crÃ©ation/export"
 HelpParm[3]="directory"
-HelpDesc[3]="Le répertoire où lire/écrire"
+HelpDesc[3]="Le rÃ©pertoire oÃ¹ lire/Ã©crire"
 
 [MasterCommandlet]
 HelpCmd="master"
 HelpOneLiner="Constr. fich. d'inst. princ."
 HelpUsage="master [-option...] [param=val]..."
 HelpParm[0]="MasterPath"
-HelpDesc[0]="Rép. racine origine des fichiers source"
+HelpDesc[0]="RÃ©p. racine origine des fichiers source"
 HelpParm[1]="SrcPath"
-HelpDesc[1]="Rép. racine dest. des fichiers source (distrib.)"
+HelpDesc[1]="RÃ©p. racine dest. des fichiers source (distrib.)"
 HelpParm[2]="RefPath"
-HelpDesc[2]="Chem. pour réf. de chem. delta-compressé"
+HelpDesc[2]="Chem. pour rÃ©f. de chem. delta-compressÃ©"
 
 [MapConvertCommandlet]
 HelpCmd="mapconvert"
 HelpOneLiner="Convertit maps nouveau format (sans transform. pinceau)"
 HelpUsage="mapconvert SrcFilename DstFilename"
 HelpParm[0]="SrcFilename"
-HelpDesc[0]="Nom fichier map à lire"
+HelpDesc[0]="Nom fichier map Ã  lire"
 HelpParm[1]="DstFilename"
-HelpDesc[1]="Nom fichier map où écrire"
+HelpDesc[1]="Nom fichier map oÃ¹ Ã©crire"
 
 [MakeCommandlet]
 HelpCmd="make"
 HelpOneLiner="Reconstr. ens. UnrealScript"
 HelpUsage="make [-option...] [parm=value]..."
 HelpParm[0]="Silent"
-HelpDesc[0]="Pas de demandes ; assumer la réponse "oui" à toutes les questions"
+HelpDesc[0]="Pas de demandes ; assumer la rÃ©ponse "oui" Ã  toutes les questions"
 HelpParm[1]="NoBind"
-HelpDesc[1]="Ne pas forcer liaison fonctions natives à DLL"
+HelpDesc[1]="Ne pas forcer liaison fonctions natives Ã  DLL"
 HelpParm[2]="All"
-HelpDesc[2]="Reconstruction complète (sinon incrémentale)"
+HelpDesc[2]="Reconstruction complÃ¨te (sinon incrÃ©mentale)"
 
 [DXTConvertCommandlet]
 HelpCmd="dxtconvert"
@@ -81,7 +81,7 @@ HelpDesc[1]="Chemin fich. destination"
 
 [DataRipCommandlet]
 HelpCmd="datarip"
-HelpOneLiner="Créer ensemble avec donn. de textures, musique et son extr."
+HelpOneLiner="CrÃ©er ensemble avec donn. de textures, musique et son extr."
 HelpUsage="datarip srcpackage.ext dstpackage.ext"
 HelpParm[0]="srcpackage.ext"
 HelpDesc[0]="Ens. source"
@@ -93,11 +93,11 @@ HelpCmd="packagedrapeau"
 HelpOneLiner="Etab. drapeaux d'ens. ds fich. d'ens."
 HelpUsage="packagedrapeau src.ext [dest.ext <+|->drapeau [<+|->drapeau] ...]"
 HelpParm[0]="src.ext"
-HelpDesc[0]="Fich. d'ens. exist. à charger"
+HelpDesc[0]="Fich. d'ens. exist. Ã  charger"
 HelpParm[1]="dest.exe"
 HelpDesc[1]="Nom nouv. fich. d'ens. avec nouv. param. drapeau"
 HelpParm[2]="drapeau"
-HelpDesc[2]="+ établir drapeau, - supprimer drapeau, suivi par un parmi :"
+HelpDesc[2]="+ Ã©tablir drapeau, - supprimer drapeau, suivi par un parmi :"
 HelpParm[3]=" "
 HelpDesc[3]="  AllowDownload"
 HelpParm[4]=" "
@@ -111,10 +111,10 @@ HelpDesc[7]="  Unsecure"
 
 [ConformCommandlet]
 HelpCmd="conform"
-HelpOneLiner="Générer fichiers bin. conform."
+HelpOneLiner="GÃ©nÃ©rer fichiers bin. conform."
 HelpUsage="conform existing_file.ext old_file.ext"
 HelpParm[0]="existingfile.ext"
-HelpDesc[0]="Fichier bin. à charger, conformer et sauv."
+HelpDesc[0]="Fichier bin. Ã  charger, conformer et sauv."
 HelpParm[1]="oldfile.ext"
 HelpDesc[1]="Anc. fichier pour compat. binaire fichier source"
 
@@ -123,9 +123,9 @@ HelpCmd="batchexport"
 HelpOneLiner="Export objets en masse"
 HelpUsage="batchexport package.ext classname export_ext"
 HelpParm[0]="package.ext"
-HelpDesc[0]="Ensemble dont objets sont à exporter"
+HelpDesc[0]="Ensemble dont objets sont Ã  exporter"
 HelpParm[1]="classname"
-HelpDesc[1]="Classe d'objet à exporter"
+HelpDesc[1]="Classe d'objet Ã  exporter"
 HelpParm[2]="export_ext"
 HelpDesc[2]="Ext. fich. de destination"
 HelpParm[3]="path"

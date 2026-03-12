@@ -1,5 +1,5 @@
-[ASOBJ_EnergyCore_Delivery0]
-DestructionMessage="Il veicolo è stato riparato!"
+ï»¿[ASOBJ_EnergyCore_Delivery0]
+DestructionMessage="Il veicolo Ã¨ stato riparato!"
 ObjectiveDescription="Consegna il nucleo energetico per riparare il veicolo."
 Objective_Info_Attacker="Riporta il nucleo al veicolo"
 Objective_Info_Defender="Impedisci agli attaccanti di riportare il nucleo"
@@ -16,7 +16,7 @@ Objective_Info_Attacker="Apri il cancello del punto di controllo"
 Objective_Info_Defender="Difendi il comando del punto di controllo"
 
 [HoldObjective1]
-DestructionMessage="Il ponte levatoio è abbassato!"
+DestructionMessage="Il ponte levatoio Ã¨ abbassato!"
 ObjectiveDescription="Rimani presso il comando per abbassare il ponte."
 Objective_Info_Attacker="Abbassa il ponte"
 Objective_Info_Defender="Difendi il comando del ponte"
@@ -26,7 +26,7 @@ Title="Fuga dal deposito rottami"
 
 [LevelSummary]
 Title="Fuga dal deposito rottami"
-Description="Questo scenario è ispirato a un famoso episodio trasmesso in olovisione. Nell'episodio originale, due squadre di meccanici gareggiavano per rendere operativo il loro veicolo e fuggire dal deposito prima dell'altra. Sorprendendo tutti, la squadra che stava perdendo si servì di un'arma realizzata al momento per eliminare i rivali prima che riuscissero a fuggire. Siccome nessuna regola proibiva esplicitamente il ricorso alla violenza, questa squadra fu dichiarata vincitrice. Così nacque un nuovo classico del Torneo."
+Description="Questo scenario Ã¨ ispirato a un famoso episodio trasmesso in olovisione. Nell'episodio originale, due squadre di meccanici gareggiavano per rendere operativo il loro veicolo e fuggire dal deposito prima dell'altra. Sorprendendo tutti, la squadra che stava perdendo si servÃ¬ di un'arma realizzata al momento per eliminare i rivali prima che riuscissero a fuggire. Siccome nessuna regola proibiva esplicitamente il ricorso alla violenza, questa squadra fu dichiarata vincitrice. CosÃ¬ nacque un nuovo classico del Torneo."
 
 [ProximityObjective0]
 DestructionMessage="Gli attaccanti sono fuggiti dal deposito rottami!"
@@ -35,7 +35,7 @@ Objective_Info_Attacker="Raggiungi il cancello principale"
 Objective_Info_Defender="Proteggi il cancello principale"
 
 [ProximityObjective2]
-DestructionMessage="Il ponte è stato attraversato!"
+DestructionMessage="Il ponte Ã¨ stato attraversato!"
 ObjectiveDescription="Attraversa il ponte per proseguire."
 Objective_Info_Attacker="Attraversa il ponte"
 Objective_Info_Defender="Difendi il ponte"
@@ -47,7 +47,7 @@ Objective_Info_Attacker="Cattura il punto di controllo"
 Objective_Info_Defender="Difendi il punto di controllo"
 
 [SceneSubtitles0]
-SubTitles=("Questo scenario è ispirato a un famoso episodio trasmesso in olovisione.","Nell'episodio originale, due squadre di meccanici gareggiavano per rendere operativo il loro veicolo e fuggire dal deposito prima dell'altra.","Sorprendendo tutti, la squadra che stava perdendo si servì di un'arma realizzata al momento per eliminare i rivali prima che riuscissero a fuggire","Siccome nessuna regola proibiva esplicitamente il ricorso alla violenza, questa squadra fu dichiarata vincitrice. Così nacque un nuovo classico del Torneo.","Devi trovare e recuperare il nucleo energetico del veicolo che si trova all'interno del deposito di rottami e riportarlo al tuo veicolo.","Quando il tuo veicolo diventa operativo, devi guidarlo attraverso il deposito di rottami e il cancello principale.","Per attraversare il ponte levatoio, devi abbassarlo premendo questo interruttore.","Una volta attraversato il ponte, devi raggiungere il punto di controllo.","Puoi raggiungere il punto di controllo seguendo questo percorso e aprendo i cancelli.","È anche possibile usare il magnete. Ti permetterà un percorso molto più breve, ma sarai molto più esposto e a rischio.","Una volta raggiunto il punto di controllo, vai verso il cancello principale per la tua fuga.")
+SubTitles=("Questo scenario Ã¨ ispirato a un famoso episodio trasmesso in olovisione.","Nell'episodio originale, due squadre di meccanici gareggiavano per rendere operativo il loro veicolo e fuggire dal deposito prima dell'altra.","Sorprendendo tutti, la squadra che stava perdendo si servÃ¬ di un'arma realizzata al momento per eliminare i rivali prima che riuscissero a fuggire","Siccome nessuna regola proibiva esplicitamente il ricorso alla violenza, questa squadra fu dichiarata vincitrice. CosÃ¬ nacque un nuovo classico del Torneo.","Devi trovare e recuperare il nucleo energetico del veicolo che si trova all'interno del deposito di rottami e riportarlo al tuo veicolo.","Quando il tuo veicolo diventa operativo, devi guidarlo attraverso il deposito di rottami e il cancello principale.","Per attraversare il ponte levatoio, devi abbassarlo premendo questo interruttore.","Una volta attraversato il ponte, devi raggiungere il punto di controllo.","Puoi raggiungere il punto di controllo seguendo questo percorso e aprendo i cancelli.","Ãˆ anche possibile usare il magnete. Ti permetterÃ  un percorso molto piÃ¹ breve, ma sarai molto piÃ¹ esposto e a rischio.","Una volta raggiunto il punto di controllo, vai verso il cancello principale per la tua fuga.")
 
 [Volume10]
 LocationName="Collina del magnete"

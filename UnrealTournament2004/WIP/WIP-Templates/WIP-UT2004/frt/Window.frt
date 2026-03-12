@@ -1,6 +1,6 @@
-[Errors]
+ï»¿[Errors]
 Critical="Err. critique"
-FailedConfigLoad="%s (échec charg)"
+FailedConfigLoad="%s (Ã©chec charg)"
 
 [General]
 BrowseButton="..."
@@ -12,9 +12,9 @@ FindButton="Trouv."
 OkButton="OK"
 AddButton="Ajout."
 EmptyButton="Vide"
-InsertButton="Insérer"
+InsertButton="InsÃ©rer"
 DeleteButton="Suppr."
-DefaultsButton="Rétablir par déf."
+DefaultsButton="RÃ©tablir par dÃ©f."
 BackButton="< &Retour"
 NextButton="&Suivant >"
 FinishButton="&Finir"
@@ -24,13 +24,13 @@ YesButton="&Oui"
 NoButton="&Non"
 AgreeButton="J'&acc."
 LanguagePrompt="Langue :"
-LanguageWindow="Sélection langue"
+LanguageWindow="SÃ©lection langue"
 LogWindow="Fen. log %s"
-PropNone="Sélection : rien"
+PropNone="SÃ©lection : rien"
 PropSingle="Prop. de %s"
-PropMulti="Prop. de %s (%i sélect.)"
-InsertCdText="Insérez le CD-ROM d'Unreal et appuyez sur OK pour continuer ou Annuler pour quitter."
-InsertCdTitle="CD exigé au lancement"
+PropMulti="Prop. de %s (%i sÃ©lect.)"
+InsertCdText="InsÃ©rez le CD-ROM d'Unreal et appuyez sur OK pour continuer ou Annuler pour quitter."
+InsertCdTitle="CD exigÃ© au lancement"
 AdvancedOptionsTitle="Advanced Options"
 Low="Bas"
 High="Elev"
@@ -38,20 +38,20 @@ New="Nouv."
 
 [FirstRun]
 Caption="Config. initiale"
-LowMemory="Unreal a détecté %i Mo de mémoire disponible. Pour améliorer les performances, les options Faibles détails de textures et Faible qualité sonore ont été activées. Vous pourrez les modifier dans le menu des paramètres de performances."
-NonMMX="Unreal a découvert que votre PC n'était pas MMX. La qualité sonore a été réglée sur la plus faible occupation du processeur. Vous pourrez la modifier dans le menu Options avancées/Audio."
-Starting="Unreal démarre avec de nouveaux paramètres. En cas de difficulté, lisez la partie des notes (accessibles depuis le menu Démarrer) relative au dépannage."
+LowMemory="Unreal a dÃ©tectÃ© %i Mo de mÃ©moire disponible. Pour amÃ©liorer les performances, les options Faibles dÃ©tails de textures et Faible qualitÃ© sonore ont Ã©tÃ© activÃ©es. Vous pourrez les modifier dans le menu des paramÃ¨tres de performances."
+NonMMX="Unreal a dÃ©couvert que votre PC n'Ã©tait pas MMX. La qualitÃ© sonore a Ã©tÃ© rÃ©glÃ©e sur la plus faible occupation du processeur. Vous pourrez la modifier dans le menu Options avancÃ©es/Audio."
+Starting="Unreal dÃ©marre avec de nouveaux paramÃ¨tres. En cas de difficultÃ©, lisez la partie des notes (accessibles depuis le menu DÃ©marrer) relative au dÃ©pannage."
 
 [IDDIALOG_Directory]
 IDC_Directory="Dossier d'install."
-IDC_ChoosePrompt="Sélectionnez le dossier d'install."
+IDC_ChoosePrompt="SÃ©lectionnez le dossier d'install."
 IDC_PathTitle="&Chem:"
-IDC_DirectoryTitle="&Répert. :"
+IDC_DirectoryTitle="&RÃ©pert. :"
 IDC_DrivesTitle="&Disq. :"
-IDC_NetworkButton="&Réseau"
+IDC_NetworkButton="&RÃ©seau"
 
 [IDDIALOG_Password]
-IDC_Password="Vérif. code"
+IDC_Password="VÃ©rif. code"
 IDC_Prompt="Tapez vos nom et code"
 IDC_Name="&Nom :"
 IDC_Password="&Code :"
@@ -59,12 +59,12 @@ IDC_Password="&Code :"
 [IDMENU_NotifyIcon]
 ID_NotifyIcon="Menu"
 ID_NotifyShowLog="Console serv. &Unreal"
-ID_NotifyAdvancedOptions="&Options avancées"
+ID_NotifyAdvancedOptions="&Options avancÃ©es"
 ID_NotifyExit="&Quit UnrealServer"
 
 [IDMENU_Log]
 ID_LogFile="&Fich"
-ID_LogAdvancedOptions="&Options avancées"
+ID_LogAdvancedOptions="&Options avancÃ©es"
 ID_LogFileExit="&Quit"
 
 [IDDIALOG_CrashBox]

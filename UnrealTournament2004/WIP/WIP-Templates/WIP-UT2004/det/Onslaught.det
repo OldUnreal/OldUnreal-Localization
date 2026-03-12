@@ -1,22 +1,22 @@
-[ActionMessage_ONS]
+ï»¿[ActionMessage_ONS]
 Messages[0]="Willkommen zum Onslaught Training."
 Messages[1]="Es gibt viele Fahrzeugarten."
 Messages[2]="Mit 'Benutzen' kommen Sie ins Fahrzeug hinein od. heraus."
-Messages[3]="Einige Fahrzeuge können Passagiere mitnehmen."
+Messages[3]="Einige Fahrzeuge kÃ¶nnen Passagiere mitnehmen."
 Messages[4]="Jedes Team im Onslaught hat einen Power-Kern."
 Messages[5]="Power-Kerne sind durch Power-Knoten miteinander verbund."
 Messages[6]="Das Netzw. der Power-Knoten ist in d. Luftmap zu sehen."
-Messages[7]="Ziel: Power-Kerne des gegnerischen Teams zerstören."
+Messages[7]="Ziel: Power-Kerne des gegnerischen Teams zerstÃ¶ren."
 Messages[8]="Sie sollten nur die Knoten und Kerne angreifen, die mit Knoten oder Kernen verbunden sind, welche Sie schon kontrollieren."
-Messages[9]="Gegnerischen Power-Knoten zerstören, um ihn zu übernehm."
-Messages[10]="Berühren Sie die Power-Zugangs-Punkte."
-Messages[11]="Fahrz. erschein. in d. Nähe Ihrer Knot. u. Ihres Kerns."
-Messages[12]="Fahrzeuge sind gesperrt für das feindliche Team."
+Messages[9]="Gegnerischen Power-Knoten zerstÃ¶ren, um ihn zu Ã¼bernehm."
+Messages[10]="BerÃ¼hren Sie die Power-Zugangs-Punkte."
+Messages[11]="Fahrz. erschein. in d. NÃ¤he Ihrer Knot. u. Ihres Kerns."
+Messages[12]="Fahrzeuge sind gesperrt fÃ¼r das feindliche Team."
 Messages[13]="Die Link Gun kann Fahrzeuge und Knoten heilen."
-Messages[14]="Zerstörte Power-Kerne können NICHT geheilt werden."
+Messages[14]="ZerstÃ¶rte Power-Kerne kÃ¶nnen NICHT geheilt werden."
 Messages[15]="Um Zugang zu den feindlichen Kernen zu bekommen, bauen"
-Messages[16]="Sie ein Netzw. von Knoten auf u. zerstör. Sie sie dann."
-Messages[17]="Damit ist das Onslaught Tutorial zu Ende. Viel Glück!"
+Messages[16]="Sie ein Netzw. von Knoten auf u. zerstÃ¶r. Sie sie dann."
+Messages[17]="Damit ist das Onslaught Tutorial zu Ende. Viel GlÃ¼ck!"
 
 [DamTypeAttackCraftMissle]
 DeathString="%o konnte %ks Luftrakete nicht ausweichen."
@@ -24,25 +24,25 @@ FemaleSuicide="%o hat sich selbst vom Himmel geschossen."
 MaleSuicide="%o hat sich selbst vom Himmel geschossen."
 
 [DamTypeAttackCraftPlasma]
-DeathString="%ks Raptor hat %o mit Plasma überzogen."
+DeathString="%ks Raptor hat %o mit Plasma Ã¼berzogen."
 FemaleSuicide="%o hat sich mit ihrem eigenen Plasma gegrillt."
 MaleSuicide="%o hat sich mit seinem eigenen Plasma gegrillt."
 
 [DamTypeChargingBeam]
 DeathString="%o wurde von den Zwillingsstrahlen %ks abgefackelt."
-FemaleSuicide="%o hat es geschafft, sich selbst mit einem Turm zu erschießen."
-MaleSuicide="%o hat es geschafft, sich selbst mit einem Turm zu erschießen."
+FemaleSuicide="%o hat es geschafft, sich selbst mit einem Turm zu erschieÃŸen."
+MaleSuicide="%o hat es geschafft, sich selbst mit einem Turm zu erschieÃŸen."
 
 [DamTypeDestroyedVehicleRoadKill]
-DeathString="Ein Fahrzeug, das %k zerstört hat, zermatschte %o."
-FemaleSuicide="%o konnte dem Fahrzeug nicht ausweichen, das sie zerstörte."
-MaleSuicide="%o konnte dem Fahrzeug nicht ausweichen, das er zerstörte."
+DeathString="Ein Fahrzeug, das %k zerstÃ¶rt hat, zermatschte %o."
+FemaleSuicide="%o konnte dem Fahrzeug nicht ausweichen, das sie zerstÃ¶rte."
+MaleSuicide="%o konnte dem Fahrzeug nicht ausweichen, das er zerstÃ¶rte."
 
 [DamTypeHoverBikeHeadshot]
-DeathString="%k hat %o einen Kopf kürzer gemacht."
+DeathString="%k hat %o einen Kopf kÃ¼rzer gemacht."
 
 [DamTypeHoverBikePlasma]
-DeathString="%ks Manta hat %o mit Plasma überzogen."
+DeathString="%ks Manta hat %o mit Plasma Ã¼berzogen."
 FemaleSuicide="%o hat sich mit ihrem eigenen Plasma gegrillt."
 MaleSuicide="%o hat sich mit seinem eigenen Plasma gegrillt."
 
@@ -58,8 +58,8 @@ MaleSuicide="%o hat sich Minigun-isiert."
 
 [DamTypeONSGrenade]
 DeathString="%o hat mit %ks lustigem Ball gespielt ..."
-FemaleSuicide="Tsts, %o, Granaten sind für Feinde gedacht ..."
-MaleSuicide="Tsts, %o, Granaten sind für Feinde gedacht ..."
+FemaleSuicide="Tsts, %o, Granaten sind fÃ¼r Feinde gedacht ..."
+MaleSuicide="Tsts, %o, Granaten sind fÃ¼r Feinde gedacht ..."
 
 [DamTypeONSMine]
 DeathString="%o hat %ks Revier betreten."
@@ -67,9 +67,9 @@ FemaleSuicide="%o hat eine ihrer eigenen Minen ausprobiert ... sie hat funktioni
 MaleSuicide="%o hat eine seiner eigenen Minen ausprobiert ... sie hat funktioniert!"
 
 [DamTypeONSRVBlade]
-DeathString="%o wurde niedergemäht."
-FemaleSuicide="%o wurde niedergemäht."
-MaleSuicide="%o wurde niedergemäht."
+DeathString="%o wurde niedergemÃ¤ht."
+FemaleSuicide="%o wurde niedergemÃ¤ht."
+MaleSuicide="%o wurde niedergemÃ¤ht."
 
 [DamTypeONSVehicle]
 DeathString="%o hatte einen Unfall."
@@ -88,8 +88,8 @@ MaleSuicide="%o hat ein klebriges Ende genommen."
 
 [DamTypePRVCombo]
 DeathString="%o konnte der furchtbaren Kraft von %ks Luftminen-Detonation nicht entkommen."
-FemaleSuicide="%o war ein wenig zu übereifrig beim Zünden ihrer Luftminen."
-MaleSuicide="%o war ein wenig zu übereifrig beim Zünden seiner Luftminen."
+FemaleSuicide="%o war ein wenig zu Ã¼bereifrig beim ZÃ¼nden ihrer Luftminen."
+MaleSuicide="%o war ein wenig zu Ã¼bereifrig beim ZÃ¼nden seiner Luftminen."
 
 [DamTypePRVLaser]
 DeathString="%ks Laser traf %o."
@@ -102,9 +102,9 @@ FemaleSuicide="%o wurde zerschmettert."
 MaleSuicide="%o wurde zerschmettert."
 
 [DamTypeRoadkill]
-DeathString="%k hat %o überfahren."
-FemaleSuicide="%o hat sich selbst überfahren."
-MaleSuicide="%o hat sich selbst überfahren."
+DeathString="%k hat %o Ã¼berfahren."
+FemaleSuicide="%o hat sich selbst Ã¼berfahren."
+MaleSuicide="%o hat sich selbst Ã¼berfahren."
 
 [DamTypeSkyMine]
 DeathString="%o hat %ks Luftmine gerammt."
@@ -113,46 +113,46 @@ MaleSuicide="%o hat seine eigene Luftmine gerammt."
 
 [DamTypeTankShell]
 DeathString="%ks Rakete hat %o in brennende Teile zerlegt."
-FemaleSuicide="%o hat ihre Rakete verfrüht abgefeuert."
-MaleSuicide="%o hat seine Rakete verfrüht abgefeuert."
+FemaleSuicide="%o hat ihre Rakete verfrÃ¼ht abgefeuert."
+MaleSuicide="%o hat seine Rakete verfrÃ¼ht abgefeuert."
 
 [DamTypeTurretBeam]
 DeathString="%ks Turm elektrifizierte %o."
-FemaleSuicide="%o hat es geschafft, sich selbst mit einem Turm zu erschießen."
-MaleSuicide="%o hat es geschafft, sich selbst mit einem Turm zu erschießen."
+FemaleSuicide="%o hat es geschafft, sich selbst mit einem Turm zu erschieÃŸen."
+MaleSuicide="%o hat es geschafft, sich selbst mit einem Turm zu erschieÃŸen."
 
 [MutBigWheels]
 FriendlyName="BigWheels"
-Description="Die Größe der Fahrzeugräder hängt von Ihren Leistungen ab."
+Description="Die GrÃ¶ÃŸe der FahrzeugrÃ¤der hÃ¤ngt von Ihren Leistungen ab."
 
 [MutLightweightVehicles]
-DisplayText="Impulsverstärker"
-DescText="Fahrzeuge kriegen bei einem Zusammenstoß umso mehr Impuls"
+DisplayText="ImpulsverstÃ¤rker"
+DescText="Fahrzeuge kriegen bei einem ZusammenstoÃŸ umso mehr Impuls"
 FriendlyName="Leichte Fahrzeuge"
 Description="Fahrzeuge fliegen weiter, wenn Sie sie schlagen."
 
 [MutOnslaughtWeapons]
-ONSWeaponDisplayText[0]="AVRiL hinzufügen"
+ONSWeaponDisplayText[0]="AVRiL hinzufÃ¼gen"
 ONSWeaponDisplayText[1]="Durch AVRiL ersetzen"
-ONSWeaponDisplayText[2]="Mine Layer hinzufügen"
+ONSWeaponDisplayText[2]="Mine Layer hinzufÃ¼gen"
 ONSWeaponDisplayText[3]="Durch Mine Layer ersetzen"
-ONSWeaponDisplayText[4]="Grenade Launcher hinzufügen"
+ONSWeaponDisplayText[4]="Grenade Launcher hinzufÃ¼gen"
 ONSWeaponDisplayText[5]="Durch Grenade Launcher ersetzen"
-ONSWeaponDescText[0]="Auswahl, um AVRiL dem Spiel hinzuzufügen"
+ONSWeaponDescText[0]="Auswahl, um AVRiL dem Spiel hinzuzufÃ¼gen"
 ONSWeaponDescText[1]="Diese Waffe durch AVRiL ersetzen"
-ONSWeaponDescText[2]="Auswahl, um Mine Layer dem Spiel hinzuzufügen"
+ONSWeaponDescText[2]="Auswahl, um Mine Layer dem Spiel hinzuzufÃ¼gen"
 ONSWeaponDescText[3]="Diese Waffe durch Mine Layer ersetzen"
-ONSWeaponDescText[4]="Auswahl, um Grenade Launcher dem Spiel hinzuzufügen"
+ONSWeaponDescText[4]="Auswahl, um Grenade Launcher dem Spiel hinzuzufÃ¼gen"
 ONSWeaponDescText[5]="Diese Waffe durch Grenade Launcher ersetzen"
 FriendlyName="Onslaught-Waffen"
-Description="Onslaught-Waffen zu den anderen Spielarten hinzufügen."
+Description="Onslaught-Waffen zu den anderen Spielarten hinzufÃ¼gen."
 
 [MutWheeledVehicleStunts]
 FriendlyName="Stunt-Fahrzeuge"
-Description="Die Spieler können mit den Räder-Fahrzeugen springen. Halten Sie zum Aufladen die Ducken-Taste gedrückt und lassen Sie sie zum Sprung los. Sie können ebenso die Räder-Fahrzeuge mitten in der Luft kontrollieren."
+Description="Die Spieler kÃ¶nnen mit den RÃ¤der-Fahrzeugen springen. Halten Sie zum Aufladen die Ducken-Taste gedrÃ¼ckt und lassen Sie sie zum Sprung los. Sie kÃ¶nnen ebenso die RÃ¤der-Fahrzeuge mitten in der Luft kontrollieren."
 
 [ONSAVRiL]
-Description="Der AVRiL, bzw. Anti-Vehicle Rocket Launcher schießt Raketen mit Zielsuchmechanismus ab, die über eine beachtliche Wirkung verfügen."
+Description="Der AVRiL, bzw. Anti-Vehicle Rocket Launcher schieÃŸt Raketen mit Zielsuchmechanismus ab, die Ã¼ber eine beachtliche Wirkung verfÃ¼gen."
 ItemName="AVRiL"
 
 [ONSAVRiLAmmo]
@@ -172,7 +172,7 @@ VehicleNameString="Raptor"
 Crosshair=((FriendlyName="Kreis (3)"),(FriendlyName="Kreis (4)"),(FriendlyName="Kreis (5)"))
 
 [ONSDaredevilMessage]
-StuntInfoString1="Draufgänger!"
+StuntInfoString1="DraufgÃ¤nger!"
 StuntInfoString2=","
 StuntInfoString3="m"
 StuntInfoString4="Rotieren:"
@@ -180,7 +180,7 @@ StuntInfoString5="Kippen: "
 StuntInfoString6="Drehen: "
 StuntInfoString7=","
 StuntInfoString8=" Sek."
-StuntDegrees="°"
+StuntDegrees="Â°"
 
 [ONSGrenadeAmmo]
 ItemName="Granaten"
@@ -206,12 +206,12 @@ VehicleNameString="Goliath"
 [ONSLinkDesignMessage]
 SaveSetupString="Link-Einstellung erfolgreich gespeichert."
 LoadSetupString="Link-Einstellung erfolgreich geladen."
-SaveFailedString="Sie können die offiziellen Link-Einstellungen nicht überschreiben!"
+SaveFailedString="Sie kÃ¶nnen die offiziellen Link-Einstellungen nicht Ã¼berschreiben!"
 LoadFailedString="Link-Einstellung konnte nicht geladen werden, da unter diesem Namen keine Einstellung existiert."
-DeleteSetupString="Link-Einstellung erfolgreich gelöscht."
-DeleteOfficialFailedString="Sie können die offiziellen Link-Einstellungen nicht löschen!"
-DeleteNothingString="Link-Einstellung konnte nicht gelöscht werden, da unter diesem Namen keine Einstellung existiert."
-NoPathToPowerCoreString="Link-Einstellung konnte nicht gespeichert werden: Es muss ein vollständiger Pfad zwischen den Power-Kernen vorhanden sein."
+DeleteSetupString="Link-Einstellung erfolgreich gelÃ¶scht."
+DeleteOfficialFailedString="Sie kÃ¶nnen die offiziellen Link-Einstellungen nicht lÃ¶schen!"
+DeleteNothingString="Link-Einstellung konnte nicht gelÃ¶scht werden, da unter diesem Namen keine Einstellung existiert."
+NoPathToPowerCoreString="Link-Einstellung konnte nicht gespeichert werden: Es muss ein vollstÃ¤ndiger Pfad zwischen den Power-Kernen vorhanden sein."
 LoadFailedNoPathToCoreString="Link-Einstellung konnte nicht geladen werden, da kein kompletter Pfad zwischen den Power-Kernen besteht."
 
 [ONSMineAmmo]
@@ -221,22 +221,22 @@ ItemName="Parasite Mines"
 PickupMessage="Sie haben einige Parasite Mines aufgesammelt."
 
 [ONSMineLayer]
-Description="Der Spider Mine Layer wird zum Verlegen von Spider-Minen verwendet. Dies sind autonome mobile Minen, die höchst wirksam gegen Fußsoldaten und Fahrzeuge eingesetzt werden können."
+Description="Der Spider Mine Layer wird zum Verlegen von Spider-Minen verwendet. Dies sind autonome mobile Minen, die hÃ¶chst wirksam gegen FuÃŸsoldaten und Fahrzeuge eingesetzt werden kÃ¶nnen."
 ItemName="Minenleger"
 
 [ONSMineLayerPickup]
 PickupMessage="Sie haben den Mine Layer."
 
 [ONSOnslaughtGame]
-ONSPropsDisplayText[0]="Überzeit bei Core Drain"
-ONSPropsDisplayText[1]="Zufällige Link-Einstellung"
-ONSPropsDisplayText[2]="Seitenwechsel nach Zurücksetzen"
-ONSPropDescText[0]="In der Überzeit verliert der Power-Kern maximal diese Menge Gesundheit pro Sekunde."
-ONSPropDescText[1]="Nach einem Zurücksetzen wird eine neue Link-Einstellung zufällig ausgewählt."
-ONSPropDescText[2]="Nach einem Zurücksetzen tauschen die Teams die Seiten, so dass sie nun den Power-Kern verteidigen, den sie zuvor angegriffen haben."
-ONSHints=("Wenn Sie eine Raketenwarnung erhalten, versuchen Sie, so schnell wie möglich aus dem Blickfeld zu verschwinden!","Die Raketen des Raptor erfassen automatisch Mantas und andere Raptoren.","Drücken Sie im Raptor %JUMP%, um höher, und %DUCK%, um niedriger zu fliegen.","Der Manta kann schnell hinabstoßen, um Ihre Gegner zu zerschmettern, indem Sie %DUCK% oder %ALTFIRE% drücken.","Drücken Sie %JUMP%, um eine 180-Grad-Drehung im Hellbender oder Scorpion durchzuführen.","Der Manta ist das einzige Fahrzeug, das springen kann.","Im Einsatz ist der Leviathan stark anfällig gegen Luftangriffe.","Mit dem alternativen Feuer der Link Gun, können Sie ein Fahrzeug Ihres Teams reparieren.","Mit dem alternativen Feuer der Link Gun, können Sie einen eigenen Power-Knoten reparieren.","Es ist unmöglich, den letzten Power-Kern wiederherzustellen; Sie sollten ihn deshalb auf jeden Fall verteidigen!","Drücken Sie %TOGGLERADARMAP%, um die Radarmap ein- und auszuschalten.","Sie können durch Fahrzeuge, die in Ihrer Nähe explodieren, verletzt oder getötet werden.","Feindliche Spider-Minen können zerstört werden, aber einige Waffen eignen sich dazu besser als andere.","Wenn Sie %USE% auf einem Power-Knoten drücken, können Sie einen Teleport zu jedem Power-Knoten durchführen, der von Ihrem Team kontrolliert wird.","Sie können nicht an einem Power-Knoten erscheinen, der gerade angegriffen wird, selbst wenn er unter der Kontrolle Ihres Teams ist.","Wenn Sie sterben, gehen alle Spider-Minen und Granaten hoch, die Sie abgefeuert haben.","Drücken Sie %VOICETALK%, um einen Sprach-Chat mit Ihrem Team durchzuführen.","%BASEPATH 0% zeigt Ihnen den Weg zum nächsten Power-Knoten oder Power-Kern, den das rote Team angreifen kann; %BASEPATH 1% erfüllt die gleiche Funktion für das blaue Team.","Mit %TOGGLEBEHINDVIEW% können Sie bei Fahrzeugen zwischen Ego- und Außen-Perspektive wechseln.","AVRiL-Raketen bleiben auf ein feindliches Fahrzeug ausgerichtet, solange Sie es mit Ihrem Fadenkreuz erfasst haben.","Wenn Sie mit dem AVRiL ein Ziel finden, drücken Sie %ALTFIRE%, um heran zu zoomen und die Ansicht auf das Ziel auszurichten.","Das grüne Licht oben auf den Waffenfächern zeigt an, dass weitere Munition darin vorhanden ist.","Greifen Sie Power-Knoten an, bei denen der Strahl in der Farbe des feindlichen Teams darüber zu sehen ist.","Power-Knoten und Power-Kerne können nicht angegriffen werden, wenn ein Energieschild vorhanden ist. Entfernen Sie einen Schild, indem Sie einen Knoten unter Kontrolle bringen, der damit verbunden ist.","Der Grenade Launcher schießt Haftgranaten ab, die an Fahrzeugen und Spielern haften bleiben. Sie müssen sie selbst mit dem Sekundärfeuer zur Detonation bringen (drücken Sie %ALTFIRE%)","Der Bomber, den der Target Painter ruft, kann durch feindliches Feuer abgeschossen werden.")
+ONSPropsDisplayText[0]="Ãœberzeit bei Core Drain"
+ONSPropsDisplayText[1]="ZufÃ¤llige Link-Einstellung"
+ONSPropsDisplayText[2]="Seitenwechsel nach ZurÃ¼cksetzen"
+ONSPropDescText[0]="In der Ãœberzeit verliert der Power-Kern maximal diese Menge Gesundheit pro Sekunde."
+ONSPropDescText[1]="Nach einem ZurÃ¼cksetzen wird eine neue Link-Einstellung zufÃ¤llig ausgewÃ¤hlt."
+ONSPropDescText[2]="Nach einem ZurÃ¼cksetzen tauschen die Teams die Seiten, so dass sie nun den Power-Kern verteidigen, den sie zuvor angegriffen haben."
+ONSHints=("Wenn Sie eine Raketenwarnung erhalten, versuchen Sie, so schnell wie mÃ¶glich aus dem Blickfeld zu verschwinden!","Die Raketen des Raptor erfassen automatisch Mantas und andere Raptoren.","DrÃ¼cken Sie im Raptor %JUMP%, um hÃ¶her, und %DUCK%, um niedriger zu fliegen.","Der Manta kann schnell hinabstoÃŸen, um Ihre Gegner zu zerschmettern, indem Sie %DUCK% oder %ALTFIRE% drÃ¼cken.","DrÃ¼cken Sie %JUMP%, um eine 180-Grad-Drehung im Hellbender oder Scorpion durchzufÃ¼hren.","Der Manta ist das einzige Fahrzeug, das springen kann.","Im Einsatz ist der Leviathan stark anfÃ¤llig gegen Luftangriffe.","Mit dem alternativen Feuer der Link Gun, kÃ¶nnen Sie ein Fahrzeug Ihres Teams reparieren.","Mit dem alternativen Feuer der Link Gun, kÃ¶nnen Sie einen eigenen Power-Knoten reparieren.","Es ist unmÃ¶glich, den letzten Power-Kern wiederherzustellen; Sie sollten ihn deshalb auf jeden Fall verteidigen!","DrÃ¼cken Sie %TOGGLERADARMAP%, um die Radarmap ein- und auszuschalten.","Sie kÃ¶nnen durch Fahrzeuge, die in Ihrer NÃ¤he explodieren, verletzt oder getÃ¶tet werden.","Feindliche Spider-Minen kÃ¶nnen zerstÃ¶rt werden, aber einige Waffen eignen sich dazu besser als andere.","Wenn Sie %USE% auf einem Power-Knoten drÃ¼cken, kÃ¶nnen Sie einen Teleport zu jedem Power-Knoten durchfÃ¼hren, der von Ihrem Team kontrolliert wird.","Sie kÃ¶nnen nicht an einem Power-Knoten erscheinen, der gerade angegriffen wird, selbst wenn er unter der Kontrolle Ihres Teams ist.","Wenn Sie sterben, gehen alle Spider-Minen und Granaten hoch, die Sie abgefeuert haben.","DrÃ¼cken Sie %VOICETALK%, um einen Sprach-Chat mit Ihrem Team durchzufÃ¼hren.","%BASEPATH 0% zeigt Ihnen den Weg zum nÃ¤chsten Power-Knoten oder Power-Kern, den das rote Team angreifen kann; %BASEPATH 1% erfÃ¼llt die gleiche Funktion fÃ¼r das blaue Team.","Mit %TOGGLEBEHINDVIEW% kÃ¶nnen Sie bei Fahrzeugen zwischen Ego- und AuÃŸen-Perspektive wechseln.","AVRiL-Raketen bleiben auf ein feindliches Fahrzeug ausgerichtet, solange Sie es mit Ihrem Fadenkreuz erfasst haben.","Wenn Sie mit dem AVRiL ein Ziel finden, drÃ¼cken Sie %ALTFIRE%, um heran zu zoomen und die Ansicht auf das Ziel auszurichten.","Das grÃ¼ne Licht oben auf den WaffenfÃ¤chern zeigt an, dass weitere Munition darin vorhanden ist.","Greifen Sie Power-Knoten an, bei denen der Strahl in der Farbe des feindlichen Teams darÃ¼ber zu sehen ist.","Power-Knoten und Power-Kerne kÃ¶nnen nicht angegriffen werden, wenn ein Energieschild vorhanden ist. Entfernen Sie einen Schild, indem Sie einen Knoten unter Kontrolle bringen, der damit verbunden ist.","Der Grenade Launcher schieÃŸt Haftgranaten ab, die an Fahrzeugen und Spielern haften bleiben. Sie mÃ¼ssen sie selbst mit dem SekundÃ¤rfeuer zur Detonation bringen (drÃ¼cken Sie %ALTFIRE%)","Der Bomber, den der Target Painter ruft, kann durch feindliches Feuer abgeschossen werden.")
 GameName="Onslaught"
-Description="Ihr Team muss über Power-Knoten die Kontrolle erlangen, die 'in Reihe' sein müssen, um eine direkte Linie zum feindlichen Power-Kern zu bilden. Sobald Sie eine Verbindung zum nächsten Power-Knoten errichtet haben, können Sie ihn zerstören, wenn er vom Gegner kontrolliert wird. Sie kontrollieren den Power-Knoten für Ihr Team, indem Sie ihn berühren und somit den Übernahme-Prozess starten (mit dem Sekundärfeuer können Sie das Ganze beschleunigen). Sobald Ihr Team ein Link zum feindlichen Power-Kern hergestellt hat, greifen Sie diesen an und zerstören Sie ihn."
+Description="Ihr Team muss Ã¼ber Power-Knoten die Kontrolle erlangen, die 'in Reihe' sein mÃ¼ssen, um eine direkte Linie zum feindlichen Power-Kern zu bilden. Sobald Sie eine Verbindung zum nÃ¤chsten Power-Knoten errichtet haben, kÃ¶nnen Sie ihn zerstÃ¶ren, wenn er vom Gegner kontrolliert wird. Sie kontrollieren den Power-Knoten fÃ¼r Ihr Team, indem Sie ihn berÃ¼hren und somit den Ãœbernahme-Prozess starten (mit dem SekundÃ¤rfeuer kÃ¶nnen Sie das Ganze beschleunigen). Sobald Ihr Team ein Link zum feindlichen Power-Kern hergestellt hat, greifen Sie diesen an und zerstÃ¶ren Sie ihn."
 
 [ONSOnslaughtMessage]
 RedTeamDominatesString="ROTES Team ist siegreich!"
@@ -244,8 +244,8 @@ BlueTeamDominatesString="BLAUES Team ist siegreich!"
 RedTeamPowerCoreString="Power-Knoten von rotem Team errichtet!"
 BlueTeamPowerCoreString="Power-Knoten von blauem Team errichtet!"
 VehicleLockedString="Fahrzeug ist gesperrt!"
-InvincibleCoreString="Unverknüpf. Power-Knoten können nicht beschä. werden!"
-UnattainableNodeString="Unverknüpf. Power-Knoten können nicht eingeno. werden!"
+InvincibleCoreString="UnverknÃ¼pf. Power-Knoten kÃ¶nnen nicht beschÃ¤. werden!"
+UnattainableNodeString="UnverknÃ¼pf. Power-Knoten kÃ¶nnen nicht eingeno. werden!"
 RedPowerCoreAttackedString="Power-Kern des roten Teams wird angegriffen!"
 BluePowerCoreAttackedString="Power-Kern des blauen Teams wird angegriffen!"
 RedPowerNodeAttackedString="Power-Knoten des roten Teams wird angegriffen!"
@@ -253,10 +253,10 @@ BluePowerNodeAttackedString="Power-Knoten des blauen Teams wird angegriffen!"
 InWayOfVehicleSpawnString="Sie stehen einem Fahrzeug im Weg!"
 MissileLockOnString="Rakete hat Ziel erfasst!"
 UnpoweredString="Turm hat keine Power!"
-RedPowerCoreDestroyedString="Roter Power-Kern zerstört"
-BluePowerCoreDestroyedString="Blauer Power-Kern zerstört"
-RedPowerNodeDestroyedString="Roter Power-Knoten zerstört"
-BluePowerNodeDestroyedString="Blauer Power-Knoten zerstört"
+RedPowerCoreDestroyedString="Roter Power-Kern zerstÃ¶rt"
+BluePowerCoreDestroyedString="Blauer Power-Kern zerstÃ¶rt"
+RedPowerNodeDestroyedString="Roter Power-Knoten zerstÃ¶rt"
+BluePowerNodeDestroyedString="Blauer Power-Knoten zerstÃ¶rt"
 RedPowerCoreCriticalString="Kritischer Zustand: roter Power-Kern!"
 BluePowerCoreCriticalString="Kritischer Zustand: blauer Power-Kern!"
 PressUseToTeleportString="Mit 'Benutzen' zu anderem Knoten teleportieren"
@@ -268,11 +268,11 @@ RedPowerCoreDamagedString="Roter Power-Kern ist bei 50%!"
 BluePowerCoreDamagedString="Blauer Power-Kern ist bei 50%!"
 RedPowerNodeSeveredString="Roter Power-Knoten isoliert!"
 BluePowerNodeSeveredString="Blauer Power-Knoten isoliert!"
-PowerCoresAreDrainingString="Power-Kerne werden schwächer!"
-UnhealablePowerCoreString="Sie können Ihren Power-Kern nicht reparieren!"
-AvrilLockOnString="Vorsicht! Wärmesuchende Rakete!" 
+PowerCoresAreDrainingString="Power-Kerne werden schwÃ¤cher!"
+UnhealablePowerCoreString="Sie kÃ¶nnen Ihren Power-Kern nicht reparieren!"
+AvrilLockOnString="Vorsicht! WÃ¤rmesuchende Rakete!" 
 SPMAAcquiredString="SPMA erfasst" 
-CameraDeploy="Alt-Feuer drücken, um Kamera einzusetzen!" 
+CameraDeploy="Alt-Feuer drÃ¼cken, um Kamera einzusetzen!" 
 MoveReticle=""
 
 [ONSPRV]
@@ -308,9 +308,9 @@ VehiclePositionString="in einem Goliath-Turm"
 VehicleNameString="Goliath-Minigun-Turm"
 
 [ONSVehicleKillMessage]
-KillString[0]="Straßen-Kill!"
+KillString[0]="StraÃŸen-Kill!"
 KillString[1]="Hit and Run!"
-KillString[2]="Straßenschlacht!"
+KillString[2]="StraÃŸenschlacht!"
 KillString[3]="Fahrzeug-Gemetzel!"
 KillString[4]="Pfannkuchen!"
 KillString[5]="Adlerauge!"

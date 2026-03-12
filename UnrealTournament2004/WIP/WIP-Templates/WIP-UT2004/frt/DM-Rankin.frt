@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Rankin"
 
 [LevelSummary]
 Title="Rankin"
-Description="Map de taille moyenne située dans un vieux site industriel, au milieu d'une violente tempête."
+Description="Map de taille moyenne situÃ©e dans un vieux site industriel, au milieu d'une violente tempÃªte."
 
 [Volume0]
 LocationName="Zone usine 1"

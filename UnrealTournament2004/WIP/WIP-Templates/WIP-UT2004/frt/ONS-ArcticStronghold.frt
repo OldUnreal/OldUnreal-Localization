@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Place forte arctique"
 
 [LevelSummary]
 Title="Place forte arctique"
-Description="Située à 7200 m d'altitude et constamment cachée par la neige et le brouillard, la place forte arctique était idéale pour mener des expériences militaires secrètes contre les Skaarj. Restructurée pour le mode Attaque, cette arène fournit plusieurs chemins menant à l'ennemi parmi d'innombrables autres conduisant les inconscients et les téméraires à la mort."
+Description="SituÃ©e Ã  7200 m d'altitude et constamment cachÃ©e par la neige et le brouillard, la place forte arctique Ã©tait idÃ©ale pour mener des expÃ©riences militaires secrÃ¨tes contre les Skaarj. RestructurÃ©e pour le mode Attaque, cette arÃ¨ne fournit plusieurs chemins menant Ã  l'ennemi parmi d'innombrables autres conduisant les inconscients et les tÃ©mÃ©raires Ã  la mort."
 
 
 [Volume1]
@@ -31,4 +31,4 @@ LocationName="Relais Ouest"
 LocationName="Pont"
 
 [ZoneInfo0]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"

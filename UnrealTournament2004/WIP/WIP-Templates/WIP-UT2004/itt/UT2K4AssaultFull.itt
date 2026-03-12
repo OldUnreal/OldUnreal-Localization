@@ -1,4 +1,4 @@
-[ASTurret_IonCannon]
+ï»¿[ASTurret_IonCannon]
 VehiclePositionString="presidia un cannone a ioni"
 VehicleNameString="Cannone a ioni"
 
@@ -25,8 +25,8 @@ MaleSuicide="%o SVANISCE NEL NULLA"
 
 [DamTypeLinkTurretBeam]
 DeathString="%o finisce male: il fascio verde di %k fa un'altra vittima."
-FemaleSuicide="%o si è impalata da sola."
-MaleSuicide="%o si è impalata da solo."
+FemaleSuicide="%o si Ã¨ impalata da sola."
+MaleSuicide="%o si Ã¨ impalata da solo."
 
 [DamTypeLinkTurretPlasma]
 DeathString="%o ha ricevuto una dose extra di plasma da %k."
@@ -40,8 +40,8 @@ MaleSuicide="%o si frigge con il suo stesso laser."
 
 [DamTypeSpaceFighterMissile]
 DeathString="%o non ha saputo evitare il missile di %k."
-FemaleSuicide="%o si è fatta a pezzi da sola."
-MaleSuicide="%o si è fatta a pezzi da solo."
+FemaleSuicide="%o si Ã¨ fatta a pezzi da sola."
+MaleSuicide="%o si Ã¨ fatta a pezzi da solo."
 
 [Weapon_LinkTurret]
 ItemName="Arma per torretta"

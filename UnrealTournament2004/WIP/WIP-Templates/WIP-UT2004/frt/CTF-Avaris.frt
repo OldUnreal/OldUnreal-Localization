@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Avaris"
 
 [LevelSummary]
 Title="Avaris"
-Description="Autrefois capitale d'un puissant empire, Avaris est désormais vide et abandonnée aux forces du désert. Ceux qui mourront pendant le tournoi subiront le même sort."
+Description="Autrefois capitale d'un puissant empire, Avaris est dÃ©sormais vide et abandonnÃ©e aux forces du dÃ©sert. Ceux qui mourront pendant le tournoi subiront le mÃªme sort."
 
 [ZoneInfo0]
 LocationName="Antichambre gauche Bleue"
@@ -18,22 +18,22 @@ LocationName="Hall principal Bleu"
 LocationName="Antichambre droite Rouge"
 
 [ZoneInfo12]
-LocationName="Antichambre gauche Rouge (détruite)"
+LocationName="Antichambre gauche Rouge (dÃ©truite)"
 
 [ZoneInfo13]
 LocationName="Base drapeau Rouge"
 
 [ZoneInfo15]
-LocationName="Bâtiment cour"
+LocationName="BÃ¢timent cour"
 
 [ZoneInfo16]
-LocationName="Entrée droite Rouge"
+LocationName="EntrÃ©e droite Rouge"
 
 [ZoneInfo17]
-LocationName="Bâtiment cour"
+LocationName="BÃ¢timent cour"
 
 [ZoneInfo18]
-LocationName="Entrée gauche Rouge"
+LocationName="EntrÃ©e gauche Rouge"
 
 [ZoneInfo19]
 LocationName="Hall principal Rouge"
@@ -42,7 +42,7 @@ LocationName="Hall principal Rouge"
 LocationName="Base drapeau Bleu"
 
 [ZoneInfo20]
-LocationName="Entrée gauche Bleue"
+LocationName="EntrÃ©e gauche Bleue"
 
 [ZoneInfo21]
 LocationName="Passages droits Rouges"
@@ -57,10 +57,10 @@ LocationName="Base drapeau Bleu"
 LocationName="Base drapeau Bleu"
 
 [ZoneInfo27]
-LocationName="Côté gauche Bleu"
+LocationName="CÃ´tÃ© gauche Bleu"
 
 [ZoneInfo28]
-LocationName="Bâtiment cour"
+LocationName="BÃ¢timent cour"
 
 [ZoneInfo29]
 LocationName="Cour centrale"
@@ -69,7 +69,7 @@ LocationName="Cour centrale"
 LocationName="Zone centrale"
 
 [ZoneInfo30]
-LocationName="Entrée droite Bleue"
+LocationName="EntrÃ©e droite Bleue"
 
 [ZoneInfo31]
 LocationName="Zone centrale"
@@ -102,10 +102,10 @@ LocationName="Base drapeau Rouge"
 LocationName="Cour Rouge"
 
 [ZoneInfo43]
-LocationName="Bâtiment cour"
+LocationName="BÃ¢timent cour"
 
 [ZoneInfo44]
-LocationName="Côté gauche Bleu"
+LocationName="CÃ´tÃ© gauche Bleu"
 
 [ZoneInfo45]
 LocationName="Antichambre droite Bleue"
@@ -120,13 +120,13 @@ LocationName="Base drapeau Bleu"
 LocationName="Antichambre droite Bleue"
 
 [ZoneInfo49]
-LocationName="Côté droit Rouge"
+LocationName="CÃ´tÃ© droit Rouge"
 
 [ZoneInfo5]
 LocationName="Cour gauche Rouge"
 
 [ZoneInfo50]
-LocationName="Côté droit Bleu"
+LocationName="CÃ´tÃ© droit Bleu"
 
 [ZoneInfo51]
 LocationName="Base drapeau Bleu"
@@ -141,7 +141,7 @@ LocationName="Base drapeau Rouge"
 LocationName="Base drapeau Rouge"
 
 [ZoneInfo55]
-LocationName="Côté droit Bleu"
+LocationName="CÃ´tÃ© droit Bleu"
 
 [ZoneInfo56]
 LocationName="Zone centrale"
@@ -150,16 +150,16 @@ LocationName="Zone centrale"
 LocationName="Zone centrale"
 
 [ZoneInfo59]
-LocationName="Côté droit Rouge"
+LocationName="CÃ´tÃ© droit Rouge"
 
 [ZoneInfo6]
 LocationName="Escalier droit Bleu"
 
 [ZoneInfo61]
-LocationName="Côté gauche Rouge"
+LocationName="CÃ´tÃ© gauche Rouge"
 
 [ZoneInfo62]
-LocationName="Côté gauche Rouge"
+LocationName="CÃ´tÃ© gauche Rouge"
 
 [ZoneInfo7]
 LocationName="Antichambre gauche Bleue"

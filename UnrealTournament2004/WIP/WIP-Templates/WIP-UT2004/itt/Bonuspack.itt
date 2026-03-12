@@ -1,4 +1,4 @@
-[Public]
+ï»¿[Public]
 ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xMutantGame,Description="DM|Mutante|BonusPack.Tab_IAMutant|BonusPack.MapListMutant|false")
 ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xLastManStandingGame,Description="DM|All'ultimo uomo|BonusPack.Tab_IALastManStanding|BonusPack.MapListLastManStanding|false")
 ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="Aggiunge la combo camuffamento (DDDD).")
@@ -31,8 +31,8 @@ SomeoneIsCamperMessageTrailer="si accampa!"
 [MutCrateCombo]
 CamoDisplayText="Combo camuffamento"
 MiniDisplayText="Combo miniatura"
-CamoDescText="Quando è attiva, questa combo adrenalina ti mimetizza con una proiezione olografica di un masso o di parte di un edificio."
-MiniDescText="Quando è attiva, questa combo adrenalina ti fa diventare più piccolo."
+CamoDescText="Quando Ã¨ attiva, questa combo adrenalina ti mimetizza con una proiezione olografica di un masso o di parte di un edificio."
+MiniDescText="Quando Ã¨ attiva, questa combo adrenalina ti fa diventare piÃ¹ piccolo."
 FriendlyName="Combo bonus"
 Description="Aggiunge la combo miniatura (SSSS) e la combo camuffamento (DDDD)."
 
@@ -42,7 +42,7 @@ SomeoneIsMutantMessage=" "
 SomeoneIsMutantMessageTrailer="Muta!"
 FFAMessage="Il primo sangue fa mutare!"
 BottomFeederMessage="Ora sei il parassita!"
-NotBottomFeederMessage="Non sei più il parassita!"
+NotBottomFeederMessage="Non sei piÃ¹ il parassita!"
 
 [MutantNameMessage]
 BottomFeederMesg="(PARASSITA)"
@@ -52,13 +52,13 @@ LivesText="VITE"
 
 [Tab_IALastManStanding]
 IARulesExtraLives.Caption="Uccisioni rigeneranti"
-IARulesExtraLives.Hint="Se questa opzione è attiva, una parte della salute del giocatore viene rigenerata a ogni uccisione."
+IARulesExtraLives.Hint="Se questa opzione Ã¨ attiva, una parte della salute del giocatore viene rigenerata a ogni uccisione."
 IARulesLMSAllowAdrenaline.Caption="Adrenalina permessa"
-IARulesLMSAllowAdrenaline.Hint="Se questa opzione è attiva, i giocatori possono usare l'adrenalina."
+IARulesLMSAllowAdrenaline.Hint="Se questa opzione Ã¨ attiva, i giocatori possono usare l'adrenalina."
 IARulesLMSAllowPickups.Caption="Oggetti disponibili"
-IARulesLMSAllowPickups.Hint="Se questa opzione è attiva, è possibile raccogliere oggetti normali."
+IARulesLMSAllowPickups.Hint="Se questa opzione Ã¨ attiva, Ã¨ possibile raccogliere oggetti normali."
 IARulesSuperWeaps.Caption="Super armi permesse"
-IARulesSuperWeaps.Hint="Se questa opzione è attiva, è possibile raccogliere le super armi."
+IARulesSuperWeaps.Hint="Se questa opzione Ã¨ attiva, Ã¨ possibile raccogliere le super armi."
 
 [Tab_IAMutant]
 TargetScoreString="Limite di punti"
@@ -74,20 +74,20 @@ LMSPropsDisplayText[4]="Avviso accampamento"
 LMSPropsDisplayText[5]="Oggetti disponibili"
 LMSPropsDisplayText[6]="Adrenalina permessa"
 LMSPropsDisplayText[7]="Munizioni al massimo"
-LMSPropDescText[0]="Determina per quanto tempo un giocatore può restare fermo in un punto prima che appaia l'avviso di accampamento."
+LMSPropDescText[0]="Determina per quanto tempo un giocatore puÃ² restare fermo in un punto prima che appaia l'avviso di accampamento."
 LMSPropDescText[1]="Specifica quante volte appare l'avviso di accampamento."
-LMSPropDescText[2]="Se questa opzione è attiva, un giocatore guadagna salute uccidendo un altro giocatore."
-LMSPropDescText[3]="Se questa opzione è attiva, le super armi sono incluse nell'arsenale del giocatore."
+LMSPropDescText[2]="Se questa opzione Ã¨ attiva, un giocatore guadagna salute uccidendo un altro giocatore."
+LMSPropDescText[3]="Se questa opzione Ã¨ attiva, le super armi sono incluse nell'arsenale del giocatore."
 LMSPropDescText[4]="Attiva questa opzione per lanciare un allarme se un giocatore resta troppo tempo fermo in un punto."
-LMSPropDescText[5]="Se questa opzione è attiva, nella mappa possono apparire degli oggetti."
-LMSPropDescText[6]="Se questa opzione è attiva, le combo adrenalina sono permesse."
-LMSPropDescText[7]="Se questa opzione è attiva, i giocatori iniziano con la massima quantità di munizioni per ogni arma."
+LMSPropDescText[5]="Se questa opzione Ã¨ attiva, nella mappa possono apparire degli oggetti."
+LMSPropDescText[6]="Se questa opzione Ã¨ attiva, le combo adrenalina sono permesse."
+LMSPropDescText[7]="Se questa opzione Ã¨ attiva, i giocatori iniziano con la massima quantitÃ  di munizioni per ogni arma."
 GameName="All'ultimo uomo"
-Description="Ogni giocatore inizia con un numero limitato di vite. L'obiettivo è di rimanere l'ultimo giocatore in vita quando cessa il fuoco."
+Description="Ogni giocatore inizia con un numero limitato di vite. L'obiettivo Ã¨ di rimanere l'ultimo giocatore in vita quando cessa il fuoco."
 
 [xMutantGame]
 MutPropText="Attiva il parassita"
-MutDescText="Se questa opzione è attiva, il giocatore col punteggio minore diventa il parassita e può uccidere gli altri giocatori."
+MutDescText="Se questa opzione Ã¨ attiva, il giocatore col punteggio minore diventa il parassita e puÃ² uccidere gli altri giocatori."
 GameName="Mutante"
-Description="Il primo giocatore a totalizzare un frag diviene il Mutante. Tutti gli altri danno la caccia al Mutante, dato che uccidendolo sarà possibile assumerne il ruolo, acquisendone i sovrumani poteri. Il giocatore con il punteggio più basso è il Parassita. Anche lui può uccidere gli altri giocatori."
+Description="Il primo giocatore a totalizzare un frag diviene il Mutante. Tutti gli altri danno la caccia al Mutante, dato che uccidendolo sarÃ  possibile assumerne il ruolo, acquisendone i sovrumani poteri. Il giocatore con il punteggio piÃ¹ basso Ã¨ il Parassita. Anche lui puÃ² uccidere gli altri giocatori."
 

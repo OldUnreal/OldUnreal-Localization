@@ -1,4 +1,4 @@
-[BulldogMessage]
+﻿[BulldogMessage]
 ; EN: GetInMessage="Press [Use] To Enter Vehicle."
 GetInMessage="Stisknutím [Použít] vstoupíte do vozidla."
 ; EN: GetOutMessage="Press [Use] To Exit Vehicle."

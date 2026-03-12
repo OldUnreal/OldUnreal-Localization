@@ -1,9 +1,9 @@
-[LevelInfo0]
-Title="Doubles dégâts"
+ï»¿[LevelInfo0]
+Title="Doubles dÃ©gÃ¢ts"
 
 [LevelSummary]
-Title="Doubles dégâts"
-Description="Certains disent qu'il faut être fou pour jouer au sommet d'un barrage en plein hiver. Ici, on les appelle "victimes"..."
+Title="Doubles dÃ©gÃ¢ts"
+Description="Certains disent qu'il faut Ãªtre fou pour jouer au sommet d'un barrage en plein hiver. Ici, on les appelle "victimes"..."
 
 [PhysicsVolume1]
 LocationName="Champ de glace"
@@ -12,19 +12,19 @@ LocationName="Champ de glace"
 LocationName="Salle drapeau Bleu"
 
 [ZoneInfo11]
-LocationName="Arrière-salle Bleue"
+LocationName="ArriÃ¨re-salle Bleue"
 
 [ZoneInfo20]
-LocationName="Arrière-salle Bleue"
+LocationName="ArriÃ¨re-salle Bleue"
 
 [ZoneInfo24]
 LocationName="Salle drapeau Rouge"
 
 [ZoneInfo29]
-LocationName="Arrière-salle Rouge"
+LocationName="ArriÃ¨re-salle Rouge"
 
 [ZoneInfo30]
-LocationName="Hall entrée Bleu"
+LocationName="Hall entrÃ©e Bleu"
 
 [ZoneInfo37]
 LocationName="Foyer Bleu"
@@ -45,13 +45,13 @@ LocationName="Hall sup. droit Bleu"
 LocationName="Ascenseur sniper Rouge"
 
 [ZoneInfo45]
-LocationName="Arrière-salle Rouge"
+LocationName="ArriÃ¨re-salle Rouge"
 
 [ZoneInfo46]
-LocationName="Arrière-salle Rouge"
+LocationName="ArriÃ¨re-salle Rouge"
 
 [ZoneInfo47]
-LocationName="Hall entrée Rouge"
+LocationName="Hall entrÃ©e Rouge"
 
 [ZoneInfo48]
 LocationName="Foyer Rouge"
@@ -60,7 +60,7 @@ LocationName="Foyer Rouge"
 LocationName="Hall sup. gauche Rouge"
 
 [ZoneInfo5]
-LocationName="Arrière-salle Bleue"
+LocationName="ArriÃ¨re-salle Bleue"
 
 [ZoneInfo50]
 LocationName="Hall sup. gauche Rouge"
@@ -123,19 +123,19 @@ LocationName="Couloir droit Rouge"
 LocationName="Foyer Rouge"
 
 [ZoneInfo7]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 [ZoneInfo70]
 LocationName="Foyer Bleu"
 
 [ZoneInfo71]
-LocationName="Entrepôt Rouge"
+LocationName="EntrepÃ´t Rouge"
 
 [ZoneInfo72]
-LocationName="Entrepôt Rouge"
+LocationName="EntrepÃ´t Rouge"
 
 [ZoneInfo73]
-LocationName="Entrepôt Rouge"
+LocationName="EntrepÃ´t Rouge"
 
 [ZoneInfo74]
 LocationName="Couloir droit Rouge"
@@ -174,13 +174,13 @@ LocationName="Couloir droit Bleu"
 LocationName="Couloir droit Bleu"
 
 [ZoneInfo87]
-LocationName="Entrepôt Bleu"
+LocationName="EntrepÃ´t Bleu"
 
 [ZoneInfo88]
-LocationName="Entrepôt Bleu"
+LocationName="EntrepÃ´t Bleu"
 
 [ZoneInfo89]
-LocationName="Entrepôt Bleu"
+LocationName="EntrepÃ´t Bleu"
 
 [ZoneInfo90]
 LocationName="Couloir droit Bleu"

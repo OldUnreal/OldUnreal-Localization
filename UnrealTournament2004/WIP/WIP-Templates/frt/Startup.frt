@@ -1,4 +1,4 @@
-[General]
+﻿[General]
 ; EN: Run="Run!"
 Run="Courir!"
 ; EN: FirstTime="Unreal Tournament 2004 First-Time Configuration"

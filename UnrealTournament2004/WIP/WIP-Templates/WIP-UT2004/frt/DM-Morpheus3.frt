@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Morpheus3"
 
 [LevelSummary]
 Title="Morpheus3"
-Description="La LMC a compris qu'elle avait découvert une excellente arène au sommet de ces nouveaux super gratte-ciel. Grâce au miracle moderne des solides superductiles, ces trois bâtiments culminent à 20 km d'altitude. L'atmosphère raréfiée et la gravité réduite imposent aux athlètes du tournoi d'exploiter leurs facultés d'adaptation et de conquête en environnement extrême."
+Description="La LMC a compris qu'elle avait dÃ©couvert une excellente arÃ¨ne au sommet de ces nouveaux super gratte-ciel. GrÃ¢ce au miracle moderne des solides superductiles, ces trois bÃ¢timents culminent Ã  20 km d'altitude. L'atmosphÃ¨re rarÃ©fiÃ©e et la gravitÃ© rÃ©duite imposent aux athlÃ¨tes du tournoi d'exploiter leurs facultÃ©s d'adaptation et de conquÃªte en environnement extrÃªme."
 
 [MessageTextureClient4]
 ScrollingMessage="%lp mene le match avec %lf frags"
@@ -12,23 +12,23 @@ ScrollingMessage="%lp mene le match avec %lf frags"
 LocationName="20 km d'altitude"
 
 [ZoneInfo0]
-LocationName="Intérieur tour JAUNE"
+LocationName="IntÃ©rieur tour JAUNE"
 
 [ZoneInfo1]
-LocationName="Intérieur tour BLEUE"
+LocationName="IntÃ©rieur tour BLEUE"
 
 [ZoneInfo2]
 LocationName="20 km d'altitude"
 
 [ZoneInfo3]
-LocationName="Intérieur tour BLEUE"
+LocationName="IntÃ©rieur tour BLEUE"
 
 [ZoneInfo4]
-LocationName="Intérieur tour JAUNE"
+LocationName="IntÃ©rieur tour JAUNE"
 
 [ZoneInfo5]
-LocationName="Intérieur tour ROUGE"
+LocationName="IntÃ©rieur tour ROUGE"
 
 [ZoneInfo6]
-LocationName="Intérieur tour ROUGE"
+LocationName="IntÃ©rieur tour ROUGE"
 

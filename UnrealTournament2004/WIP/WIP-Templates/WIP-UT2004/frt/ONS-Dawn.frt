@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Aurore"
 
 [LevelSummary]
 Title="Aurore"
-Description="Lorsque les prospecteurs gouvernementaux arrièvrent sur cette planète, la Liandri comprit qu'elle avait trouvé une nouvelle arène de mode Attaque : un monde primordial qui en était encore aux premiers stades de la vie dont les paysages luxuriants et les vallons constituent un environnement serein parfait pour les scènes de ravages."
+Description="Lorsque les prospecteurs gouvernementaux arriÃ¨vrent sur cette planÃ¨te, la Liandri comprit qu'elle avait trouvÃ© une nouvelle arÃ¨ne de mode Attaque : un monde primordial qui en Ã©tait encore aux premiers stades de la vie dont les paysages luxuriants et les vallons constituent un environnement serein parfait pour les scÃ¨nes de ravages."
 
 [Volume0]
 LocationName="Base bleue"
@@ -30,4 +30,4 @@ LocationName="Relais Sud-est"
 LocationName="Relais Centre-est"
 
 [ZoneInfo0]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"

@@ -1,4 +1,4 @@
-[LavaVolume10]
+﻿[LavaVolume10]
 LocationName="Nella lava!"
 
 [LavaVolume12]
@@ -42,7 +42,7 @@ Title="Falcidia"
 
 [LevelSummary]
 Title="Falcidia"
-Description="La terra trema sotto i tuoi piedi e dal cielo piovono cenere e lapilli. La strada della vittoria � insidiosa e letale come i nemici che affronterai sul campo di battaglia, ma ancor meno pietosa."
+Description="La terra trema sotto i tuoi piedi e dal cielo piovono cenere e lapilli. La strada della vittoria è insidiosa e letale come i nemici che affronterai sul campo di battaglia, ma ancor meno pietosa."
 
 [Volume10]
 LocationName="Sentieri principali della base rossa"

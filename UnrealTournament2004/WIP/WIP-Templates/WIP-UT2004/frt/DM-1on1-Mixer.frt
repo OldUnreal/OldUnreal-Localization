@@ -1,10 +1,10 @@
-
+Ôªø
 [LevelInfo0]
 Title="Mixer"
 
 [LevelSummary]
 Title="Mixer"
-Description="La poudre et la mort ne sont pas les seules odeurs qui rËgnent ici..."
+Description="La poudre et la mort ne sont pas les seules odeurs qui r√®gnent ici..."
 
 [ZoneInfo0]
 LocationName="Conduite"
@@ -19,7 +19,7 @@ LocationName="Minigun"
 LocationName="Lance-roquettes"
 
 [ZoneInfo12]
-LocationName="Doubles dÈg‚ts"
+LocationName="Doubles d√©g√¢ts"
 
 [ZoneInfo13]
 LocationName="Ascenseur"

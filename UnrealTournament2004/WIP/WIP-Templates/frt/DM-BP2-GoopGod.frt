@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="The Goopgod Cult Refugium"
 Title="Le refuge du culte de Goopgod"
 

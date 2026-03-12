@@ -1,52 +1,52 @@
-[Public]
+ï»¿[Public]
 ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM|Invasion|SkaarjPack.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
 
 [DamTypeBelch]
-DeathString="%o a été explosé(e) par un Gasbag."
+DeathString="%o a Ã©tÃ© explosÃ©(e) par un Gasbag."
 FemaleSuicide="Un Gasbag s'est fait sauter."
 MaleSuicide="Un Gasbag s'est fait sauter."
 
 [DamTypeBruteRocket]
-DeathString="%o a été fraggé(e) par une roquette de brute."
-FemaleSuicide="Une brute a tiré sa roquette prématurément."
-MaleSuicide="Une brute a tiré sa roquette prématurément."
+DeathString="%o a Ã©tÃ© fraggÃ©(e) par une roquette de brute."
+FemaleSuicide="Une brute a tirÃ© sa roquette prÃ©maturÃ©ment."
+MaleSuicide="Une brute a tirÃ© sa roquette prÃ©maturÃ©ment."
 
 [DamTypeKrallBolt]
-DeathString="%o a été zappé(e) par un krall."
+DeathString="%o a Ã©tÃ© zappÃ©(e) par un krall."
 
 [DamTypeSkaarjProj]
-DeathString="%o a été brûlé(e) par un skaarj."
+DeathString="%o a Ã©tÃ© brÃ»lÃ©(e) par un skaarj."
 
 [DamTypeWarlordRocket]
-DeathString="%o a été annihilé(e) par un Warlord."
-FemaleSuicide="Un Warlord a tiré sa roquette prématurément."
-MaleSuicide="Un Warlord a tiré sa roquette prématurément."
+DeathString="%o a Ã©tÃ© annihilÃ©(e) par un Warlord."
+FemaleSuicide="Un Warlord a tirÃ© sa roquette prÃ©maturÃ©ment."
+MaleSuicide="Un Warlord a tirÃ© sa roquette prÃ©maturÃ©ment."
 
 [HUDInvasion]
 YouveLostTheMatch="L'invasion continue"
 
 [Invasion]
 InvasionPropText[0]="Vague initiale"
-InvasionPropText[1]="Dernière vague"
+InvasionPropText[1]="DerniÃ¨re vague"
 InvasionPropText[2]="Configuration de vague"
 InvasionPropText[3]="Envahisseurs"
-InvasionPropText[4]="Numéro de vague"
+InvasionPropText[4]="NumÃ©ro de vague"
 InvasionPropText[5]="Envahisseurs max."
-InvasionPropText[6]="Durée"
-InvasionPropText[7]="Difficulté"
-InvasionDescText[0]="Indiquez la première vague de monstres d'une map."
-InvasionDescText[1]="Indiquez la dernière vague à vaincre pour réussir une map."
-InvasionDescText[2]="Configurer les propriétés de chaque vague."
-InvasionDescText[3]="Sélectionner la vague à configurer."
-InvasionDescText[4]="Cocher la case à côté de chaque monstre devant faire partie de cette vague."
-InvasionDescText[5]="Nombre maximum de monstres pouvant se trouver simultanément sur la map."
-InvasionDescText[6]="Durée (en secondes) de la vague."
-InvasionDescText[7]="Régler l'intelligence relative des envahisseurs"
+InvasionPropText[6]="DurÃ©e"
+InvasionPropText[7]="DifficultÃ©"
+InvasionDescText[0]="Indiquez la premiÃ¨re vague de monstres d'une map."
+InvasionDescText[1]="Indiquez la derniÃ¨re vague Ã  vaincre pour rÃ©ussir une map."
+InvasionDescText[2]="Configurer les propriÃ©tÃ©s de chaque vague."
+InvasionDescText[3]="SÃ©lectionner la vague Ã  configurer."
+InvasionDescText[4]="Cocher la case Ã  cÃ´tÃ© de chaque monstre devant faire partie de cette vague."
+InvasionDescText[5]="Nombre maximum de monstres pouvant se trouver simultanÃ©ment sur la map."
+InvasionDescText[6]="DurÃ©e (en secondes) de la vague."
+InvasionDescText[7]="RÃ©gler l'intelligence relative des envahisseurs"
 SPBotDesc="Indiquer le nombre de bots (2 maximum pour invasion) devant rejoindre."
 GameName="Invasion"
 Description="Avec les autres joueurs, vous devez tenir le plus longtemps possible contre les hordes de monstres."
-GIPropsDisplayText[0]="Compétence des monstres"
-GIPropDescText[0]="Régler la compétence des monstres envahisseurs."
+GIPropsDisplayText[0]="CompÃ©tence des monstres"
+GIPropDescText[0]="RÃ©gler la compÃ©tence des monstres envahisseurs."
 
 [InvasionDeathMessage]
 SomeoneString="un monstre"
@@ -55,12 +55,12 @@ SomeoneString="un monstre"
 OutMessage="est OUT !"
 
 [MeleeDamage]
-DeathString="%o a été éviscéré(e)."
-FemaleSuicide="%o a été haché(e)."
-MaleSuicide="%o a été haché(e)."
+DeathString="%o a Ã©tÃ© Ã©viscÃ©rÃ©(e)."
+FemaleSuicide="%o a Ã©tÃ© hachÃ©(e)."
+MaleSuicide="%o a Ã©tÃ© hachÃ©(e)."
 
 [ScoreboardInvasion]
-TeamScoreString="Score équipe"
+TeamScoreString="Score Ã©quipe"
 WaveString="Vague"
 
 [TAB_IAInvasion]
@@ -70,10 +70,10 @@ IAInvasionInitialWave.Hint="Choisissez la vague initiale."
 
 [InvasionWaveConfig]
 WCFGClose.Caption="Fermer"
-WCFGReset.Caption="Rétab"
+WCFGReset.Caption="RÃ©tab"
 WCFGLabel1.Caption="Configurer chaque vague..."
-WCFGLabel2.Caption="Difficulté"
-WCFGDifficulty.Hint="Difficulté des monstres de cette vague."
+WCFGLabel2.Caption="DifficultÃ©"
+WCFGDifficulty.Hint="DifficultÃ© des monstres de cette vague."
 WCFGCreat01.Caption="Pupes"
 WCFGCreat01.Hint="Pupes skaarj."
 WCFGCreat02.Caption="Razorfly"
@@ -82,8 +82,8 @@ WCFGCreat03.Caption="Manta"
 WCFGCreat03.Hint="Manta."
 WCFGCreat04.Caption="Krall"
 WCFGCreat04.Hint="Krall."
-WCFGCreat05.Caption="Krall d'élite."
-WCFGCreat05.Hint="Le Krall d'élite"
+WCFGCreat05.Caption="Krall d'Ã©lite."
+WCFGCreat05.Hint="Le Krall d'Ã©lite"
 WCFGCreat06.Caption="Gasbag"
 WCFGCreat06.Hint="Gasbag."
 WCFGCreat07.Caption="Brute"
@@ -106,8 +106,8 @@ WCFGCreat15.Caption="Razorfly"
 WCFGCreat15.Hint="Razorfly."
 WCFGCreat16.Caption="Razorfly"
 WCFGCreat16.Hint="Razorfly."
-WCFGDuration.Caption="Durée"
-WCFGDuration.Hint="Durée de chaque vague."
-WCFGWaveNo.Caption="N° vague"
-WCFGWaveNo.Hint="Sélectionner la vague à modifier."
+WCFGDuration.Caption="DurÃ©e"
+WCFGDuration.Hint="DurÃ©e de chaque vague."
+WCFGWaveNo.Caption="NÂ° vague"
+WCFGWaveNo.Hint="SÃ©lectionner la vague Ã  modifier."
 

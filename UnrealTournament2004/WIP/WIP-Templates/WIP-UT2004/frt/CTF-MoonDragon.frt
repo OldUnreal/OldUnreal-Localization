@@ -1,24 +1,24 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Dragon-lune"
 
 [LevelSummary]
 Title="Dragon-lune"
-Description="Au plus profond de la Corée antique, au sommet de la montagne du Dragon-lune, la bataille fait rage entre de courageux guerriers."
+Description="Au plus profond de la CorÃ©e antique, au sommet de la montagne du Dragon-lune, la bataille fait rage entre de courageux guerriers."
 
 [Volume10]
 LocationName="Salle drapeau Rouge"
 
 [Volume11]
-LocationName="Entrées base rouge"
+LocationName="EntrÃ©es base rouge"
 
 [Volume12]
 LocationName="Grotte centrale"
 
 [Volume14]
-LocationName="Côté bouclier bleu"
+LocationName="CÃ´tÃ© bouclier bleu"
 
 [Volume17]
-LocationName="Entrées base bleue"
+LocationName="EntrÃ©es base bleue"
 
 [Volume18]
 LocationName="Centre bleu"
@@ -36,13 +36,13 @@ LocationName="Grotte centrale"
 LocationName="Centre rouge"
 
 [Volume6]
-LocationName="Côté bouclier rouge"
+LocationName="CÃ´tÃ© bouclier rouge"
 
 [Volume7]
-LocationName="Route côté rouge"
+LocationName="Route cÃ´tÃ© rouge"
 
 [Volume8]
-LocationName="Route côté bleu"
+LocationName="Route cÃ´tÃ© bleu"
 
 [Volume9]
 LocationName="Salle drapeau Bleu"

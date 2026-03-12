@@ -1,15 +1,15 @@
-[LevelInfo0]
+Ôªø[LevelInfo0]
 Title="Injecteur de fer fondu"
 
 [LevelSummary]
 Title="Injecteur de fer fondu"
-Description="Ajout rÈcent et complexe au tournoi, l'injecteur est un labyrinthe torturÈ de constructions imposantes, de conduites et de gÈnÈrateurs. Prenez garde dans les couloirs Ètroits et restez ‡ l'aff˚t lorsque vous irez chercher la super recharge d'armure !"
+Description="Ajout r√©cent et complexe au tournoi, l'injecteur est un labyrinthe tortur√© de constructions imposantes, de conduites et de g√©n√©rateurs. Prenez garde dans les couloirs √©troits et restez √† l'aff√ªt lorsque vous irez chercher la super recharge d'armure !"
 
 [ZoneInfo0]
 LocationName="Recharge armure +100"
 
 [ZoneInfo10]
-LocationName="Double dÈg‚t"
+LocationName="Double d√©g√¢t"
 
 [ZoneInfo11]
 LocationName="Hall de la mort"
@@ -30,7 +30,7 @@ LocationName="Toilettes"
 LocationName="Lightning Gun"
 
 [ZoneInfo3]
-LocationName="Hall Èlectrique"
+LocationName="Hall √©lectrique"
 
 [ZoneInfo4]
 LocationName="Fusils shock et bio"
@@ -45,5 +45,5 @@ LocationName="Placard"
 LocationName="Hangar"
 
 [ZoneInfo9]
-LocationName="Double dÈg‚t"
+LocationName="Double d√©g√¢t"
 

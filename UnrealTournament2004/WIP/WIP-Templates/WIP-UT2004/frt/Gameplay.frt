@@ -1,8 +1,8 @@
-[ACTION_DamageActor]
+ï»¿[ACTION_DamageActor]
 ActionString="Endomm. acteur"
 
 [ACTION_DestroyActor]
-ActionString="Détr. acteur"
+ActionString="DÃ©tr. acteur"
 
 [ACTION_FinishRotation]
 ActionString="Finir rotation"
@@ -17,13 +17,13 @@ ActionString="tir arme"
 ActionString="Geler"
 
 [ACTION_HealActor]
-ActionString="Guérir acteur"
+ActionString="GuÃ©rir acteur"
 
 [ACTION_Jump]
 ActionString="Saut"
 
 [ACTION_LocalizedMessage]
-ActionString="Message localisé"
+ActionString="Message localisÃ©"
 
 [ACTION_SetPhysics]
 ActionString="modif. physique pour"
@@ -35,20 +35,20 @@ ActionString="tir. sur cible"
 ActionString="Ren. act."
 
 [ACTION_ThrowWeapon]
-ActionString="lâcher arme"
+ActionString="lÃ¢cher arme"
 
 [ACTION_ThrowWeapon]
-ActionString="lâcher arme"
+ActionString="lÃ¢cher arme"
 
 [ActionMessage_BR]
 Messages[0]="Bombe de Balle"
-Messages[1]="Au début du match, la balle est au centre"
+Messages[1]="Au dÃ©but du match, la balle est au centre"
 Messages[2]="Touchez la balle pour la ramasser"
 Messages[3]="Le porteur de la balle ne peut pas attaquer"
 Messages[4]="Tir primaire pour lancer la balle"
-Messages[5]="Tir secondaire pour viser un équipier"
-Messages[6]="Passe aux équipiers"
-Messages[7]="But rond pour chaque équipe"
+Messages[5]="Tir secondaire pour viser un Ã©quipier"
+Messages[6]="Passe aux Ã©quipiers"
+Messages[7]="But rond pour chaque Ã©quipe"
 Messages[8]="Lancer de balle=3 pts"
 Messages[9]="Sauter avec la balle=7 pts"
 Messages[10]="Bonne chance !"
@@ -57,50 +57,50 @@ Messages[10]="Bonne chance !"
 Messages[0]="Capture de Drapeau"
 Messages[1]="2 bases : rouge et bleue"
 Messages[2]="Touchez le drapeau ennemi pour le prendre"
-Messages[3]="Revenez à votre base"
+Messages[3]="Revenez Ã  votre base"
 Messages[4]="Touchez votre drapeau pour marquer"
-Messages[5]="Perte du drapeau lors de la téléportation"
-Messages[6]="Limite de captures par défaut est de 3"
+Messages[5]="Perte du drapeau lors de la tÃ©lÃ©portation"
+Messages[6]="Limite de captures par dÃ©faut est de 3"
 Messages[7]="Bonne chance !"
 
 [ActionMessage_DM]
 Messages[0]="DeathMatch"
-Messages[1]="Appuyez sur TIR pour apparaître"
+Messages[1]="Appuyez sur TIR pour apparaÃ®tre"
 Messages[2]="2 modes de tir"
 Messages[3]="Tir primaire et tir secondaire"
 Messages[4]="Fusil d'assaut"
 Messages[5]="Tire des balles et des grenades"
 Messages[6]="Marteau-bouclier"
-Messages[7]="Utile en attaque au corps-à-corps"
+Messages[7]="Utile en attaque au corps-Ã -corps"
 Messages[8]="Bouclier-protecteur"
 Messages[9]="Explorez le niveau et trouvez d'autres armes"
 Messages[10]="Flak Cannon"
 Messages[11]="Fusil bio"
 Messages[12]="Minigun"
-Messages[13]="Déplacements"
-Messages[14]="ZQSD=touches de déplacements par défaut"
+Messages[13]="DÃ©placements"
+Messages[14]="ZQSD=touches de dÃ©placements par dÃ©faut"
 Messages[15]="Appuyez deux fois sur une touche pour esquiver"
 Messages[16]="Sauter"
 Messages[17]="Double saut"
 Messages[18]="Bonus"
-Messages[19]="Ampoules de santé"
-Messages[20]="Aides médicales"
-Messages[21]="Baril de santé"
+Messages[19]="Ampoules de santÃ©"
+Messages[20]="Aides mÃ©dicales"
+Messages[21]="Baril de santÃ©"
 Messages[22]="Armure"
 Messages[23]="Bouclier"
 Messages[24]="Super-bouclier"
-Messages[25]="Adrénaline"
-Messages[26]="100 points d'adrénaline = combo de capacité"
-Messages[27]="Amplificateur de dégâts"
+Messages[25]="AdrÃ©naline"
+Messages[26]="100 points d'adrÃ©naline = combo de capacitÃ©"
+Messages[27]="Amplificateur de dÃ©gÃ¢ts"
 Messages[28]="Atteignez la limite de frags en premier !"
 Messages[29]="Les suicides jouent contre vous"
 Messages[30]="Bonne chance !"
 
 [ActionMessage_DOM]
 Messages[0]="Double Domination"
-Messages[1]="Points de contrôle : A & B"
-Messages[2]="Tenez les 2 points de contrôle pendant 10 sec"
-Messages[3]="Touchez  un point pour en prendre le contrôle"
+Messages[1]="Points de contrÃ´le : A & B"
+Messages[2]="Tenez les 2 points de contrÃ´le pendant 10 sec"
+Messages[3]="Touchez  un point pour en prendre le contrÃ´le"
 Messages[4]="Bonne chance !"
 
 [ActionMessage_SubTitle]
@@ -137,27 +137,27 @@ Delays[29]=0.000000
 Delays[30]=0.000000
 Delays[31]=0.000000
 Messages[0]="De quoi j'ai l'air ?"
-Messages[1]="Moins bien que moi, trésor..."
-Messages[2]="Nous voici réunis pour une nouvelle édition du sport le plus meurtrier de la galaxie. Un tournoi où les joueurs deviennent des dieux et où les perdants paient le prix fort !"
-Messages[3]="LES VOILA ! Autrefois rivaux, ils forment maintenant l'une des plus féroces équipes."
-Messages[4]="C'est vrai. Rien ne vaut l'expérience et ces trois-là en ont à revendre."
-Messages[5]="Regardez Malcolm ! Voilà quelqu'un qui sait garder son sang-froid au combat."
-Messages[6]="Ce Brock... Aussi dangereux pour les femmes à l'extérieur que pour les hommes dans l'arène !"
-Messages[7]="J'adore regarder Lauren. C'est un tel... concentré d'énergie."
-Messages[8]="Ouais, c'est ça... regarder Lauren pour son énergie..."
-Messages[9]="Cette fois il est à MOI !"
+Messages[1]="Moins bien que moi, trÃ©sor..."
+Messages[2]="Nous voici rÃ©unis pour une nouvelle Ã©dition du sport le plus meurtrier de la galaxie. Un tournoi oÃ¹ les joueurs deviennent des dieux et oÃ¹ les perdants paient le prix fort !"
+Messages[3]="LES VOILA ! Autrefois rivaux, ils forment maintenant l'une des plus fÃ©roces Ã©quipes."
+Messages[4]="C'est vrai. Rien ne vaut l'expÃ©rience et ces trois-lÃ  en ont Ã  revendre."
+Messages[5]="Regardez Malcolm ! VoilÃ  quelqu'un qui sait garder son sang-froid au combat."
+Messages[6]="Ce Brock... Aussi dangereux pour les femmes Ã  l'extÃ©rieur que pour les hommes dans l'arÃ¨ne !"
+Messages[7]="J'adore regarder Lauren. C'est un tel... concentrÃ© d'Ã©nergie."
+Messages[8]="Ouais, c'est Ã§a... regarder Lauren pour son Ã©nergie..."
+Messages[9]="Cette fois il est Ã  MOI !"
 Messages[10]="AAGGGHHHHRRRR"
-Messages[11]="Super, Gorge ! Trop fort ! Ouais, baby, c'est génial !"
+Messages[11]="Super, Gorge ! Trop fort ! Ouais, baby, c'est gÃ©nial !"
 Messages[12]="MAAAALLLCOOOOOLM !"
-Messages[13]="Bon sang, vous avez vu ça ?"
+Messages[13]="Bon sang, vous avez vu Ã§a ?"
 Messages[14]="Je vais vous dire, Jim, ce Gorge n'a aucun respect pour ses fans."
-Messages[15]="Oh, je crois qu'il est encore furieux de cette nouvelle cicatrice que lui a laissée Malcolm au dernier match."
-Messages[16]="Ouais, il va vouloir le faire PAYER pour ça."
-Messages[17]="Ouais, ça devrait chauffer ce soir."
-Messages[18]="Comme l'équipe de Malcolm est championne en titre, elle choisira l'arène de ce soir."
-Messages[19]="On dirait que ça va être... les glaciers de Kalendra."
-Messages[20]="Ah ouais, j'adore cette arène, Malcolm y règne en maître..."
-Messages[21]="Le match de ce soir va être un bain de sang."
+Messages[15]="Oh, je crois qu'il est encore furieux de cette nouvelle cicatrice que lui a laissÃ©e Malcolm au dernier match."
+Messages[16]="Ouais, il va vouloir le faire PAYER pour Ã§a."
+Messages[17]="Ouais, Ã§a devrait chauffer ce soir."
+Messages[18]="Comme l'Ã©quipe de Malcolm est championne en titre, elle choisira l'arÃ¨ne de ce soir."
+Messages[19]="On dirait que Ã§a va Ãªtre... les glaciers de Kalendra."
+Messages[20]="Ah ouais, j'adore cette arÃ¨ne, Malcolm y rÃ¨gne en maÃ®tre..."
+Messages[21]="Le match de ce soir va Ãªtre un bain de sang."
 
 [Action_CHANGELEVEL]
 ActionString="Modif. niv."
@@ -166,7 +166,7 @@ ActionString="Modif. niv."
 ActionString="Modif. script"
 
 [Action_CHANGETEAM]
-ActionString="Chang. équipe"
+ActionString="Chang. Ã©quipe"
 
 [Action_CROUCH]
 ActionString="au sol"
@@ -175,10 +175,10 @@ ActionString="au sol"
 ActionString="comm. console"
 
 [Action_DAMAGEINSTIGATOR]
-ActionString="Instig. dégâts"
+ActionString="Instig. dÃ©gÃ¢ts"
 
 [Action_DESTROYPAWN]
-ActionString="détruire pion"
+ActionString="dÃ©truire pion"
 
 [Action_DISPLAYMESSAGE]
 ActionString="aff. message"
@@ -199,16 +199,16 @@ ActionString="rej. action"
 ActionString="Condition Si"
 
 [Action_KILLINSTIGATOR]
-ActionString="Instig. dégâts"
+ActionString="Instig. dÃ©gÃ¢ts"
 
 [Action_LEAVESEQUENCE]
-ActionString="quitter séq."
+ActionString="quitter sÃ©q."
 
 [Action_MOVETOPLAYER]
-ActionString="Dépl v. joueur"
+ActionString="DÃ©pl v. joueur"
 
 [Action_MOVETOPOINT]
-ActionString="Dépl v. point"
+ActionString="DÃ©pl v. point"
 
 [Action_PLAYAMBIENTSOUND]
 ActionString="jouer son d'ambiance"
@@ -232,16 +232,16 @@ ActionString="jouer son"
 ActionString="Courir"
 
 [Action_SETALERTNESS]
-ActionString="déf. Vigilance"
+ActionString="dÃ©f. Vigilance"
 
 [Action_SETVIEWTARGET]
-ActionString="déf. vue cible"
+ActionString="dÃ©f. vue cible"
 
 [Action_STOPANIMATION]
-ActionString="arrêter anim."
+ActionString="arrÃªter anim."
 
 [Action_TRIGGEREVENT]
-ActionString="décl. évén."
+ActionString="dÃ©cl. Ã©vÃ©n."
 
 [Action_TURNTOWARDPLAYER]
 ActionString="Rotat. vers joueur"
@@ -250,7 +250,7 @@ ActionString="Rotat. vers joueur"
 ActionString="Att. fin anim."
 
 [Action_WAITFOREVENT]
-ActionString="Att. évén. ext."
+ActionString="Att. Ã©vÃ©n. ext."
 
 [Action_WAITFORPLAYER]
 ActionString="Attendre joueur"
@@ -262,33 +262,33 @@ ActionString="Att. chrono"
 ActionString="marcher"
 
 [Burned]
-DeathString="%o est grillé(e)."
+DeathString="%o est grillÃ©(e)."
 
 [Corroded]
-DeathString="%o a été dissous par %k."
+DeathString="%o a Ã©tÃ© dissous par %k."
 FemaleSuicide="%o s'est dissous."
 MaleSuicide="%o s'est dissous."
 
 [Counter]
 CountMessage="Plus que %i..."
-CompleteMessage="Terminé !"
+CompleteMessage="TerminÃ© !"
 
 [Depressurized]
-DeathString="%o dépressurisé(e) par %k."
-FemaleSuicide="%o dépressurisé(e)."
-MaleSuicide="%o dépressurisé(e)."
+DeathString="%o dÃ©pressurisÃ©(e) par %k."
+FemaleSuicide="%o dÃ©pressurisÃ©(e)."
+MaleSuicide="%o dÃ©pressurisÃ©(e)."
 
 [Drowned]
-DeathString="%o a oublié de respirer."
-FemaleSuicide="%o a oublié de respirer."
-MaleSuicide="%o a oublié de respirer."
+DeathString="%o a oubliÃ© de respirer."
+FemaleSuicide="%o a oubliÃ© de respirer."
+MaleSuicide="%o a oubliÃ© de respirer."
 
 [MessageTextureClient]
 HisMessage="son"
 HerMessage="sa"
 
 [ScriptedAction]
-ActionString="act. non spécifiée"
+ActionString="act. non spÃ©cifiÃ©e"
 
 [WaterVolume]
 LocationName="sous l'eau"

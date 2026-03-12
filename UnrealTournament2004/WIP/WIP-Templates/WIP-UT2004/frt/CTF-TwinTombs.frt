@@ -1,12 +1,12 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Tombes jumelles"
 
 [LevelSummary]
 Title="Tombes jumelles"
-Description="L'hiver est arrivé parmi les tombes et les morts sont agités. Cette élégante reconstitution des tombes jumelles des frères Ramsès III et Rudamon est réputée aussi rapide, brutale et traîtresse que les pharaons qui y ont été inhumés."
+Description="L'hiver est arrivÃ© parmi les tombes et les morts sont agitÃ©s. Cette Ã©lÃ©gante reconstitution des tombes jumelles des frÃ¨res RamsÃ¨s III et Rudamon est rÃ©putÃ©e aussi rapide, brutale et traÃ®tresse que les pharaons qui y ont Ã©tÃ© inhumÃ©s."
 
 [ZoneInfo0]
-LocationName="Couloir supérieur bleu"
+LocationName="Couloir supÃ©rieur bleu"
 
 [ZoneInfo1]
 LocationName="Base bleue"
@@ -15,7 +15,7 @@ LocationName="Base bleue"
 LocationName="Base rouge"
 
 [ZoneInfo12]
-LocationName="Couloir inférieur rouge"
+LocationName="Couloir infÃ©rieur rouge"
 
 [ZoneInfo13]
 LocationName="Blocs de saut rouges"
@@ -24,25 +24,25 @@ LocationName="Blocs de saut rouges"
 LocationName="Blocs de saut bleus"
 
 [ZoneInfo16]
-LocationName="Couloir supérieur rouge"
+LocationName="Couloir supÃ©rieur rouge"
 
 [ZoneInfo17]
 LocationName="Toit rouge"
 
 [ZoneInfo18]
-LocationName="Couloir inférieur bleu"
+LocationName="Couloir infÃ©rieur bleu"
 
 [ZoneInfo19]
-LocationName="Couloir supérieur bleu"
+LocationName="Couloir supÃ©rieur bleu"
 
 [ZoneInfo2]
-LocationName="Zone extérieure"
+LocationName="Zone extÃ©rieure"
 
 [ZoneInfo21]
-LocationName="Couloir inférieur rouge"
+LocationName="Couloir infÃ©rieur rouge"
 
 [ZoneInfo23]
-LocationName="Couloir inférieur rouge"
+LocationName="Couloir infÃ©rieur rouge"
 
 [ZoneInfo24]
 LocationName="Toit bleu"
@@ -51,7 +51,7 @@ LocationName="Toit bleu"
 LocationName="Base rouge"
 
 [ZoneInfo27]
-LocationName="Couloir inférieur bleu"
+LocationName="Couloir infÃ©rieur bleu"
 
 [ZoneInfo28]
 LocationName="Foyer bleu"
@@ -63,34 +63,34 @@ LocationName="Foyer bleu"
 LocationName="Foyer rouge"
 
 [ZoneInfo30]
-LocationName="Couloir supérieur bleu"
+LocationName="Couloir supÃ©rieur bleu"
 
 [ZoneInfo31]
-LocationName="Couloir supérieur bleu"
+LocationName="Couloir supÃ©rieur bleu"
 
 [ZoneInfo32]
-LocationName="Couloir supérieur bleu"
+LocationName="Couloir supÃ©rieur bleu"
 
 [ZoneInfo33]
 LocationName="Salle drapeau bleue"
 
 [ZoneInfo34]
-LocationName="Couloir supérieur bleu"
+LocationName="Couloir supÃ©rieur bleu"
 
 [ZoneInfo35]
-LocationName="Couloir inférieur bleu"
+LocationName="Couloir infÃ©rieur bleu"
 
 [ZoneInfo36]
 LocationName="Base bleue"
 
 [ZoneInfo37]
-LocationName="Couloir inférieur bleu"
+LocationName="Couloir infÃ©rieur bleu"
 
 [ZoneInfo38]
-LocationName="Couloir supérieur bleu"
+LocationName="Couloir supÃ©rieur bleu"
 
 [ZoneInfo39]
-LocationName="Couloir supérieur rouge"
+LocationName="Couloir supÃ©rieur rouge"
 
 [ZoneInfo4]
 LocationName="Foyer rouge"
@@ -99,20 +99,20 @@ LocationName="Foyer rouge"
 LocationName="Toit bleu"
 
 [ZoneInfo42]
-LocationName="Couloir inférieur rouge"
+LocationName="Couloir infÃ©rieur rouge"
 
 [ZoneInfo43]
 LocationName="Toit rouge"
 
 [ZoneInfo5]
-LocationName="Couloir supérieur rouge"
+LocationName="Couloir supÃ©rieur rouge"
 
 [ZoneInfo6]
-LocationName="Couloir supérieur rouge"
+LocationName="Couloir supÃ©rieur rouge"
 
 [ZoneInfo8]
 LocationName="Salle drapeau Rouge"
 
 [ZoneInfo9]
-LocationName="Couloir supérieur rouge"
+LocationName="Couloir supÃ©rieur rouge"
 

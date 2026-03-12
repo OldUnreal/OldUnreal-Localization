@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Conduit"
 
 [LevelSummary]
 Title="Conduit"
-Description="Le flux et le reflux des charges statiques dans un conduit afin de satisfaire une société avide d'énergie. Le flux et le reflux des combattants dans un conduit afin de satisfaire une société dépravée et assoiffée de sang."
+Description="Le flux et le reflux des charges statiques dans un conduit afin de satisfaire une sociÃ©tÃ© avide d'Ã©nergie. Le flux et le reflux des combattants dans un conduit afin de satisfaire une sociÃ©tÃ© dÃ©pravÃ©e et assoiffÃ©e de sang."
 
 [ZoneInfo0]
 LocationName="Base centrale"

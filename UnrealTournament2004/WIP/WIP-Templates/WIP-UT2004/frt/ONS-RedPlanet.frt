@@ -1,9 +1,9 @@
-[LevelInfo0]
-Title="Planète rouge"
+ï»¿[LevelInfo0]
+Title="PlanÃ¨te rouge"
 
 [LevelSummary]
-Title="Planète rouge"
-Description="L'exploration spatiale a révélé un phénomène encore inconnu : un système planétaire SANS étoile. La réaction entre infrarouges et dioxyde de carbone de la haute atmosphère baigne la planète d'une lumière rouge sang. Des expériences ont prouvé qu'un séjour de plus de 18 heures sur cette planète entraîne une folie irréversible. Mais vous ne survivrez pas aussi longtemps..."
+Title="PlanÃ¨te rouge"
+Description="L'exploration spatiale a rÃ©vÃ©lÃ© un phÃ©nomÃ¨ne encore inconnu : un systÃ¨me planÃ©taire SANS Ã©toile. La rÃ©action entre infrarouges et dioxyde de carbone de la haute atmosphÃ¨re baigne la planÃ¨te d'une lumiÃ¨re rouge sang. Des expÃ©riences ont prouvÃ© qu'un sÃ©jour de plus de 18 heures sur cette planÃ¨te entraÃ®ne une folie irrÃ©versible. Mais vous ne survivrez pas aussi longtemps..."
 
 olume0]
 LocationName="Base rouge"
@@ -33,4 +33,4 @@ LocationName="Relais Sud-est"
 LocationName="Relais Nord-est"
 
 [ZoneInfo0]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"

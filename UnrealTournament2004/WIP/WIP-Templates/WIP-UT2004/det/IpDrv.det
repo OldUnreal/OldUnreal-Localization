@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Name=IpDrv.UpdateServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.MasterServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.CompressCommandlet,Class=Class,MetaClass=Core.Commandlet)
@@ -32,5 +32,5 @@ HelpDesc[0]=Platzhalter, zu komprimier. Dateinamen
 MSUPropText[0]="Server bekannt machen"
 MSUPropText[1]="Prozess-Stats"
 MSUPropDesc[0]="wenn ja, wird Ihr Server auf dem Internet-Server-Browser bekannt gemacht."
-MSUPropDesc[1]="Ver�ffentlicht Spielerstatistiken Ihres Servers auf der UT2004-Statistik-Website."
+MSUPropDesc[1]="Veröffentlicht Spielerstatistiken Ihres Servers auf der UT2004-Statistik-Website."
 

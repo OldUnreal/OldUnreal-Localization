@@ -1,24 +1,24 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Osiris 2"
 
 [LevelSummary]
 Title="Osiris 2"
-Description="Le sable se mêle à votre transpiration,  formant une couche qui irrite votre peau. L'air électrique sent le sang séché. Un cri aigu se fait entendre ; sans doute marque-t-il la mort d'un de vos nombreux ennemis. Votre seul regret est que cette mort représente un frag de moins pour vous. Allez, il est temps de passer à l'attaque !"
+Description="Le sable se mÃªle Ã  votre transpiration,  formant une couche qui irrite votre peau. L'air Ã©lectrique sent le sang sÃ©chÃ©. Un cri aigu se fait entendre ; sans doute marque-t-il la mort d'un de vos nombreux ennemis. Votre seul regret est que cette mort reprÃ©sente un frag de moins pour vous. Allez, il est temps de passer Ã  l'attaque !"
 
 [ZoneInfo0]
 LocationName="Temple souterrain"
 
 [ZoneInfo1]
-LocationName="Hall supérieur"
+LocationName="Hall supÃ©rieur"
 
 [ZoneInfo10]
-LocationName="Pièce avec canon Flak"
+LocationName="PiÃ¨ce avec canon Flak"
 
 [ZoneInfo11]
-LocationName="Hall inférieur"
+LocationName="Hall infÃ©rieur"
 
 [ZoneInfo2]
-LocationName="Hall supérieur"
+LocationName="Hall supÃ©rieur"
 
 [ZoneInfo3]
 LocationName="Cour principale"
@@ -27,17 +27,17 @@ LocationName="Cour principale"
 LocationName="Chambre avec super-bouclier"
 
 [ZoneInfo5]
-LocationName="Hall supérieur"
+LocationName="Hall supÃ©rieur"
 
 [ZoneInfo6]
-LocationName="Hall supérieur"
+LocationName="Hall supÃ©rieur"
 
 [ZoneInfo7]
-LocationName="Hall inférieur"
+LocationName="Hall infÃ©rieur"
 
 [ZoneInfo8]
-LocationName="Pièce avec fulsi Shock"
+LocationName="PiÃ¨ce avec fulsi Shock"
 
 [ZoneInfo9]
-LocationName="Pièce avec lance-roquettes"
+LocationName="PiÃ¨ce avec lance-roquettes"
 

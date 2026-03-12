@@ -1,9 +1,9 @@
-[LevelInfo0]
+Ôªø[LevelInfo0]
 Title="LavaGiant 2"
 
 [LevelSummary]
 Title="LavaGiant 2"
-Description="Viele Dinge unserer Zeit wurden unter Blut, Schweiﬂ und Tr‰nen erschaffen. In der hˆllischen Hitze der Lavafelder verdampfen diese Fl¸ssigkeiten so schnell, dass nichts auﬂer einem h‰sslichem Fleck auf der R¸stung eines Gefangenen zur¸ck bleibt."
+Description="Viele Dinge unserer Zeit wurden unter Blut, Schwei√ü und Tr√§nen erschaffen. In der h√∂llischen Hitze der Lavafelder verdampfen diese Fl√ºssigkeiten so schnell, dass nichts au√üer einem h√§sslichem Fleck auf der R√ºstung eines Gefangenen zur√ºck bleibt."
 
 [Volume0]
 LocationName="ROTE Basis"
@@ -24,7 +24,7 @@ LocationName="ROTER Bereich unten"
 LocationName="BLAUER Bereich unten"
 
 [ZoneInfo0]
-LocationName="Auﬂenbereich"
+LocationName="Au√üenbereich"
 
 [ZoneInfo1]
 LocationName="Mittlerer Generator-Raum"

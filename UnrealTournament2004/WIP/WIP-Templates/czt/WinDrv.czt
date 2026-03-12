@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Class=(Class=WinDrv.WindowsClient,SuperClass=Engine.Client)
 Preferences=(Caption="Windows",Parent="Display",Class=WinDrv.WindowsClient,Immediate=True,Category=Display)
 Preferences=(Caption="Windows",Parent="Joystick",Class=WinDrv.WindowsClient,Immediate=True,Category=Joystick)

@@ -1,4 +1,4 @@
-[Errors]
+﻿[Errors]
 ; EN: MissingProductTitle="%s can't be %s in this folder"
 MissingProductTitle="%s non può essere %s in questa cartella"
 ; EN: MissingProductInstalled="installed"

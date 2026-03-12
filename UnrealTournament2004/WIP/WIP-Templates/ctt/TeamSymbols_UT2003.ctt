@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Class=Texture,Name=TeamSymbols_UT2003.Apocalypse,Description="")
 Object=(Class=Texture,Name=TeamSymbols_UT2003.BlackLegion,Description="")
 Object=(Class=Texture,Name=TeamSymbols_UT2003.BloodFists,Description="")

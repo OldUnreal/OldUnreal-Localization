@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Renaissance"
 
 [LevelSummary]
 Title="Renaissance"
-Description="Au fond des forêts Gen'Mokai se trouve la clé de la renaissance. Malheureusement pour les participants au tournoi qui découvrent cette arène, cette clé n'est autre que la mort."
+Description="Au fond des forÃªts Gen'Mokai se trouve la clÃ© de la renaissance. Malheureusement pour les participants au tournoi qui dÃ©couvrent cette arÃ¨ne, cette clÃ© n'est autre que la mort."
 
 [Volume0]
 LocationName="Corniche point B"
@@ -12,7 +12,7 @@ LocationName="Corniche point B"
 LocationName="Corniche point A"
 
 [Volume2]
-LocationName="Vallée centrale"
+LocationName="VallÃ©e centrale"
 
 [Volume3]
 LocationName="Pont bonus"
@@ -21,5 +21,5 @@ LocationName="Pont bonus"
 LocationName="Pont bonus"
 
 [ZoneInfo0]
-LocationName="Zones réapparition"
+LocationName="Zones rÃ©apparition"
 

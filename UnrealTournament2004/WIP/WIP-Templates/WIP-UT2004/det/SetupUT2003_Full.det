@@ -1,4 +1,4 @@
-[Setup]
+ï»¿[Setup]
 LocalProduct="Unreal Tournament 2003"
 DefaultFolder="C:\UT2003"
 ReadMe=Help\ReadMe.det.txt
@@ -13,7 +13,7 @@ License=License.det
 
 [General]
 PlayLevelCommand="Dieses UT2003-Level &spielen"
-OpenLinkCommand="Diesen UT2003-Link &öffnen"
+OpenLinkCommand="Diesen UT2003-Link &Ã¶ffnen"
 InstallModuleCommand="Dieses UT2003-Modul &installieren"
 EditLevelCommand="Dieses UT2003-Level &bearbeiten"
 SafeDiscAdminRights="Dieses Programm muss als Administrator betrieben werden, und nicht als Gastbenutzer oder Benutzer mit begrenztem Zugang."
@@ -24,7 +24,7 @@ SafeDiscWrongDisc="Falsche Disc im Laufwerk. Legen Sie bitte die 'Unreal Tournam
 
 [UnrealGameContentGroup]
 Caption="Spielinhalt"
-Description="Für eine optimale Leistung empfiehlt es sich, dies zu installieren. Ansonsten wird der Spielinhalt während des Spiels von der CD geladen, wodurch die Leistung beeinträchtigt wird. Der Speicherbedarf ist dafür geringer."
+Description="FÃ¼r eine optimale Leistung empfiehlt es sich, dies zu installieren. Ansonsten wird der Spielinhalt wÃ¤hrend des Spiels von der CD geladen, wodurch die Leistung beeintrÃ¤chtigt wird. Der Speicherbedarf ist dafÃ¼r geringer."
 
 [GameGroup]
 Caption="UT2003 Game"
@@ -32,19 +32,19 @@ Description="Installation erforderlich."
 
 [DirectXGroup]
 Caption="DirectX 8.1"
-Description="Optionale Microsoft DirectX 8.1 Treiber für optimale Grafik-, Sound- und Joystick-Unterstützung."
+Description="Optionale Microsoft DirectX 8.1 Treiber fÃ¼r optimale Grafik-, Sound- und Joystick-UnterstÃ¼tzung."
 
 [OpenALGroup]
 Caption="OpenAL"
-Description="Erforderlich für Hardware-beschleunigte 3D-Sound-Effekte."
+Description="Erforderlich fÃ¼r Hardware-beschleunigte 3D-Sound-Effekte."
 
 [Win2000XPGroup]
 Caption="Windows 2000/XP Direct3D"
-Description="Erforderlich für Windows 2000/XP [z.Zt. noch nicht geliefert]."
+Description="Erforderlich fÃ¼r Windows 2000/XP [z.Zt. noch nicht geliefert]."
 
 [EditorGroup]
 Caption="Unreal Editor"
-Description="Mit dem Unreal World Editor können Sie Ihre eigenen 3D-Unreal-Umgebungen schaffen. Für erfahrene Anwender (Installation optional)."
+Description="Mit dem Unreal World Editor kÃ¶nnen Sie Ihre eigenen 3D-Unreal-Umgebungen schaffen. FÃ¼r erfahrene Anwender (Installation optional)."
 
 [PlayShortcut]
 Caption="UT2003 spielen"

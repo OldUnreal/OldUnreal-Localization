@@ -1,24 +1,24 @@
-[LevelInfo0]
+Ôªø[LevelInfo0]
 Title="HyperBlast2"
 
 [LevelSummary]
 Title="HyperBlast2"
-Description="Gr‚ce ‡ la technologie MAVR, Magnetic Anti-Vacuum Resonance, les combattants ont la possibilitÈ de s'affronter en dehors d'arËne 'HyperBlast' pour faire durer le plaisir. Faites bien attention tout de mÍme : uen erreur et vous vous retrouvez dans l'espace pour toujours."
+Description="Gr√¢ce √† la technologie MAVR, Magnetic Anti-Vacuum Resonance, les combattants ont la possibilit√© de s'affronter en dehors d'ar√®ne 'HyperBlast' pour faire durer le plaisir. Faites bien attention tout de m√™me : uen erreur et vous vous retrouvez dans l'espace pour toujours."
 
 [ZoneInfo0]
-LocationName="Ventricule infÈrieur"
+LocationName="Ventricule inf√©rieur"
 
 [ZoneInfo1]
-LocationName="Rampe b‚bord"
+LocationName="Rampe b√¢bord"
 
 [ZoneInfo10]
-LocationName="Atrium supÈrieur"
+LocationName="Atrium sup√©rieur"
 
 [ZoneInfo11]
-LocationName="IntÈrieur b‚bord"
+LocationName="Int√©rieur b√¢bord"
 
 [ZoneInfo12]
-LocationName="ExtÈrieur"
+LocationName="Ext√©rieur"
 
 [ZoneInfo13]
 LocationName="Couloir lunaire tribord"
@@ -30,20 +30,20 @@ LocationName="Salle poupe"
 LocationName="Rampe tribord"
 
 [ZoneInfo4]
-LocationName="Ventricule supÈrieur"
+LocationName="Ventricule sup√©rieur"
 
 [ZoneInfo5]
-LocationName="Atrium infÈrieur"
+LocationName="Atrium inf√©rieur"
 
 [ZoneInfo6]
-LocationName="IntÈrieur tribord"
+LocationName="Int√©rieur tribord"
 
 [ZoneInfo7]
-LocationName="Couloir lunaire b‚bord"
+LocationName="Couloir lunaire b√¢bord"
 
 [ZoneInfo8]
 LocationName="Aile tribord"
 
 [ZoneInfo9]
-LocationName="Aile b‚bord"
+LocationName="Aile b√¢bord"
 

@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Name=IpDrv.UpdateServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.MasterServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.CompressCommandlet,Class=Class,MetaClass=Core.Commandlet)

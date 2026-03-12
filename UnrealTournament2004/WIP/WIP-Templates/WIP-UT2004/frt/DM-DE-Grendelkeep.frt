@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Grendelkeep"
 
 [LevelInfo6]
@@ -6,49 +6,49 @@ Title="Grendelkeep"
 
 [LevelSummary]
 Title="Grendelkeep"
-Description="Prieth Callas était un homme cruel qui torturait ses victimes avant de les tuer. Il élevait des animaux féroces et de grande taille qui attaquaient ses prisonniers. Grendelkeep était la dernière de ses diaboliques inventions avant que Callas ne fut renversé par ses propres hommes avant d'être dévoré par ses propres créatures. Depuis, la pluie a effacé les marques de sang mais le démon qui a vécu ici demeurera à jamais."
+Description="Prieth Callas Ã©tait un homme cruel qui torturait ses victimes avant de les tuer. Il Ã©levait des animaux fÃ©roces et de grande taille qui attaquaient ses prisonniers. Grendelkeep Ã©tait la derniÃ¨re de ses diaboliques inventions avant que Callas ne fut renversÃ© par ses propres hommes avant d'Ãªtre dÃ©vorÃ© par ses propres crÃ©atures. Depuis, la pluie a effacÃ© les marques de sang mais le dÃ©mon qui a vÃ©cu ici demeurera Ã  jamais."
 
 [ZoneInfo0]
-LocationName="Hall de la Grande pièce"
+LocationName="Hall de la Grande piÃ¨ce"
 
 [ZoneInfo1]
-LocationName="Grande pièce"
+LocationName="Grande piÃ¨ce"
 
 [ZoneInfo10]
 LocationName="Nid Sniper"
 
 [ZoneInfo11]
-LocationName="Hall the la Grande pièce"
+LocationName="Hall the la Grande piÃ¨ce"
 
 [ZoneInfo12]
-LocationName="Hall inférieur Flak"
+LocationName="Hall infÃ©rieur Flak"
 
 [ZoneInfo13]
-LocationName="Hall inférieur Flak"
+LocationName="Hall infÃ©rieur Flak"
 
 [ZoneInfo14]
-LocationName="Hall de la Grande pièce"
+LocationName="Hall de la Grande piÃ¨ce"
 
 [ZoneInfo2]
 LocationName="Hall de l'extra-amplificateur"
 
 [ZoneInfo28]
-LocationName="Hall supérieur roquettes"
+LocationName="Hall supÃ©rieur roquettes"
 
 [ZoneInfo3]
-LocationName="Hall supérieur roquettes"
+LocationName="Hall supÃ©rieur roquettes"
 
 [ZoneInfo30]
-LocationName="Grande pièce"
+LocationName="Grande piÃ¨ce"
 
 [ZoneInfo31]
-LocationName="Grande pièce"
+LocationName="Grande piÃ¨ce"
 
 [ZoneInfo4]
-LocationName="Grande pièce"
+LocationName="Grande piÃ¨ce"
 
 [ZoneInfo5]
-LocationName="Hall supérieur roquettes"
+LocationName="Hall supÃ©rieur roquettes"
 
 [ZoneInfo6]
 LocationName="Mini-hall"

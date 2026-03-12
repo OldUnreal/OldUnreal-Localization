@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 Title="Facing Worlds 3"
 
 [LevelSummary]

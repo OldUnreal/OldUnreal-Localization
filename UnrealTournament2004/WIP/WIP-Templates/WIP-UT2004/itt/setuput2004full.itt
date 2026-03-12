@@ -1,4 +1,4 @@
-[Setup]
+Ôªø[Setup]
 LocalProduct="Unreal Tournament 2004"
 DefaultFolder="C:\UT2004"
 ReadMe=Help\ReadMe.int.txt
@@ -17,18 +17,18 @@ OpenLinkCommand="&Apri questo collegamento di UT2004"
 InstallModuleCommand="&Installa questo modulo UT2004"
 EditLevelCommand="&Modifica questo livello di UT2004 "
 SafeDiscAdminRights="Hai bisogno di lanciare il programma come amministratore, non come ospite o con account limitato."
-SafeDiscNoDisk="Nessun disco nell'unit‡. Inserisci il disco di gioco di Unreal Tournament 2004 per continuare."
-SafeDiscNoDrive="Nessuna unit‡ CD/DVD-ROM rilevata."
+SafeDiscNoDisk="Nessun disco nell'unit√†. Inserisci il disco di gioco di Unreal Tournament 2004 per continuare."
+SafeDiscNoDrive="Nessuna unit√† CD/DVD-ROM rilevata."
 SafeDiscTitlebar="Unreal Tournament 2004"
-SafeDiscWrongDisc="Disco errato nell'unit‡. Inserisci il disco di gioco di Unreal Tournament 2004 per continuare."
+SafeDiscWrongDisc="Disco errato nell'unit√†. Inserisci il disco di gioco di Unreal Tournament 2004 per continuare."
 
 [UnrealGameContentGroup]
 Caption="Contenuto del gioco"
-Description="Installa questi elementi per ottenere prestazioni migliori. Se non selezioni quest'opzione, il contenuto del gioco sar‡ caricato a ogni partita, rendendo l'esecuzione pi˘ lenta, anche se con minor utilizzo di spazio su disco. "
+Description="Installa questi elementi per ottenere prestazioni migliori. Se non selezioni quest'opzione, il contenuto del gioco sar√† caricato a ogni partita, rendendo l'esecuzione pi√π lenta, anche se con minor utilizzo di spazio su disco. "
 
 [GameGroup]
 Caption="Gioco UT2004"
-Description="» richiesta l'installazione."
+Description="√à richiesta l'installazione."
 
 [DirectXGroup]
 Caption="DirectX 9.0b"
@@ -54,7 +54,7 @@ Description="Crea un collegamento sul desktop per giocare a UT2004"
 Caption="Gioca a UT2004"
 
 [SafeModeShortcut]
-Caption="UT2004 - Modalit‡ sicura"
+Caption="UT2004 - Modalit√† sicura"
 
 [EditorShortcut]
 Caption="UT2004 - Editor"

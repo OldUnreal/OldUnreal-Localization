@@ -1,11 +1,11 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Flux 2"
 
 [LevelSummary]
 Title="Flux 2"
 
 [Volume5]
-LocationName="Allée de derrière"
+LocationName="AllÃ©e de derriÃ¨re"
 
 [Volume6]
 LocationName="Espace longue rampe"
@@ -14,7 +14,7 @@ LocationName="Espace longue rampe"
 LocationName="Espace longue rampe"
 
 [Volume8]
-LocationName="Espace antérieur"
+LocationName="Espace antÃ©rieur"
 
 [Volume9]
 LocationName="Espace chemin"

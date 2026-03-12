@@ -1,4 +1,4 @@
-[AdminPlayerList]
+﻿[AdminPlayerList]
 ColumnHeadings=("Player Name","Unique ID","IP")
 
 [Browser_AddBuddy]

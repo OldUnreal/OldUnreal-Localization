@@ -1,4 +1,4 @@
-[ASOBJ_EnergyCore_Delivery0]
+﻿[ASOBJ_EnergyCore_Delivery0]
 ; EN: DestructionMessage="Vehicle has been repaired!"
 DestructionMessage="Автомобиль отремонтирован!"
 ; EN: ObjectiveDescription="Deliver the Power Core to repair the vehicle."

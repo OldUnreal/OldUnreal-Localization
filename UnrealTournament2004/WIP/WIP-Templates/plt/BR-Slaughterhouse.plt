@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 ; EN: Title="Slaughterhouse"
 Title="Rzeźnia"
 ; EN: LevelEnterText="The Slaughterhouse"

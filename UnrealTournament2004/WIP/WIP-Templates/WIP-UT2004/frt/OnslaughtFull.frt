@@ -1,30 +1,30 @@
-[DamTypeIonTankBlast]
-DeathString="%o a ÈtÈ OBLITERE(E)"
-FemaleSuicide="%o a ÈtÈ OBLITERE(E)"
-MaleSuicide="%o a ÈtÈ OBLITERE(E)"
+Ôªø[DamTypeIonTankBlast]
+DeathString="%o a √©t√© OBLITERE(E)"
+FemaleSuicide="%o a √©t√© OBLITERE(E)"
+MaleSuicide="%o a √©t√© OBLITERE(E)"
 
 [DamTypeMASCannon]
-DeathString="%o a ÈtÈ VAPORISE(E) par %k !"
-FemaleSuicide="%o a ÈtÈ VAPORISEE !"
-MaleSuicide="%o a ÈtÈ VAPORISE !"
+DeathString="%o a √©t√© VAPORISE(E) par %k !"
+FemaleSuicide="%o a √©t√© VAPORISEE !"
+MaleSuicide="%o a √©t√© VAPORISE !"
 
 [MutVehicleArena]
-ArenaDisplayText="Engin d'arËne"
-ArenaDescText="Indique quel type d'engin sera employÈ durant le match."
-FriendlyName="ArËne d'engin"
-Description="Remplace tous les engins de la map par un type particulier de vÈhicule."
+ArenaDisplayText="Engin d'ar√®ne"
+ArenaDescText="Indique quel type d'engin sera employ√© durant le match."
+FriendlyName="Ar√®ne d'engin"
+Description="Remplace tous les engins de la map par un type particulier de v√©hicule."
 
 [ONSBomber]
 VehiclePositionString="dans un DragonFly"
 VehicleNameString="DragonFly"
 
 [ONSGenericSD]
-VehiclePositionString="IndisposÈ(e)"
+VehiclePositionString="Indispos√©(e)"
 VehicleNameString="TC-1200"
 
 [ONSHoverTank_IonPlasma]
-VehiclePositionString="dans un char ‡ plasma ionique"
-VehicleNameString="Char ‡ plasma ionique"
+VehiclePositionString="dans un char √† plasma ionique"
+VehicleNameString="Char √† plasma ionique"
 
 [ONSMASSideGunPawn]
 VehiclePositionString="dans une tourelle de Leviathan"
@@ -35,7 +35,7 @@ VehiclePositionString="dans un Leviathan"
 VehicleNameString="Leviathan"
 
 [ONSPainter]
-Description="L'illuminateur de cibles, similaire au pointeur ionique, expÈdie un laser ‡ faible Ènergie inoffensif gr‚ce ‡ son tir primaire. En revanche, contrairement au pointeur ionique, cette arme appelle un bombardier qui larguera des bombes devant l'utilisateur, autour de la cible dÈsignÈe. Ces bombes incinÈreront la cible et tout ce qui aura la malchance de se trouver ‡ proximitÈ."
+Description="L'illuminateur de cibles, similaire au pointeur ionique, exp√©die un laser √† faible √©nergie inoffensif gr√¢ce √† son tir primaire. En revanche, contrairement au pointeur ionique, cette arme appelle un bombardier qui larguera des bombes devant l'utilisateur, autour de la cible d√©sign√©e. Ces bombes incin√©reront la cible et tout ce qui aura la malchance de se trouver √† proximit√©."
 ItemName="Illuminateur de cibles"
 
 [ONSPainterPickup]

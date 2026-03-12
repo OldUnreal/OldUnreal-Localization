@@ -1,20 +1,20 @@
-[AdrenalinePickup]
-PickupMessage="Adrénaline"
+ï»¿[AdrenalinePickup]
+PickupMessage="AdrÃ©naline"
 
 [MiniHealthPack]
-PickupMessage="Ampoule de soins chargée"
+PickupMessage="Ampoule de soins chargÃ©e"
 
 [ShieldPickup]
-PickupMessage="Boucliers chargés"
+PickupMessage="Boucliers chargÃ©s"
 
 [SuperHealthPack]
-PickupMessage="Baril de santé"
+PickupMessage="Baril de santÃ©"
 
 [SuperShieldPack]
-PickupMessage="Super bouclier chargé"
+PickupMessage="Super bouclier chargÃ©"
 
 [TournamentHealth]
-PickupMessage="Santé chargée"
+PickupMessage="SantÃ© chargÃ©e"
 
 [UDamagePack]
 PickupMessage="DOUBLE DEGAT"

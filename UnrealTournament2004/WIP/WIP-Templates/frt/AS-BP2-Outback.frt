@@ -1,4 +1,4 @@
-[ASOBJ_EnergyCore_Delivery0]
+﻿[ASOBJ_EnergyCore_Delivery0]
 ; EN: ObjectiveName="Hops addition"
 ObjectiveName="Ajout de houblon"
 ; EN: DestructionMessage="Hops level at 3.2 %"

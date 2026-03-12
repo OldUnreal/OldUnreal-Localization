@@ -1,4 +1,4 @@
-[AdrenalinePickup]
+﻿[AdrenalinePickup]
 ; EN: PickupMessage="Adrenaline "
 PickupMessage="Adrenalina "
 

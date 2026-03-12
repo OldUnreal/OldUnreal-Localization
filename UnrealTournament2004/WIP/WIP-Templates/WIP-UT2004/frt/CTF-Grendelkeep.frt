@@ -1,4 +1,4 @@
-[LevelInfo0]
+Ôªø[LevelInfo0]
 Title="Grendelkeep"
 
 [LevelInfo12]
@@ -9,7 +9,7 @@ Title="Grendelkeep"
 
 [LevelSummary]
 Title="Grendelkeep"
-Description="Prieth Callas Ètait un homme cruel qui adorait torturer ses victimes avant de les envoyer ‡ la mort. Il a ÈlevÈ de grandes et fÈroces crÈatures pour les l‚cher sur ses prisonniers dans les arËnes qu'il a crÈÈes. Grendelkeep est la derniËre de ses constructions diaboliques, tombÈe en ruine bien aprËs que Callas a ÈtÈ tirÈ de ses remparts par ses propres hommes et donnÈ en p‚ture aux crÈatures qu'il Èlevait dans les niveaux infÈrieurs. La pluie a lavÈ le sang, mais le mal qui rÈgnait ici est encore palpable."
+Description="Prieth Callas √©tait un homme cruel qui adorait torturer ses victimes avant de les envoyer √† la mort. Il a √©lev√© de grandes et f√©roces cr√©atures pour les l√¢cher sur ses prisonniers dans les ar√®nes qu'il a cr√©√©es. Grendelkeep est la derni√®re de ses constructions diaboliques, tomb√©e en ruine bien apr√®s que Callas a √©t√© tir√© de ses remparts par ses propres hommes et donn√© en p√¢ture aux cr√©atures qu'il √©levait dans les niveaux inf√©rieurs. La pluie a lav√© le sang, mais le mal qui r√©gnait ici est encore palpable."
 
 [ZoneInfo0]
 LocationName="Salle principale Bleue"
@@ -36,10 +36,10 @@ LocationName="Hall inf. Bleu"
 LocationName="Base Bleue"
 
 [ZoneInfo28]
-LocationName="RÈapparition Bleue"
+LocationName="R√©apparition Bleue"
 
 [ZoneInfo3]
-LocationName="RÈapparition Bleue"
+LocationName="R√©apparition Bleue"
 
 [ZoneInfo30]
 LocationName="Salle principale Bleue"
@@ -102,7 +102,7 @@ LocationName="Hall grande salle"
 LocationName="Hall grand amp."
 
 [ZoneInfo5]
-LocationName="RÈapparition Bleue"
+LocationName="R√©apparition Bleue"
 
 [ZoneInfo50]
 LocationName="Salle principale Rouge"
@@ -114,13 +114,13 @@ LocationName="Salle principale Rouge"
 LocationName="Base Rouge"
 
 [ZoneInfo53]
-LocationName="RÈapparition Rouge"
+LocationName="R√©apparition Rouge"
 
 [ZoneInfo54]
-LocationName="RÈapparition Rouge"
+LocationName="R√©apparition Rouge"
 
 [ZoneInfo55]
-LocationName="RÈapparition Rouge"
+LocationName="R√©apparition Rouge"
 
 [ZoneInfo56]
 LocationName="Hall sniper Rouge"

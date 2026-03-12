@@ -1,14 +1,14 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Sepukku Gorge"
 
 [LevelSummary]
 Title="Sepukku Gorge"
 
 [Volume0]
-LocationName="Point de proximité B"
+LocationName="Point de proximitÃ© B"
 
 [Volume1]
-LocationName="Point de proximité A"
+LocationName="Point de proximitÃ© A"
 
 [Volume2]
 LocationName="Sur les ponts"

@@ -1,9 +1,9 @@
-[LevelInfo0]
-Title="Tombe glacée"
+ï»¿[LevelInfo0]
+Title="Tombe glacÃ©e"
 
 [LevelSummary]
-Title="Tombe glacée"
-Description="Apportez vos moufles et cachez vos mouflets, car il va rapidement faire froid et sanglant dans cette petite arène."
+Title="Tombe glacÃ©e"
+Description="Apportez vos moufles et cachez vos mouflets, car il va rapidement faire froid et sanglant dans cette petite arÃ¨ne."
 
 [ZoneInfo0]
 LocationName="Caverne fusil bio"
@@ -21,10 +21,10 @@ LocationName="Quatre cascades"
 LocationName="Caverne fusil bio"
 
 [ZoneInfo14]
-LocationName="Tombe glacée"
+LocationName="Tombe glacÃ©e"
 
 [ZoneInfo15]
-LocationName="Tombe glacée"
+LocationName="Tombe glacÃ©e"
 
 [ZoneInfo16]
 LocationName="Lightning Gun"
@@ -33,7 +33,7 @@ LocationName="Lightning Gun"
 LocationName="Lightning Gun"
 
 [ZoneInfo2]
-LocationName="Tombe glacée"
+LocationName="Tombe glacÃ©e"
 
 [ZoneInfo3]
 LocationName="Cascades jumelles"
@@ -42,10 +42,10 @@ LocationName="Cascades jumelles"
 LocationName="Lightning Gun"
 
 [ZoneInfo5]
-LocationName="Tombe glacée"
+LocationName="Tombe glacÃ©e"
 
 [ZoneInfo6]
-LocationName="Tombe glacée"
+LocationName="Tombe glacÃ©e"
 
 [ZoneInfo7]
 LocationName="Atrium"

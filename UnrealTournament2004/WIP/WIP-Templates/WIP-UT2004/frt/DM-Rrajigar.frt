@@ -1,4 +1,4 @@
-[LevelInfo0]
+﻿[LevelInfo0]
 Title="Rrajigar"
 
 [LevelSummary]
@@ -18,5 +18,5 @@ LocationName="Zone bouclier"
 LocationName="Zone shock"
 
 [WaterVolume0]
-LocationName="Rivi�re"
+LocationName="Rivière"
 

@@ -1,4 +1,4 @@
-[ASCriticalObjectiveVolume2]
+﻿[ASCriticalObjectiveVolume2]
 ; EN: LocationName="Subway station entrance"
 LocationName="entrée de la station de métro"
 

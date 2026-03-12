@@ -1,4 +1,4 @@
-[ASCriticalObjectiveVolume1]
+﻿[ASCriticalObjectiveVolume1]
 ; EN: LocationName="Coolant Valve Control"
 LocationName="Sterowanie zaworem chłodziwa"
 

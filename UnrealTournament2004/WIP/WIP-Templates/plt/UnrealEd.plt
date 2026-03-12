@@ -1,4 +1,4 @@
-[General]
+﻿[General]
 ; EN: FrameWindow="Unreal Level Editor"
 FrameWindow="Nierealny edytor poziomów"
 ; EN: Start="UnrealEd (Starting)"

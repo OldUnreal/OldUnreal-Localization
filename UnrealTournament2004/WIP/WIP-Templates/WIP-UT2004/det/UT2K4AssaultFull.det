@@ -1,4 +1,4 @@
-[ASTurret_IonCannon]
+Ôªø[ASTurret_IonCannon]
 VehiclePositionString="besetzt eine Ion Cannon"
 VehicleNameString="Ion Cannon"
 
@@ -19,14 +19,14 @@ FemaleSuicide="%o hat sich mit ihrem eigenen Plasma gegrillt."
 MaleSuicide="%o hat sich mit seinem eigenen Plasma gegrillt."
 
 [DamTypeIonCannonBlast]
-DeathString="%o wurde AUSGEL÷SCHT"
-FemaleSuicide="%o wurde AUSGEL÷SCHT"
-MaleSuicide="%o wurde AUSGEL÷SCHT"
+DeathString="%o wurde AUSGEL√ñSCHT"
+FemaleSuicide="%o wurde AUSGEL√ñSCHT"
+MaleSuicide="%o wurde AUSGEL√ñSCHT"
 
 [DamTypeLinkTurretBeam]
-DeathString="%o wurde von %ks gr¸nem Spieﬂ aufgeschlitzt."
-FemaleSuicide="%o spieﬂte sich auf."
-MaleSuicide="%o spieﬂte sich auf."
+DeathString="%o wurde von %ks gr√ºnem Spie√ü aufgeschlitzt."
+FemaleSuicide="%o spie√üte sich auf."
+MaleSuicide="%o spie√üte sich auf."
 
 [DamTypeLinkTurretPlasma]
 DeathString="%o bekam eine Extraportion von %ks Plasma."

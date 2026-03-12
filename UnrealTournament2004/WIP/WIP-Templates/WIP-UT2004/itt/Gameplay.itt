@@ -1,4 +1,4 @@
-[ACTION_DamageActor]
+ï»¿[ACTION_DamageActor]
 ActionString="Danneggia attore"
 
 [ACTION_DestroyActor]
@@ -42,9 +42,9 @@ ActionString="lancia arma"
 
 [ActionMessage_BR]
 Messages[0]="Attacco con la bomba"
-Messages[1]="La palla è al centro"
+Messages[1]="La palla Ã¨ al centro"
 Messages[2]="Tocca la palla per raccoglierla"
-Messages[3]="Chi ha la palla non può attaccare"
+Messages[3]="Chi ha la palla non puÃ² attaccare"
 Messages[4]="Il fuoco primario lancia la palla"
 Messages[5]="Il fuoco secondario sceglie il compagno"
 Messages[6]="Passa la palla ai compagni"
@@ -60,13 +60,13 @@ Messages[2]="Tocca la bandiera nemica per prenderla"
 Messages[3]="Torna alla tua base"
 Messages[4]="Tocca la tua bandiera per vincere punti"
 Messages[5]="Il translocatore fa cadere la bandiera"
-Messages[6]="Il limite predefinito di catture è 3"
+Messages[6]="Il limite predefinito di catture Ã¨ 3"
 Messages[7]="Buona fortuna!"
 
 [ActionMessage_DM]
 Messages[0]="Death Match"
 Messages[1]="Premi fuoco per rientrare"
-Messages[2]="Le armi hanno due modalità di fuoco"
+Messages[2]="Le armi hanno due modalitÃ  di fuoco"
 Messages[3]="Fuoco primario e fuoco secondario"
 Messages[4]="Fucile d'assalto"
 Messages[5]="Spara proiettili e granate"
@@ -90,7 +90,7 @@ Messages[22]="Corazza"
 Messages[23]="Ricarica schermi"
 Messages[24]="Super ricarica schermi"
 Messages[25]="Adrenalina"
-Messages[26]="L'adrenalina si può usare per le combo"
+Messages[26]="L'adrenalina si puÃ² usare per le combo"
 Messages[27]="Amplificatore di danni"
 Messages[28]="Raggiungi per primo il limite di frag!"
 Messages[29]="Il suicidio ti penalizza"
@@ -138,26 +138,26 @@ Delays[30]=0.000000
 Delays[31]=0.000000
 Messages[0]="Come sto?"
 Messages[1]="Non bene come me, tesoro..."
-Messages[2]="Salve a tutti i tifosi, eccoci qui per assistere a un'altra edizione dello sport più violento della galassia, un torneo dove i vincitori sono osannati come divinità e gli sconfitti pagano il prezzo più alto!"
-Messages[3]="ECCOLI! Una volta erano rivali, ora appartengono alla squadra più feroce mai esistita."
-Messages[4]="Esatto, non c'è nulla di meglio dell'esperienza e ognuno di questi tre concorrenti ne ha da vendere."
-Messages[5]="Guardate Malcolm! Lui sì che è veramente capace di restare calmo in uno scontro a fuoco."
-Messages[6]="Quello è Brock. È pericoloso sia per le fanciulle fuori dall'arena sia per i nemici in campo!"
-Messages[7]="Adoro guardare Lauren. È un vero concentrato di energia."
-Messages[8]="Sì, certo, tutti guardano Lauren per ammirare la sua energia."
-Messages[9]="Stavolta è MIO!"
+Messages[2]="Salve a tutti i tifosi, eccoci qui per assistere a un'altra edizione dello sport piÃ¹ violento della galassia, un torneo dove i vincitori sono osannati come divinitÃ  e gli sconfitti pagano il prezzo piÃ¹ alto!"
+Messages[3]="ECCOLI! Una volta erano rivali, ora appartengono alla squadra piÃ¹ feroce mai esistita."
+Messages[4]="Esatto, non c'Ã¨ nulla di meglio dell'esperienza e ognuno di questi tre concorrenti ne ha da vendere."
+Messages[5]="Guardate Malcolm! Lui sÃ¬ che Ã¨ veramente capace di restare calmo in uno scontro a fuoco."
+Messages[6]="Quello Ã¨ Brock. Ãˆ pericoloso sia per le fanciulle fuori dall'arena sia per i nemici in campo!"
+Messages[7]="Adoro guardare Lauren. Ãˆ un vero concentrato di energia."
+Messages[8]="SÃ¬, certo, tutti guardano Lauren per ammirare la sua energia."
+Messages[9]="Stavolta Ã¨ MIO!"
 Messages[10]="AAAARRRRGHH!"
-Messages[11]="Sei il massimo, Gorge! Sei grande! Sì, avanti, sei tu il più grande!"
+Messages[11]="Sei il massimo, Gorge! Sei grande! SÃ¬, avanti, sei tu il piÃ¹ grande!"
 Messages[12]="MAAAALLLCOOOOOLLLMMM!"
 Messages[13]="Accidenti, avete visto?"
 Messages[14]="Credi a me, Jim, quel Gorge non ha rispetto per i suoi tifosi."
 Messages[15]="Beh, credo che sia ancora infuriato per la nuova ferita che Malcolm gli ha aperto in faccia nel loro ultimo scontro."
-Messages[16]="Sì, credo che sia leggermente assetato di VENDETTA."
-Messages[17]="Sì, stasera potremo assistere a un bello scontro."
-Messages[18]="Dato che la squadra di Malcolm è la campionessa, sceglierà l'arena di stasera."
+Messages[16]="SÃ¬, credo che sia leggermente assetato di VENDETTA."
+Messages[17]="SÃ¬, stasera potremo assistere a un bello scontro."
+Messages[18]="Dato che la squadra di Malcolm Ã¨ la campionessa, sceglierÃ  l'arena di stasera."
 Messages[19]="E l'arena scelta sono... i ghiacciai di Kalendra!"
-Messages[20]="Oh, sì, adoro questa arena! Malcolm vi combatte molto bene."
-Messages[21]="L'incontro di stasera sarà un vero bagno di sangue."
+Messages[20]="Oh, sÃ¬, adoro questa arena! Malcolm vi combatte molto bene."
+Messages[21]="L'incontro di stasera sarÃ  un vero bagno di sangue."
 
 [Action_CHANGELEVEL]
 ActionString="Cambia livello"
@@ -266,8 +266,8 @@ DeathString="%o finisce arrosto."
 
 [Corroded]
 DeathString="%o sparisce nella melma a causa di %k."
-FemaleSuicide="%o si è dissolta nella melma."
-MaleSuicide="%o si è dissolta nella melma."
+FemaleSuicide="%o si Ã¨ dissolta nella melma."
+MaleSuicide="%o si Ã¨ dissolta nella melma."
 
 [Counter]
 CountMessage="Ne restano solo %i..."
@@ -275,8 +275,8 @@ CompleteMessage="Completato!"
 
 [Depressurized]
 DeathString="%o finisce sotto vuoto per colpa di %k."
-FemaleSuicide="%o è stata depressurizzata."
-MaleSuicide="%o è stata depressurizzata."
+FemaleSuicide="%o Ã¨ stata depressurizzata."
+MaleSuicide="%o Ã¨ stata depressurizzata."
 
 [Drowned]
 DeathString="%o ha dimenticato di emergere per respirare."

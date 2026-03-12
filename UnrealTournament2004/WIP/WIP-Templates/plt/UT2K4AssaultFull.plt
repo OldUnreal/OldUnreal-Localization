@@ -1,4 +1,4 @@
-[ASTurret_IonCannon]
+﻿[ASTurret_IonCannon]
 ; EN: VehiclePositionString="manning an Ion Cannon"
 VehiclePositionString="załoga działka jonowego"
 ; EN: VehicleNameString="Ion Cannon"

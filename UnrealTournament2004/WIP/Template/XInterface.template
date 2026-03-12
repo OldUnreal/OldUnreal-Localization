@@ -1,3 +1,4 @@
+﻿[AdminPlayerList]
 [AdminPlayerList]
 ; EN: ColumnHeadings=("Player Name","Unique ID","IP")
 ColumnHeadings=("","","")

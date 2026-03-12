@@ -1,4 +1,4 @@
-[utvPrimaryMenu]
+﻿[utvPrimaryMenu]
 ; EN: Label1.Caption="Total clients"
 Label1.Caption="Razem klientów"
 ; EN: LabelD.Caption="Delay"

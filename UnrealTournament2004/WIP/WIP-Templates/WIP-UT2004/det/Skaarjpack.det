@@ -1,4 +1,4 @@
-[Public]
+ï»¿[Public]
 ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM|Invasion|SkaarjPack.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
 
 [DamTypeBelch]
@@ -8,8 +8,8 @@ MaleSuicide="Ein Gasbag ist in die Luft geflogen."
 
 [DamTypeBruteRocket]
 DeathString="%o wurde von einer Brute Rocket weggefegt."
-FemaleSuicide="Ein Brute hat seine Rakete verfrüht abgefeuert."
-MaleSuicide="Ein Brute hat seine Rakete verfrüht abgefeuert."
+FemaleSuicide="Ein Brute hat seine Rakete verfrÃ¼ht abgefeuert."
+MaleSuicide="Ein Brute hat seine Rakete verfrÃ¼ht abgefeuert."
 
 [DamTypeKrallBolt]
 DeathString="%o wurde von einem Krall pulverisiert."
@@ -18,9 +18,9 @@ DeathString="%o wurde von einem Krall pulverisiert."
 DeathString="%o wurde von einem Skaarj abgefackelt."
 
 [DamTypeWarlordRocket]
-DeathString="%o wurde von einem Warlord aufs Übelste massakriert."
-FemaleSuicide="Ein Warlord hat seine Rakete verfrüht abgefeuert."
-MaleSuicide="Ein Warlord hat seine Rakete verfrüht abgefeuert."
+DeathString="%o wurde von einem Warlord aufs Ãœbelste massakriert."
+FemaleSuicide="Ein Warlord hat seine Rakete verfrÃ¼ht abgefeuert."
+MaleSuicide="Ein Warlord hat seine Rakete verfrÃ¼ht abgefeuert."
 
 [HUDInvasion]
 YouveLostTheMatch="Die Invasion geht weiter"
@@ -34,17 +34,17 @@ InvasionPropText[4]="Wellenanzahl"
 InvasionPropText[5]="Max Eindringlinge"
 InvasionPropText[6]="Dauer"
 InvasionPropText[7]="Schwierigkeit"
-InvasionDescText[0]="Geben Sie die erste Welle kommender Monster für eine Map an."
-InvasionDescText[1]="Geben Sie die letzte zu vernichtende Welle an, um eine Map abzuschließen."
+InvasionDescText[0]="Geben Sie die erste Welle kommender Monster fÃ¼r eine Map an."
+InvasionDescText[1]="Geben Sie die letzte zu vernichtende Welle an, um eine Map abzuschlieÃŸen."
 InvasionDescText[2]="Konfigurieren der Eigenschaften jeder Welle."
-InvasionDescText[3]="Wählen Sie die zu konfigurierende Welle aus."
-InvasionDescText[4]="Setzen Sie neben jedem Monster, das zu dieser Welle gehören soll, ein Häkchen."
-InvasionDescText[5]="Höchstzahl an Monstern, die gleichzeitig in der Karte sein können."
+InvasionDescText[3]="WÃ¤hlen Sie die zu konfigurierende Welle aus."
+InvasionDescText[4]="Setzen Sie neben jedem Monster, das zu dieser Welle gehÃ¶ren soll, ein HÃ¤kchen."
+InvasionDescText[5]="HÃ¶chstzahl an Monstern, die gleichzeitig in der Karte sein kÃ¶nnen."
 InvasionDescText[6]="Dauer (in Sekunden) der Welle."
 InvasionDescText[7]="Anpassen der relativen Intelligenz der Eindringlinge."
-SPBotDesc="Geben Sie die Anzahl der Bots (maximal 2 für Invasion) ein, die teilnehmen sollen."
+SPBotDesc="Geben Sie die Anzahl der Bots (maximal 2 fÃ¼r Invasion) ein, die teilnehmen sollen."
 GameName="Invasion"
-Description="Sie müssen sich zusammen mit den anderen Spielern so lange wie möglich gegen angreifende Monster bewähren."
+Description="Sie mÃ¼ssen sich zusammen mit den anderen Spielern so lange wie mÃ¶glich gegen angreifende Monster bewÃ¤hren."
 GIPropsDisplayText[0]="Monstergeschicklichkeit"
 GIPropDescText[0]="Einstellen der Geschicklichkeit eindringender Monster."
 
@@ -55,7 +55,7 @@ SomeoneString="ein Monster"
 OutMessage="ist DRAUSSEN!"
 
 [InvasionWaveConfig]
-WCFGClose.Caption="Schließ."
+WCFGClose.Caption="SchlieÃŸ."
 WCFGCreat01.Caption="Pupae"
 WCFGCreat01.Hint="Der Skaarj Pupae."
 WCFGCreat02.Caption="Razor Fly"
@@ -93,9 +93,9 @@ WCFGDuration.Caption="Dauer"
 WCFGDuration.Hint="Wie lange jede Welle andauert."
 WCFGLabel1.Caption="Konfigurieren jeder Welle ..."
 WCFGLabel2.Caption="Schwierigkeit"
-WCFGReset.Caption="Zurücksetzen"
+WCFGReset.Caption="ZurÃ¼cksetzen"
 WCFGWaveNo.Caption="Welle nein"
-WCFGWaveNo.Hint="Wählen Sie aus, welche Welle angepasst werden soll."
+WCFGWaveNo.Hint="WÃ¤hlen Sie aus, welche Welle angepasst werden soll."
 
 [MeleeDamage]
 DeathString="%o wurde ausgeweidet."
@@ -108,7 +108,7 @@ WaveString="Welle"
 
 [TAB_IAInvasion]
 IAInvasionInitialWave.Caption="Erste Welle"
-IAInvasionInitialWave.Hint="Wählen Sie die Anfangswelle aus."
+IAInvasionInitialWave.Hint="WÃ¤hlen Sie die Anfangswelle aus."
 IAInvasionWaveConfig.Caption="Wellen konfigurieren"
 
 

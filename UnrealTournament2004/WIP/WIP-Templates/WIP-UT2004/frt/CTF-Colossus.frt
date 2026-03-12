@@ -1,24 +1,24 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Colosse"
 
 [LevelSummary]
 Title="Colosse"
-Description="En exploitant la rapidité que procure le terrain supérieur et l'abri relatif du terrain inférieur, les joueurs compétents en tactique pourront rejoindre le drapeau presque sans difficulté. Mais revenir avec le drapeau est une autre paire de manches."
+Description="En exploitant la rapiditÃ© que procure le terrain supÃ©rieur et l'abri relatif du terrain infÃ©rieur, les joueurs compÃ©tents en tactique pourront rejoindre le drapeau presque sans difficultÃ©. Mais revenir avec le drapeau est une autre paire de manches."
 
 [Volume0]
-LocationName="Base arrière Bleue"
+LocationName="Base arriÃ¨re Bleue"
 
 [Volume1]
-LocationName="Base avancée Bleue"
+LocationName="Base avancÃ©e Bleue"
 
 [Volume2]
 LocationName="Zone neutre"
 
 [Volume3]
-LocationName="Base avancée Rouge"
+LocationName="Base avancÃ©e Rouge"
 
 [Volume4]
-LocationName="Base arrière Rouge"
+LocationName="Base arriÃ¨re Rouge"
 
 [ZoneInfo1]
 LocationName="Bunker Rouge"

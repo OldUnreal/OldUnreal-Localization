@@ -1,4 +1,4 @@
-[Action_DISPLAYMESSAGE10]
+﻿[Action_DISPLAYMESSAGE10]
 Message="2..."
 
 [Action_DISPLAYMESSAGE11]

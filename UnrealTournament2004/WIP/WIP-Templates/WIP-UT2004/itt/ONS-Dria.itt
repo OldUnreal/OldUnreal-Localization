@@ -1,4 +1,4 @@
-[ClassicSniperAmmoPickup2]
+Ôªø[ClassicSniperAmmoPickup2]
 PickupMessage="Hai raccolto 20 cariche fulminanti."
 
 [LevelInfo0]
@@ -6,7 +6,7 @@ Title="Dria"
 
 [LevelSummary]
 Title="Dria"
-Description="Situati tra le rovine dell'ultima fortezza Nali, questi campi ghiacciati sono stati luogo dell'ultima resistenza Nali contro gli Skaarj. Portando i loro massi giganti davanti alla citt‡, gli Skaarj l'hanno assediata per tre settimane ed infine oltrepassato le mura distruggendo tutto. Ora questa arena Ë parte della modalit‡ Energia, la vastit‡ di questo scenario metter‡ alla prova la concentrazione e il lavoro di squadra anche dei migliori." 
+Description="Situati tra le rovine dell'ultima fortezza Nali, questi campi ghiacciati sono stati luogo dell'ultima resistenza Nali contro gli Skaarj. Portando i loro massi giganti davanti alla citt√†, gli Skaarj l'hanno assediata per tre settimane ed infine oltrepassato le mura distruggendo tutto. Ora questa arena √® parte della modalit√† Energia, la vastit√† di questo scenario metter√† alla prova la concentrazione e il lavoro di squadra anche dei migliori." 
                
 [Volume0]
 LocationName="Base rossa"

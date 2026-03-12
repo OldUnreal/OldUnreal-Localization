@@ -1,21 +1,21 @@
-[LevelInfo0]
+Ôªø[LevelInfo0]
 Title="Dieu de fer"
 
 [LevelSummary]
 Title="Dieu de fer"
-Description="Cette vaste et imposante arËne est bien adaptÈe ‡ deux Èquipes de taille moyenne. Restez sur vos gardes dans l'Ètroite salle du ventilateur et contrÙlez le double dÈg‚t. Enfin, Ouvrez l'oeil pour trouver le rÈdempteur cachÈ !"
+Description="Cette vaste et imposante ar√®ne est bien adapt√©e √† deux √©quipes de taille moyenne. Restez sur vos gardes dans l'√©troite salle du ventilateur et contr√¥lez le double d√©g√¢t. Enfin, Ouvrez l'oeil pour trouver le r√©dempteur cach√© !"
 
 [ZoneInfo0]
 LocationName="Lightning Gun"
 
 [ZoneInfo1]
-LocationName="Rampe infÈrieure"
+LocationName="Rampe inf√©rieure"
 
 [ZoneInfo10]
-LocationName="Salle FPS infÈrieure"
+LocationName="Salle FPS inf√©rieure"
 
 [ZoneInfo11]
-LocationName="PrËs du double dÈg‚t"
+LocationName="Pr√®s du double d√©g√¢t"
 
 [ZoneInfo12]
 LocationName="Placard"
@@ -27,7 +27,7 @@ LocationName="Link Gun"
 LocationName="Minigun"
 
 [ZoneInfo4]
-LocationName="Double dÈg‚t"
+LocationName="Double d√©g√¢t"
 
 [ZoneInfo5]
 LocationName="Salle flak"

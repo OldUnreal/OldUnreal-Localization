@@ -1,9 +1,9 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Atlantis"
 
 [LevelSummary]
 Title="Atlantis"
-Description="Si cette vaste métropole mythique a disparu dans les profondeurs sombres de l'océan, cela ne signifie pas que le tournoi ne peut pas s'y dérouler. Elle a beau se trouver 20 000 lieues sous les mers, les pouvoirs des Atlantes empêcheront les concurrents de se mouiller les pieds."
+Description="Si cette vaste mÃ©tropole mythique a disparu dans les profondeurs sombres de l'ocÃ©an, cela ne signifie pas que le tournoi ne peut pas s'y dÃ©rouler. Elle a beau se trouver 20 000 lieues sous les mers, les pouvoirs des Atlantes empÃªcheront les concurrents de se mouiller les pieds."
 
 [Volume0]
 LocationName="Point DOM B"

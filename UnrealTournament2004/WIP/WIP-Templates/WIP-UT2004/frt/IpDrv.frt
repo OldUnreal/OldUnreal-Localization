@@ -1,4 +1,4 @@
-[Public]
+ï»¿[Public]
 Object=(Name=IpDrv.UpdateServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.MasterServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.CompressCommandlet,Class=Class,MetaClass=Core.Commandlet)
@@ -16,21 +16,21 @@ ClassCaption=Balise serv. LAN
 
 [DecompressCommandlet]
 HelpCmd=decompress
-HelpOneLiner=Décompresser un fichier compressé avec ucc.
+HelpOneLiner=DÃ©compresser un fichier compressÃ© avec ucc.
 HelpUsage=decompress Fichcompr
 HelpParm[0]=fichcompr
-HelpDesc[0]=Fichier .uz à décompresser.
+HelpDesc[0]=Fichier .uz Ã  dÃ©compresser.
 
 [CompressCommandlet]
 HelpCmd=compress
-HelpOneLiner=Compresser ensemble Unreal pour téléchargement auto. Un fichier d'extension .uz sera créé.
+HelpOneLiner=Compresser ensemble Unreal pour tÃ©lÃ©chargement auto. Un fichier d'extension .uz sera crÃ©Ã©.
 HelpUsage=compress Fich1 [Fich2 [Fich3 ...]]
 HelpParm[0]=Fichiers
-HelpDesc[0]=Wildcard ou noms de fich. à compresser.
+HelpDesc[0]=Wildcard ou noms de fich. Ã  compresser.
 
 [MasterServerUplink]
-MSUPropText[0]="Publicité serveur"
+MSUPropText[0]="PublicitÃ© serveur"
 MSUPropText[1]="Traitement stats"
-MSUPropDesc[0]="Si activé, votre serveur sera affiché sur le navigateur de serveurs Internet"
+MSUPropDesc[0]="Si activÃ©, votre serveur sera affichÃ© sur le navigateur de serveurs Internet"
 MSUPropDesc[1]="Afficher les stats de joueurs de votre serveur sur le site web de stats d'UT2004."
 

@@ -1,9 +1,9 @@
-[LevelInfo0]
-Title="Géant de lave 2"
+ï»¿[LevelInfo0]
+Title="GÃ©ant de lave 2"
 
 [LevelSummary]
-Title="Géant de lave 2"
-Description="Le sang, la sueur et les larmes ont produit de grandes choses. Dans la chaleur d'enfer des champs de lave de Purgatory, ils s'évaporent si rapidement qu'ils ne laissent qu'un peu de crasse sur l'armure des prisonniers."
+Title="GÃ©ant de lave 2"
+Description="Le sang, la sueur et les larmes ont produit de grandes choses. Dans la chaleur d'enfer des champs de lave de Purgatory, ils s'Ã©vaporent si rapidement qu'ils ne laissent qu'un peu de crasse sur l'armure des prisonniers."
 
 [Volume0]
 LocationName="Base Rouge"
@@ -24,16 +24,16 @@ LocationName="Zone inf. Rouge"
 LocationName="Zone inf. Bleue"
 
 [ZoneInfo0]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 [ZoneInfo1]
-LocationName="Salle centrale générateur"
+LocationName="Salle centrale gÃ©nÃ©rateur"
 
 [ZoneInfo10]
 LocationName="Base Rouge"
 
 [ZoneInfo2]
-LocationName="Salle centrale générateur"
+LocationName="Salle centrale gÃ©nÃ©rateur"
 
 [ZoneInfo3]
 LocationName="Salle centrale bouclier"

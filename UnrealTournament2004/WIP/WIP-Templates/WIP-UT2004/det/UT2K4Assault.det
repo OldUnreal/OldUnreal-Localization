@@ -1,5 +1,5 @@
-[ACTION_ASOpenSentinel]
-ActionString="Wächter aufwecken"
+ï»¿[ACTION_ASOpenSentinel]
+ActionString="WÃ¤chter aufwecken"
 
 [ACTION_ASSetPlayerSpawnArea]
 ActionString="ACTION_ASSetPlayerSpawnArea"
@@ -13,20 +13,20 @@ ActionString="Explosions Sound"
 [ASGameInfo]
 ASPropsDisplayText[0]="Rundenpaare"
 ASPropsDisplayText[1]="Runden-Zeitlimit"
-ASPropsDisplayText[2]="Countdown zurücksetzen"
-ASPropsDisplayText[3]="Verstärkungszeit"
-ASPropsDisplayText[4]="Übungszeit"
-ASPropDescText[0]="Anzahl der Rundenpaare (Angriff und Verteidigung) für dieses Spiel."
+ASPropsDisplayText[2]="Countdown zurÃ¼cksetzen"
+ASPropsDisplayText[3]="VerstÃ¤rkungszeit"
+ASPropsDisplayText[4]="Ãœbungszeit"
+ASPropDescText[0]="Anzahl der Rundenpaare (Angriff und Verteidigung) fÃ¼r dieses Spiel."
 ASPropDescText[1]="Bestimmt, wie lange jede Runde dauert."
 ASPropDescText[2]="Bestimmt, wie viel Zeit zwischen jeder Runde vergeht."
-ASPropDescText[3]="Bestimmt die Zeit zwischen den Verstärkungen."
-ASPropDescText[4]="Legt fest, wie lange die Online-Übungsrunde dauert (in Sekunden)."
-ASHints=("Ein Wegpunkt auf dem HUD gibt den Ort eines Ziels an.","Achten Sie auf HUD-Warnungen und Alarmtöne, wenn ein Ziel in Gefahr ist.","Wenn ein neuer Einstiegsbereich aktiviert wurde, drücken Sie %SWITCHWEAPON 10%, um umgehend einen Teleport dorthin auszuführen.","Drücken Sie %BASEPATH 0% oder %BASEPATH 1%, um das aktuelle Ziel zu markieren, einen Weg dorthin zu zeigen und die Zielliste auszufahren.","Überwachen Sie den Wiedereinstiegs-Countdown, damit Sie wissen, wann Unterstützung zu erwarten ist.","Einige Waffen sind besser zum Zerstören von Spider-Minen geeignet als andere.","Sie können durch Fahrzeuge, die in Ihrer Nähe explodieren, verletzt oder getötet werden.","Mit dem alternativen Feuer der Link Gun, können Sie ein Fahrzeug Ihres Teams reparieren.","Wenn Sie sterben, explodieren alle Spider-Minen und Granaten, die Sie abgefeuert haben.","Das grüne Licht oben auf den Waffenfächern zeigen an, dass weitere Munition im Fach vorhanden ist.","Alle Türme können Sie mit %MOVEFORWARD% heranzoomen und mit %MOVEBACKWARD% wegzoomen.","Link-Türme haben die gleichen Eigenschaften wie die Link Gun.","Die Ion Cannon und der Ionenplasmapanzer kennzeichnen Ihr Ziel beim Aufladen mit einem Laserstrahl.","Man kann zwischen ferngesteuerten Türmen mit %NEXTWEAPON% und %PREVWEAPON% umschalten.","Bei einem Spacefighter kann man zwischen Zielen umschalten, indem man %NEXTWEAPON% und %PREVWEAPON% drückt.","Es können mehrere Trophäen gewonnen werden, indem man ein wichtiges Fahrzeug (oder einen wichtigen Turm) zerstört, ein Ziel erfüllt, oder einen erfolgreichen Angriff durchgeführt hat.","Eine Trophäe erhält der Spieler, der das Ziel erfüllt, aber die Punktebelohnung wird auf alle aufgeteilt, die zum Erfolg beigetragen haben.","Drücken Sie %TOGGLEBEHINDVIEW%, um bei Fahrzeugen zwischen der Ego- und der Außen-Perspektive umzuschalten.")
+ASPropDescText[3]="Bestimmt die Zeit zwischen den VerstÃ¤rkungen."
+ASPropDescText[4]="Legt fest, wie lange die Online-Ãœbungsrunde dauert (in Sekunden)."
+ASHints=("Ein Wegpunkt auf dem HUD gibt den Ort eines Ziels an.","Achten Sie auf HUD-Warnungen und AlarmtÃ¶ne, wenn ein Ziel in Gefahr ist.","Wenn ein neuer Einstiegsbereich aktiviert wurde, drÃ¼cken Sie %SWITCHWEAPON 10%, um umgehend einen Teleport dorthin auszufÃ¼hren.","DrÃ¼cken Sie %BASEPATH 0% oder %BASEPATH 1%, um das aktuelle Ziel zu markieren, einen Weg dorthin zu zeigen und die Zielliste auszufahren.","Ãœberwachen Sie den Wiedereinstiegs-Countdown, damit Sie wissen, wann UnterstÃ¼tzung zu erwarten ist.","Einige Waffen sind besser zum ZerstÃ¶ren von Spider-Minen geeignet als andere.","Sie kÃ¶nnen durch Fahrzeuge, die in Ihrer NÃ¤he explodieren, verletzt oder getÃ¶tet werden.","Mit dem alternativen Feuer der Link Gun, kÃ¶nnen Sie ein Fahrzeug Ihres Teams reparieren.","Wenn Sie sterben, explodieren alle Spider-Minen und Granaten, die Sie abgefeuert haben.","Das grÃ¼ne Licht oben auf den WaffenfÃ¤chern zeigen an, dass weitere Munition im Fach vorhanden ist.","Alle TÃ¼rme kÃ¶nnen Sie mit %MOVEFORWARD% heranzoomen und mit %MOVEBACKWARD% wegzoomen.","Link-TÃ¼rme haben die gleichen Eigenschaften wie die Link Gun.","Die Ion Cannon und der Ionenplasmapanzer kennzeichnen Ihr Ziel beim Aufladen mit einem Laserstrahl.","Man kann zwischen ferngesteuerten TÃ¼rmen mit %NEXTWEAPON% und %PREVWEAPON% umschalten.","Bei einem Spacefighter kann man zwischen Zielen umschalten, indem man %NEXTWEAPON% und %PREVWEAPON% drÃ¼ckt.","Es kÃ¶nnen mehrere TrophÃ¤en gewonnen werden, indem man ein wichtiges Fahrzeug (oder einen wichtigen Turm) zerstÃ¶rt, ein Ziel erfÃ¼llt, oder einen erfolgreichen Angriff durchgefÃ¼hrt hat.","Eine TrophÃ¤e erhÃ¤lt der Spieler, der das Ziel erfÃ¼llt, aber die Punktebelohnung wird auf alle aufgeteilt, die zum Erfolg beigetragen haben.","DrÃ¼cken Sie %TOGGLEBEHINDVIEW%, um bei Fahrzeugen zwischen der Ego- und der AuÃŸen-Perspektive umzuschalten.")
 GameName="Assault"
-Description="In jeder Runde übernimmt ein Team die Rolle des Angreifers und das andere Team die des Verteidigers. Es werden berühmte (oder berüchtigte) Szenarien nachgespielt. Nach einem Rundenpaar erhält das erfolgreichste Angriffsteam einen Punkt."
+Description="In jeder Runde Ã¼bernimmt ein Team die Rolle des Angreifers und das andere Team die des Verteidigers. Es werden berÃ¼hmte (oder berÃ¼chtigte) Szenarien nachgespielt. Nach einem Rundenpaar erhÃ¤lt das erfolgreichste Angriffsteam einen Punkt."
 
 [ASGameReplicationInfo]
-ERW_PracticeRoundEndedStr="Die Übungsrunde ist vorbei. Machen Sie sich fertig!"
+ERW_PracticeRoundEndedStr="Die Ãœbungsrunde ist vorbei. Machen Sie sich fertig!"
 ERW_RedAttackedStr="Rotes Team erfolgreich angegriffen!"
 ERW_BlueAttackedStr="Blaues Team erfolgreich angegriffen!"
 ERW_RedDefendedStr="Rotes Team erfolgreich verteidigt!"
@@ -58,13 +58,13 @@ VehiclePositionString="Besetzung eines Minigun-Turms"
 VehicleNameString="Minigun-Turm"
 
 [ASVehicle_Sentinel]
-VehicleNameString="Wächter"
+VehicleNameString="WÃ¤chter"
 
 [ASVehicle_Sentinel_Ceiling]
-VehicleNameString="Deckenwächter"
+VehicleNameString="DeckenwÃ¤chter"
 
 [ASVehicle_Sentinel_Floor]
-VehicleNameString="Bodenwächter"
+VehicleNameString="BodenwÃ¤chter"
 
 [ASVehicle_SpaceFighter]
 Text_Speed="Geschwindigkeit:"
@@ -78,7 +78,7 @@ FemaleSuicide="%o befand sich etwas zu nahe an dem Barrel, das sie hochgejagt ha
 MaleSuicide="%o befand sich etwas zu nahe an dem Barrel, das ihn hochgejagt hat."
 
 [DamTypeMinigunTurretBullet]
-DeathString="%o wurde von %ks Minigun-Geschütz weggemäht."
+DeathString="%o wurde von %ks Minigun-GeschÃ¼tz weggemÃ¤ht."
 FemaleSuicide="%o hat sich Minigun-isiert."
 MaleSuicide="%o hat sich Minigun-isiert."
 
@@ -88,10 +88,10 @@ FemaleSuicide="%o hat sich mit ihrem eigenen Laser gegrillt."
 MaleSuicide="%o hat sich mit seinem eigenen Laser gegrillt."
 
 [DestroyVehicleObjective]
-ObjectiveName="Fahrzeugziel zerstören"
-ObjectiveDescription="Fahrzeugziel zerstören, um es zu deaktivieren."
-Objective_Info_Attacker="Fahrzeugziel zerstören"
-Objective_Info_Defender="Fahrzeugziel schützen"
+ObjectiveName="Fahrzeugziel zerstÃ¶ren"
+ObjectiveDescription="Fahrzeugziel zerstÃ¶ren, um es zu deaktivieren."
+Objective_Info_Attacker="Fahrzeugziel zerstÃ¶ren"
+Objective_Info_Defender="Fahrzeugziel schÃ¼tzen"
 
 [GameObject_EnergyCore]
 PlayerDroppedMessage=" hat Energiekern fallen gelassen!"
@@ -110,14 +110,14 @@ NoGameReplicationInfoString="Server-Status wird empfangen ..."
 MetersString="m"
 TargetString="Ziel:"
 NoTargetString="Kein Ziel"
-PracticeRoundString="Übungsrunde"
+PracticeRoundString="Ãœbungsrunde"
 
 [InfoPod]
 POD_Message="-= info pod =-"
 
 [Message_ASKillMessages]
 KillString[0]="Top Gun!"
-KillString[1]="Räuber!"
+KillString[1]="RÃ¤uber!"
 
 [Message_AssaultTeamRole]
 Message_PostLogin_Attacker="Sie greifen an!!"
@@ -141,18 +141,18 @@ CurrentRound="Runde:"
 RoundSeparator="/"
 Defender="( Verteidiger )"
 Attacker="( Angreifer )"
-WaitForReinforcements="   Sie wurden getötet. Verstärkung in"
-WaitingToSpawnReinforcements="Warten auf Verstärkung ..."
+WaitForReinforcements="   Sie wurden getÃ¶tet. VerstÃ¤rkung in"
+WaitingToSpawnReinforcements="Warten auf VerstÃ¤rkung ..."
 AutoRespawn="Automatischer Wiedereinstieg in ..."
 YouWonRound="Sie haben die Runde gewonnen!"
 YouLostRound="Sie haben die Runde verloren!"
-PracticeRoundOver="Übungsrunde vorüber."
+PracticeRoundOver="Ãœbungsrunde vorÃ¼ber."
 
 [Trigger_ASMessageTrigger]
 Message="Meine Meldung"
 
 [Weapon_Sentinel]
-ItemName="Wächterwaffe"
+ItemName="WÃ¤chterwaffe"
 
 [Weapon_Turret_Minigun]
 ItemName="Turmwaffe"

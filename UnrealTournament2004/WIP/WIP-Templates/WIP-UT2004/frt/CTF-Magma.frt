@@ -1,4 +1,4 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Magma"
 
 [LevelSummary]
@@ -6,10 +6,10 @@ Title="Magma"
 
 
 [Volume0]
-LocationName="Intérieur base bleue"
+LocationName="IntÃ©rieur base bleue"
 
 [Volume1]
-LocationName="Intérieur base rouge"
+LocationName="IntÃ©rieur base rouge"
 
 [Volume10]
 LocationName="Passages rouges"
@@ -18,10 +18,10 @@ LocationName="Passages rouges"
 LocationName="Passages bleus"
 
 [Volume2]
-LocationName="Base rouge supérieure"
+LocationName="Base rouge supÃ©rieure"
 
 [Volume3]
-LocationName="Base bleue supérieure"
+LocationName="Base bleue supÃ©rieure"
 
 [Volume4]
 LocationName="Tour rouge"
@@ -48,7 +48,7 @@ LocationName="Fosse de lave"
 LocationName="Cave"
 
 [ZoneInfo1]
-LocationName="Côté bleu"
+LocationName="CÃ´tÃ© bleu"
 
 [ZoneInfo2]
 LocationName="Cave"
@@ -69,7 +69,7 @@ LocationName="Cave"
 LocationName="cave"
 
 [ZoneInfo8]
-LocationName="Côté rouge"
+LocationName="CÃ´tÃ© rouge"
 
 
 

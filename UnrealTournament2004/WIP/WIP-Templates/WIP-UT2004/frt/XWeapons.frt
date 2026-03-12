@@ -1,19 +1,19 @@
-[Public]
+ï»¿[Public]
 ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutArena,Description="Remplacer armes et munitions sur la map.")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutNoSuperWeapon,Description="Ni rédempteur ni canon ionique sur map.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.AssaultRifle,Description="Peu coûteux et facile à produire, l'AR770 fournit une solution de combat légère de 5,56 mm surtout efficace contre les adversaires dépourvus d'armure. Doté d'une capacité de pénétration faible à modérée, ce fusil donne les meilleurs résultats dans le rôle d'arme de soutien légère.|Le lance-grenades optionnel M355 lui apporte le punch qui le rend efficace contre les cibles lourdement blindées.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutNoSuperWeapon,Description="Ni rÃ©dempteur ni canon ionique sur map.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.AssaultRifle,Description="Peu coÃ»teux et facile Ã  produire, l'AR770 fournit une solution de combat lÃ©gÃ¨re de 5,56 mm surtout efficace contre les adversaires dÃ©pourvus d'armure. DotÃ© d'une capacitÃ© de pÃ©nÃ©tration faible Ã  modÃ©rÃ©e, ce fusil donne les meilleurs rÃ©sultats dans le rÃ´le d'arme de soutien lÃ©gÃ¨re.|Le lance-grenades optionnel M355 lui apporte le punch qui le rend efficace contre les cibles lourdement blindÃ©es.")
 ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BallLauncher,Description="")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BioRifle,Description="Le fusil bio GES demeure l'une des armes les plus controversées du tournoi. Adoré par certains, décrié par d'autres, le fusil bio a longtemps fait l'objet de débats portant sur son utilité. ||Certains puristes déclarent qu'il n'est qu'un 'poseur de mines' pour lâches. Ses partisans prétendent au contraire qu'il augmente les capacités tactiques des combattants d'un naturel défensif. |Quoi qu'il en soit, cette arme offre une large couverture à cadence de tir élevée en tir primaire, tandis que le tir secondaire permet d'expédier un seul projectile de masse variable. En jargon de fantassin, cela revient à crépir une zone de petites boules de biogelée ou à balancer un gros crachat sur la cible...")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.FlakCannon,Description="Le Trident Defensive Technologies Series 7 Flechette Cannon a connu une nouvelle étape de son évolution avec l'entrée en production du Mk3 'Negotiator'. Les fléchettes ionisées sont capables d'infliger aux tissus organiques des brûlures aux 2e et 3e degrés avec cautérisation immédiate. Le lancement des projectiles utilise deux méthodes : large faisceau de fléchettes tirées par le canon de l'arme ou grenades à fragmentation explosant à l'impact et expédiant des fléchettes dans toutes les directions.")
-;Object=Riordan Dynamic Weapon Systems associe le meilleur au sein de l'Advanced Plasma Rifle v23, communément appelé Link Gun.|Si le tir principal du Link demeure inchangé par rapport à l'arme à plasma à laquelle il a succédé, la torche de découpe secondaire a été remplacée par une matrice d'énergie à balayage actif. Au contact avec un équipier, le faisceau demeure une banale porteuse de signal qui transmet l'énergie des cellules embarquées, augmentant ainsi la puissance de feu de tout équipier visé employant également le link.|Mais les joueurs boostant ainsi leurs équipiers sont incapables de se défendre contre une attaque.
-;Object=Le Schultz-Metzger T23-A 23 mm à canons rotatifs peut tirer aussi bien des munitions sans douille à haute vélocité que les obus à douille. Avec une masse à vide de 8 kg, le T23 est maniable et facile à transporter sur le dos à l'aide de la courroie livrée en option. Le T23-A est l'arme à canons rotatifs de choix du combattant avisé
-;Object=Le pointeur ionique semble sans danger car son tir primaire se borne à émettre un faisceau laser de très faible puissance. Cependant, quelques secondes plus tard, un canon ionique de plusieurs térawatts tire sur la cible depuis sa position en orbite, neutralisant tous les combattants situés à proximité.|Le pointeur ionique est un dispositif de désignation servant à orienter et activer le canon ionique VAPOR. Il offre une précision de visée accrue grâce à sa lunette actionnée par la commande de tir secondaire.|Lorsque le pointeur ionique a été utilisé pour désigner une cible, il est vivement recommandé à son utilisateur de s'éloigner à toutes jambes afin de quitter le rayon de létalité du canon ionique
-;Object=Lorsque vous verrez cette charge nucléaire miniature en action pour la première fois, vous saurez qu'il s'agit de l'arme la plus puissante du tournoi. Utilisez la commande de tir primaire pour expédier une roquette lente mais dévastatrice et assurez-vous surtout d'être hors de son rayon létal avant l'impact. Le tir secondaire vous permet de guider le projectile grâce à la vue roquette. Rappelez-vous cependant que vous êtes très vulnérable durant la phase de guidage. En raison du volume de la munition, le Rédempteur est une arme à usage unique.
-;Object=Le lance-roquettes Trident Tri-barrel est très apprécié des concurrents qui aiment en avoir pour leur argent.|Sa conception à canons rotatifs et chargement par l'arrière permet le lancement d'une ou plusieurs charges (jusqu'à trois roquettes sur la cible). Les projectiles délivrent une puissance de concussion maximale à la cible et à ses environs immédiats lors de la détonation.
-;Object=Le Kemphler DD280 Riot Control Device est capable de résister aux projectiles et faisceaux d'énergie et de les réfléchir. L'onde de plasma génère des dégâts majeurs en déchirant les tissus, en pulvérisant les organes et en introduisant de dangereuses bulles de gaz dans le flux sanguin. Bien que conçu pour le combat à très courte portée, cet engin est aussi dangereux que toute autre arme disponible.
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShockRifle,Description="Le fusil shock ASMD a peu évolué depuis son entrée en service dans le Tournoi. L'ASMD est doté de deux modes de tir capables de travailler de concert pour neutraliser les adversaires grâce à une onde de choc dévastatrice.||Cette attaque combinée repose sur l'emploi du tir secondaire pour expédier une charge de plasma vers la cible.|Lorsque la cible se trouve à portée efficace de cette charge à vitesse lente, l'utilisateur de l'arme peut tirer un faisceau de photons dans la boule de plasma, ce qui libère l'énergie explosive des anti-photons emprisonnés dans le champ EM du plasma.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.SniperRifle,Description="Le lightning gun est un fusil à énergie de grande puissance capable de venir à bout de l'armure la plus lourde. L'acquisition d'une cible à grande distance exige une main de fer, mais l'effet stabilisateur du système optique réduit considérablement la courbe d'apprentissage de l'arme. Une fois la cible acquise, le tireur presse la détente, ce qui illumine la cible d'une 'tache' de protons. Quelques millisecondes plus tard, le fusil émet un arc électrique à fort voltage qui recherche le différentiel de charge et annihile la cible.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.TransLauncher,Description="Ce matériel a été développé initialement par le département R&D de la Liandri Corporation afin de faciliter le rappel rapide des mineurs en cas d'effondrement de galerie. Cependant, la dissociation et recombinaison rapide de l'organisme du sujet peut avoir des effets peu enviables tels que l'accroissement de l'agressivité et la paranoïa.||Afin de prolonger la carrière des concurrents actuels, l'emploi du téléporteur a été limité dans les ligues mineures.|La dernière version du téléporteur incorpore une caméra télécommandée très utile lors de l'examen des zones disputées, mais l'emploi de la caméra de surveillance empêche l'utilisateur de suivre ce qui se passe autour de lui.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BioRifle,Description="Le fusil bio GES demeure l'une des armes les plus controversÃ©es du tournoi. AdorÃ© par certains, dÃ©criÃ© par d'autres, le fusil bio a longtemps fait l'objet de dÃ©bats portant sur son utilitÃ©. ||Certains puristes dÃ©clarent qu'il n'est qu'un 'poseur de mines' pour lÃ¢ches. Ses partisans prÃ©tendent au contraire qu'il augmente les capacitÃ©s tactiques des combattants d'un naturel dÃ©fensif. |Quoi qu'il en soit, cette arme offre une large couverture Ã  cadence de tir Ã©levÃ©e en tir primaire, tandis que le tir secondaire permet d'expÃ©dier un seul projectile de masse variable. En jargon de fantassin, cela revient Ã  crÃ©pir une zone de petites boules de biogelÃ©e ou Ã  balancer un gros crachat sur la cible...")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.FlakCannon,Description="Le Trident Defensive Technologies Series 7 Flechette Cannon a connu une nouvelle Ã©tape de son Ã©volution avec l'entrÃ©e en production du Mk3 'Negotiator'. Les flÃ©chettes ionisÃ©es sont capables d'infliger aux tissus organiques des brÃ»lures aux 2e et 3e degrÃ©s avec cautÃ©risation immÃ©diate. Le lancement des projectiles utilise deux mÃ©thodes : large faisceau de flÃ©chettes tirÃ©es par le canon de l'arme ou grenades Ã  fragmentation explosant Ã  l'impact et expÃ©diant des flÃ©chettes dans toutes les directions.")
+;Object=Riordan Dynamic Weapon Systems associe le meilleur au sein de l'Advanced Plasma Rifle v23, communÃ©ment appelÃ© Link Gun.|Si le tir principal du Link demeure inchangÃ© par rapport Ã  l'arme Ã  plasma Ã  laquelle il a succÃ©dÃ©, la torche de dÃ©coupe secondaire a Ã©tÃ© remplacÃ©e par une matrice d'Ã©nergie Ã  balayage actif. Au contact avec un Ã©quipier, le faisceau demeure une banale porteuse de signal qui transmet l'Ã©nergie des cellules embarquÃ©es, augmentant ainsi la puissance de feu de tout Ã©quipier visÃ© employant Ã©galement le link.|Mais les joueurs boostant ainsi leurs Ã©quipiers sont incapables de se dÃ©fendre contre une attaque.
+;Object=Le Schultz-Metzger T23-A 23 mm Ã  canons rotatifs peut tirer aussi bien des munitions sans douille Ã  haute vÃ©locitÃ© que les obus Ã  douille. Avec une masse Ã  vide de 8 kg, le T23 est maniable et facile Ã  transporter sur le dos Ã  l'aide de la courroie livrÃ©e en option. Le T23-A est l'arme Ã  canons rotatifs de choix du combattant avisÃ©
+;Object=Le pointeur ionique semble sans danger car son tir primaire se borne Ã  Ã©mettre un faisceau laser de trÃ¨s faible puissance. Cependant, quelques secondes plus tard, un canon ionique de plusieurs tÃ©rawatts tire sur la cible depuis sa position en orbite, neutralisant tous les combattants situÃ©s Ã  proximitÃ©.|Le pointeur ionique est un dispositif de dÃ©signation servant Ã  orienter et activer le canon ionique VAPOR. Il offre une prÃ©cision de visÃ©e accrue grÃ¢ce Ã  sa lunette actionnÃ©e par la commande de tir secondaire.|Lorsque le pointeur ionique a Ã©tÃ© utilisÃ© pour dÃ©signer une cible, il est vivement recommandÃ© Ã  son utilisateur de s'Ã©loigner Ã  toutes jambes afin de quitter le rayon de lÃ©talitÃ© du canon ionique
+;Object=Lorsque vous verrez cette charge nuclÃ©aire miniature en action pour la premiÃ¨re fois, vous saurez qu'il s'agit de l'arme la plus puissante du tournoi. Utilisez la commande de tir primaire pour expÃ©dier une roquette lente mais dÃ©vastatrice et assurez-vous surtout d'Ãªtre hors de son rayon lÃ©tal avant l'impact. Le tir secondaire vous permet de guider le projectile grÃ¢ce Ã  la vue roquette. Rappelez-vous cependant que vous Ãªtes trÃ¨s vulnÃ©rable durant la phase de guidage. En raison du volume de la munition, le RÃ©dempteur est une arme Ã  usage unique.
+;Object=Le lance-roquettes Trident Tri-barrel est trÃ¨s apprÃ©ciÃ© des concurrents qui aiment en avoir pour leur argent.|Sa conception Ã  canons rotatifs et chargement par l'arriÃ¨re permet le lancement d'une ou plusieurs charges (jusqu'Ã  trois roquettes sur la cible). Les projectiles dÃ©livrent une puissance de concussion maximale Ã  la cible et Ã  ses environs immÃ©diats lors de la dÃ©tonation.
+;Object=Le Kemphler DD280 Riot Control Device est capable de rÃ©sister aux projectiles et faisceaux d'Ã©nergie et de les rÃ©flÃ©chir. L'onde de plasma gÃ©nÃ¨re des dÃ©gÃ¢ts majeurs en dÃ©chirant les tissus, en pulvÃ©risant les organes et en introduisant de dangereuses bulles de gaz dans le flux sanguin. Bien que conÃ§u pour le combat Ã  trÃ¨s courte portÃ©e, cet engin est aussi dangereux que toute autre arme disponible.
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShockRifle,Description="Le fusil shock ASMD a peu Ã©voluÃ© depuis son entrÃ©e en service dans le Tournoi. L'ASMD est dotÃ© de deux modes de tir capables de travailler de concert pour neutraliser les adversaires grÃ¢ce Ã  une onde de choc dÃ©vastatrice.||Cette attaque combinÃ©e repose sur l'emploi du tir secondaire pour expÃ©dier une charge de plasma vers la cible.|Lorsque la cible se trouve Ã  portÃ©e efficace de cette charge Ã  vitesse lente, l'utilisateur de l'arme peut tirer un faisceau de photons dans la boule de plasma, ce qui libÃ¨re l'Ã©nergie explosive des anti-photons emprisonnÃ©s dans le champ EM du plasma.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.SniperRifle,Description="Le lightning gun est un fusil Ã  Ã©nergie de grande puissance capable de venir Ã  bout de l'armure la plus lourde. L'acquisition d'une cible Ã  grande distance exige une main de fer, mais l'effet stabilisateur du systÃ¨me optique rÃ©duit considÃ©rablement la courbe d'apprentissage de l'arme. Une fois la cible acquise, le tireur presse la dÃ©tente, ce qui illumine la cible d'une 'tache' de protons. Quelques millisecondes plus tard, le fusil Ã©met un arc Ã©lectrique Ã  fort voltage qui recherche le diffÃ©rentiel de charge et annihile la cible.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.TransLauncher,Description="Ce matÃ©riel a Ã©tÃ© dÃ©veloppÃ© initialement par le dÃ©partement R&D de la Liandri Corporation afin de faciliter le rappel rapide des mineurs en cas d'effondrement de galerie. Cependant, la dissociation et recombinaison rapide de l'organisme du sujet peut avoir des effets peu enviables tels que l'accroissement de l'agressivitÃ© et la paranoÃ¯a.||Afin de prolonger la carriÃ¨re des concurrents actuels, l'emploi du tÃ©lÃ©porteur a Ã©tÃ© limitÃ© dans les ligues mineures.|La derniÃ¨re version du tÃ©lÃ©porteur incorpore une camÃ©ra tÃ©lÃ©commandÃ©e trÃ¨s utile lors de l'examen des zones disputÃ©es, mais l'emploi de la camÃ©ra de surveillance empÃªche l'utilisateur de suivre ce qui se passe autour de lui.")
 
 [AssaultAmmo]
 ItemName="Cartouches"
@@ -22,7 +22,7 @@ ItemName="Cartouches"
 PickupMessage="Vous avez une caisse de grenades et de cartouches."
 
 [AssaultRifle]
-Description="Peu coûteux et facile à produire, l'AR770 fournit une solution de combat légère de 5,56 mm surtout efficace contre les adversaires dépourvus d'armure. Doté d'une capacité de pénétration faible à modérée, ce fusil donne les meilleurs résultats dans le rôle d'arme de soutien légère.|Le lance-grenades optionnel M355 lui apporte le punch qui le rend efficace contre les cibles lourdement blindées."
+Description="Peu coÃ»teux et facile Ã  produire, l'AR770 fournit une solution de combat lÃ©gÃ¨re de 5,56 mm surtout efficace contre les adversaires dÃ©pourvus d'armure. DotÃ© d'une capacitÃ© de pÃ©nÃ©tration faible Ã  modÃ©rÃ©e, ce fusil donne les meilleurs rÃ©sultats dans le rÃ´le d'arme de soutien lÃ©gÃ¨re.|Le lance-grenades optionnel M355 lui apporte le punch qui le rend efficace contre les cibles lourdement blindÃ©es."
 ItemName="Fusil assaut"
 
 [AssaultRiflePickup]
@@ -35,42 +35,42 @@ ItemName="Mun. balle"
 ItemName="Propulseur de balle"
 
 [BioAmmo]
-ItemName="Biogelée"
+ItemName="BiogelÃ©e"
 
 [BioAmmoPickup]
 PickupMessage="Vous avez munitions de fusil bio"
 
 [BioRifle]
-Description="Le fusil bio GES demeure l'une des armes les plus controversées du tournoi. Adoré par certains, décrié par d'autres, le fusil bio a longtemps fait l'objet de débats portant sur son utilité. ||Certains puristes déclarent qu'il n'est qu'un 'poseur de mines' pour lâches. Ses partisans prétendent au contraire qu'il augmente les capacités tactiques des combattants d'un naturel défensif. |Quoi qu'il en soit, cette arme offre une large couverture à cadence de tir élevée en tir primaire, tandis que le tir secondaire permet d'expédier un seul projectile de masse variable. En jargon de fantassin, cela revient à crépir une zone de petites boules de biogelée ou à balancer un gros crachat sur la cible..."
+Description="Le fusil bio GES demeure l'une des armes les plus controversÃ©es du tournoi. AdorÃ© par certains, dÃ©criÃ© par d'autres, le fusil bio a longtemps fait l'objet de dÃ©bats portant sur son utilitÃ©. ||Certains puristes dÃ©clarent qu'il n'est qu'un 'poseur de mines' pour lÃ¢ches. Ses partisans prÃ©tendent au contraire qu'il augmente les capacitÃ©s tactiques des combattants d'un naturel dÃ©fensif. |Quoi qu'il en soit, cette arme offre une large couverture Ã  cadence de tir Ã©levÃ©e en tir primaire, tandis que le tir secondaire permet d'expÃ©dier un seul projectile de masse variable. En jargon de fantassin, cela revient Ã  crÃ©pir une zone de petites boules de biogelÃ©e ou Ã  balancer un gros crachat sur la cible..."
 ItemName="Fusil bio"
 
 [BioRiflePickup]
 PickupMessage="Vous avez fusil bio"
 
 [DamTypeAssaultBullet]
-DeathString="%o ventilé(e) par fusil assaut de %k."
-FemaleSuicide="%o s'est tuée au F.A."
-MaleSuicide="%o s'est tué au F.A."
+DeathString="%o ventilÃ©(e) par fusil assaut de %k."
+FemaleSuicide="%o s'est tuÃ©e au F.A."
+MaleSuicide="%o s'est tuÃ© au F.A."
 
 [DamTypeAssaultGrenade]
-DeathString="%o a jonglé avec grenade de %k."
-FemaleSuicide="%o a sauté sur sa grenade."
-MaleSuicide="%o a sauté sur sa  grenade."
+DeathString="%o a jonglÃ© avec grenade de %k."
+FemaleSuicide="%o a sautÃ© sur sa grenade."
+MaleSuicide="%o a sautÃ© sur sa  grenade."
 
 [DamTypeBioGlob]
-DeathString="%o englué par fusil bio de %k."
-FemaleSuicide="%o s'est engluée."
-MaleSuicide="%o s'est englué."
+DeathString="%o engluÃ© par fusil bio de %k."
+FemaleSuicide="%o s'est engluÃ©e."
+MaleSuicide="%o s'est engluÃ©."
 
 [DamTypeFlakChunk]
-DeathString="%o mis en pièces par F.C. de %k."
-FemaleSuicide="%o s'est perforé avec son flak."
-MaleSuicide="%o s'est perforé avec son flak."
+DeathString="%o mis en piÃ¨ces par F.C. de %k."
+FemaleSuicide="%o s'est perforÃ© avec son flak."
+MaleSuicide="%o s'est perforÃ© avec son flak."
 
 [DamTypeFlakShell]
-DeathString="%o haché(e) par les shrapnels de %k."
-FemaleSuicide="%o s'est explosée avec obus de flak."
-MaleSuicide="%o s'est explosé avec obus de flak."
+DeathString="%o hachÃ©(e) par les shrapnels de %k."
+FemaleSuicide="%o s'est explosÃ©e avec obus de flak."
+MaleSuicide="%o s'est explosÃ© avec obus de flak."
 
 [DamTypeIonBlast]
 DeathString="%o OBLITERE(E)"
@@ -83,59 +83,59 @@ FemaleSuicide="%o s'est faite frire avec son plasma."
 MaleSuicide="%o s'est fait frire avec son plasma."
 
 [DamTypeLinkShaft]
-DeathString="%o empalé(e) par le pieu vert de %k."
-FemaleSuicide="%o s'est empalée."
-MaleSuicide="%o s'est empalé."
+DeathString="%o empalÃ©(e) par le pieu vert de %k."
+FemaleSuicide="%o s'est empalÃ©e."
+MaleSuicide="%o s'est empalÃ©."
 
 [DamTypeMinigunBullet]
-DeathString="%o a été découpé(e) par le minigun de %k."
-FemaleSuicide="%o a retourné son minigun c/elle."
-MaleSuicide="%o a retourné son minigun c/lui."
+DeathString="%o a Ã©tÃ© dÃ©coupÃ©(e) par le minigun de %k."
+FemaleSuicide="%o a retournÃ© son minigun c/elle."
+MaleSuicide="%o a retournÃ© son minigun c/lui."
 
 [DamTypeRedeemer]
-DeathString="%o a été PULVERISE par %k !"
+DeathString="%o a Ã©tÃ© PULVERISE par %k !"
 FemaleSuicide="%o s'est fait PULVERISER !"
 MaleSuicide="%o s'est fait PULVERISER !"
 
 [DamTypeRocket]
-DeathString="%o a embrassé la roquette de %k."
-FemaleSuicide="%o a tiré trop vite sa roquette."
-MaleSuicide="%o a tiré trop vite sa roquette."
+DeathString="%o a embrassÃ© la roquette de %k."
+FemaleSuicide="%o a tirÃ© trop vite sa roquette."
+MaleSuicide="%o a tirÃ© trop vite sa roquette."
 
 [DamTypeShieldImpact]
-DeathString="%o pulvérisé(e) au shield cannon par %k."
-FemaleSuicide="%o a frimé une fois de trop."
-MaleSuicide="%o a frimé une fois de trop."
+DeathString="%o pulvÃ©risÃ©(e) au shield cannon par %k."
+FemaleSuicide="%o a frimÃ© une fois de trop."
+MaleSuicide="%o a frimÃ© une fois de trop."
 
 [DamTypeShockBall]
-DeathString="%o laminé(e) au shock core par %k"
+DeathString="%o laminÃ©(e) au shock core par %k"
 FemaleSuicide="%o s'est faite avoir par son shock core."
 MaleSuicide="%o s'est fait avoir par son shock core."
 
 [DamTypeShockBeam]
-DeathString="%o a vu la lumière grâce au shock de %k."
-FemaleSuicide="%o a réussi à se tuer avec son shock rifle."
-MaleSuicide="%o a réussi à se tuer avec son shock rifle."
+DeathString="%o a vu la lumiÃ¨re grÃ¢ce au shock de %k."
+FemaleSuicide="%o a rÃ©ussi Ã  se tuer avec son shock rifle."
+MaleSuicide="%o a rÃ©ussi Ã  se tuer avec son shock rifle."
 
 [DamTypeShockCombo]
-DeathString="%o n'a pas pu éviter le combo shock de %k."
+DeathString="%o n'a pas pu Ã©viter le combo shock de %k."
 FemaleSuicide="%o a fait une erreur avec son combo shock."
 MaleSuicide="%o a fait une erreur avec son combo shock."
 
 [DamTypeSniperHeadShot]
 DeathString="%o s'est fait ramollir le bulbe par le lightning gun de %k."
-FemaleSuicide="%o a violé les lois de l'espace-temps et s'est snipée."
-MaleSuicide="%o a violé les lois de l'espace-temps et s'est snipé."
+FemaleSuicide="%o a violÃ© les lois de l'espace-temps et s'est snipÃ©e."
+MaleSuicide="%o a violÃ© les lois de l'espace-temps et s'est snipÃ©."
 
 [DamTypeSniperShot]
-DeathString="%o eu par éclair de %k."
-FemaleSuicide="%o a eu une expérience électrique."
-MaleSuicide="%o a eu une expérience électrique."
+DeathString="%o eu par Ã©clair de %k."
+FemaleSuicide="%o a eu une expÃ©rience Ã©lectrique."
+MaleSuicide="%o a eu une expÃ©rience Ã©lectrique."
 
 [DamTypeTeleFrag]
-DeathString="%o a été désagrégé(e) par %k."
-FemaleSuicide="%o est allée là où aucune femme n'était allée."
-MaleSuicide="%o est allé là où aucun homme n'était allé."
+DeathString="%o a Ã©tÃ© dÃ©sagrÃ©gÃ©(e) par %k."
+FemaleSuicide="%o est allÃ©e lÃ  oÃ¹ aucune femme n'Ã©tait allÃ©e."
+MaleSuicide="%o est allÃ© lÃ  oÃ¹ aucun homme n'Ã©tait allÃ©."
 
 [FlakAmmo]
 ItemName="Obus de Flak"
@@ -144,7 +144,7 @@ ItemName="Obus de Flak"
 PickupMessage="Vous avez 10 obus de Flak."
 
 [FlakCannon]
-Description="Le Trident Defensive Technologies Series 7 Flechette Cannon a connu une nouvelle étape de son évolution avec l'entrée en production du Mk3 "Negotiator". Les fléchettes ionisées sont capables d'infliger aux tissus organiques des brûlures aux 2e et 3e degrés avec cautérisation immédiate.||Le lancement des projectiles utilise deux méthodes : large faisceau de fléchettes tirées par le canon de l'arme ou grenades à fragmentation explosant à l'impact et expédiant des fléchettes dans toutes les directions."
+Description="Le Trident Defensive Technologies Series 7 Flechette Cannon a connu une nouvelle Ã©tape de son Ã©volution avec l'entrÃ©e en production du Mk3 "Negotiator". Les flÃ©chettes ionisÃ©es sont capables d'infliger aux tissus organiques des brÃ»lures aux 2e et 3e degrÃ©s avec cautÃ©risation immÃ©diate.||Le lancement des projectiles utilise deux mÃ©thodes : large faisceau de flÃ©chettes tirÃ©es par le canon de l'arme ou grenades Ã  fragmentation explosant Ã  l'impact et expÃ©diant des flÃ©chettes dans toutes les directions."
 ItemName="Flak Cannon"
 
 [FlakCannonPickup]
@@ -160,14 +160,14 @@ ItemName="Mun. Link"
 PickupMessage="Vous avez 40 charges de link."
 
 [LinkGun]
-Description="Riordan Dynamic Weapon Systems associe le meilleur au sein de l'Advanced Plasma Rifle v23, communément appelé Link Gun.|Si le tir principal du Link demeure inchangé par rapport à l'arme à plasma à laquelle il a succédé, la torche de découpe secondaire a été remplacée par une matrice d'énergie à balayage actif. Au contact avec un équipier, le faisceau demeure une banale porteuse de signal qui transmet l'énergie des cellules embarquées, augmentant ainsi la puissance de feu de tout équipier visé employant également le link.|Mais les joueurs boostant ainsi leurs équipiers sont incapables de se défendre contre une attaque."
+Description="Riordan Dynamic Weapon Systems associe le meilleur au sein de l'Advanced Plasma Rifle v23, communÃ©ment appelÃ© Link Gun.|Si le tir principal du Link demeure inchangÃ© par rapport Ã  l'arme Ã  plasma Ã  laquelle il a succÃ©dÃ©, la torche de dÃ©coupe secondaire a Ã©tÃ© remplacÃ©e par une matrice d'Ã©nergie Ã  balayage actif. Au contact avec un Ã©quipier, le faisceau demeure une banale porteuse de signal qui transmet l'Ã©nergie des cellules embarquÃ©es, augmentant ainsi la puissance de feu de tout Ã©quipier visÃ© employant Ã©galement le link.|Mais les joueurs boostant ainsi leurs Ã©quipiers sont incapables de se dÃ©fendre contre une attaque."
 ItemName="Link Gun"
 
 [LinkGunPickup]
 PickupMessage="Vous avez le Link Gun."
 
 [Minigun]
-Description="Le Schultz-Metzger T23-A 23 mm à canons rotatifs peut tirer aussi bien des munitions sans douille à haute vélocité que les obus à douille. Avec une masse à vide de 8 kg, le T23 est maniable et facile à transporter sur le dos à l'aide de la courroie livrée en option.|Le T23-A est l'arme à canons rotatifs de choix du combattant avisé"
+Description="Le Schultz-Metzger T23-A 23 mm Ã  canons rotatifs peut tirer aussi bien des munitions sans douille Ã  haute vÃ©locitÃ© que les obus Ã  douille. Avec une masse Ã  vide de 8 kg, le T23 est maniable et facile Ã  transporter sur le dos Ã  l'aide de la courroie livrÃ©e en option.|Le T23-A est l'arme Ã  canons rotatifs de choix du combattant avisÃ©"
 ItemName="Minigun"
 
 [MinigunAmmo]
@@ -180,9 +180,9 @@ PickupMessage="Vous avez 50 cartouches."
 PickupMessage="Vous avez le Minigun."
 
 [MutArena]
-ArenaDisplayText="Arme d'arène"
-ArenaDescText="Détermine quelle arme sera utilisée dans l'arène du match"
-FriendlyName="Arène"
+ArenaDisplayText="Arme d'arÃ¨ne"
+ArenaDescText="DÃ©termine quelle arme sera utilisÃ©e dans l'arÃ¨ne du match"
+FriendlyName="ArÃ¨ne"
 Description="Replacer armes et munitions sur map."
 
 [MutNoSuperWeapon]
@@ -190,18 +190,18 @@ FriendlyName="Pas de super armes"
 Description="Pas de bonus de super armes sur la map."
 
 [Painter]
-Description="Le pointeur ionique semble sans danger car son tir primaire se borne à émettre un faisceau laser de très faible puissance. Cependant, quelques secondes plus tard, un canon ionique de plusieurs térawatts tire sur la cible depuis sa position en orbite, neutralisant tous les combattants situés à proximité.|Le pointeur ionique est un dispositif de désignation servant à orienter et activer le canon ionique VAPOR. Il offre une précision de visée accrue grâce à sa lunette actionnée par la commande de tir secondaire.|Lorsque le pointeur ionique a été utilisé pour désigner une cible, il est vivement recommandé à son utilisateur de s'éloigner à toutes jambes afin de quitter le rayon de létalité du canon ionique"
+Description="Le pointeur ionique semble sans danger car son tir primaire se borne Ã  Ã©mettre un faisceau laser de trÃ¨s faible puissance. Cependant, quelques secondes plus tard, un canon ionique de plusieurs tÃ©rawatts tire sur la cible depuis sa position en orbite, neutralisant tous les combattants situÃ©s Ã  proximitÃ©.|Le pointeur ionique est un dispositif de dÃ©signation servant Ã  orienter et activer le canon ionique VAPOR. Il offre une prÃ©cision de visÃ©e accrue grÃ¢ce Ã  sa lunette actionnÃ©e par la commande de tir secondaire.|Lorsque le pointeur ionique a Ã©tÃ© utilisÃ© pour dÃ©signer une cible, il est vivement recommandÃ© Ã  son utilisateur de s'Ã©loigner Ã  toutes jambes afin de quitter le rayon de lÃ©talitÃ© du canon ionique"
 ItemName="Pointeur ionique"
 
 [PainterPickup]
 PickupMessage="Vous avez le pointeur ionique"
 
 [Redeemer]
-Description="Lorsque vous verrez cette charge nucléaire miniature en action pour la première fois, vous saurez qu'il s'agit de l'arme la plus puissante du tournoi.|Utilisez la commande de tir primaire pour expédier une roquette lente mais dévastatrice et assurez-vous surtout d'être hors de son rayon létal avant l'impact. Le tir secondaire vous permet de guider le projectile grâce à la vue roquette.||Rappelez-vous cependant que vous êtes très vulnérable durant la phase de guidage. En raison du volume de la munition, le Rédempteur est une arme à usage unique."
-ItemName="Rédempteur"
+Description="Lorsque vous verrez cette charge nuclÃ©aire miniature en action pour la premiÃ¨re fois, vous saurez qu'il s'agit de l'arme la plus puissante du tournoi.|Utilisez la commande de tir primaire pour expÃ©dier une roquette lente mais dÃ©vastatrice et assurez-vous surtout d'Ãªtre hors de son rayon lÃ©tal avant l'impact. Le tir secondaire vous permet de guider le projectile grÃ¢ce Ã  la vue roquette.||Rappelez-vous cependant que vous Ãªtes trÃ¨s vulnÃ©rable durant la phase de guidage. En raison du volume de la munition, le RÃ©dempteur est une arme Ã  usage unique."
+ItemName="RÃ©dempteur"
 
 [RedeemerAmmo]
-ItemName="Mun. Rédempteur"
+ItemName="Mun. RÃ©dempteur"
 
 [RedeemerPickup]
 PickupMessage="Vous avez le Redeemer."
@@ -213,7 +213,7 @@ ItemName="Roquettes"
 PickupMessage="Vous avez des roquettes."
 
 [RocketLauncher]
-Description="Le lance-roquettes Trident Tri-barrel est très apprécié des concurrents qui aiment en avoir pour leur argent.|Sa conception à canons rotatifs et chargement par l'arrière permet le lancement d'une ou plusieurs charges (jusqu'à trois roquettes sur la cible).|Les projectiles délivrent une puissance de concussion maximale à la cible et à ses environs immédiats lors de la détonation."
+Description="Le lance-roquettes Trident Tri-barrel est trÃ¨s apprÃ©ciÃ© des concurrents qui aiment en avoir pour leur argent.|Sa conception Ã  canons rotatifs et chargement par l'arriÃ¨re permet le lancement d'une ou plusieurs charges (jusqu'Ã  trois roquettes sur la cible).|Les projectiles dÃ©livrent une puissance de concussion maximale Ã  la cible et Ã  ses environs immÃ©diats lors de la dÃ©tonation."
 ItemName="Lance-roquettes"
 
 [RocketLauncherPickup]
@@ -223,7 +223,7 @@ PickupMessage="Vous avez le lance-roquettes."
 ItemName="Bouclier"
 
 [ShieldGun]
-Description="Le Kemphler DD280 Riot Control Device est capable de résister aux projectiles et faisceaux d'énergie et de les réfléchir. L'onde de plasma génère des dégâts majeurs en déchirant les tissus, en pulvérisant les organes et en introduisant de dangereuses bulles de gaz dans le flux sanguin.||Bien que conçu pour le combat à très courte portée, cet engin est aussi dangereux que toute autre arme disponible."
+Description="Le Kemphler DD280 Riot Control Device est capable de rÃ©sister aux projectiles et faisceaux d'Ã©nergie et de les rÃ©flÃ©chir. L'onde de plasma gÃ©nÃ¨re des dÃ©gÃ¢ts majeurs en dÃ©chirant les tissus, en pulvÃ©risant les organes et en introduisant de dangereuses bulles de gaz dans le flux sanguin.||Bien que conÃ§u pour le combat Ã  trÃ¨s courte portÃ©e, cet engin est aussi dangereux que toute autre arme disponible."
 ItemName="Marteau Bouclier"
 
 [ShieldGunPickup]
@@ -236,7 +236,7 @@ ItemName="Shock Core"
 PickupMessage="Vous avez un Shock Core."
 
 [ShockRifle]
-Description="Le fusil shock ASMD a peu évolué depuis son entrée en service dans le Tournoi. L'ASMD est doté de deux modes de tir capables de travailler de concert pour neutraliser les adversaires grâce à une onde de choc dévastatrice.||Cette attaque combinée repose sur l'emploi du tir secondaire pour expédier une charge de plasma vers la cible.|Lorsque la cible se trouve à portée efficace de cette charge à vitesse lente, l'utilisateur de l'arme peut tirer un faisceau de photons dans la boule de plasma, ce qui libère l'énergie explosive des anti-photons emprisonnés dans le champ EM du plasma."
+Description="Le fusil shock ASMD a peu Ã©voluÃ© depuis son entrÃ©e en service dans le Tournoi. L'ASMD est dotÃ© de deux modes de tir capables de travailler de concert pour neutraliser les adversaires grÃ¢ce Ã  une onde de choc dÃ©vastatrice.||Cette attaque combinÃ©e repose sur l'emploi du tir secondaire pour expÃ©dier une charge de plasma vers la cible.|Lorsque la cible se trouve Ã  portÃ©e efficace de cette charge Ã  vitesse lente, l'utilisateur de l'arme peut tirer un faisceau de photons dans la boule de plasma, ce qui libÃ¨re l'Ã©nergie explosive des anti-photons emprisonnÃ©s dans le champ EM du plasma."
 ItemName="Shock Rifle"
 
 [ShockRiflePickup]
@@ -246,10 +246,10 @@ PickupMessage="Vous avez le Shock Rifle."
 ItemName="Charges Lightning"
 
 [SniperAmmoPickup]
-PickupMessage="Munitions de lightning ramassées."
+PickupMessage="Munitions de lightning ramassÃ©es."
 
 [SniperRifle]
-Description="Le lightning gun est un fusil à énergie de grande puissance capable de venir à bout de l'armure la plus lourde. L'acquisition d'une cible à grande distance exige une main de fer, mais l'effet stabilisateur du système optique réduit considérablement la courbe d'apprentissage de l'arme. Une fois la cible acquise, le tireur presse la détente, ce qui illumine la cible d'une 'tache' de protons. Quelques millisecondes plus tard, le fusil émet un arc électrique à fort voltage qui recherche le différentiel de charge et annihile la cible."
+Description="Le lightning gun est un fusil Ã  Ã©nergie de grande puissance capable de venir Ã  bout de l'armure la plus lourde. L'acquisition d'une cible Ã  grande distance exige une main de fer, mais l'effet stabilisateur du systÃ¨me optique rÃ©duit considÃ©rablement la courbe d'apprentissage de l'arme. Une fois la cible acquise, le tireur presse la dÃ©tente, ce qui illumine la cible d'une 'tache' de protons. Quelques millisecondes plus tard, le fusil Ã©met un arc Ã©lectrique Ã  fort voltage qui recherche le diffÃ©rentiel de charge et annihile la cible."
 ItemName="Lightning Gun"
 
 [SniperRiflePickup]
@@ -262,13 +262,13 @@ ItemName="Super Shock Rifle."
 PickupMessage="Vous avez le Super Shock Rifle."
 
 [TransAmmo]
-ItemName="Téléporteur"
+ItemName="TÃ©lÃ©porteur"
 
 [Translauncher]
-Description="Ce matériel a été développé initialement par le département R&D de la Liandri Corporation afin de faciliter le rappel rapide des mineurs en cas d'effondrement de galerie. Cependant, la dissociation et recombinaison rapide de l'organisme du sujet peut avoir des effets peu enviables tels que l'accroissement de l'agressivité et la paranoïa.||Afin de prolonger la carrière des concurrents actuels, l'emploi du téléporteur a été limité dans les ligues mineures.|La dernière version du téléporteur incorpore une caméra télécommandée très utile lors de l'examen des zones disputées, mais l'emploi de la caméra de surveillance empêche l'utilisateur de suivre ce qui se passe autour de lui."
-ItemName="Téléporteur"
+Description="Ce matÃ©riel a Ã©tÃ© dÃ©veloppÃ© initialement par le dÃ©partement R&D de la Liandri Corporation afin de faciliter le rappel rapide des mineurs en cas d'effondrement de galerie. Cependant, la dissociation et recombinaison rapide de l'organisme du sujet peut avoir des effets peu enviables tels que l'accroissement de l'agressivitÃ© et la paranoÃ¯a.||Afin de prolonger la carriÃ¨re des concurrents actuels, l'emploi du tÃ©lÃ©porteur a Ã©tÃ© limitÃ© dans les ligues mineures.|La derniÃ¨re version du tÃ©lÃ©porteur incorpore une camÃ©ra tÃ©lÃ©commandÃ©e trÃ¨s utile lors de l'examen des zones disputÃ©es, mais l'emploi de la camÃ©ra de surveillance empÃªche l'utilisateur de suivre ce qui se passe autour de lui."
+ItemName="TÃ©lÃ©porteur"
 
 [WeaponLocker]
-LockerString="Râtelier d'armes"
-PickupMessage="Vous avez fait le plein à un râtelier d'armes."
+LockerString="RÃ¢telier d'armes"
+PickupMessage="Vous avez fait le plein Ã  un rÃ¢telier d'armes."
 

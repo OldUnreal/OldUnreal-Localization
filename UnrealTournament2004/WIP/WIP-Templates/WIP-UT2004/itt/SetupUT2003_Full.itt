@@ -1,4 +1,4 @@
-[Setup]
+Ôªø[Setup]
 LocalProduct="Unreal Tournament 2003"
 DefaultFolder="C:\UT2003"
 ReadMe=Help\ReadMe.itt.txt
@@ -20,7 +20,7 @@ SafeDiscAdminRights="Devi lanciare questo programma come amministratore, non com
 SafeDiscNoDisk="Nessun disco inserito. Inserire il disco 'Unreal Tournament 2003 Play Disc' per continuare."
 SafeDiscNoDrive="Nessun CD-ROM o Dvd-ROM trovato."
 SafeDiscTitlebar="Unreal Tournament 2003"
-SafeDiscWrongDisc="» stato inserito un disco errato. Inserire il disco 'Unreal Tournament 2003 Play Disc' per continuare."
+SafeDiscWrongDisc="√à stato inserito un disco errato. Inserire il disco 'Unreal Tournament 2003 Play Disc' per continuare."
 
 [UnrealGameContentGroup]
 Caption="Dati del gioco"
@@ -28,7 +28,7 @@ Description="Installa questo componente per ottenere le migliori prestazioni. Se
 
 [GameGroup]
 Caption="Gioco UT2003"
-Description="L'installazione Ë necessaria."
+Description="L'installazione √® necessaria."
 
 [DirectXGroup]
 Caption="DirectX 8.1"
@@ -44,13 +44,13 @@ Description="Necessario per Windows 2000/XP [temporaneo-non distribuito]."
 
 [EditorGroup]
 Caption="Edito di Unreal"
-Description="Editor degli scenari di Unreal, per creare i tuoi ambienti 3D per Unreal. » riservato agli utenti avanzati e l'installazione Ë opzionale."
+Description="Editor degli scenari di Unreal, per creare i tuoi ambienti 3D per Unreal. √à riservato agli utenti avanzati e l'installazione √® opzionale."
 
 [PlayShortcut]
 Caption="Gioca a UT2003"
 
 [SafeModeShortcut]
-Caption="Modalit‡ provvisoria di UT2003"
+Caption="Modalit√† provvisoria di UT2003"
 
 [EditorShortcut]
 Caption="Editor di UT2003"

@@ -1,12 +1,12 @@
-[ClassicSniperAmmoPickup2]
-PickupMessage="Munitions de lightning ramassées."
+ï»¿[ClassicSniperAmmoPickup2]
+PickupMessage="Munitions de lightning ramassÃ©es."
 
 [LevelInfo0]
 Title="Dria"
 
 [LevelSummary]
 Title="Dria"
-Description="Situés parmi les ruines de la dernières forteresse de Nali, ces champs de glace furent le dernier champ de bataille entre les Nali et les Skaarj. Les Skaarj combattirent pendant trois semaines avant de détruire le mur protegeant la forteresse. Maintenant une arène Attaque, cette location étendue testera le travail d'équipe."
+Description="SituÃ©s parmi les ruines de la derniÃ¨res forteresse de Nali, ces champs de glace furent le dernier champ de bataille entre les Nali et les Skaarj. Les Skaarj combattirent pendant trois semaines avant de dÃ©truire le mur protegeant la forteresse. Maintenant une arÃ¨ne Attaque, cette location Ã©tendue testera le travail d'Ã©quipe."
 
 [Volume0]
 LocationName="Base rouge"
@@ -51,5 +51,5 @@ LocationName="Pont nord"
 LocationName="Pont sud"
 
 [ZoneInfo0]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 

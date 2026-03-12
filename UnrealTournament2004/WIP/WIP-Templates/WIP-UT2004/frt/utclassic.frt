@@ -1,8 +1,8 @@
-[Public]
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="Armes de style UT classique et capacités de mouvement configurables (de type esquive sur mur).")
+ï»¿[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="Armes de style UT classique et capacitÃ©s de mouvement configurables (de type esquive sur mur).")
 ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="Remplacer les lightning guns par des fusils sniper classiques.")
 ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="Remplacer les fusils sniper par des lightning guns.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="Ce fusil de sniper à vitesse initiale élevée et lunette 10x est une arme mortelle à toutes les portées, surtout si l'on touche la tête.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="Ce fusil de sniper Ã  vitesse initiale Ã©levÃ©e et lunette 10x est une arme mortelle Ã  toutes les portÃ©es, surtout si l'on touche la tÃªte.")
 
 [ClassicSniperAmmo]
 ItemName="Cartouches sniper"
@@ -11,35 +11,35 @@ ItemName="Cartouches sniper"
 PickupMessage="Vous avez des munitions de fusil sniper."
 
 [ClassicSniperRifle]
-Description="Ce fusil de sniper à vitesse initiale élevée et lunette 10x est une arme mortelle à toutes les portées, surtout si l'on touche la tête."
+Description="Ce fusil de sniper Ã  vitesse initiale Ã©levÃ©e et lunette 10x est une arme mortelle Ã  toutes les portÃ©es, surtout si l'on touche la tÃªte."
 ItemName="Fusil sniper"
 
 [ClassicSniperRiflePickup]
 PickupMessage="Vous avez le fusil sniper."
 
 [DamTypeClassicHeadshot]
-DeathString="%k a collé une balle dans la tête de %o."
-FemaleSuicide="%o s'est tiré dans la tête."
-MaleSuicide="%o s'est tiré dans la tête."
+DeathString="%k a collÃ© une balle dans la tÃªte de %o."
+FemaleSuicide="%o s'est tirÃ© dans la tÃªte."
+MaleSuicide="%o s'est tirÃ© dans la tÃªte."
 
 [DamTypeClassicSniper]
 DeathString="%k a fait un trou dans %o."
-FemaleSuicide="%o s'est tiré dans le pied."
-MaleSuicide="%o s'est tiré dans le pied."
+FemaleSuicide="%o s'est tirÃ© dans le pied."
+MaleSuicide="%o s'est tirÃ© dans le pied."
 
 [MutUTClassic]
 DJString="Autoriser le double saut"
 WDString="Autoriser l'esquive murale"
 DDJString="Autoriser l'esquive double saut"
 DJHelp="Permet aux joueurs de faire un double saut au sommet d'un saut"
-WDHelp="Permet aux joueurs d'esquiver à partir des murs."
+WDHelp="Permet aux joueurs d'esquiver Ã  partir des murs."
 DDJHelp="Permet aux joueurs de faire un double saut au sommet d'un saut d'esquive."
-WeapString="Modifier les dégâts des armes"
-WeapHelp="Si activé, les armes font davantage de dégâts."
-TranslocString="Modifier téléporteur"
-TranslocHelp="Si activé, le téléporteur se recharge plus vite."
+WeapString="Modifier les dÃ©gÃ¢ts des armes"
+WeapHelp="Si activÃ©, les armes font davantage de dÃ©gÃ¢ts."
+TranslocString="Modifier tÃ©lÃ©porteur"
+TranslocHelp="Si activÃ©, le tÃ©lÃ©porteur se recharge plus vite."
 FriendlyName="UT classique"
-Description="Armes et possibilités de mouvement de type UT classique."
+Description="Armes et possibilitÃ©s de mouvement de type UT classique."
 
 [MutUseLightning]
 FriendlyName="Lightning Guns"

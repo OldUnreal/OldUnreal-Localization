@@ -1,4 +1,4 @@
-[DamTypeArtilleryShell]
+﻿[DamTypeArtilleryShell]
 ; EN: DeathString="%k rained on %o's parade."
 DeathString="%k regnet på %o sin parade."
 ; EN: FemaleSuicide="%o managed to kill herself with her own Artillery."

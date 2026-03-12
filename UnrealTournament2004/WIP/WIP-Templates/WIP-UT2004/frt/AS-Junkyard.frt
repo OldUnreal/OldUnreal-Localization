@@ -1,53 +1,53 @@
-[ASOBJ_EnergyCore_Delivery0]
-DestructionMessage="Véhicule réparé !"
-ObjectiveDescription="Apporter le noyau pour réparer le véhicule"
-Objective_Info_Attacker="Rapporter le noyau au véhicule"
-Objective_Info_Defender="Empêcher attaquants de rapporter le noyau"
+ï»¿[ASOBJ_EnergyCore_Delivery0]
+DestructionMessage="VÃ©hicule rÃ©parÃ© !"
+ObjectiveDescription="Apporter le noyau pour rÃ©parer le vÃ©hicule"
+Objective_Info_Attacker="Rapporter le noyau au vÃ©hicule"
+Objective_Info_Defender="EmpÃªcher attaquants de rapporter le noyau"
 
 [ASOBJ_EnergyCore_Spawn0]
-ObjectiveDescription="Vous devez prendre le noyau et le rapporter au véhicule pour le réparer."
+ObjectiveDescription="Vous devez prendre le noyau et le rapporter au vÃ©hicule pour le rÃ©parer."
 Objective_Info_Attacker="Trouver noyau"
-Objective_Info_Defender="Protéger noyau"
+Objective_Info_Defender="ProtÃ©ger noyau"
 
 [HoldObjective0]
-DestructionMessage="Porte de contrôle ouverte !"
-ObjectiveDescription="Se tenir près de l'interrupteur pour ouvrir la porte."
-Objective_Info_Attacker="Ouvrir la porte du contrôle"
-Objective_Info_Defender="Protéger interrupteur du contrôle"
+DestructionMessage="Porte de contrÃ´le ouverte !"
+ObjectiveDescription="Se tenir prÃ¨s de l'interrupteur pour ouvrir la porte."
+Objective_Info_Attacker="Ouvrir la porte du contrÃ´le"
+Objective_Info_Defender="ProtÃ©ger interrupteur du contrÃ´le"
 
 [HoldObjective1]
-DestructionMessage="Pont-levis abaissé !"
+DestructionMessage="Pont-levis abaissÃ© !"
 ObjectiveDescription="Rejoindre l'interrupteur pour abaisser le pont."
 Objective_Info_Attacker="Abaisser pont"
-Objective_Info_Defender="Protéger l'interrupteur du pont"
+Objective_Info_Defender="ProtÃ©ger l'interrupteur du pont"
 
 [LevelInfo0]
 Title="Quitter la casse"
 
 [LevelSummary]
 Title="Quitter la casse"
-Description="Ce scénario s'inspire d'un épisode tristement célèbre de série holovisée. L'épisode original opposait deux équipes de mécaniciens qui devaient réparer leur véhicule et quitter la casse. Mais l'équipe perdante sortit des armes de fortune et lamina l'autre équipe avant qu'elle ait pu s'enfuir. Comme aucune règle n'interdisait formellement la violence, les agresseurs furent déclarés vainqueurs et un nouveau classique du Tournoi est né."
+Description="Ce scÃ©nario s'inspire d'un Ã©pisode tristement cÃ©lÃ¨bre de sÃ©rie holovisÃ©e. L'Ã©pisode original opposait deux Ã©quipes de mÃ©caniciens qui devaient rÃ©parer leur vÃ©hicule et quitter la casse. Mais l'Ã©quipe perdante sortit des armes de fortune et lamina l'autre Ã©quipe avant qu'elle ait pu s'enfuir. Comme aucune rÃ¨gle n'interdisait formellement la violence, les agresseurs furent dÃ©clarÃ©s vainqueurs et un nouveau classique du Tournoi est nÃ©."
 
 [ProximityObjective0]
 DestructionMessage="Les attaquants ont fui la casse !"
 ObjectiveDescription="Quitter la casse."
 Objective_Info_Attacker="Rejoindre portes principales"
-Objective_Info_Defender="Protéger portes principales"
+Objective_Info_Defender="ProtÃ©ger portes principales"
 
 [ProximityObjective2]
 DestructionMessage="Pont franchi !"
 ObjectiveDescription="Franchir le pont pour continuer"
 Objective_Info_Attacker="Franchir pont"
-Objective_Info_Defender="Défendre le pont"
+Objective_Info_Defender="DÃ©fendre le pont"
 
 [ProximityObjective3]
-DestructionMessage="Contrôle sécurisé !"
-ObjectiveDescription="Atteignez le contrôle pour progresser."
-Objective_Info_Attacker="Atteindre le contrôle"
-Objective_Info_Defender="Protéger contrôle"
+DestructionMessage="ContrÃ´le sÃ©curisÃ© !"
+ObjectiveDescription="Atteignez le contrÃ´le pour progresser."
+Objective_Info_Attacker="Atteindre le contrÃ´le"
+Objective_Info_Defender="ProtÃ©ger contrÃ´le"
 
 [SceneSubtitles0]
-SubTitles=("Ce scénario est basé sur un épisode tristement célèbre d'un programme d'holovision populaire.","Dans cet épisode, deux équipes de mécaniciens devaient faire fonctionner leurs véhicules et quitter la décharge le plus vite possible.","La compétition prit un tour inattendu lorsque l'équipe qui perdait dégaina des armes artisanales et se débarrassa de l'équipe adverse avant qu'elle ne puisse sortir.","Comme le règlement n'interdisait pas l'usage de la violence, ils furent déclarés vainqueurs. Une nouvelle forme de Tournoi était née.","Vous devez récupérer le noyau énergétique dans la décharge et le ramener à votre véhicule.","Une fois que votre véhicule est opérationnel, vous devez le conduire à travers la décharge et sortir par les portes principales.","Pour passer le pont basculant, vous devez le baisser en actionnant ce levier.","Après avoir franchi le pont, vous devrez rejoindre le contrôle.","Vous y parviendrez en suivant ce chemin et en ouvrant les portes menant au contrôle.","Il est également possible d'utiliser cet aimant. Ce chemin plus court mais plus risqué car plus exposé.","Après avoir atteint le contrôle, rejoignez la porte principale afin de prendre la fuite.")
+SubTitles=("Ce scÃ©nario est basÃ© sur un Ã©pisode tristement cÃ©lÃ¨bre d'un programme d'holovision populaire.","Dans cet Ã©pisode, deux Ã©quipes de mÃ©caniciens devaient faire fonctionner leurs vÃ©hicules et quitter la dÃ©charge le plus vite possible.","La compÃ©tition prit un tour inattendu lorsque l'Ã©quipe qui perdait dÃ©gaina des armes artisanales et se dÃ©barrassa de l'Ã©quipe adverse avant qu'elle ne puisse sortir.","Comme le rÃ¨glement n'interdisait pas l'usage de la violence, ils furent dÃ©clarÃ©s vainqueurs. Une nouvelle forme de Tournoi Ã©tait nÃ©e.","Vous devez rÃ©cupÃ©rer le noyau Ã©nergÃ©tique dans la dÃ©charge et le ramener Ã  votre vÃ©hicule.","Une fois que votre vÃ©hicule est opÃ©rationnel, vous devez le conduire Ã  travers la dÃ©charge et sortir par les portes principales.","Pour passer le pont basculant, vous devez le baisser en actionnant ce levier.","AprÃ¨s avoir franchi le pont, vous devrez rejoindre le contrÃ´le.","Vous y parviendrez en suivant ce chemin et en ouvrant les portes menant au contrÃ´le.","Il est Ã©galement possible d'utiliser cet aimant. Ce chemin plus court mais plus risquÃ© car plus exposÃ©.","AprÃ¨s avoir atteint le contrÃ´le, rejoignez la porte principale afin de prendre la fuite.")
 
 [Volume10]
 LocationName="Colline aimant"
@@ -59,7 +59,7 @@ LocationName="Raccourci aimant"
 LocationName="Tas de tuyaux"
 
 [Volume13]
-LocationName="Tunnel épaves"
+LocationName="Tunnel Ã©paves"
 
 [Volume14]
 LocationName="Compresseur carcasses"
@@ -68,7 +68,7 @@ LocationName="Compresseur carcasses"
 LocationName="Drive-in"
 
 [Volume16]
-LocationName="Contrôle"
+LocationName="ContrÃ´le"
 
 [Volume17]
 LocationName="Bain"
@@ -83,7 +83,7 @@ LocationName="Porte principale"
 LocationName="Tour noyau"
 
 [Volume5]
-LocationName="Colline - défense"
+LocationName="Colline - dÃ©fense"
 
 [Volume7]
 LocationName="Pont"

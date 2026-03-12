@@ -1,4 +1,4 @@
-[Setup]
+Ôªø[Setup]
 LocalProduct="Demo di Unreal Tournament 2003"
 DefaultFolder="C:\UT2003Demo"
 ReadMe=Help\ReadMe-Demo.itt.txt
@@ -19,11 +19,11 @@ EditLevelCommand="&Modifica questo livello di UT2003"
 
 [UnrealGameContentGroup]
 Caption="Dati del gioco"
-Description="L'installazione Ë necessaria."
+Description="L'installazione √® necessaria."
 
 [GameGroup]
 Caption="Demo di Unreal Tournament 2003 "
-Description="L'installazione Ë necessaria."
+Description="L'installazione √® necessaria."
 
 [DirectXGroup]
 Caption="DirectX 8.1"
@@ -37,7 +37,7 @@ Description="Necessario per gli effetti sonori 3D con accelerazione hardware."
 Caption="Gioca a Demo di UT2003"
 
 [SafeModeShortcut]
-Caption="Modalit‡ provvisoria di Demo di UT2003"
+Caption="Modalit√† provvisoria di Demo di UT2003"
 
 [DocumentationShortcut]
 Caption="Documentazione"

@@ -1,29 +1,29 @@
-[LevelInfo0]
+ï»¿[LevelInfo0]
 Title="Scorched Earth"
 
 [LevelSummary]
 Title="Scorched Earth"
 
 [PhysicsVolume0]
-LocationName="Point de réapparition bleu"
+LocationName="Point de rÃ©apparition bleu"
 
 [PhysicsVolume1]
-LocationName="Point de réapparition rouge"
+LocationName="Point de rÃ©apparition rouge"
 
 [ZoneInfo0]
-LocationName="Intérieur centre"
+LocationName="IntÃ©rieur centre"
 
 [ZoneInfo1]
-LocationName="Couloir de derrière B"
+LocationName="Couloir de derriÃ¨re B"
 
 [ZoneInfo14]
 LocationName="Dehors"
 
 [ZoneInfo15]
-LocationName="Intérieur centre"
+LocationName="IntÃ©rieur centre"
 
 [ZoneInfo16]
-LocationName="Point de réapparition bleu"
+LocationName="Point de rÃ©apparition bleu"
 
 [ZoneInfo17]
 LocationName="Couloir de devant A"
@@ -35,22 +35,22 @@ LocationName="Couloir de devant A"
 LocationName="Salle A"
 
 [ZoneInfo20]
-LocationName="Couloir de derrière A"
+LocationName="Couloir de derriÃ¨re A"
 
 [ZoneInfo3]
-LocationName="Intérieur centre"
+LocationName="IntÃ©rieur centre"
 
 [ZoneInfo4]
-LocationName="Intérieur centre"
+LocationName="IntÃ©rieur centre"
 
 [ZoneInfo5]
-LocationName="Intérieur centre"
+LocationName="IntÃ©rieur centre"
 
 [ZoneInfo6]
 LocationName="Couloir de devant B"
 
 [ZoneInfo7]
-LocationName="Point de réapparition rouge"
+LocationName="Point de rÃ©apparition rouge"
 
 [ZoneInfo8]
 LocationName="Couloir de devant B"

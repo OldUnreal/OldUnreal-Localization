@@ -1,4 +1,4 @@
-[DefaultMapListLoader]
+﻿[DefaultMapListLoader]
 ; EN: UseMapListPropsDisplayText="Use MapLists"
 UseMapListPropsDisplayText="Użyj list map"
 ; EN: UserMapListPropDescription="If enabled, the map lists are used instead of showing all map names."

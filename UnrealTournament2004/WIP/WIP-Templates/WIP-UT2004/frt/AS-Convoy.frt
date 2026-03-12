@@ -1,4 +1,4 @@
-[Action_DISPLAYMESSAGE10]
+ï»¿[Action_DISPLAYMESSAGE10]
 Message="2..."
 
 [Action_DISPLAYMESSAGE11]
@@ -8,7 +8,7 @@ Message="1..."
 Message="Les portes sont maintenant ouvertes !"
 
 [Action_DISPLAYMESSAGE4]
-Message="Les assailants ont infiltré le vaisseau de réparation !"
+Message="Les assailants ont infiltrÃ© le vaisseau de rÃ©paration !"
 
 [Action_DISPLAYMESSAGE6]
 Message="Les assailants ont atteint la remorque d'armes !"
@@ -23,40 +23,40 @@ Message="4..."
 Message="3..."
 
 [HoldObjective1]
-DestructionMessage="La cache d'armes avant a été pillée !"
+DestructionMessage="La cache d'armes avant a Ã©tÃ© pillÃ©e !"
 ObjectiveDescription="Ouvrir le panneau pour vous approcher."
 Objective_Info_Attacker="Ouvrir le panneau"
-Objective_Info_Defender="Protéger le panneau"
+Objective_Info_Defender="ProtÃ©ger le panneau"
 
 [HoldObjective2]
-DestructionMessage="La plate-forme de chargement a été déployée !"
-ObjectiveDescription="Déployer la plate-forme de chargement pour continuer à progresser."
-Objective_Info_Attacker="Déployer la plateforme de chargement"
-Objective_Info_Defender="Protéger la plateforme de chargement"
+DestructionMessage="La plate-forme de chargement a Ã©tÃ© dÃ©ployÃ©e !"
+ObjectiveDescription="DÃ©ployer la plate-forme de chargement pour continuer Ã  progresser."
+Objective_Info_Attacker="DÃ©ployer la plateforme de chargement"
+Objective_Info_Defender="ProtÃ©ger la plateforme de chargement"
 
 [HoldObjective3]
-DestructionMessage="Les missiles N.E.X.U.S. ont été mis à l'abri !"
-ObjectiveDescription="Récupérer les missiles N.E.X.U.S. pour terminer la mission !"
-Objective_Info_Attacker="Récupérer les missiles N.E.X.U.S."
-Objective_Info_Defender="Protéger les missiles N.E.X.U.S."
+DestructionMessage="Les missiles N.E.X.U.S. ont Ã©tÃ© mis Ã  l'abri !"
+ObjectiveDescription="RÃ©cupÃ©rer les missiles N.E.X.U.S. pour terminer la mission !"
+Objective_Info_Attacker="RÃ©cupÃ©rer les missiles N.E.X.U.S."
+Objective_Info_Defender="ProtÃ©ger les missiles N.E.X.U.S."
 
 [HoldObjective4]
-DestructionMessage="Les portes latérales ont été ouvertes !"
-ObjectiveDescription="Utiliser l'interrupteur des portes latérales pour continuer"
-Objective_Info_Attacker="Ouvrir les portes latérales"
-Objective_Info_Defender="Protéger l'interrupteur des portes latérales"
+DestructionMessage="Les portes latÃ©rales ont Ã©tÃ© ouvertes !"
+ObjectiveDescription="Utiliser l'interrupteur des portes latÃ©rales pour continuer"
+Objective_Info_Attacker="Ouvrir les portes latÃ©rales"
+Objective_Info_Defender="ProtÃ©ger l'interrupteur des portes latÃ©rales"
 
 [HoldObjective5]
 DestructionMessage="Les explosifs sont en place !"
-ObjectiveDescription="Placer les explosifs sur la porte arrière pour accéder au vaisseau de réparation."
+ObjectiveDescription="Placer les explosifs sur la porte arriÃ¨re pour accÃ©der au vaisseau de rÃ©paration."
 Objective_Info_Attacker="Placer les explosifs sur la porte"
-Objective_Info_Defender="Protéger la porte"
+Objective_Info_Defender="ProtÃ©ger la porte"
 
 [HoldObjective6]
 DestructionMessage="Les renforts sont en route !"
-ObjectiveDescription="Ouvrir la porte arrière du vaisseau de réparation pour avancer."
-Objective_Info_Attacker="Ouvrir la porte arrière"
-Objective_Info_Defender="Protéger la porte arrière"
+ObjectiveDescription="Ouvrir la porte arriÃ¨re du vaisseau de rÃ©paration pour avancer."
+Objective_Info_Attacker="Ouvrir la porte arriÃ¨re"
+Objective_Info_Defender="ProtÃ©ger la porte arriÃ¨re"
 
 [InfoPod0]
 POD_Message="! ! !  R E C U L E R  ! ! !"
@@ -81,28 +81,28 @@ Title="Convoi"
 
 [LevelSummary]
 Title="Convoi"
-Description="Ce scénario est la reconstitution de la récupération des prototypes de missiles Nexus par les forces armées du NGT après leur vol par les Hellions. Les forces du NGT ont localisé la cache grâce à un mouchard installé sur ces armes de destruction massive. L'emplacement exact des missiles n'a pu être déterminé que pendant la courte période correspondant à leur transport en surface d'un endroit à un autre sur Taron, et les militaires n'ont pas eu d'autre choix que d'intervenir à ce moment."
+Description="Ce scÃ©nario est la reconstitution de la rÃ©cupÃ©ration des prototypes de missiles Nexus par les forces armÃ©es du NGT aprÃ¨s leur vol par les Hellions. Les forces du NGT ont localisÃ© la cache grÃ¢ce Ã  un mouchard installÃ© sur ces armes de destruction massive. L'emplacement exact des missiles n'a pu Ãªtre dÃ©terminÃ© que pendant la courte pÃ©riode correspondant Ã  leur transport en surface d'un endroit Ã  un autre sur Taron, et les militaires n'ont pas eu d'autre choix que d'intervenir Ã  ce moment."
 
 [SceneSubtitles0]
-SubTitles=("Ce scénario recrée la mission des forces du NGT chargées de récupérer les missiles prototypes Nexus, volés par les Hellions.","Les forces du NGT avaient repéré l'emplacement de la cache d'armes grâce à l'émetteur caché sur ces missiles dévastateurs.","L'emplacement exact des missiles ne pouvait être repéré que durant le court laps de temps où ils étaient transférés d'un endroit à un autre à la surface de Taron. Les militaires ne pouvaient frapper qu'à ce moment là.","Les assaillants doivent d'abord parvenir à la plateforme des Hellions. Utilisez les commandes pour déployer la plateforme et permettre leur avancée.",,"Les assaillants doivent retirer ce panneau de commandes et convertir les circuits de la remorque pour s'en servir à la place des Hellions. Cela leur permettrait d'avancer plus rapidement et d'améliorer leur armement.",," Les assaillants doivent franchir la plateforme d'embarquement, atteindre la porte arrière et y placer des explosifs pour pouvoir pénétrer dans le vaisseau des Hellions.",,"Pour aller plus vite, ouvrez les portes arrières du vaisseau de réparation pour permettre aux assaillants de démarrer plus près du prochain objectif.",,"Attention, il y a un réservoir de carburant dans le vaisseau de réparation. Prenez garde à ne pas tirer dedans car s'il explose, cela risque de vous gêner. Les assaillants doivent actionner l'interrupteur.",,"Ils pourront ainsi ouvrir les portes latérales pour continuer vers leur objectif final. Cet interrupteur leur permettra également de passer les portes arrières si ce n'est pas déjà fait.",,"Les assaillants doivent parvenir à la remorque d'armes, actionner l'interrupteur et récupérer les Nexus.")
+SubTitles=("Ce scÃ©nario recrÃ©e la mission des forces du NGT chargÃ©es de rÃ©cupÃ©rer les missiles prototypes Nexus, volÃ©s par les Hellions.","Les forces du NGT avaient repÃ©rÃ© l'emplacement de la cache d'armes grÃ¢ce Ã  l'Ã©metteur cachÃ© sur ces missiles dÃ©vastateurs.","L'emplacement exact des missiles ne pouvait Ãªtre repÃ©rÃ© que durant le court laps de temps oÃ¹ ils Ã©taient transfÃ©rÃ©s d'un endroit Ã  un autre Ã  la surface de Taron. Les militaires ne pouvaient frapper qu'Ã  ce moment lÃ .","Les assaillants doivent d'abord parvenir Ã  la plateforme des Hellions. Utilisez les commandes pour dÃ©ployer la plateforme et permettre leur avancÃ©e.",,"Les assaillants doivent retirer ce panneau de commandes et convertir les circuits de la remorque pour s'en servir Ã  la place des Hellions. Cela leur permettrait d'avancer plus rapidement et d'amÃ©liorer leur armement.",," Les assaillants doivent franchir la plateforme d'embarquement, atteindre la porte arriÃ¨re et y placer des explosifs pour pouvoir pÃ©nÃ©trer dans le vaisseau des Hellions.",,"Pour aller plus vite, ouvrez les portes arriÃ¨res du vaisseau de rÃ©paration pour permettre aux assaillants de dÃ©marrer plus prÃ¨s du prochain objectif.",,"Attention, il y a un rÃ©servoir de carburant dans le vaisseau de rÃ©paration. Prenez garde Ã  ne pas tirer dedans car s'il explose, cela risque de vous gÃªner. Les assaillants doivent actionner l'interrupteur.",,"Ils pourront ainsi ouvrir les portes latÃ©rales pour continuer vers leur objectif final. Cet interrupteur leur permettra Ã©galement de passer les portes arriÃ¨res si ce n'est pas dÃ©jÃ  fait.",,"Les assaillants doivent parvenir Ã  la remorque d'armes, actionner l'interrupteur et rÃ©cupÃ©rer les Nexus.")
 
 [Trigger_ASMessageTrigger0]
-Message="Frappe aérienne ! A couvert, immédiatement !"
+Message="Frappe aÃ©rienne ! A couvert, immÃ©diatement !"
 
 [TriggeredObjective0]
-DestructionMessage="La remorque N.E.X.U.S. a été ouverte !"
+DestructionMessage="La remorque N.E.X.U.S. a Ã©tÃ© ouverte !"
 ObjectiveDescription="Rejoindre la remorque de missile N.E.X.U.S. et l'ouvrir"
 Objective_Info_Attacker="Rejoindre la remorque de missile N.E.X.U.S."
-Objective_Info_Defender="Protéger la remorque de missile N.E.X.U.S."
+Objective_Info_Defender="ProtÃ©ger la remorque de missile N.E.X.U.S."
 
 [Volume1]
-LocationName="Véhicule attaquant"
+LocationName="VÃ©hicule attaquant"
 
 [Volume12]
-LocationName="Tour sniper arrière"
+LocationName="Tour sniper arriÃ¨re"
 
 [Volume13]
-LocationName="Tour sniper arrière"
+LocationName="Tour sniper arriÃ¨re"
 
 [Volume14]
 LocationName="Plate-forme minigun"
@@ -120,7 +120,7 @@ LocationName="Tour sniper avant"
 LocationName="Remorque de transport"
 
 [Volume3]
-LocationName="Véhicule plate-forme de chargement"
+LocationName="VÃ©hicule plate-forme de chargement"
 
 [Volume4]
 LocationName="Cache d'armes avant"
@@ -129,7 +129,7 @@ LocationName="Cache d'armes avant"
 LocationName="Remorque tuyaux"
 
 [Volume6]
-LocationName="Véhicule remorque armes"
+LocationName="VÃ©hicule remorque armes"
 
 [Volume7]
 LocationName="Toit remorque armes"
@@ -141,28 +141,28 @@ LocationName="Plate-forme chargement"
 LocationName="Plate-forme chargement"
 
 [ZoneInfo1]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 [ZoneInfo2]
-LocationName="Passerelle vaisseau réparation"
+LocationName="Passerelle vaisseau rÃ©paration"
 
 [ZoneInfo3]
-LocationName="Pont supérieur vaisseau réparation"
+LocationName="Pont supÃ©rieur vaisseau rÃ©paration"
 
 [ZoneInfo4]
-LocationName="Pont supérieur vaisseau réparation"
+LocationName="Pont supÃ©rieur vaisseau rÃ©paration"
 
 [ZoneInfo6]
 LocationName="Porte"
 
 [ZoneInfo7]
-LocationName="Vaisseau réparation"
+LocationName="Vaisseau rÃ©paration"
 
 [ZoneInfo8]
-LocationName="Intérieur remorque armes"
+LocationName="IntÃ©rieur remorque armes"
 
 [ZoneInfo9]
-LocationName="Extérieur"
+LocationName="ExtÃ©rieur"
 
 
 

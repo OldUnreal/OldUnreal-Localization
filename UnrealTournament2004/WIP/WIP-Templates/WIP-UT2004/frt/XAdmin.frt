@@ -1,48 +1,48 @@
-[AdminIni]
+ï»¿[AdminIni]
 Msg_FinishGameEditFirst="Vous devez terminer de modifier la partie avant de relancer la map."
 Msg_FinishGameRestart="Vous devez terminer de modifier la partie avant de changer de map ou de la relancer."
 Msg_MutNeedGameEdit="Vous devez utiliser la commande de modification de partie avant la commande de variantes."
-Msg_NoMutatorInUse="Aucune variante utilisée"
-Msg_NoUnusedMuts="Aucune variante non utilisée trouvée"
-Msg_AddedMutator="%Mutator% ajouté à la liste des variantes utilisées."
-Msg_ErrAddingMutator="Erreur lors de l'ajout de %Mutator% à la liste des variantes utilisées."
-Msg_RemovedMutator="%Mutator% retiré de la liste des variantes utilisées"
-Msg_ErrRemovingMutator="Erreur lors de la suppression de %Mutator% de la liste des variantes utilisées"
+Msg_NoMutatorInUse="Aucune variante utilisÃ©e"
+Msg_NoUnusedMuts="Aucune variante non utilisÃ©e trouvÃ©e"
+Msg_AddedMutator="%Mutator% ajoutÃ© Ã  la liste des variantes utilisÃ©es."
+Msg_ErrAddingMutator="Erreur lors de l'ajout de %Mutator% Ã  la liste des variantes utilisÃ©es."
+Msg_RemovedMutator="%Mutator% retirÃ© de la liste des variantes utilisÃ©es"
+Msg_ErrRemovingMutator="Erreur lors de la suppression de %Mutator% de la liste des variantes utilisÃ©es"
 Msg_MapListNeedGameEdit="Vous devez utilisez la commande de modification de partie avant la commande de liste de maps"
 Msg_MustEndGameEdit="Vous devez d'abord terminer la modification de partie"
 Msg_EditingClass="Modification de %Class%"
-Msg_EditFailed="Echec du début de modification"
-Msg_AlreadyEdited="Partie déjà en cours de modification par quelqu'un d'autre"
-Msg_NotEditing="Vous ne modifiez pas les paramètres de partie, utilisez d'abord la commande de modification de partie"
-Msg_EditingCompleted="Modification effectuée"
-Msg_EditingCancelled="Modification annulée"
-Msg_NoBotGameFull="Ajout de bot impossible, partie complète."
-Msg_NoAddNamedBot="Seuls les bots nommés peuvent être ajoutés une fois le match commencé"
+Msg_EditFailed="Echec du dÃ©but de modification"
+Msg_AlreadyEdited="Partie dÃ©jÃ  en cours de modification par quelqu'un d'autre"
+Msg_NotEditing="Vous ne modifiez pas les paramÃ¨tres de partie, utilisez d'abord la commande de modification de partie"
+Msg_EditingCompleted="Modification effectuÃ©e"
+Msg_EditingCancelled="Modification annulÃ©e"
+Msg_NoBotGameFull="Ajout de bot impossible, partie complÃ¨te."
+Msg_NoAddNamedBot="Seuls les bots nommÃ©s peuvent Ãªtre ajoutÃ©s une fois le match commencÃ©"
 Msg_NoBotsPlaying="Aucun bot actuellement en jeu"
 Msg_GameNoSupportBots="Le type de partie actuel ne prend pas en charge les bots"
-Msg_StatsNoBots="Impossible de contrôler des bots lorsque les stats mondiales sont activées"
-Msg_SetBotNeedVal="Cette commande nécessite un nombre compris entre 0 et 32"
+Msg_StatsNoBots="Impossible de contrÃ´ler des bots lorsque les stats mondiales sont activÃ©es"
+Msg_SetBotNeedVal="Cette commande nÃ©cessite un nombre compris entre 0 et 32"
 
 [xExtraPrivs]
-LoadMsg="Privilèges suppl. chargés"
+LoadMsg="PrivilÃ¨ges suppl. chargÃ©s"
 MainPrivs="X"
 SubPrivs="Xb|Xc|Xp|Xs|Xi|Xv|Xm"
-Tags=("Divers","Régler comp. bots","Util. console","Liste joueurs","Changer skin Webadmin","Gérer polit. accès","Gestion disc. orale","Config. match")
+Tags=("Divers","RÃ©gler comp. bots","Util. console","Liste joueurs","Changer skin Webadmin","GÃ©rer polit. accÃ¨s","Gestion disc. orale","Config. match")
 
 [xGamePrivs]
-LoadMsg="Privilèges maps & partie chargés"
+LoadMsg="PrivilÃ¨ges maps & partie chargÃ©s"
 MainPrivs="M"
 SubPrivs="Mr|Mt|Mm|Ml|Ms|Mu|Mb|Ma"
-Tags=("Param. maps/partie","Relancer map","Changer type partie","Changer map","Gestion rotation maps","Param. partie","Sélect. variantes","Aj./suppr. bots","Etat partie")
+Tags=("Param. maps/partie","Relancer map","Changer type partie","Changer map","Gestion rotation maps","Param. partie","SÃ©lect. variantes","Aj./suppr. bots","Etat partie")
 
 [xKickPrivs]
-LoadMsg="Privilèges éject. & bann. chargés"
+LoadMsg="PrivilÃ¨ges Ã©ject. & bann. chargÃ©s"
 MainPrivs="K"
 SubPrivs="Kp|Kb|Ko"
 Tags=("Eject/bann.","Ejecter joueurs","Bannir joueurs","Ejecter bots")
 
 [xUserGroupPrivs]
-LoadMsg="Gestion admin. & groupes chargée"
+LoadMsg="Gestion admin. & groupes chargÃ©e"
 MainPrivs="A|G"
 SubPrivs="Al|Aa|Ae|Ag|Am|Gl|Ga|Ge"
 Tags=("Utilisateurs","Liste admin.","Aj./suppr. admin.","Modif. admin.","Affecter groupes","Nommer managers","Groupes","Liste groupes","Aj./suppr. groupes","Modif. groupes")
