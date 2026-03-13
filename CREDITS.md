@@ -23,7 +23,7 @@
 * **_Dutch:_** **Rubie** (Unreal and UT review), **bennytrt and Hyper** (additional contributions and further reviews)
 * **_Norwegian:_** **Excalidar** (additional contributions and further reviews)
 * **_Japanese:_** **Vapor Mermaid** (localization retriever)
-* **_Greek:_** **LDinos** (localization author)
+* **_Greek:_** **LDinos** (UT localization author)
 
 ### UT2004 Localization credits
 * **Epic Games/Digital Extremes/Scion Studios/Streamline Studios:** Original English/German/French/Spanish/Italian/Korean localizations
