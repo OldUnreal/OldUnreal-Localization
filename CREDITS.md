@@ -5,7 +5,7 @@
 * **Smirftsch:** Initial project coordination.
 * **Victor Delacroix:** Early project coordination.
 * **Hellkeeper:** Early project coordination.
-* **Neon_Knight:** Former project coordination.
+* **Neon_Knight:** Project coordination.
 * **Buggie:** Localization templates for all 15 languages.
 
 ### Language-specific
@@ -13,7 +13,7 @@
 * **_French:_** **Hellkeeper** (Unreal and UT reviews), **Rackover/Louvenarde** (additional contributions and further reviews)
 * **_Spanish:_** **Neon_Knight** (Unreal and UT reviews), **rarsonic** (additional contributions and further reviews)
 * **_Italian:_** **Alby1987** (UT review), **UBerserker, BBG-(DOG)-, Lowenz** and **TaglesMalsto** (additional contributions and further reviews)
-* **_Russian:_** **u.HighPriest** (Unreal localization), **Reborn** (Unreal and UT reviews) **Skaarj ZR, FLAK, ArchGrey, Sergei, arctic0cat** and **lafoxxx92** (additional contributions and further reviews)
+* **_Russian:_** **u.HighPriest** (Unreal localization), **Reborn** (Unreal and UT reviews), **NightGuardianX** and **Pavel (Voradori)** (UT2004 review), **Skaarj ZR, FLAK, ArchGrey, Sergei, arctic0cat** and **lafoxxx92** (additional contributions and further reviews)
 * **_Polish:_** **Victor Delacroix** (Unreal review), **yrex.** (additional contributions and further reviews)
 * **_Portuguese:_** **Nahand** (Unreal localization), **BIr4** (Unreal review), **Naruto_9** (additional contributions and further reviews)
 * **_Hungarian:_** **Relaks** (Unreal localization) **Victor Delacroix, MakeMeUnreal** and **Gabor Kovacs** (additional contributions and further reviews)
