@@ -1,0 +1,49 @@
+﻿[Setup]
+LocalProduct="浴血戰場2003正式板"
+DefaultFolder="C:\UT2003Demo"
+ReadMe=Help\ReadMe-Demo.int.txt
+SetupWindowTitle=Unreal Tournament 2003  Demo Setup
+AutoplayWindowTitle="浴血戰場2003正式板設定"
+ProductURL=http://www.unrealtournament2003.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\InstallerLogo.bmp
+License=License.int
+
+[General]
+PlayLevelCommand="&P開始玩浴血戰場2003關卡"
+OpenLinkCommand="&O開啟浴血戰場2003連結"
+InstallModuleCommand="&I安裝浴血戰場2003模組"
+EditLevelCommand="&E編輯浴血戰場2003關卡"
+
+[UnrealGameContentGroup]
+Caption="遊戲內容"
+Description="必須安裝."
+
+[GameGroup]
+Caption="浴血戰場2003試玩板"
+Description="必須安裝."
+
+[DirectXGroup]
+Caption="DirectX 8.1"
+Description="加強畫面, 音效, 搖桿支援的非必須微軟 DirectX 8.1 驅動程式."
+
+[OpenALGroup]
+Caption="OpenAL"
+Description="硬體加速 3D 音效所需."
+
+[PlayShortcut]
+Caption="開始玩浴血戰場2003展示版"
+
+[SafeModeShortcut]
+Caption="浴血戰場2003展示版安全模式"
+
+[DocumentationShortcut]
+Caption="備註文件"
+
+[WebShortcut]
+Caption="浴血戰場2003網頁"
+
+[UninstallShortcut]
+Caption="移除浴血戰場2003"

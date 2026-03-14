@@ -1,9 +1,9 @@
 ﻿[Setup]
-LocalProduct="언리얼 토너먼트 2003 밝은 스킨"
-ReadMe=Help\ReadMe.int.txt
-SetupWindowTitle=Unreal Tournament 2003 Bright Team Skins Setup
+LocalProduct="Unreal Tournament 2003 Bonus Pack"
+ReadMe=Help\BonusPackReadme.txt
+SetupWindowTitle=Unreal Tournament 2003 Bonus Pack Setup
 ProductURL=http://www.unrealtournament2003.com/
-VersionURL=http://unreal.epicgames.com/versions.htm
+VersionURL=http://www.unrealtournament2003.com/
 Developer="Epic Games"
 DeveloperURL=http://www.epicgames.com/
 Logo=Help\Logo.bmp

@@ -1,11 +1,11 @@
 ﻿[Setup]
 LocalProduct="Unreal Tournament 2004"
 DefaultFolder="C:\UT2004"
-ReadMe=Help\ReadMe.int.txt
+ReadMe=Help\ReadMe.frt.txt
 SetupWindowTitle=Configuration d'Unreal Tournament 2004
 AutoplayWindowTitle="Options d'Unreal Tournament 2004"
 ProductURL=http://www.unrealtournament2004.com/
-VersionURL=http://unreal.epicgames.com/versions.htm
+VersionURL=http://www.unrealtournament2004.com/
 Developer="Epic Games"
 DeveloperURL=http://www.epicgames.com/
 Logo=Help\InstallerLogo.bmp
@@ -34,6 +34,10 @@ Description="Installation requise."
 Caption="DirectX 9.0b"
 Description="Pilotes en option Microsoft DirectX 9.0b pour améliorer graphisme, sons et gestion de joystick."
 
+[ECEModGroup]
+Caption="ECE Mods"
+Description="Installez les modifications de jeu.  Installation optionnelle."
+
 [OpenALGroup]
 Caption="OpenAL"
 Description="Requis pour des effets sonores 3D en accélération matérielle."
@@ -48,6 +52,13 @@ Description="Editeur Unreal, pour créer vos propres décors Unreal en 3D. Pour 
 
 [PlayShortcut]
 Caption="Jouer à UT2004"
+
+[DesktopShortcut]
+Caption="Jouer à UT2004"
+
+[DesktopGroup]
+Caption="Raccourci bureau"
+Description="Créer un raccourci sur le bureau pour jouer UT2004"
 
 [SafeModeShortcut]
 Caption="Mode sans échec d'UT2004"
