@@ -1,8 +1,0 @@
-﻿[Public]
-Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTV2004SA.utvMutator,Description="Необходимо поддерживать режим UTV2004 - Видеть всех.")
-
-[utvMutator]
-FriendlyName="UTV2004S"
-Description="Поддержка режима UTV2004 Зри Всех. (Чего?)"
-
-
