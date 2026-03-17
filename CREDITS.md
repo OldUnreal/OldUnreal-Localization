@@ -30,7 +30,7 @@
 * **Neon_Knight:** Project coordination.
 * **Buggie:** Localization templates for all 15 languages.
 * **_Russian:_**
-  * **Rasiel:** Original localization
+  * **Rasiel and _Lynx:** Original localization
   * **Cobalt:** Additional contributions
   * **NightGuardianX:** 2026 Review
   * **Voradori:** 2026 Review
