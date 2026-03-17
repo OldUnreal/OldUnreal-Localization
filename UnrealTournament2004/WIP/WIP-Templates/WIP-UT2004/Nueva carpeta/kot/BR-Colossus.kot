@@ -1,0 +1,27 @@
+﻿[LevelInfo0]
+Title="콜로서스"
+
+[LevelSummary]
+Title="콜로서스"
+Description="지상으로 공격하든, 공중으로 공격하든, 또는 부스트 터널을 이용하든, 당신의 길목을 막으러는 적의 뛰어난 군사지형 사용과 첨단기술의 맹렬한 저항을 받을 것이라는 것을 알고 있어야 한다. 길치인 당신들을 위해 지도가 준비 되어있다."
+
+[Volume0]
+LocationName="청팀 기지 뒤"
+
+[Volume1]
+LocationName="청팀 기지 앞"
+
+[Volume2]
+LocationName="중립 지역"
+
+[Volume3]
+LocationName="홍팀 기지 앞"
+
+[Volume4]
+LocationName="홍팀 기지 뒤"
+
+[ZoneInfo1]
+LocationName="홍팀 벙커"
+
+[ZoneInfo2]
+LocationName="청팀 벙커"

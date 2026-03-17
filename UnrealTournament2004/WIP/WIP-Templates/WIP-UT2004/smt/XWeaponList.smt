@@ -1,0 +1,15 @@
+﻿[Public]
+Weapon=(FriendlyName="冲锋步枪",WeaponClassName=XWeapons.AssaultRifle,AttachmentMeshName=Weapons.AssaultRifle_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.AssaultRiflePickup)
+Weapon=(FriendlyName="发球机",WeaponClassName=XWeapons.BallLauncher,AttachmentMeshName=Weapons.BallLauncher_3rd,AttachmentDrawScale=0.400000,PickupMeshName=)
+Weapon=(FriendlyName="生化步枪",WeaponClassName=XWeapons.BioRifle,AttachmentMeshName=Weapons.BioRifle_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.BioRiflePickup)
+Weapon=(FriendlyName="热焰炮",WeaponClassName=XWeapons.FlakCannon,AttachmentMeshName=Weapons.Flak_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.FlakCannonPickup)
+Weapon=(FriendlyName="电浆枪",WeaponClassName=XWeapons.LinkGun,AttachmentMeshName=Weapons.LinkGun_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.LinkGunPickup)
+Weapon=(FriendlyName="机枪",WeaponClassName=XWeapons.Minigun,AttachmentMeshName=Weapons.Minigun_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.MinigunPickup)
+Weapon=(FriendlyName="离子标定器",WeaponClassName=XWeapons.Painter,AttachmentMeshName=Weapons.Painter_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.PainterPickup)
+Weapon=(FriendlyName="救世主",WeaponClassName=XWeapons.Redeemer,AttachmentMeshName=Weapons.Redeemer_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.RedeemerPickup)
+Weapon=(FriendlyName="火箭发射器",WeaponClassName=XWeapons.RocketLauncher,AttachmentMeshName=Weapons.RocketLauncher_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.RocketLauncherPickup)
+Weapon=(FriendlyName="盾枪",WeaponClassName=XWeapons.ShieldGun,AttachmentMeshName=Weapons.ShieldGun_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.ShieldGunPickup)
+Weapon=(FriendlyName="电击步枪",WeaponClassName=XWeapons.ShockRifle,AttachmentMeshName=Weapons.ShockRifle_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.ShockRiflePickup)
+Weapon=(FriendlyName="狙击步枪",WeaponClassName=XWeapons.SniperRifle,AttachmentMeshName=Weapons.Sniper_3rd,AttachmentDrawScale=0.400000,PickupMeshName=WeaponStaticMesh.SniperRiflePickup)
+Weapon=(FriendlyName="时空转换器",WeaponClassName=XWeapons.TransLauncher,AttachmentMeshName=Weapons.TransLauncher_3rd,AttachmentDrawScale=0.400000,PickupMeshName=)
+

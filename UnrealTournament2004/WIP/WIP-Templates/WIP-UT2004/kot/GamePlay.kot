@@ -1,8 +1,8 @@
 ﻿[ACTION_DamageActor]
-ActionString="액터를 손상합니다" 
+ActionString="참가자를 공격합니다" 
 
 [ACTION_DestroyActor]
-ActionString="액터를 파괴합니다" 
+ActionString="참가자를 파괴합니다" 
 
 [ACTION_FinishRotation]
 ActionString="로테이션을 끝냅니다"
@@ -10,8 +10,14 @@ ActionString="로테이션을 끝냅니다"
 [ACTION_FireWeapon]
 ActionString="무기를 발사합니다"   
 
+[ACTION_FireWeaponAt]
+ActionString="무기를 발사합니다"
+
 [ACTION_Freeze]
-ActionString="정지"   
+ActionString="정지"
+
+[ACTION_HealActor]
+ActionString="참가자를 치료합니다"
 
 [ACTION_Jump]
 ActionString="점프"  
@@ -26,78 +32,75 @@ ActionString="Physics를 다음으로 변경합니다 "
 ActionString="목표를 사격합니다" 
 
 [ACTION_SpawnActor]
-ActionString="액터를 재생합니다" 
+ActionString="참가자를 재생합니다" 
+
+[ACTION_SubTitles]
+ActionString="서브타이틀"
 
 [ACTION_ThrowWeapon]
 ActionString="무기를 버립니다"   
 
-[ACTION_FireWeaponAt]
-ActionString="무기 발사"
-
-[ACTION_HealActor]
-ActionString="힐 액터"
-
 [ActionMessage_BR]
-Messages[0]="바밍 런"   
+Messages[0]="버밍 런"   
 Messages[1]="공이 가운데 있습니다" 
-Messages[2]="공을 가지려면 손을 대십시오" 
-Messages[3]="공을 갖고 있는 플레이어는 공격할 수 없습니다" 
-Messages[4]="기본 발사를 누르면 공을 쏩니다" 
-Messages[5]="대체 발사를 누르면 같은 팀을 향합니다" 
+Messages[2]="공을 가지려면 공에 가까이 가십시오" 
+Messages[3]="공을 가지고 있는 플레이어는 공격할 수 없습니다" 
+Messages[4]="기본 발사를 누르면 공을 던집니다" 
+Messages[5]="2차 발사를 누르면 같은 팀을 향합니다" 
 Messages[6]="같은 팀에게 공을 패스하십시오" 
-Messages[7]="각 팀별로 둥근 골대가 있습니다"
-Messages[8]="공 던져넣기 = 3점" 
-Messages[9]="공 갖고 통과하기 = 7점"
+Messages[7]="각 팀 별로 둥근 골대가 있습니다"
+Messages[8]="공을 골대에 던져 넣으면 3점을 얻습니다" 
+Messages[9]="공을 가진채 골대를 통과하게 되면 7점을 얻습니다"
 Messages[10]="행운을 빕니다!"
 
 [ActionMessage_CTF]
 Messages[0]="깃발 뺏기" 
-Messages[1]="두 개의 기지: 홍팀과 청팀" 
-Messages[2]="적의 깃발을 건드려서 가지십시오" 
-Messages[3]="기지로 돌아가십시오" 
-Messages[4]="점수를 올리려면 깃발을 만지십시오" 
-Messages[5]="공간 이동하면 깃발이 떨어집니다" 
-Messages[6]="빼앗기 기본 횟수는 3회 입니다" 
+Messages[1]="홍팀과 청팀의 두 개의 기지가 있습니다" 
+Messages[2]="적의 깃발을 빼앗으십시오" 
+Messages[3]="아군의 기지로 돌아오십시오" 
+Messages[4]="점수를 올리려면 가지고 온 적 깃발을 아군 깃발을 통과하십시오." 
+Messages[5]="트랜스로케이터를 통해 순간 이동을 하게 되면 깃발을 놓치게 됩니다" 
+Messages[6]="기본적으로 설정된 목표 점수는 3점 입니다" 
 Messages[7]="행운을 빕니다!"  
 
 [ActionMessage_DM]
-Messages[0]="죽음의 매치" 
+Messages[0]="데스매치" 
 Messages[1]="발사 버튼을 누르면 시작합니다" 
-Messages[2]="무기에는 두 개의 발사 모드가 있습니다" 
-Messages[3]="일반 발사와 대체 발사" 
+Messages[2]="무기에는 두 가지의 발사 방식이 있습니다" 
+Messages[3]="1차 발사와 2차 발사" 
 Messages[4]="어썰트 라이플" 
 Messages[5]="총알과 수류탄을 발사합니다"  
-Messages[6]="쉴드 건" 
-Messages[7]="무차별 공격"   
-Messages[8]="방어 쉴드" 
+Messages[6]="실드건" 
+Messages[7]="근접 공격"   
+Messages[8]="방어 실드" 
 Messages[9]="다른 무기를 찾으십시오"  
 Messages[10]="플랙 캐논" 
 Messages[11]="바이오 라이플"
 Messages[12]="미니건" 
-Messages[13]="동작"
+Messages[13]="움직임"
 Messages[14]="WASD = 기본 이동 키"   
-Messages[15]="피하려면 키를 더블 클릭 하십시오" 
+Messages[15]="회피하려면 방향키를 두번 연타하십시오" 
 Messages[16]="점프하기" 
 Messages[17]="더블 점프" 
-Messages[18]="파워 충전"
-Messages[19]="헬스 병"  
+Messages[18]="파워업 아이템"
+Messages[19]="헬스 약병"  
 Messages[20]="헬스 팩" 
-Messages[21]="Big Keg O' 헬스" 
-Messages[22]="갑옷" 
-Messages[23]="쉴드 팩" 
-Messages[24]="슈퍼 쉴드 팩"
+Messages[21]="헬스 단지" 
+Messages[22]="실드" 
+Messages[23]="실드 팩" 
+Messages[24]="수퍼 실드 팩"
 Messages[25]="아드레날린"
-Messages[26]="콤보를 위해 아드레날린을 사용할 수 있습니다" 
-Messages[27]="파워 증폭기를 손상시키십시오" 
-Messages[28]="승수에 먼저 도달하십시오!"
+Messages[26]="100 아드레날린 포인트를 채우면 아드레날린 콤보를 사용할 수 있습니다" 
+Messages[27]="더블 데미지 아이템" 
+Messages[28]="제한점수에 먼저 도달하면 승리하게 됩니다!"
 Messages[29]="자살하면 감점됩니다" 
 Messages[30]="행운을 빕니다!" 
 
 [ActionMessage_DOM]
-Messages[0]="이중 점령" 
+Messages[0]="더블 도미네이션" 
 Messages[1]="점령 지점: A 와 B "
-Messages[2]="10초간 점령 지점을 지키십시오" 
-Messages[3]="점령하려면 지점에 갑니다" 
+Messages[2]="10초간 점령 지점을 사수하십시오" 
+Messages[3]="점령하기 위해선 그 지점 닿으면 됩니다" 
 Messages[4]="행운을 빕니다!"
 
 [ActionMessage_SubTitle]
@@ -134,45 +137,45 @@ Delays[29]=0.000000
 Delays[30]=0.000000
 Delays[31]=0.000000
 Messages[0]="나 어때?"   
-Messages[1]="나 따라 올려면 멀었어, 베이비 ..." 
+Messages[1]="나 따라 올려면 멀었어, 꼬맹이 ..." 
 Messages[2]="네에, 팬 여러분, 우리는 은하계에서 가장 잔인한 스포츠의 또 다른 장을 열기 위해 이곳에 모였습니다. 이 토너먼트의 승자들은 신이 되고 패자들은 최후의 대가를 치르게 됩니다!"
 Messages[3]="저기 있네요! 한때는 서로 라이벌이었지만 이제는 가장 막강한 팀 중의 하나입니다."
 Messages[4]="맞습니다, 무엇보다도 경험이죠, 이 셋은 백전노장 입니다."
-Messages[5]="Malcolm을 보세요! 이사람이야 말로 불꽃 튀기는 싸움에서도 쿨 하지요."
-Messages[6]="저 Brock은 링 위에서 적한테 위험한 것 만큼 링 밖에서는 여자들에게 한 작업하니까 조심해야 돼요!"
-Messages[7]="Lauren이 싸우는 건 볼만해....에너지가 넘치죠 ."
-Messages[8]="에이.....Lauren의 에너지를 좋아하는게 아니겠지요 "
+Messages[5]="말콤을 보세요! 이사람이야 말로 불꽃 튀기는 싸움에서도 냉정함을 유지하지요."
+Messages[6]="브락은 링 위에서 적들에게 위험한 만큼 링 밖에서는 여자들에게 한 작업하니까 조심해야 돼요!"
+Messages[7]="로렌이 싸우는 건 볼만하죠.....에너지가 넘쳐요."
+Messages[8]="에이.....로렌의 에너지를 좋아하는게 아니겠지요 "
 Messages[9]="이번에 그는 내 밥이야!!"
 Messages[10]="아아아아아악"
-Messages[11]="Gorge가 짱이야! 멋져! 맞아, 맞아, 최고야!"
-Messages[12]="MAAAALLLCOOOOOMMM"
-Messages[13]="뜨아, 방금 저거 봤어요?"
-Messages[14]="짐, 내가 보기에는 Gorge가 팬들을 아주 우습게 본다니까요."
-Messages[15]="내가 보기에는 지난번 말콤 덕분에 생긴 흉터 땜에 아직도 열받고 있는 것 같아요."
+Messages[11]="고지가 최고야! 멋져! 맞아, 맞아, 최고야!"
+Messages[12]="말...코오오오오오오옴"
+Messages[13]="으아, 방금 저거 봤어요?"
+Messages[14]="짐, 내가 보기에는 고지가 팬들을 아주 우습게 본다니까요."
+Messages[15]="지난번 전투에서 말콤 덕분에 생긴 흉터 때문에 아직도 화가 나있는 것 같아요."
 Messages[16]="그래요, 복수하려고 벼르는 것 같습니다." 
 Messages[17]="네에, 오늘 밤 볼만 할겁니다."  
-Messages[18]="Malcolm팀이 지난번에 이겼으니까 오늘밤 경기장을 그쪽에서 정할텐데요."
+Messages[18]="말콤팀이 지난번에 이겼으니까 오늘밤 경기장을 그 쪽에서 정할 텐데요."
 Messages[19]="아마 그게...네, 칼렌드라 아이스필드네요."
-Messages[20]="오우 예, 난 이 경기장이 좋아요, Malcolm이 여기서 정말 실력 발휘하거든요."
-Messages[21]="오늘밤 경기는 진짜 피 튀기는 경기가 될겁니다."
+Messages[20]="오우 예, 난 이 경기장이 좋아요, 말콤이 여기서 진정한 실력을 발휘하거든요."
+Messages[21]="오늘밤 경기는 진짜 피 튀기는 경기가 될 겁니다."
 
 [Action_CHANGELEVEL]
-ActionString="레벨을 바꿉니다" 
+ActionString="레벨을 변경합니다" 
 
 [Action_CHANGESCRIPT]
-ActionString="스크립트를 바꿉니다" 
+ActionString="스크립트를 변경합니다" 
 
 [Action_CHANGETEAM]
-ActionString="팀을 바꿉니다" 
+ActionString="팀을 변경합니다" 
 
 [Action_CROUCH]
-ActionString="웅크리기"
+ActionString="앉기" 
  
 [Action_ConsoleCommand]
 ActionString="명령을 콘솔에 입력합니다" 
 
 [Action_DAMAGEINSTIGATOR]
-ctionString="선동자를 해칩니다" 
+ActionString="선동자를 해칩니다" 
 
 [Action_DESTROYPAWN]
 ActionString="pawn을 파괴합니다" 
@@ -180,11 +183,14 @@ ActionString="pawn을 파괴합니다"
 [Action_DISPLAYMESSAGE]
 ActionString="메세지를 보여줍니다" 
 
+[Action_DrawHUDMaterial]
+ActionString="HUD texture를 보여줍니다"
+
 [Action_ENDSECTION]
 ActionString="섹션을 끝냅니다" 
 
 [Action_FADEVIEW]
-ActionString="뷰를 없앱니다"
+ActionString="보기를 없앱니다"
 
 [Action_GOTOACTION]
 ActionString="액션으로 갑니다"  
@@ -205,31 +211,31 @@ ActionString="플레이어로 이동합니다"
 ActionString="포인트로 이동합니다" 
 
 [Action_PLAYAMBIENTSOUND]
-ActionString="주위 소리를 플레이합니다"  
+ActionString="주변 사운드를 플레이합니다"  
 
 [Action_PLAYANIM]
 ActionString="애니메이션을 플레이합니다"  
 
-[Action_PLAYANNOUNCEMENT]
-ActionString="플레이 공고"
+[Action_PLAYLOCALSOUND]
+ActionString="아나운서 멘트를 플레이합니다" 
 
 [Action_PLAYLOCALSOUND]
-ActionString="소리를 플레이합니다" 
+ActionString="주변사운드를 플레이합니다"
 
 [Action_PLAYMUSIC]
-ActionString="노래를 플레이합니다" 
+ActionString="노래를 플레이합니다"
 
 [Action_PLAYSOUND]
-ActionString="소리를 플레이합니다"
+ActionString="사운드를 플레이합니다"
 
 [Action_RUN]
-ActionString="뜁니다" 
+ActionString="달립니다" 
 
 [Action_SETALERTNESS]
 ActionString="대기 지령을 설정합니다" 
 
 [Action_SETVIEWTARGET]
-ActionString="viewtarget을 설정합니다" 
+ActionString="목표보기를 설정합니다" 
 
 [Action_STOPANIMATION]
 ActionString="애니메이션을 중지합니다" 
@@ -256,26 +262,26 @@ ActionString="타이머를 기다립니다"
 ActionString="걷습니다" 
 
 [Burned]
-DeathString="%o 님은 소테되었습니다." 
+DeathString="%o 님이 타버렸습니다" 
 
 [Corroded]
-DeathString="%o 님은 %k 님에 의해 분해되었습니다." 
-FemaleSuicide="%o 님은 슬라임 속에서 녹아버렸습니다."
-MaleSuicide="%o 님은 슬라임 속에서 녹아버렸습니다."
+DeathString="%o 님이 %k 님에 의해 완전히 녹아버렸습니다" 
+FemaleSuicide="%o 님이 독극물 속에서 녹아버렸습니다"
+MaleSuicide="%o 님이 독극물 속에서 녹아버렸습니다"
 
 [Counter]
 CountMessage=" %i 만 더 가면 됩니다..." 
 CompleteMessage="완료!" 
 
 [Depressurized]
-DeathString="%o 님은 %k 님에 의해 감압되었습니다."   
-FemaleSuicide="%o 님은 감압되었습니다." 
-MaleSuicide="%o 님은 감압되었습니다." 
+DeathString="%o 님이 %k 님에 의해 감압되어 사망하였습니다"   
+FemaleSuicide="%o 님이 감압되어 사망하였습니다" 
+MaleSuicide="%o 님니 감압되어 사망하였습니다" 
 
 [Drowned]
-DeathString="%o 님은 숨 쉬러 위로 올라오는 것을 잊었습니다." 
-FemaleSuicide="%o 님은 숨 쉬러 위로 올라오는 것을 잊었습니다."
-MaleSuicide="%o 님은 숨 쉬러 위로 올라오는 것을 잊었습니다." 
+DeathString="%o 님이 익사하였습니다"
+FemaleSuicide="%o 님이 익사하였습니다"
+MaleSuicide="%o 님이 익사하였습니다" 
 
 [MessageTextureClient]
 HisMessage="그의"

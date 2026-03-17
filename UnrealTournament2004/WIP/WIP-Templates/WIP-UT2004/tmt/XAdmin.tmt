@@ -1,0 +1,68 @@
+﻿[AdminIni]
+Msg_PlayerList="玩者清單:"
+Msg_FinishGameEditFirst="你必須在重新開始地圖前先完成遊戲編輯"
+Msg_FinishGameRestart="你必須在改變或重新開始地圖前完先成遊戲編輯"
+Msg_GameNoSupportBots="目前的遊戲種類不支援電腦人"
+Msg_StatsNoBots="當世界統計開啟時無法控制電腦人"
+Msg_NextMapNotFound="下一地圖未找到, 重新啟動同樣地圖"
+Msg_ChangingMapTo="變更地圖維 %NextMap%"
+Msg_PlayerBanned="%Player% 禁止進入本伺服器"
+Msg_SessionBanned="%Player% 禁止進入本場比賽"
+Msg_PlayerKicked="%Player% 被踢出了"
+Msg_NoBotGameFull="無法加入電腦人, 遊戲已額滿"
+Msg_NoAddNamedBot="遊戲開始後只能加入有命名的電腦人"
+Msg_NoBotsPlaying="目前沒有電腦人在遊戲中"
+Msg_SetBotNeedVal="此指令需要 0 到 32 之間的數值"
+Msg_MutNeedGameEdit="在 'Mutator' 指令前你必須先使用 'Game Edit' 指令"
+Msg_NoMutatorInUse="目前沒有使用突變模組"
+Msg_NoUnusedMuts="沒找到未使用的突變模組"
+Msg_AddedMutator="增加 '%Mutator%' 到使用模組清單中"
+Msg_ErrAddingMutator="增加 '%Mutator%' 到使用模組清單中時發生錯誤"
+Msg_RemovedMutator="移除 '%Mutator%' 自使用模組清單中"
+Msg_ErrRemovingMutator="移除 '%Mutator%' 自使用模組清單中時發生錯誤"
+Msg_MapListNeedGameEdit="在使用 'MapList' 指令前你必須使用 'Game Edit' 指令"
+Msg_MapRotationList="%Game% 使用的輪番地圖"
+Msg_NoMapInRotation="輪番地圖清單中沒有地圖"
+Msg_NoMapsAdded="沒有地圖加入清單中"
+Msg_AddedMapToList="增加 '%Map%' 到地圖輪番清單中"
+Msg_NoMapsRemoved="沒有地圖從情單中移除"
+Msg_RemovedMapFromList="移除 '%Map%' 自地圖輪番清單中"
+Msg_NoMapsFound="沒找到地圖"
+Msg_MapIsInRotation="地圖 '%Map%' 在地圖輪番清單中"
+Msg_MapNotInRotation="地圖 '%Map%' 不在地圖輪番清單中"
+Msg_MustEndGameEdit="你必須先完成遊戲編輯"
+Msg_EditingClass="編輯 %Class%"
+Msg_EditFailed="啟動編輯失敗"
+Msg_AlreadyEdited="遊戲正由某人編輯中"
+Msg_NotEditing="你不是在編輯遊戲設定, 先使用 'Game Edit' 指令"
+Msg_EditingCompleted="編輯完成"
+Msg_EditingCancelled="編輯取消"
+Msg_UnknownParam="未知參數: %Value%"
+Msg_NoParamsFound="沒找到參數!"
+Msg_ParamModified="變更成功"
+Msg_ParamNotModified="無法變更參數"
+
+[xExtraPrivs]
+LoadMsg="特別權限載入"
+MainPrivs="X"
+SubPrivs="Xb|Xc|Xp"
+Tags=("其他","管理 IP 條例","使用操控台","玩者清單")
+
+[xGamePrivs]
+LoadMsg="地圖 & 遊戲權限載入"
+MainPrivs="M"
+SubPrivs="Mr|Mt|Mm|Ml|Ms|Mu|Mb"
+Tags=("地圖/遊戲設定","重新開始地圖","改變遊戲種類","改變地圖","改變地圖輪番","遊戲設定","選擇突變模組","增加/移除電腦人")
+
+[xKickPrivs]
+LoadMsg="踢除並禁止權限載入"
+MainPrivs="K"
+SubPrivs="Kp|Kb|Ko"
+Tags=("踢除/禁止","踢除玩者","禁止玩者","踢除電腦人")
+
+[xUserGroupPrivs]
+LoadMsg="管理員 & 群組管理載入"
+MainPrivs="A|G"
+SubPrivs="Al|Aa|Ae|Ag|Am|Gl|Ga|Ge"
+Tags=("使用者","列出管理員","增加/移除管理員","編輯管理員","指定群組","設成管理員","群組","列出群組","增加/移除群組","編輯群組")
+

@@ -1,20 +1,20 @@
 ﻿[AdrenalinePickup]
-PickupMessage="아드레날린"
+PickupMessage="아드레날린을 획득하였습니다"
 
 [MiniHealthPack]
-PickupMessage="헬스 병을 주웠습니다"
+PickupMessage="헬스 약병을 획득하였습니다"
 
 [ShieldPickup]
-PickupMessage="쉴드 팩을 주웠습니다"
+PickupMessage="실드 팩을 획득하였습니다"
 
 [SuperHealthPack]
-PickupMessage="대형 Keg O' 헬스를 주웠습니다"
+PickupMessage="헬스 단지를 획득하였습니다"
 
 [SuperShieldPack]
-PickupMessage="슈퍼 쉴드 팩을 주웠습니다"
+PickupMessage="슈퍼 실드 팩을 획득하였습니다"
 
 [TournamentHealth]
-PickupMessage="헬스 팩을 주웠습니다"
+PickupMessage="헬스 팩을 획득하였습니다"
 
 [UDamagePack]
 PickupMessage="더블 데미지!"

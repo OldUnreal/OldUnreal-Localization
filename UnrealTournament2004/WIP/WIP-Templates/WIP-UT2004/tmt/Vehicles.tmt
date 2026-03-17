@@ -1,0 +1,6 @@
+﻿[BulldogMessage]
+GetInMessage="按下 [使用] 進入乘載具."
+GetOutMessage="按下 [跳躍] 離開乘載具."
+TooManyCarsMessage="太多車輛!"
+FlipCarMessage="按下 [使用] 翻正乘載具."
+

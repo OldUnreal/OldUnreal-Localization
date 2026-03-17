@@ -1,0 +1,23 @@
+﻿[LevelInfo0]
+Title="세푸쿠고지"
+
+[LevelSummary]
+Title="세푸쿠고지"
+
+[Volume0]
+LocationName="근접지B"
+
+[Volume1]
+LocationName="근접지A"
+
+[Volume2]
+LocationName="다리 위"
+
+[Volume3]
+LocationName="홍팀 동굴"
+
+[Volume4]
+LocationName="청팀 동굴"
+
+[ZoneInfo0]
+LocationName="외부"

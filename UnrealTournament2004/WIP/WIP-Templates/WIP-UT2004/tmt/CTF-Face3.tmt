@@ -1,0 +1,44 @@
+﻿[LevelInfo0]
+Title="相對世界 3"
+
+[LevelSummary]
+Title="相對世界 3"
+
+[Volume0]
+LocationName="紅隊第 3 層"
+
+[Volume1]
+LocationName="藍隊第 3 層"
+
+[ZoneInfo1]
+LocationName="藍隊基地"
+
+[ZoneInfo10]
+LocationName="紅隊機槍"
+
+[ZoneInfo11]
+LocationName="紅隊石柱"
+
+[ZoneInfo2]
+LocationName="藍隊機槍"
+
+[ZoneInfo3]
+LocationName="藍隊機槍"
+
+[ZoneInfo4]
+LocationName="藍隊石柱"
+
+[ZoneInfo5]
+LocationName="藍隊機槍"
+
+[ZoneInfo6]
+LocationName="室外"
+
+[ZoneInfo7]
+LocationName="紅隊基地"
+
+[ZoneInfo8]
+LocationName="紅隊機槍"
+
+[ZoneInfo9]
+LocationName="紅隊機槍"

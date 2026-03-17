@@ -1,0 +1,133 @@
+﻿[BlockingVolume3]
+LocationName="상공에서"
+
+[BlockingVolume61]
+LocationName="상공에서"
+
+[LevelInfo0]
+Title="덱17"
+
+[LevelSummary]
+Title="덱17"
+Description="마그마 정제소이며 16번의 뜨거운 이웃인 17번 갑판에 입장하십시요."
+
+[Volume0]
+LocationName="D17 엘리베이터 - 아랫층 (쉴드 팩)"
+
+[Volume10]
+LocationName="D17 메인 룸 - 서쪽 (링크 건)"
+
+[Volume4]
+LocationName="메인 룸 - 하북부 선반 (U-데미지)"
+
+[Volume5]
+LocationName="D17 메인 룸 - 동부 선반 (쉴드 팩)"
+
+[Volume6]
+LocationName="D17 엘리베이터 - 하단 (2 헬스 팩)"
+
+[Volume7]
+LocationName="D17 메인 룸 - 중심 (미니건)"
+
+[Volume8]
+LocationName="대형 용암 웅덩이 (로켓 런처)"
+
+[ZoneInfo25]
+LocationName="D16 (금지구역)"
+
+[ZoneInfo30]
+LocationName="주황색 복도 커브"
+
+[ZoneInfo32]
+LocationName="청팀 룸 (로켓 런처)"
+
+[ZoneInfo37]
+LocationName="상단 현관"
+
+[ZoneInfo40]
+LocationName="상단 소형 용암 웅덩이 (라이트닝 건)"
+
+[ZoneInfo41]
+LocationName="엘리베이터 옆 배기환풍기 아래"
+
+[ZoneInfo43]
+LocationName="16번 선반으로 가는 금지입구"
+
+[ZoneInfo45]
+LocationName="D17/D16 교차점 입구"
+
+[ZoneInfo47]
+LocationName="16번 선반 (금지구역)"
+
+[ZoneInfo48]
+LocationName="16번 선반 (금지구역)"
+
+[ZoneInfo49]
+LocationName="16번 선반 (금지구역)"
+
+[ZoneInfo50]
+LocationName="D17/D16 교차점 (바이오 라이플)"
+
+[ZoneInfo51]
+LocationName="16번 선반 (금지구역)"
+
+[ZoneInfo52]
+LocationName="16번 선반 (금지구역)"
+
+[ZoneInfo53]
+LocationName="엘리베이터 근처 - 동부상단 "
+
+[ZoneInfo54]
+LocationName="상단 현관 (대공포 캐논)"
+
+[ZoneInfo55]
+LocationName="상단현관의 T-구역"
+
+[ZoneInfo56]
+LocationName="상단현관의 메인입구"
+
+[ZoneInfo57]
+LocationName="엘리베이터 - 상단"
+
+[ZoneInfo58]
+LocationName="엘리베이터 위 (리디머)"
+
+[ZoneInfo59]
+LocationName="엘리베이터 - 하단 (쇼크 라이플)"
+
+[ZoneInfo60]
+LocationName="엘리베이터 - 하단 (쇼크 라이플)"
+
+[ZoneInfo61]
+LocationName="홍팀 엘리베이터 복도 - 동쪽"
+
+[ZoneInfo62]
+LocationName="홍팀 엘리베이터 복도 - 서쪽"
+
+[ZoneInfo63]
+LocationName="대형 용암웅덩이"
+
+[ZoneInfo69]
+LocationName="대형 용암구덩이 (슈퍼 쉴드 팩)"
+
+[ZoneInfo70]
+LocationName="메인 룸 - 동쪽선반 (바이오 라이플)"
+
+[ZoneInfo71]
+LocationName="메인 룸 - 중간"
+
+[ZoneInfo73]
+LocationName="메인 룸 - 하북부 선반 (쇼크 라이플)"
+
+[ZoneInfo74]
+LocationName="메인 룸 - 저격병 선반 (라이트닝 건)"
+
+[ZoneInfo76]
+LocationName="높은 북부복도 (2 헬스 팩)"
+
+[ZoneInfo77]
+LocationName="하단 소형 용암웅덩이 (대공포 캐논)"
+
+[ZoneInfo78]
+LocationName="오렌지 직선통로"
+

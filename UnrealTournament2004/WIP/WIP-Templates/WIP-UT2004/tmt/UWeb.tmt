@@ -1,0 +1,8 @@
+﻿[Public]
+Preferences=(Caption="網路伺服器",Parent="網路",Class=UWeb.WebServer)
+
+[WebServer]
+ClassCaption="網路伺服器"
+
+[WebResponse]
+CharSet="big5"

@@ -1,0 +1,145 @@
+﻿[Errors]
+MissingProductTitle="%s 無法存在 %s 這個檔案夾"
+MissingProductInstalled="已安裝"
+MissingProductPatched="已更新"
+MissingProductThis="這個更新"
+MissingProduct="%s 需要先安裝 %s 在檔案夾裡. 請指定目前 %s 所在的檔案夾, 或跳出後馬上安裝.\n\n你可以連結下列網頁閱覽產品資訊."
+OldVersion="%s 需要 %s 版本 %i 以上, 但你所安裝的版本過於老舊. (你的版本為 %i). 請安裝 %s 版本 %i 以上並重新嘗試. 你可以連結下列網頁閱覽產品資訊.\n\n現在會離開安裝."
+FolderTitle="檔案夾 '%s'"
+FolderFormat="你輸入的檔案夾, '%s', 是無效的.  請重新嘗試."
+CDKeyTitle="無效的 CD 序號"
+CDKeyFormat="你輸入的 CD 序號不正確.  請對照 CD 盒子上的序號重新輸入一遍."
+AlreadyRunningTitle="使用中無法安裝"
+AlreadyRunning="要繼續安裝, 請停止停止執行遊戲, 並且按下確定. 要離開, 請按取消."
+WrongCdTitle="CD-ROM 找不到檔案"
+WrongCd="正確版本的 %s 檔案 %s 不在光碟機裡.\n\n請確認正確的 CD 在光碟機裡."
+MissingInstallerFile="找不到安裝程式檔案"
+MissingReferenceFile="找不到關聯檔案"
+MissingSourceFile="找不到來源檔"
+FailedOpenSource="開啟來源檔失敗"
+FailedOpenDest="開啟目標檔失敗"
+FailedReadingSource="讀取來源檔失敗"
+FailedWritingDest="寫入目標檔失敗"
+FailedLoadingUpdate="載入更新檔失敗"
+FailedReadingReference="讀取關聯檔失敗"
+FailedClosingSource="關閉來源檔失敗"
+FailedClosingDest="關閉目標檔失敗"
+FailedMakeDir="新增目標檔目錄失敗"
+AdviseBadMedia="來源媒體可能損壞. 如果是從 CD 安裝的, 請嘗試清潔 CD, 檢查光碟機, 並重新嘗試."
+AdviseBadDownload="你下載的更新檔案可能已經損毀."
+AdviseBadDest="硬碟可能已經滿了, 或者是有損壞的磁區."
+PatchCorrupt="更新檔 %s 是損毀的.\n\n%s"
+CdFileMismatch="來自 CD-ROM 的檔案 %s 不是正確的版本. 所以, %s 不能更新."
+
+[General]
+Space="%i MB"
+Ready="安裝程式已經準備好開始安裝 %s.\n安裝目錄為: %s\n\n按下 '安裝' 開始進行安裝.\n按下 '取消' 跳出安裝程式且不安裝 %s."
+InstallCancel="取消安裝"
+CancelPrompt="警告!  取消安裝會讓 %s 無法正常使用.  你確定要取消?"
+DidCancel="你取消了安裝.  本產品沒有完成安裝步驟且將無法正常使用."
+CdDescription="要安裝這個 %s 更新檔, 有些檔案必須從原版 %s CD-ROM 上面重新安裝.\n\n請將 %s 的 CD-ROM 放入光碟機, 並且按 '下一步'.  如果你的光碟機代號不對的話, 請在以下輸入."
+CdDrive="CD-ROM 光碟機"
+NotEnoughSpaceTitle="無法在此安裝"
+NotEnoughSpace="硬碟 %s 的空間不足, 無法安裝 %s.  請選擇另一個有足夠空間的硬碟, 或是離開安裝, 清出足夠空間, 再重新嘗試."
+Finish="&F完成"
+RebootButton="&R重新啟動"
+ExitButton="&E離開"
+Abbreviation="浴血戰場2003安裝"
+CDPromptTitle="等待 CD"
+CDPromptMessage="請放入浴血戰場2003 CD 編號 %d\n\n(%s)"
+InstallQFE="浴血戰場2003 需要安裝 DirectX 8.1 的更新. 請依照對話框的指示進行."
+
+[IDDIALOG_FilerPageAutoPlay]
+IDC_Play="&P開始遊戲"
+IDC_Reinstall="&I安裝"
+IDC_Uninstall="&U移除"
+IDC_ReleaseNotes="&N發行備註"
+IDC_Web="&W浴血戰場2003網站"
+IDC_Complete="成功完成安裝!"
+IDC_CompleteReboot="成功完成安裝!\n開始遊戲前, 你必須重新啟動你的電腦."
+
+[IDDIALOG_FilerPageWelcome]
+IDC_WelcomePrompt="你即將安裝 %s 在你的電腦上.\n\n按 '下一步' 開始安裝, 或在任何時刻按 '取消' 離開.\n\n下面的框格內有網頁連結, 你可以點選以獲得更多的資訊."
+IDC_WelcomePromptUpdate="這個程式將更新你的 %s 到版本 %s.\n\n按 '下一步' 開始安裝, 或在任何時刻按 '取消' 離開.\n\n下面的框格內有網頁連結, 你可以點選以獲得更多的資訊."
+IDC_LanguagePrompt="&L語言"
+
+[IDDIALOG_FilerPageLicense]
+IDC_LicenseText="請先閱讀以下的授權同意書.  你必須同意授權才能安裝這個產品."
+IDC_LicenseQuestion="你同意以上的授權同意事項嗎?  按 '我同意' or '取消'."
+
+[IDDIALOG_FilerPageComponents]
+IDC_ComponentsText="選擇你想安裝的組件."
+IDC_ComponentsPrompt="&C組件:"
+IDC_DiskSpaceFrame="硬碟空間"
+IDC_DescriptionFrame="敘述"
+IDC_SpaceRequiredMessage="需要:"
+IDC_SpaceAvailableMessage="可用:"
+
+[IDDIALOG_FilerPageUninstallComponents]
+IDC_ComponentsText="選擇你想移除的組件."
+IDC_ComponentsPrompt="&C組件:"
+IDC_DependenciesFrame="關聯性"
+IDC_DependenciesText="這將會移除下列組件: %s"
+
+[IDDIALOG_FilerPageFolder]
+IDC_FolderDescription="安裝程式將安裝 %s 至下列資料夾.\n\n要安裝在這個資料夾, 按下一步.\n\n要安裝到另一個資料夾, 請輸入完整的路徑, 例如: C:\\NewFolder"
+IDC_FolderDescriptionPatch="安裝程式將更新已安裝的 %s 於下列資料夾.\n\n要繼續, 按下一步.\n\n如果你有超過一份的安裝, 請輸入完整的路徑, 例如: C:\\SomeFolder"
+IDC_FolderDescriptionMissing="安裝程式將更新已安裝的 %s.\n\n請輸入完整的路徑, 例如; C:\\SomeFolder"
+IDC_FolderHolder="目的資料夾"
+IDC_Browse="&B瀏覽"
+IDC_Default="&R重設"
+IDC_SpaceAvailableMessage="硬碟可用空間:"
+IDC_FullSpaceRequiredMessage="安裝需要空間:"
+
+[IDDIALOG_FilerPageCDKey]
+IDC_CDKeyDescription="請輸入 20 碼的 CD 序號, 這組號碼是印在 CD 盒子上的標籤上.  依照 CD 序號的格式輸入, 包括橫槓(-)符號.\n\nCD 序號正確的格式為 XXXXX-XXXXX-XXXXX-XXXXX\n\n當你輸入了 CD 序號後, 點選下一步繼續."
+IDC_CDKeyHolder="CD 序號"
+
+[IDDIALOG_FilerPageInstallProgress]
+IDC_InstallText="安裝檔案..."
+IDC_InstallingText="安裝:"
+IDC_ProgressText="檔案進度:"
+IDC_TotalText="總進度:"
+
+[IDDIALOG_FilerPageUninstallProgress]
+IDC_InstallText="移除檔案..."
+IDC_InstallingText="處理:"
+IDC_ProgressText="檔案進度:"
+IDC_TotalText="總進度:"
+
+[IDDIALOG_Restart]
+IDC_Restart="安裝完成"
+IDC_RestartMessage="你需要重新啟動視窗作業系統才能完成安裝."
+IDC_RestartText="重新啟動前, 先關閉所有的應用程式, 包括 MS-DOS 視窗, 儲存所有的文件. 將磁碟片從電腦中移除. 最後, 按下重新啟動按鈕."
+IDC_Complete="重新啟動後, 安裝將完成."
+IDC_Restart="&R重新啟動"
+IDC_Exit="&X離開安裝程式"
+
+[IDDIALOG_WizardDialog]
+IDC_WizardDialog="浴血戰場安裝"
+
+[IDDIALOG_FailedRequirement]
+IDC_FailedRequirement="這個產品無法在此安裝"
+IDC_FailedMessage="這個產品需要先安裝下列產品. 請指定資料夾, 或離開並安裝.\n\n你可以點選下列網頁連結以獲得更多的資訊."
+IDC_ProductHolder="需要的產品"
+
+[IDDIALOG_ProductInfo]
+IDC_ProductHolder="產品"
+IDC_ProductText="產品:"
+IDC_VersionText="版本:"
+IDC_DeveloperText="開發者:"
+
+[IDDIALOG_FilerPageUninstall]
+IDC_UninstallPrompt="這將會移除下列組件:"
+IDC_UninstallQuestion="你確定要移除這些組件?"
+
+[IDDIALOG_AutopatchPageGo]
+IDC_AutoUpdateText="自動更新檔案中..."
+IDC_UpdatingText="嘗試下載中..."
+IDC_ProgressText="下載進度"
+IDC_Manual="點選這裡手動前往下載網頁"
+ManualDownloadPage="http://unreal.epicgames.com/ut2003versions.htm"
+CancelText="在你完成自動更新前, 你只能進行單人或區網遊戲.  你確定要取消自動更新?"
+ContactingText="聯結地點: "
+DownloadingText="下載檔案: "
+SuccessText="成功下載檔案. 點選 '完成' 開始安裝更新檔案."

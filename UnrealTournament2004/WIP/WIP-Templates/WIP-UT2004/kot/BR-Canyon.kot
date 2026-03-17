@@ -3,31 +3,31 @@ Title="협곡"
 
 [LevelSummary]
 Title="협곡"
-Description="맹렬한 피비린내 나는 전투와 위대한 자연 – 더 이상 무엇이 필요하겠습니까? 이 소규모 아레나는 급속히 휘감아 도는 위험한 강으로 분리되어 있습니다. 수영은 절대 금물입니다."
+Description="맹렬한 피 비린내 나는 전투와 위대한 자연 – 더 이상 무엇이 필요하겠습니까? 이 소규모 아레나는 급속히 휘감아 도는 위험한 강으로 분리되어 있습니다. 수영은 절대 금물입니다."
 
 [Volume1]
-LocationName="블루 스나이퍼 루스트"
+LocationName="청팀 스나이퍼 루스트"
 
 [Volume2]
-LocationName="블루 폭격 목표"
+LocationName="청팀 폭격 목표"
 
 [Volume3]
-LocationName="블루 남쪽 재생 풀"
+LocationName="청팀 남쪽 재생 풀"
 
 [Volume4]
-LocationName="블루 북쪽 재생 풀"
+LocationName="청팀 북쪽 재생 풀"
 
 [Volume6]
-LocationName="레드 스나이퍼 루스트"
+LocationName="홍팀 스나이퍼 루스트"
 
 [Volume7]
-LocationName="레드 북쪽 재생 풀"
+LocationName="홍팀 북쪽 재생 풀"
 
 [Volume8]
-LocationName="레드 남쪽 재생 풀"
+LocationName="홍팀 남쪽 재생 풀"
 
 [Volume9]
-LocationName="레드 폭격 목표"
+LocationName="홍팀 폭격 목표"
 
 [WaterVolume0]
 LocationName="물고기와 함께하는 곳"

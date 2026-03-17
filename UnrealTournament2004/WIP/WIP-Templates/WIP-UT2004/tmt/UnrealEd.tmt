@@ -1,0 +1,8 @@
+﻿[General]
+FrameWindow="浴血戰場地圖編輯器"
+Start="浴血戰場編輯器 (啟動)"
+Exit="浴血戰場編輯器 (離開)"
+Run="浴血戰場編輯器 (執行)"
+Product="UnrealEd"
+Abbreviation="UEd"
+

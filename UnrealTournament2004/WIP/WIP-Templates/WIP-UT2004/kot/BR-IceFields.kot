@@ -22,3 +22,9 @@ LocationName="중간 지역"
 [Volume7]
 LocationName="미정"
 
+[xBombDelivery0]
+ObjectiveName="홍팀 딜리버리"
+
+[xBombDelivery1]
+ObjectiveName="청팀 딜리버리"
+

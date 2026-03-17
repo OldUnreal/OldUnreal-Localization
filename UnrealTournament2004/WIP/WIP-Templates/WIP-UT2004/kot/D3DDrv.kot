@@ -1,7 +1,8 @@
 ﻿[Public]
 Object=(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)
-Preferences=(Caption="Direct3D",Parent="Rendering",Class=D3DDrv.D3DRenderDevice,Immediate=True)
+Preferences=(Caption="렌더링",Parent="세부 설정")
+Preferences=(Caption="다이렉트3D 지원",Parent="렌더링",Class=D3DDrv.D3DRenderDevice,Immediate=True)
 
 [D3DRenderDevice]
-ClassCaption="다이렉트3D"
+ClassCaption="다이렉트3D 지원"
 AskInstalled="다이렉트3D를 사용하시겠습니까?"

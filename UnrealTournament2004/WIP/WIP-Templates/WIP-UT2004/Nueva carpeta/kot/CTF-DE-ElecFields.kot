@@ -1,0 +1,96 @@
+﻿[LevelInfo0]
+Title="일렉 필드"
+
+[LevelSummary]
+Title="일렉 필드"
+Description="마라칸의 흐름 속에 자리한 이 정전탑은 지난 시즌에 소개된 이후로 가장 인기있는 토너먼트 경기장 중의 하나가 되었습니다. 승리를 향한 집념으로 참가자들이 학살을 감행하는 모습 속에서 현대 검투사들의 본성이 드러납니다. 캡쳐 더플래그 경기건 바밍 런 경기건간에 상관없이 연옥과도 같은 혼탁한 하늘에서 벌어지는 전투 속에서 플레이어들은 항상 한가지를 염두에 두어야 합니다. 바로 자신들이 땅에서 무척 먼 곳에 서 있다는 사실을..."   
+
+[Volume0]
+LocationName="청팀 정면"
+
+[Volume1]
+LocationName="청팀 생산 구역"
+
+[Volume10]
+LocationName="홍팀 기지 경사로"
+
+[Volume11]
+LocationName="홍팀 기지 경사로"
+
+[Volume12]
+LocationName="청팀 정면 하층부 경사로"
+
+[Volume13]
+LocationName="홍팀 정면 하층부 경사로"
+
+[Volume14]
+LocationName="청팀 정면 하층부 경사로"
+
+[Volume15]
+LocationName="청팀 정면 하층부 경사로"
+
+[Volume16]
+LocationName="홍팀 정면 하층부 경사로"
+
+[Volume17]
+LocationName="홍팀 정면 하층부 경사로"
+
+[Volume18]
+LocationName="최상부 중간 구역"
+
+[Volume19]
+LocationName="타워 구역"
+
+[Volume2]
+LocationName="하층부 중간 구역"
+
+[Volume20]
+LocationName="청팀 정면 상층부 경사로"
+
+[Volume21]
+LocationName="청팀 정면 상층부 경사로"
+
+[Volume22]
+LocationName="청팀 정면 상층부 경사로"
+
+[Volume23]
+LocationName="청팀 정면 상층부 경사로"
+
+[Volume24]
+LocationName="홍팀 정면 상층부 경사로"
+
+[Volume25]
+LocationName="홍팀 정면 상층부 경사로"
+
+[Volume26]
+LocationName="홍팀 정면 하층부 경사로"
+
+[Volume27]
+LocationName="청팀 정면 하층부 경사로"
+
+[Volume28]
+LocationName="청팀 기지"
+
+[Volume3]
+LocationName="홍팀 생산 구역"
+
+[Volume4]
+LocationName="홍팀 정면"
+
+[Volume5]
+LocationName="청팀 기지 경사로"
+
+[Volume6]
+LocationName="청팀 기지 경사로"
+
+[Volume7]
+LocationName="홍팀 기지"
+
+[Volume8]
+LocationName="홍팀 정면"
+
+[Volume9]
+LocationName="청팀 정면"
+
+[ZoneInfo0]
+LocationName="외부"

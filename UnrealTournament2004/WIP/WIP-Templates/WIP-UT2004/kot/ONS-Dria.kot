@@ -1,7 +1,55 @@
-﻿[LevelInfo0]
-Title="드리아 얼음판"
+﻿[ClassicSniperAmmoPickup2]
+PickupMessage="당신은 lightning ammo 주웠습니다."
+
+[LevelInfo0]
+Title="드리아"
 
 [LevelSummary]
-Title="드리아 얼음판"
-Description="페허가 되어 부서진 파편 가운데에 자리잡은 마지막 네일 요새인 이 빙원은 네일이 스카즈들에 대항하여 싸우던 마지막 곳이기도 합니다. 그것들의 앞에 돌거인을 밀어붙였고, Skaarj는 3주동안 도시를 포위 공격하였다. 그들은 철면피로 마지막 방어벽을 부수고 그안의 모든 것을 파괴하였다. 지금 온슬롯 아레나, 광대한 범위의 이 위치는 팀 워크를 시험하고 가장 우수한 것에 초점을 맞추고 있습니다."
+Title="드리아"
+Description="폐허가 되어 부서진 파편 가운데에 자리잡은 마지막 네일 요새인 이 빙원은 네일이 스카즈들에 대항하여 싸우던 마지막 곳이기도 합니다. 그것들의 앞에 돌거인을 밀어붙였고, 스카즈는 3주동안 도시를 포위 공격하였다. 그들은 철면피로 마지막 방어벽을 부수고 그안의 모든 것을 파괴하였다. 지금 온슬롯 아레나, 광대한 범위의 이 위치는 팀 워크를 시험하고 가장 우수한 것에 초점을 맞추고 있습니다."
+
+[Volume0]
+LocationName="홍팀 기지"
+
+[Volume1]
+LocationName="청팀 기지"
+
+[Volume10]
+LocationName="북쪽 다리 타워"
+
+[Volume11]
+LocationName="남쪽 다리 타워"
+
+[Volume14]
+LocationName="북쪽 노드"
+
+[Volume15]
+LocationName="북서쪽 노드"
+
+[Volume2]
+LocationName="중서쪽 노드"
+
+[Volume3]
+LocationName="남동쪽 노드"
+
+[Volume4]
+LocationName="북동쪽 노드"
+
+[Volume5]
+LocationName="남쪽 노드"
+
+[Volume6]
+LocationName="남동쪽 노드"
+
+[Volume7]
+LocationName="중서쪽 노드"
+
+[Volume8]
+LocationName="북쪽 다리"
+
+[Volume9]
+LocationName="남쪽 다리"
+
+[ZoneInfo0]
+LocationName="외부"
 

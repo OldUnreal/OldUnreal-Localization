@@ -9,7 +9,7 @@ Description="거대한 동굴이 양팀 사이를 가로막고 있으며, 가로
 LocationName="동굴"
 
 [ZoneInfo1]
-LocationName="청팀 아머 입구"
+LocationName="청팀 부대 입구"
 
 [ZoneInfo10]
 LocationName="청팀 메인 입구"
@@ -30,10 +30,10 @@ LocationName="홍팀 깃발실"
 LocationName="홍팀 바이오라이플 입구"
 
 [ZoneInfo16]
-LocationName="홍팀 아머 입구"
+LocationName="홍팀 부대 입구"
 
 [ZoneInfo17]
-LocationName="홍팀 아머 입구"
+LocationName="홍팀 부대 입구"
 
 [ZoneInfo18]
 LocationName="홍팀 바이오라이플 입구"
@@ -54,7 +54,7 @@ LocationName="홍팀 깃발실"
 LocationName="홍팀 깃발실"
 
 [ZoneInfo23]
-LocationName="홍팀 아머 입구"
+LocationName="홍팀 부대 입구"
 
 [ZoneInfo24]
 LocationName="청팀 쉴드 입구 "
@@ -81,19 +81,19 @@ LocationName="청팀 깃발실"
 LocationName="홍팀 플랙사이드 뒷쪽"
 
 [ZoneInfo31]
-LocationName="홍팀 로케트사이드 뒤쪽"
+LocationName="홍팀 로켓사이드 뒤쪽"
 
 [ZoneInfo32]
 LocationName="홍팀 플랙사이드 앞쪽"
 
 [ZoneInfo33]
-LocationName="홍팀 로케트사이드 앞쪽"
+LocationName="홍팀 로켓사이드 앞쪽"
 
 [ZoneInfo34]
 LocationName="홍팀 플랙사이드 앞쪽"
 
 [ZoneInfo35]
-LocationName="청팀 로케트사이드 앞쪽"
+LocationName="청팀 로켓사이드 앞쪽"
 
 [ZoneInfo36]
 LocationName="청팀 플랙사이드 앞쪽"
@@ -111,13 +111,13 @@ LocationName="청팀 기둥 방"
 LocationName="청팀 바이오라이플 입구"
 
 [ZoneInfo6]
-LocationName="청팀 아머 입구"
+LocationName="청팀 부대 입구"
 
 [ZoneInfo7]
 LocationName="홍팀 기둥 방"
 
 [ZoneInfo8]
-LocationName="청팀 아머 입구"
+LocationName="청팀 부대 입구"
 
 [ZoneInfo9]
 LocationName="청팀 바이오라이플 입구"

@@ -1,0 +1,97 @@
+﻿[LevelInfo0]
+Title="Arcipelago"
+
+[LevelSummary]
+Title="Arcipelago"
+Description="Questo arcipelago vulcanico è stato un accesso strategico durante le guerre degli umani nel XXI secolo. Ora è stato trasformato per il Torneo e le isole sono collegate da ponti. Pur essendo molto comodi per i veicoli, questi ponti non permettono di raggiungere velocemente le zone dove si combatte. I veicoli preferenziali sono i Manta."
+
+[Volume0]
+LocationName="Isola a sud-ovest"
+
+[Volume1]
+LocationName="Isola a sud-ovest"
+
+[Volume11]
+LocationName="Isola a ovest"
+
+[Volume12]
+LocationName="Isola a nord-ovest"
+
+[Volume14]
+LocationName="Isola a nord-ovest"
+
+[Volume15]
+LocationName="Isola a nord-est"
+
+[Volume16]
+LocationName="Isola a nord-est"
+
+[Volume17]
+LocationName="Isola a nord-est"
+
+[Volume19]
+LocationName="Isola a est"
+
+[Volume2]
+LocationName="Isola a sud-ovest"
+
+[Volume20]
+LocationName="Piccola isola a nord-est"
+
+[Volume22]
+LocationName="Isola a est"
+
+[Volume23]
+LocationName="Isola a sud-est"
+
+[Volume25]
+LocationName="Isola a sud-est"
+
+[Volume26]
+LocationName="Vulcano"
+
+[Volume5]
+LocationName="Isola a ovest"
+
+[Volume9]
+LocationName="Piccola isola a sud-ovest"
+
+[WaterVolume1]
+LocationName="Sott'acqua"
+
+[WaterVolume18]
+LocationName="Sott'acqua"
+
+[WaterVolume19]
+LocationName="Sott'acqua"
+
+[WaterVolume20]
+LocationName="Sott'acqua"
+
+[WaterVolume23]
+LocationName="Sott'acqua"
+
+[WaterVolume24]
+LocationName="Sott'acqua"
+
+[WaterVolume25]
+LocationName="Sott'acqua"
+
+[WaterVolume26]
+LocationName="Sott'acqua"
+
+[WaterVolume27]
+LocationName="Sott'acqua"
+
+[WaterVolume28]
+LocationName="Sott'acqua"
+
+[WaterVolume3]
+LocationName="Sott'acqua"
+
+[WaterVolume31]
+LocationName="Sott'acqua"
+
+[ZoneInfo1]
+LocationName="Esterno"
+

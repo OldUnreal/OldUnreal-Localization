@@ -11,7 +11,7 @@ Title="아누비스 성전"
 LocationName="리디머"
 
 [ZoneInfo1]
-LocationName="수퍼 쉴드 샌드 듄"
+LocationName="슈퍼 쉴드 샌드 듄"
 
 [ZoneInfo10]
 LocationName="청팀 재생"
@@ -41,7 +41,7 @@ LocationName="청팀 재생"
 LocationName="홍팀 재생"
 
 [ZoneInfo2]
-LocationName="플랙 캐넌"
+LocationName="플랙 캐논"
 
 [ZoneInfo20]
 LocationName="홍팀 재생"
@@ -53,7 +53,7 @@ LocationName="홍팀 재생"
 LocationName="홍팀 재생"
 
 [ZoneInfo23]
-LocationName="홍팀 재생"
+LocationName="청팀 재생"
 
 [ZoneInfo24]
 LocationName="청팀 재생"
@@ -68,7 +68,7 @@ LocationName="로켓 론처실"
 LocationName="로켓 론처"
 
 [ZoneInfo28]
-LocationName="플랙 캐넌"
+LocationName="플랙 캐논"
 
 [ZoneInfo29]
 LocationName="중앙"
@@ -86,7 +86,7 @@ LocationName="중앙"
 LocationName="홍팀 재판소"
 
 [ZoneInfo33]
-LocationName="홍팀 위쪽 입구"
+LocationName="청팀 위쪽 입구"
 
 [ZoneInfo34]
 LocationName="청팀 위쪽 입구"
@@ -95,7 +95,7 @@ LocationName="청팀 위쪽 입구"
 LocationName="홍팀 위쪽 입구"
 
 [ZoneInfo36]
-LocationName="홍팀 위쪽 입구"
+LocationName="청팀 위쪽 입구"
 
 [ZoneInfo37]
 LocationName="홍팀 위쪽 입구"

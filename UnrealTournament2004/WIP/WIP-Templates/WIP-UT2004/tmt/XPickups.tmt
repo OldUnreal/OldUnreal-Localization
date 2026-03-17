@@ -1,0 +1,21 @@
+﻿[AdrenalinePickup]
+PickupMessage="腎上腺素 "
+
+[MiniHealthPack]
+PickupMessage="你撿起了回復藥水 +"
+
+[ShieldPickup]
+PickupMessage="你撿起了防護罩 +"
+
+[SuperHealthPack]
+PickupMessage="你撿起了超級醫藥包 +"
+
+[SuperShieldPack]
+PickupMessage="你撿起了超級防護罩 +"
+
+[TournamentHealth]
+PickupMessage="你撿起了醫藥包 +"
+
+[UDamagePack]
+PickupMessage="兩倍傷害!"
+

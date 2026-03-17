@@ -1,0 +1,168 @@
+﻿[LavaVolume10]
+LocationName="용암안이다!"
+
+[LavaVolume12]
+LocationName="용암안이다!"
+
+[LavaVolume13]
+LocationName="용암안이다!"
+
+[LavaVolume15]
+LocationName="용암안이다!"
+
+[LavaVolume16]
+LocationName="용암안이다!"
+
+[LavaVolume2]
+LocationName="용암안이다!"
+
+[LavaVolume23]
+LocationName="용암안이다!"
+
+[LavaVolume24]
+LocationName="용암안이다!"
+
+[LavaVolume25]
+LocationName="용암안이다!"
+
+[LavaVolume26]
+LocationName="용암안이다!"
+
+[LavaVolume5]
+LocationName="용암안이다!"
+
+[LavaVolume7]
+LocationName="용암안이다!"
+
+[LavaVolume9]
+LocationName="용암안이다!"
+
+[LevelInfo0]
+Title="스모트"
+
+[LevelSummary]
+Title="스모트"
+Description="당신의 발 아래로는 지축이 흔들리고, 위에서는 하늘로부터 불덩어리와 재가 떨어집니다. 승리로 가는 길은 당신이 전장에서 마주치는 적들 만큼이나 위험하고 그들보다 더 잔인합니다."
+
+[Volume10]
+LocationName="홍팀 기지 메인 통로"
+
+[Volume11]
+LocationName="홍팀 기지 상층부 통로"
+
+[Volume12]
+LocationName="홍팀 기지 메인 통로"
+
+[Volume13]
+LocationName="청팀 기지 상층부 통로"
+
+[Volume14]
+LocationName="청팀 기지 메인 통로"
+
+[Volume16]
+LocationName="청팀 기지 미완성 요새"
+
+[Volume17]
+LocationName="청팀 기지 메인 통로"
+
+[Volume20]
+LocationName="볼케이노 사이드"
+
+[Volume21]
+LocationName="청팀 기지 하층부 통로"
+
+[Volume22]
+LocationName="청팀 기지 하층부 통로"
+
+[Volume23]
+LocationName="볼케이노 동굴"
+
+[Volume5]
+LocationName="홍팀 기지 하층부 통로"
+
+[Volume6]
+LocationName="홍팀 기지 하층부 통로"
+
+[Volume7]
+LocationName="홍팀 기지 하층부 통로"
+
+[Volume8]
+LocationName="청팀 기지 하층부 통로"
+
+[Volume9]
+LocationName="홍팀 기지 미완성 요새"
+
+[ZoneInfo0]
+LocationName="홍팀 기지 지하실 입구"
+
+[ZoneInfo1]
+LocationName="장외!!!"
+
+[ZoneInfo11]
+LocationName="청팀 기지 메인 입구"
+
+[ZoneInfo12]
+LocationName="청팀 기지 지하실 입구"
+
+[ZoneInfo13]
+LocationName="청팀 깃발 방"
+
+[ZoneInfo14]
+LocationName="볼케이노 동굴"
+
+[ZoneInfo15]
+LocationName="볼케이노 동굴"
+
+[ZoneInfo16]
+LocationName="청팀 기지 메인 입구"
+
+[ZoneInfo17]
+LocationName="청팀 기지 지하실 진입로"
+
+[ZoneInfo18]
+LocationName="홍팀 기지 메인 입구"
+
+[ZoneInfo19]
+LocationName="홍팀 기지 지하실 진입로"
+
+[ZoneInfo2]
+LocationName="홍팀 기지 지하실"
+
+[ZoneInfo20]
+LocationName="홍팀 깃발실"
+
+[ZoneInfo21]
+LocationName="청팀 기지 타워"
+
+[ZoneInfo22]
+LocationName="홍팀 기지 타워"
+
+[ZoneInfo23]
+LocationName="청팀 기지 지하실"
+
+[ZoneInfo24]
+LocationName="청팀 기지 지하실 입구"
+
+[ZoneInfo25]
+LocationName="청팀 기지 지하실"
+
+[ZoneInfo26]
+LocationName="청팀 기지 지하실"
+
+[ZoneInfo3]
+LocationName="홍팀 기지 지하실"
+
+[ZoneInfo4]
+LocationName="홍팀 기지 지하실"
+
+[ZoneInfo5]
+LocationName="홍팀 기지 지하실 입구"
+
+[ZoneInfo6]
+LocationName="홍팀 기지 메인 입구"
+
+[ZoneInfo8]
+LocationName="홍팀 기지 타워 입구"
+
+[ZoneInfo9]
+LocationName="청팀 기지 타워 입구"

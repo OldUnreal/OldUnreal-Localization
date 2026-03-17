@@ -1,11 +1,11 @@
 ﻿[Public]
 Class=(Class=WinDrv.WindowsClient,SuperClass=Engine.Client)
-Preferences=(Caption="Windows",Parent="Display",Class=WinDrv.WindowsClient,Immediate=True,Category=Display)
-Preferences=(Caption="Windows",Parent="Joystick",Class=WinDrv.WindowsClient,Immediate=True,Category=Joystick)
+Preferences=(Caption="디스플레이",Parent="어드밴스드 옵션",Class=WinDrv.WindowsClient,Immediate=True,Category=Display)
+Preferences=(Caption="조이스틱",Parent="어드밴스드 옵션",Class=WinDrv.WindowsClient,Immediate=True,Category=Joystick)
 
 [Errors]
 Failed3D="3D 하드웨어 초기화 실패"
-DDrawMode="DirectDraw가 필요한 비디오 모드를 설정할 수 없었습니다."
+DDrawMode="DirectDraw가 필요한 비디오 모드를 설정할 수 없습니다."
 
 [General]
 ViewPersp="퍼스펙티브 맵"
@@ -15,7 +15,7 @@ ViewYZ="YZ 맵"
 ViewOther="뷰포트"
 Color16="16비트 컬러(1)"
 Color32="32비트 컬러(3)"
-AdvancedOptions="어드밴스드 옵션"
+AdvancedOptions="고급 옵션"
 
 [WindowsClient]
 ClassCaption="스탠다드 윈도우 매니저"

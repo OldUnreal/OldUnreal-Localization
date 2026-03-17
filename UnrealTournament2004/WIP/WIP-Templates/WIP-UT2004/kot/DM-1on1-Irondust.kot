@@ -3,7 +3,7 @@ Title="아이론더스트"
 
 [LevelSummary]
 Title="아이론더스트"
-Description="누워서 떡먹기라구요? 정말 자신이 있는지… 그럼 먼지투성의 철인이 될 각오를 하세요!"
+Description="누워서 떡먹기라구요? 정말 자신이 있는지... 그럼 먼지투성의 철인이 될 각오를 하세요!"
 
 [ZoneInfo1]
 LocationName="수퍼 쉴드 리프트"
@@ -30,5 +30,5 @@ LocationName="쉴드 구역"
 LocationName="원형 홀"
 
 [ZoneInfo9]
-LocationName="좁은통로"
+LocationName="좁은 통로"
 

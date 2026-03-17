@@ -1,0 +1,76 @@
+﻿[LevelInfo0]
+Title="페이스 클래식"
+
+[LevelInfo13]
+Title="페이싱 월드"
+
+[LevelSummary]
+Title="페이스 클래식"
+Description="이 고립된 소행성과 그 안에 있는 두개의 탑은 토너먼트 CTF 경기장으로서 완벽한 환경을 가지고 있습니다. 이제 게임을 시작해 적들과 맞서십시오!"
+
+[Volume0]
+LocationName="청팀 기지 하층부 스나이퍼 로프트"
+
+[Volume1]
+LocationName="청팀 기지 최상단 스나이퍼 레지"
+
+[Volume2]
+LocationName="홍팀 기지 최상단 스나이퍼 레지"
+
+[Volume3]
+LocationName="홍팀 기지 하층부 스나이퍼 로프트"
+
+[Volume4]
+LocationName="중앙 광장"
+
+[ZoneInfo0]
+LocationName="홍팀 기지 하층부"
+
+[ZoneInfo1]
+LocationName="홍팀 기지 최상단 스나이퍼 레지"
+
+[ZoneInfo10]
+LocationName="청팀 사이드 광장"
+
+[ZoneInfo18]
+LocationName="청팀 기지 하층부"
+
+[ZoneInfo19]
+LocationName="청팀 기지 최상단 스나이퍼 레지"
+
+[ZoneInfo2]
+LocationName="홍팀 기지 하층부 스나이퍼 로프트"
+
+[ZoneInfo20]
+LocationName="청팀 기지 하층부 스나이퍼 로프트"
+
+[ZoneInfo21]
+LocationName="청팀 기지 리디머 로프트"
+
+[ZoneInfo22]
+LocationName="청팀 기지 입구"
+
+[ZoneInfo24]
+LocationName="청팀 기지 하층부"
+
+[ZoneInfo25]
+LocationName="청팀 기지 하층부"
+
+[ZoneInfo3]
+LocationName="홍팀 기지 리디머 로프트"
+
+[ZoneInfo4]
+LocationName="홍팀 기지 입구"
+
+[ZoneInfo6]
+LocationName="홍팀 기지 하층부"
+
+[ZoneInfo7]
+LocationName="홍팀 기지 하층부"
+
+[ZoneInfo8]
+LocationName="홍팀 기지 하층부"
+
+[ZoneInfo9]
+LocationName="홍팀 사이드 광장"
+

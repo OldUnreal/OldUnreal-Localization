@@ -9,55 +9,55 @@ Title="그렌델킵"
 Description="적들을 죽이기 전에 고문하는 것을 즐기던, 프리스 칼라스라는 남자가 있었습니다. 강하고 잔인했던 이 남자는 덩치가 크고 잔혹한 동물들을 사육해서 자신이 건설한 경기장에서 죄수들과 싸우게 했습니다. '그렌델킵'은 그의 악마적 취향이 남아 있는 마지막 건축물이었으나 그가 자신의 부하에 의해 죽임을 당해 지하 사육장에서 키우던 동물들에게 먹이로 주어진 이후, 황폐해 졌습니다. 피는 빗물에 씻겨내려갔지만, 이곳에서 사육되던 악마들이 남긴 흔적은 남아 있습니다."
 
 [ZoneInfo0]
-LocationName="청팀 메인 룸"
+LocationName="그레이트 룸 홀"
 
 [ZoneInfo1]
 LocationName="그레이트 룸"
 
 [ZoneInfo10]
-LocationName="중앙"
+LocationName="스나이퍼 네스트"
 
 [ZoneInfo11]
-LocationName="청팀 메인 홀"
+LocationName="그레이트 룸 홀"
 
 [ZoneInfo12]
-LocationName="그레이트 룸"
+LocationName="하층부 플랙 홀"
 
 [ZoneInfo13]
-LocationName="청팀 하층부 대공 포화실"
+LocationName="하층부 플랙 홀"
 
 [ZoneInfo14]
-LocationName="청팀 하층부 홀"
+LocationName="그레이트 룸 홀"
 
 [ZoneInfo2]
-LocationName="청팀 베이스"
+LocationName="그레이트 앰프 홀"
 
 [ZoneInfo28]
-LocationName="청팀 생산실"
+LocationName="상층부 로켓트 홀"
 
 [ZoneInfo3]
-LocationName="청팀 생산실"
+LocationName="상층부 로켓트 홀"
 
 [ZoneInfo30]
-LocationName="청팀 메인 룸"
+LocationName="그레이트 룸"
 
 [ZoneInfo31]
 LocationName="그레이트 룸"
 
 [ZoneInfo4]
-LocationName="블루 메인 룸"
+LocationName="그레이트 룸"
 
 [ZoneInfo5]
-LocationName="블루 생산실"
+LocationName="상층부 로켓트 홀"
 
 [ZoneInfo6]
-LocationName="블루 스나이퍼 홀"
+LocationName="미니 홀"
 
 [ZoneInfo7]
-LocationName="블루 스나이퍼 홀"
+LocationName="미니 홀"
 
 [ZoneInfo8]
-LocationName="블루 원형 계단"
+LocationName="그레이트 타워"
 
 [ZoneInfo9]
-LocationName="중앙"
+LocationName="스나이퍼 네스트"

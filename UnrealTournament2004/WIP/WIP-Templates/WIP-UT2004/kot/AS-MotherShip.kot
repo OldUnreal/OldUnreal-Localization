@@ -1,104 +1,105 @@
 ﻿[Counter0]
-CompleteMessage="코어 통로 개방됨!"
+CompleteMessage="코어 통로가 개방되었습니다!"
 
 [Counter2]
-CompleteMessage="에너지 쉴드 작동 중단됨!!!"
+CompleteMessage="에너지 쉴드 작동이 중단되었습니다!"
 
 [Counter3]
-CompleteMessage="출입구와 하부 포스 필드 작동 중단됨"
+CompleteMessage="출입구와 하부 포스 필드 작동이 중단되었습니다!"
 
 [Counter4]
-CompleteMessage="코어 조종장치 파괴됨!!!"
+CompleteMessage="코어 조종장치가 파괴되었습니다!"
 
 [Counter5]
-CompleteMessage="로딩 베이 포스 필드 작동 중단됨!"
+CompleteMessage="로딩베이의 포스 필드 작동이 중단되었습니다!"
 
 [Counter6]
-CompleteMessage="최상단 포스 필드 작동 중단됨!"
+CompleteMessage="최상단 포스 필드의 작동이 중단되었습니다!"
 
 [DestroyVehicleObjective0]
-ObjectiveName="보초탑"
-DestructionMessage="보초탑 파괴됨!"
-ObjectiveDescription="보초탑을 파괴하라"
-Objective_Info_Attacker="보초탑을 파괴하라"
-Objective_Info_Defender="보초탑을 보호하라"
+ObjectiveName="센티넬 터렛"
+DestructionMessage="센티넬 터렛이 파괴되었습니다!"
+ObjectiveDescription="센티넬 터렛을 파괴하십시오"
+Objective_Info_Attacker="센티넬 터렛을 파괴하라"
+Objective_Info_Defender="센티넬 터렛을 보호하라"
 
 [DestroyVehicleObjective1]
-ObjectiveName="보초탑"
-DestructionMessage="보초탑 파괴됨!"
-ObjectiveDescription="보초탑을 파괴하라"
-Objective_Info_Attacker="보초탑을 파괴하라"
-Objective_Info_Defender="보초탑을 보호하라"
+ObjectiveName="센티넬 터렛"
+DestructionMessage="센티넬 터렛이 파괴되었습니다!"
+ObjectiveDescription="센티넬 터렛을 파괴하십시오"
+LocationPrefix="낮은선체"
+Objective_Info_Attacker="센티넬 터렛을 파괴하라"
+Objective_Info_Defender="센티넬 터렛을 보호하라"
 
 [DestroyVehicleObjective2]
-ObjectiveName="보초탑"
-DestructionMessage="보초탑 파괴됨!"
-ObjectiveDescription="보초탑을 파괴하라"
-Objective_Info_Attacker="보초탑을 파괴하라"
-Objective_Info_Defender="보초탑을 보호하라"
+ObjectiveName="센티넬 터렛"
+DestructionMessage="센티넬 터렛이 파괴되었습니다!"
+ObjectiveDescription="센티넬 터렛을 파괴하십시오"
+Objective_Info_Attacker="센티넬 터렛을 파괴하라"
+Objective_Info_Defender="센티넬 터렛을 보호하라"
 
 [DestroyableObjective_SM0]
 ObjectiveName="에너지 바이패스"
-DestructionMessage="에너지 바이패스 파괴됨..."
-ObjectiveDescription="레이저 필드 바이패스를 파괴하라"
+DestructionMessage="에너지 바이패스가 파괴되었습니다!"
+ObjectiveDescription="에너지 필드 바이패스를 파괴하십시오"
 Objective_Info_Attacker="에너지 바이패스를 파괴하라"
 Objective_Info_Defender="에너지 바이패스를 방어하라"
 
 [DestroyableObjective_SM1]
 ObjectiveName="상부 쉴드 제너레이터"
-DestructionMessage="쉴드 제너레이터 파괴됨"
-ObjectiveDescription="쉴드 제너레이터를 파괴하라"
+DestructionMessage="쉴드 제너레이터가 파괴되었습니다"
+ObjectiveDescription="쉴드 제너레이터를 파괴하십시오"
 Objective_Info_Attacker="상부 쉴드 제너레이터를 파괴하라 "
 Objective_Info_Defender="상부 쉴드 제너레이터를 방어하라 "
 
 [DestroyableObjective_SM2]
 ObjectiveName="상부 쉴드 제너레이터"
-DestructionMessage="쉴드 제너레이터 파괴됨"
-ObjectiveDescription="쉴드 제너레이터를 파괴하라"
+DestructionMessage="쉴드 제너레이터가 파괴되었습니다"
+ObjectiveDescription="쉴드 제너레이터를 파괴하십시오"
 Objective_Info_Attacker="상부 쉴드 제너레이터를 파괴하라 "
 Objective_Info_Defender="상부 쉴드 제너레이터를 방어하라 "
 
 [DestroyableObjective_SM3]
 ObjectiveName="하부 쉴드 제너레이터"
-DestructionMessage="쉴드 제너레이터 파괴됨"
-ObjectiveDescription="하부 쉴드 제너레이터를 파괴하라"
+DestructionMessage="쉴드 제너레이터가 파괴되었습니다"
+ObjectiveDescription="하부 쉴드 제너레이터를 파괴하십시오"
 Objective_Info_Attacker="하부 쉴드 제너레이터를 파괴하라"
 Objective_Info_Defender="하부 쉴드 제너레이터를 방어하라"
 
 [DestroyableObjective_SM4]
 ObjectiveName="코어 조종장치."
-DestructionMessage="조종장치 파괴됨!!!"
-ObjectiveDescription="코어 조종장치를 파괴하라"
+DestructionMessage="코어 조종장치가 파괴되었습니다!"
+ObjectiveDescription="코어 조종장치를 파괴하십시오"
 Objective_Info_Attacker="조종장치를 파괴하라"
 Objective_Info_Defender="조종장치를 방어하라"
 
 [DestroyableObjective_SM5]
 ObjectiveName="에너지 바이패스"
-DestructionMessage="에너지 바이패스 파괴됨..."
-ObjectiveDescription="레이저 필드 바이패스를 파괴하라"
+DestructionMessage="에너지 바이패스가 파괴되었습니다."
+ObjectiveDescription="에너지 필드 바이패스를 파괴하십시오"
 Objective_Info_Attacker="에너지 바이패스를 파괴하라"
 Objective_Info_Defender="에너지 바이패스를 방어하라"
 
 [DestroyableObjective_SM6]
 ObjectiveName="코어 조종장치."
-DestructionMessage="조종장치 파괴됨!!!"
+DestructionMessage="코어 조종장치가 파괴되었습니다!"
 ObjectiveDescription="코어 조종장치를 파괴하라"
 Objective_Info_Attacker="조종장치를 파괴하라"
 Objective_Info_Defender="조종장치를 방어하라"
 
 [HoldObjective0]
 ObjectiveName="코어 패널."
-DestructionMessage="#1 해치 록이 해제됨!"
+DestructionMessage="#1 해치 패널이 해제되었습니다!"
 ObjectiveDescription="코어 패널"
 Objective_Info_Attacker="잠긴 해치 패널을 열기위해 패널을 사용하라"
-Objective_Info_Defender="코어 패널의 어떠한 사용이라도 막아라"
+Objective_Info_Defender="코어 패널에 대한 어떠한 접근도 허용하지마라"
 
 [HoldObjective1]
 ObjectiveName="코어 패널."
-DestructionMessage="#2 해치 록이 해제됨!"
+DestructionMessage="#2 해치 패널이 해제되었습니다!"
 ObjectiveDescription="코어 패널"
 Objective_Info_Attacker="잠긴 해치 패널을 열기위해 패널을 사용하라"
-Objective_Info_Defender="코어 패널의 어떠한 사용이라도 막아라"
+Objective_Info_Defender="코어 패널에 대한 어떠한 접근도 허용하지마라"
 
 [InfoPod2]
 POD_Message="하단 내부 터렛"
@@ -122,11 +123,11 @@ POD_Message="하단 외부 터렛"
 POD_Message="링크 캐논"
 
 [LevelInfo0]
-Title="마덜쉽 백병전"
+Title="모선 백병전"
 
 [LevelSummary]
-Title="마덜쉽 백병전"
-Description="감옥 수송선 보텍스 라이커를 나팔리에서 재탈환하던 중 스카즈와의 첫 접촉이 이루어졌습니다. 일 년 만에 스카즈는 휴먼을 멸망위기로 몰아넣었습니다. 이 시나리오는 지구의 마지막 전쟁과 휴먼의 경이로운 역전의 승리를 묘사하고 있습니다. 스카즈선이 지구의 최후를 예고하며 그 주위를 돌면서 최종 착륙을 준비했습니다. 휴먼은 일인승 소형전투기로 스카즈모선의 약점을 이용해 보려는 희망으로 자살공격을 시도했습니다."
+Title="모선 백병전"
+Description="감옥 수송선 보텍스 라이커를 나팔리에서 재탈환하던 중 스카즈와의 첫 접촉이 이루어졌습니다. 그 후 일 년 만에 스카즈는 인류를 멸망위기로 몰아넣었습니다. 이 시나리오는 지구에서의 마지막 전쟁과 휴먼의 경이로운 역전의 승리를 묘사하고 있습니다. 스카즈모선이 지구의 최후를 예고하며 그 주위를 돌면서 최종 착륙을 준비하고 있었습니다. NEG군은 일인승 소형전투기로 스카즈모선의 약점을 이용해 보려는 희망으로 자살공격을 시도하였습니다."
 
 [MessageTrigger15]
 Message="공격 준비!!!"
@@ -136,13 +137,13 @@ Message="방어 준비!!!"
 
 [ProximityObjective0]
 ObjectiveName="랜딩 베이"
-DestructionMessage="적이 모선에 출현함!"
-ObjectiveDescription="랜딩 베이를 통해 스카즈선을 들여보내라"
-Objective_Info_Attacker="랜딩 베이로 가라"
-Objective_Info_Defender="휴먼을 착륙하지 못하게 하라 "
+DestructionMessage="인간이 모선에 침투함!"
+ObjectiveDescription="랜딩 베이를 통해 스카즈 모선에 침투하라"
+Objective_Info_Attacker="랜딩 베이로 침투하라"
+Objective_Info_Defender="인간들이 착륙하지 못하게 저지하라 "
 
 [SceneSubtitles0]
-SubTitles=("휴먼이 스카즈 종족과 처음으로 만난 것은 죄수 수송선 보텍스 라이커스를 나 팔리에서 회수하던 중이었습니다.        ","일 년 만에 스카즈는 휴먼을 멸망의 위기로 몰아넣었습니다.","이 시나리오는 지구의 마지막 전쟁과 멸망 직전까지 몰렸었던 휴먼의 경이로운 역전의 승리를 묘사하고 있습니다.","스카즈의 모선이 지구 궤도에 진입하여 최종 착륙을 준비하는 가운데, 지구의 최후를 예고했습니다.","자살 특공대 작전을 통해, 휴먼은 분석 결과로 드러난 스카즈 모선의 약점을 일인승 소형 전투기로집중 공격했습니다.","탑포스필드를 해제하기 위해서 스카즈 모선 하단부에 위치한 제너레이터를 파괴하십시오.","제너레이터를 파괴한 후, 스카즈 모선의 본체로 진입하십시오.","탑제너레이터를 파괴해 랜딩 베이 실드를 해제하십시오.","모선의 랜딩 베이에 접근, 착륙하십시오.","착류한 후, 다음 섹션으로 전진합니다","화물칸으로 진입하기 위해서는 두개의 에너지 보조관 기계장치를 파괴해야 합니다.","다리를 지나면 코어가 기다리고 있습니다.","화물칸에는 센티널 세마리가 기다리고 있습니다.","다음 관문으로 가기 위해서는 센티널들을 물리쳐야만 합니다.","센티널 세마리를 파괴하면 포스필드가 해제 됩니다.","다리를 지나면 코어가 기다리고 있습니다.","패널을 조작해 해치록을 개방하십시오.","패널을 조작한 후, 코어를 불안정하게 만들기 위해 두개의 코어 컨덕터를 박살냅니다.")
+SubTitles=("인류가 스카즈 종족과 처음으로 만난 것은 죄수 수송선 보텍스 라이커스를 나 팔리에서 회수하던 중이었습니다.      ","그 후 일 년 만에 스카즈는 인류을 멸망의 위기로 몰아넣었습니다.","이 시나리오는 지구의 마지막 전쟁과 멸망 직전까지 몰렸었던 인류의 경이로운 역전 승리를 묘사하고 있습니다.","스카즈의 모선은 지구의 최후를 예고하면서 지구 궤도에 진입하여 최종 착륙을 준비하였습니다.","자살 특공대 작전을 통해, NEG군은 분석 결과로 드러난 스카즈 모선의 약점을 일인승 소형 전투기로 집중 공격하였습니다.","상부 포스필드를 해제하기 위해서 스카즈 모선 하단부에 위치한 제너레이터를 파괴하십시오.","제너레이터를 파괴한 후, 스카즈 모선의 본체로 진입하십시오.","탑제너레이터를 파괴해 랜딩 베이 실드를 해제하십시오.","모선의 랜딩 베이에 접근, 착륙하십시오.","착류한 후, 다음 섹션으로 전진합니다","화물칸으로 진입하기 위해서는 두개의 에너지 보조관 기계장치를 파괴해야 합니다.","다리를 지나면 코어가 기다리고 있습니다.","화물칸에는 센티널 세마리가 기다리고 있습니다.","다음 관문으로 가기 위해서는 센티널들을 물리쳐야만 합니다.","센티널 세마리를 파괴하면 포스필드가 해제 됩니다.","다리를 지나면 코어가 기다리고 있습니다.","패널을 조작해 해치록을 개방하십시오.","패널을 조작한 후, 코어를 불안정하게 만들기 위해 두개의 코어 컨덕터를 박살냅니다.")
 
 [Trigger_ASMessageTrigger14]
 Message="포스 필드 하향..."
@@ -170,20 +171,20 @@ Message="랜딩 베이 포스 필드 하향"
 
 [UseObjective1]
 ObjectiveName="코어 계기판."
-DestructionMessage="2번 해치 잠금장치 해제됨!"
-ObjectiveDescription="코어 계기판"
+DestructionMessage="2번 해치 잠금장치가 해제되었습니다!"
+ObjectiveDescription="코어 계기판을 사용하십시오"
 Objective_Info_Attacker="코어 해치를 해제하기 위해 계기판을 사용하라"
 Objective_Info_Defender="코어 계기판 사용을 중단하라"
 
 [UseObjective2]
 ObjectiveName="코어 계기판."
-DestructionMessage="1번 해치 잠금장치 해제됨!"
-ObjectiveDescription="코어 계기판"
+DestructionMessage="1번 해치 잠금장치가 해제되었습니다!"
+ObjectiveDescription="코어 계기판을 사용하십시오"
 Objective_Info_Attacker="코어 해치를 해제하기 위해 계기판을 사용하라"
 Objective_Info_Defender="코어 계기판 사용을 중단하라"
 
 [ZoneInfo1]
-LocationName="중력 앤진 복도 우측"
+LocationName="중력 엔진 복도 우측"
 
 [ZoneInfo10]
 LocationName="2번 에너지 제너레이터"

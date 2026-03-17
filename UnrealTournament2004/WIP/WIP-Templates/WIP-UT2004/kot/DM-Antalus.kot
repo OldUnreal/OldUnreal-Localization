@@ -25,18 +25,18 @@ LocationName="저격 봉우리"
 [Volume6]
 LocationName="아드레날린 복도"
 
-ZoneInfo0]
-LocationName="수퍼 쉴드 동굴"
+[ZoneInfo0]
+LocationName="슈퍼 쉴드 동굴"
 
 [ZoneInfo1]
 LocationName="외부"
 
 [ZoneInfo2]
-LocationName="수퍼 쉴드 동굴"
+LocationName="슈퍼 쉴드 동굴"
 
 [ZoneInfo3]
-LocationName="수퍼 쉴드 동굴"
+LocationName="슈퍼 쉴드 동굴"
 
 [ZoneInfo4]
-LocationName="수퍼 쉴드 동굴"
+LocationName="슈퍼 쉴드 동굴"
 

@@ -1,53 +1,53 @@
 ﻿[LevelInfo0]
-Title="이중점령 튜토리얼"
+Title="더블 도미네이션 튜토리얼"
 
 [LevelSummary]
-Title="이중점령 튜토리얼"
+Title="더블 도미네이션 튜토리얼"
 
 [ZoneInfo0]
-LocationName="중심내"
+LocationName="중심 내"
 
 [ZoneInfo1]
-LocationName="뒷현관_B"
+LocationName="뒷 현관_B"
 
 [ZoneInfo14]
-LocationName="아웃사이드"
+LocationName="외부"
 
 [ZoneInfo15]
-LocationName="센터내"
+LocationName="센터 내"
 
 [ZoneInfo16]
-LocationName="청팀생산"
+LocationName="청팀 생산"
 
 [ZoneInfo17]
-LocationName="앞현관_A"
+LocationName="앞 현관_A"
 
 [ZoneInfo18]
-LocationName="앞현관_A"
+LocationName="앞 현관_A"
 
 [ZoneInfo19]
 LocationName="룸_A"
 
 [ZoneInfo20]
-LocationName="뒷현관_A"
+LocationName="뒷 현관_A"
 
 [ZoneInfo3]
-LocationName="센터내"
+LocationName="센터 내"
 
 [ZoneInfo4]
-LocationName="센터내"
+LocationName="센터 내"
 
 [ZoneInfo5]
-LocationName="센터내"
+LocationName="센터 내"
 
 [ZoneInfo6]
-LocationName="앞현관_B"
+LocationName="앞 현관_B"
 
 [ZoneInfo7]
-LocationName="홍팀생산"
+LocationName="홍팀 생산"
 
 [ZoneInfo8]
-LocationName="앞현관_B"
+LocationName="앞 현관_B"
 
 [ZoneInfo9]
 LocationName="룸_B"

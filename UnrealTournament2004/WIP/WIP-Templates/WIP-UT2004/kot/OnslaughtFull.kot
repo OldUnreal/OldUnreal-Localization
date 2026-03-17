@@ -1,48 +1,52 @@
 ﻿[DamTypeIonTankBlast]
-DeathString="%o가 %k로 인해 제거되었습니다."
-FemaleSuicide="%o가 제거되었습니다."
-MaleSuicide="%o가 제거되었습니다."
+DeathString="%o 님이 %k님에 의해 제거되었습니다."
+FemaleSuicide="%o 님이 제거되었습니다."
+MaleSuicide="%o 님이 제거되었습니다."
 
 [DamTypeMASCannon]
-DeathString="%o이 %k로 인해 증발되었습니다!"
-FemaleSuicide="%o이(가) 증발되었습니다.!"
-MaleSuicide="%o이(가) 증발되었습니다!"
+DeathString="%o 님이 %k님에 의해 증발되었습니다!"
+FemaleSuicide="%o 님이 증발되었습니다.!"
+MaleSuicide="%o 님이 증발되었습니다!"
 
 [DamTypeMASPlasma]
-DeathString="%k's Leviathan turret plasmanated %o."
-FemaleSuicide="%o wasted herself."
-MaleSuicide="%o wasted himself."
+DeathString="%o 님이 %k 님의 레비아탄 터렛에 의해 녹았습니다."
+FemaleSuicide="%o 님이 스스로 목숨을 끊었습니다."
+MaleSuicide="%o 님이 스스로 목숨을 끊었습니다"
 
 [MutVehicleArena]
 ArenaDisplayText="아레나 차량"
-ArenaDescText="경기에 어떤 차량을 쓸지를 고르십시요."
+ArenaDescText="경기에 사용하게 될 차량 타입을 결정합니다."
 FriendlyName="차량 아레나"
-Description="모든 차량을 특정한 타입으로 바꾸십시요."
+Description="게임에 등장하는 차량을 지정한 것으로 대체합니다"
 
 [ONSBomber]
-VehiclePositionString="DragonFly에 있다"
-VehicleNameString="DragonFly"
+VehiclePositionString="드레곤 플라이 내부"
+VehicleNameString="드레곤 플라이"
 
 [ONSGenericSD]
 VehiclePositionString="언잖아졌다."
 VehicleNameString="TC-1200"
 
 [ONSHoverTank_IonPlasma]
-VehiclePositionString="이온 플라스마 탱크안"
-VehicleNameString="이온 플라스마 탱크"
+VehiclePositionString="이온 플라즈마 탱크 내부"
+VehicleNameString="이온 플라즈마 탱크"
 
 [ONSMASSideGunPawn]
-VehiclePositionString="레비아탄 튜렛"
-VehicleNameString="레비아탄 튜렛"
+VehiclePositionString="레비아탄 터렛"
+VehicleNameString="레비아탄 터렛"
 
 [ONSMobileAssaultStation]
-VehiclePositionString="Leviathan에 있다"
-VehicleNameString="Leviathan"
+VehiclePositionString="레비아탄 내부"
+VehicleNameString="레비아탄"
 
 [ONSPainter]
-Description="이온 페인터와 비슷한 타켓 페인터는 무해 저력 레이저를 기본사격과 함께 쏩니다. 그러나 이온 페이터와 달리 이 무기는 소유자가 향한 방향에 페이트된 타켓 중심으로 연속폭탄을 쏘는 무기를 불러들입니다. 폭탄으로 인해 타켓과 운나쁜 타켓 가까이에 있는 모든것들이 타버릴 것입니다."
+Description="이온 페인터와 비슷한 타켓 페인터는 인체에 무해한 저출력 레이저를 1차적으로 발사합니다. 그러나 이온 페이터와 달리 이 무기는 지정한 방향으로 엄청난 폭탄을 발사하는 Phoenix 폭격기를 불러들입니다. 폭격으로 인해 목표물과 그 주변의 운 나쁜 플레이어를 포함한 모든 것들이 타버릴 것입니다."
 ItemName="타켓 페인터"
 
 [ONSPainterPickup]
 PickupMessage="당신은 타켓 페인터를 가졌습니다."
+
+[ONSTankSecondaryTurretPawn_IonPlasma]
+VehiclePositionString="이온 탱크 터렛 내부"
+VehicleNameString="이온 탱크 미니건 터렛"
 

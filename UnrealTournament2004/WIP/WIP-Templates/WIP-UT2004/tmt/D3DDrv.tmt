@@ -1,0 +1,8 @@
+﻿[Public]
+Object=(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)
+Preferences=(Caption="畫面",Parent="進階選項")
+Preferences=(Caption="Direct3D 支援",Parent="畫面",Class=D3DDrv.D3DRenderDevice,Immediate=True)
+
+[D3DRenderDevice]
+ClassCaption="Direct3D 支援"
+AskInstalled="你要使用 Direct3D?"

@@ -20,16 +20,16 @@ LocationName="뒤쪽복도_B"
 LocationName="바깥쪽"
 
 [ZoneInfo15]
-LocationName="중심내부"
+LocationName="중심 내부"
 
 [ZoneInfo16]
 LocationName="재생청팀"
 
 [ZoneInfo17]
-LocationName="앞쪽복도_A"
+LocationName="앞쪽 복도_A"
 
 [ZoneInfo18]
-LocationName="앞쪽복도_A"
+LocationName="앞쪽 복도_A"
 
 [ZoneInfo19]
 LocationName="방_A"
@@ -38,25 +38,25 @@ LocationName="방_A"
 LocationName="스카이박스"
 
 [ZoneInfo20]
-LocationName="뒤쪽복도_A"
+LocationName="뒤쪽 복도_A"
 
 [ZoneInfo3]
-LocationName="중심내부"
+LocationName="중심 내부"
 
 [ZoneInfo4]
-LocationName="중심내부"
+LocationName="중심 내부"
 
 [ZoneInfo5]
-LocationName="중심내부"
+LocationName="중심 내부"
 
 [ZoneInfo6]
-LocationName="앞쪽복도_B"
+LocationName="앞쪽 복도_B"
 
 [ZoneInfo7]
-LocationName="재생홍팀"
+LocationName="재생 홍팀"
 
 [ZoneInfo8]
-LocationName="앞쪽복도_B"
+LocationName="앞쪽 복도_B"
 
 [ZoneInfo9]
 LocationName="방_B"

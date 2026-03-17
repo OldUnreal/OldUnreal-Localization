@@ -137,23 +137,29 @@ LocationName="청팀 저격지"
 LocationName="청팀 재생 홀"
 
 [ZoneInfo70]
-LocationName="청팀 로켓 론처 복도"
+LocationName="청팀 로켓 런처 복도"
 
 [ZoneInfo71]
-LocationName="청팀 로켓 론처 복도"
+LocationName="청팀 로켓 런처 복도"
 
 [ZoneInfo72]
-LocationName="청팀 로켓 론처 복도"
+LocationName="청팀 로켓 런처 복도"
 
 [ZoneInfo73]
-LocationName="홍팀 로켓 론처 복도"
+LocationName="홍팀 로켓 런처 복도"
 
 [ZoneInfo74]
-LocationName="홍팀 로켓 론처 복도"
+LocationName="홍팀 로켓 런처 복도"
 
 [ZoneInfo75]
-LocationName="홍팀 로켓 론처 복도"
+LocationName="홍팀 로켓 런처 복도"
 
 [ZoneInfo76]
 LocationName="홍팀 재생 복도"
+
+[xBombDelivery0]
+ObjectiveName="청팀 폭탄 딜리버리"
+
+[xBombDelivery2]
+ObjectiveName="청팀 폭탄 딜리버리"
 

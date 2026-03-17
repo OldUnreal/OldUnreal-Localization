@@ -4,8 +4,8 @@ LevelEnterText="정크야드 행성에 오신것을 환영합니다."
 
 [LevelSummary]
 Title="정크야드"
-Description="아주 오랜 시간동안, 이곳에선 문명을 향한 싸움은 정지되었다. 당신과 당신의 친구들은 그저 쓰레기더미에 채워질 뿐일것이다"
-LevelEnterText="정크야드 행성에 오신것을 환영합니다."
+Description="아주 오랜 시간동안, 이곳에선 문명을 향한 싸움은 정지되었다. 당신과 당신의 친구들은 그저 쓰레기 더미에 채워질 뿐일 것이다"
+LevelEnterText="정크야드 행성에 오신 것을 환영합니다."
 
 [ZoneInfo0]
 LocationName="정크야드 행성에서 실종"

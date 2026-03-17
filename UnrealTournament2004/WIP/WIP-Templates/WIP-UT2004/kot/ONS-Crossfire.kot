@@ -4,3 +4,39 @@ Title="십자사격"
 [LevelSummary]
 Title="십자사격"
 Description="2352년 예루살렘 주변 화산폭팔로 인해 이곳은, 실종된 도시 EKRON 보다도 깊숙한 곳에 파묻혔었다. 4년간의 집중적인 발굴작업은 그 누구도 알지 못하는 인류문명의 역사를 드러내었다. 발굴작업 값으로 Liandri사에서 구입된 이곳 아레나의 전투사들의 영혼은 이제 기억되지 않는 과거의 죽은영들과 합류하게 될것이다."
+
+[Volume0]
+LocationName="청팀 기지"
+
+[Volume1]
+LocationName="청팀 기지"
+
+[Volume10]
+LocationName="중심 노드"
+
+[Volume2]
+LocationName="홍팀 기지"
+
+[Volume3]
+LocationName="홍팀 기지"
+
+[Volume4]
+LocationName="서쪽 노드"
+
+[Volume5]
+LocationName="북쪽 노드"
+
+[Volume6]
+LocationName="북쪽 노드"
+
+[Volume7]
+LocationName="동쪽 노드"
+
+[Volume8]
+LocationName="남쪽 노드"
+
+[Volume9]
+LocationName="남쪽 노드"
+
+[ZoneInfo0]
+LocationName="외부"

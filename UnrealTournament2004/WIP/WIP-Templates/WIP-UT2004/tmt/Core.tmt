@@ -1,0 +1,89 @@
+﻿[Language]
+Language="Traditional Mandarin"
+LangId=4
+SubLangId=1
+;Locked=True
+
+[Public]
+Object=(Name=Core.HelloWorldCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Preferences=(Caption="進階",Parent="進階設定")
+Preferences=(Caption="檔案系統",Parent="進階",Class=Core.System,Immediate=True)
+
+[Errors]
+Unknown="不明錯誤"
+Aborted="中斷"
+ExportOpen="匯出錯誤 %s: 無法開啟檔案 '%s'"
+ExportWrite="匯出錯誤 %s: 無法寫入檔案 '%s'"
+FileNotFound="無法找到檔案 '%s'"
+ObjectNotFound="無法找到物件 '%s %s.%s'"
+PackageNotFound="無法找到 package '%s' 所需檔案"
+PackageResolveFailed="無法找到 package 名稱"
+FilenameToPackage="無法轉換檔案名稱 '%s' 成為 package 名稱"
+Sandbox="Package '%s' 不能在此使用"
+PackageVersion="Package '%s' 版本不合"
+FailedLoad="載入失敗 '%s': %s"
+ConfigNotFound="設定檔中無法找到 '%s'"
+LoadClassMismatch="%s 非 %s 的子 class.%s"
+NotDll="'%s' 不是 DLL package; 不能找到匯出 '%s'"
+NotInDll="無法找到 '%s' 於 '%s.dll' 中"
+FailedLoadPackage="Package 載入失敗: %s"
+FailedLoadObject="載入失敗 '%s %s.%s': %s"
+TransientImport="暫存物件匯入: %s"
+FailedSavePrivate="無法儲存 %s: 圖像連接到外部 private 物件 %s"
+FailedImportPrivate="無法匯入 private 物件 %s %s"
+FailedCreate="創造中無法找到 %s %s"
+FailedImport="無法找到 %s 於檔案 '%s' 中"
+FailedSaveFile="儲存檔案發生錯誤 '%s': %s"
+SaveWarning="儲存錯誤 '%s'"
+NotPackaged="物件沒有 package: %s %s"
+NotWithin="物件 %s %s 創造於 %s 而非 %s"
+Abstract="無法創造物件 %s: class %s 是 abstract"
+NoReplace="無法替代 %s 以 %s"
+NoFindImport="匯入時無法找到檔案 '%s'"
+ReadFileFailed="匯入時讀取檔案失敗 '%s'"
+SeekFailed="尋找檔案錯誤"
+OpenFailed="開啟檔案錯誤"
+WriteFailed="寫入檔案錯誤"
+ReadEof="讀檔超過檔案結尾"
+IniReadOnly="檔案 %s 是唯讀; 無法儲存設定"
+UrlFailed="開啟 URL 失敗"
+Warning="警告"
+Question="問題"
+OutOfMemory="虛擬記憶體用盡. 要防止這種狀況發生, 你需要將主要硬碟空出更多空間."
+History="紀錄"
+Assert="宣告失敗: %s [檔案:%s] [行數: %i]"
+Debug="除錯失敗: %s [檔案:%s] [行數: %i]"
+LinkerExists="連結 '%s' 已經存在"
+BinaryFormat="檔案 '%s' 還有無法辨識的資料"
+SerialSize="%s: Serial 大小不合: 得到 %i, 預期 %i"
+ExportIndex="匯出檢索損壞 %i/%i"
+ImportIndex="匯入檢索損壞 %i/%i"
+Password="密碼無法辨識"
+Exec="指令無法辨識"
+BadProperty="'%s': 內容損壞或遺失 '%s'"
+MisingIni="遺失 .ini 檔案: %s"
+
+[Query]
+OldVersion="檔案 %s 存檔時是使用較早且不相容的版本.  讀檔可能會失敗, 或是造成當機. 你想要繼續嗎?"
+Name="名稱:"
+Password="密碼:"
+PassPrompt="輸入你的名稱及密碼:"
+PassDlg="身分檢查"
+Overwrite="檔案 '%s' 需要更新.  你要覆蓋舊的檔案嗎?"
+OverwriteReadOnly="'%s' 是唯讀檔案.  你要強迫覆蓋該檔案嗎?"
+CheckoutPerforce="'%s' 是唯讀檔案.  我要試著解除這個設定嗎?"
+
+[Progress]
+Saving="儲存新增檔案 %s..."
+Loading="載入檔案 %s..."
+Closing="關閉中"
+
+[General]
+Product="浴血戰場"
+Engine="浴血戰場引擎"
+Copyright="Epic Games版權所有 2001 , Inc."
+True=是
+False=否
+None="無"
+Yes="是"
+No="否"

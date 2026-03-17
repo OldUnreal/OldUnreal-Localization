@@ -3,16 +3,16 @@ Object=(Name=Editor.MasterCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MakeCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ConformCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.BatchExportCommandlet,Class=Class,MetaClass=Core.Commandlet)
-Object=(Name=Editor.MergeDXTCommandlet,Class=Class,MetaClass=Core.Commandlet)
+;Object=(Name=Editor.MergeDXTCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.PackageFlagCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.DataRipCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.PkgCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MapConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.DXTConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.AnalyzeContentCommandlet,Class=Class,MetaClass=Core.Commandlet)
-Object=(Name=PSX2Convert.PSX2ConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
-Object=(Name=PSX2Convert.PSX2MusicCommandlet,Class=Class,MetaClass=Core.Commandlet)
-Object=(Name=GCNConvert.GCNConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+;Object=(Name=PSX2Convert.PSX2ConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+;Object=(Name=PSX2Convert.PSX2MusicCommandlet,Class=Class,MetaClass=Core.Commandlet)
+;Object=(Name=GCNConvert.GCNConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.AnalyzeBuildCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ConvertMaterialCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.TextureLODCommandlet,Class=Class,MetaClass=Core.Commandlet)
@@ -21,6 +21,34 @@ Object=(Name=Editor.DumpIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.SetNormalLODCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.DumpConfigCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ClassFlagCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.BatchImportCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.BatchingSummary,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckEmitters,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckSounds,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckStaticMeshes,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckTextures,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckUnicodeCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.ChecksumPackageCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CompareIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CompressTextures,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CutdownContentCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.GroupRepairCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.ListExports,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.LoadPackage,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.PackageGenerationCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.MapKillZ,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.MergeIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.ObjectRenameCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.PS2ConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.RearrangeIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.SoundConvert,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.SoundLocCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.StaticMeshConvert,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.StripSourceCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.SurfaceTypeCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.TextureInfoCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.TextureStripCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.UpdateUMODCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Preferences="(Caption="Advanced",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Advanced)"
 Preferences="(Caption="Colors",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Colors)"
 Preferences="(Caption="Grid",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Grid)"
@@ -28,114 +56,112 @@ Preferences="(Caption="Rotation Grid",Parent="Editor",Class=Editor.EditorEngine,
 
 [PkgCommandlet]
 HelpCmd="pkg"
-HelpOneLiner="Imports/Exports data to/from packages using directory structures."
+HelpOneLiner="디렉토리 구조를 사용하는 패키지에서 데이터를 불러오거나 그 패키지로 내보냅니다."
 HelpUsage="pkg [import/export] [texture/sound] [packagename] [directory]"
 HelpParm[0]="import/export"
-HelpDesc[0]="What you are attempting to do with the data"
+HelpDesc[0]="데이터로 하려는 작업(가져오기/보내기)" 
 HelpParm[1]="texture/sound"
-HelpDesc[1]="The type of package you are working with"
+HelpDesc[1]="작업하려는 패키지 타입"
 HelpParm[2]="packagename"
-HelpDesc[2]="The package you are creating/exporting from"
+HelpDesc[2]="새로 만들거나 내보내기 위한 패키지"
 HelpParm[3]="directory"
-HelpDesc[3]="The directory to read from/write to"
+HelpDesc[3]="읽어 오거나 쓰기 위한 디렉토리"
 
 [MasterCommandlet]
 HelpCmd="master"
-HelpOneLiner="Build master installer files"
+HelpOneLiner="마스터 인스톨러 파일 만들기"
 HelpUsage="master [-option...] [parm=value]..."
 HelpParm[0]="MasterPath"
-HelpDesc[0]="Root directory to copy source files from"
+HelpDesc[0]="복사해 올 소스 파일이 있는 디렉토리"
 HelpParm[1]="SrcPath"
-HelpDesc[1]="Root directory to copy source (release) files to"
+HelpDesc[1]="소스(릴리스) 파일을 복사 할 디렉토리"
 HelpParm[2]="RefPath"
-HelpDesc[2]="Path for delta-compressed path reference"
+HelpDesc[2]="delta-compressed 방식으로 압축된 파일을 저장할 경로"
 
 [MapConvertCommandlet]
 HelpCmd="mapconvert"
-HelpOneLiner="Converts Maps from old format to new (no brush transforms)"
+HelpOneLiner="맵을 이전 포맷에서 새 포맷으로 변환합니다 (브러쉬 변환하지 않음)"
 HelpUsage="mapconvert SrcFilename DstFilename"
 HelpParm[0]="SrcFilename"
-HelpDesc[0]="The map filename to read from"
+HelpDesc[0]="읽어 올 맵 파일 이름"
 HelpParm[1]="DstFilename"
-HelpDesc[1]="The map filename to write to"
+HelpDesc[1]="저장할 맵 파일 이름"
 
 [MakeCommandlet]
 HelpCmd="make"
-HelpOneLiner="Rebuild UnrealScript packages"
+HelpOneLiner="언리얼스크립트 패키지 리빌드"
 HelpUsage="make [-option...] [parm=value]..."
-HelpParm[0]="auto"
-HelpDesc[0]="No prompts; assume "yes" to all questions"
-HelpParm[1]="nobind"
-HelpDesc[1]="Don't force native functions to be bound to DLLs"
-HelpParm[2]="silentbuild"
-HelpDesc[2]="Do not display 'Analyzing' & 'Compiling' messages for every class"
-HelpParm[3]="exportcache"
-HelpDesc[3]="Create cache record files for the compiled package"
+HelpParm[0]="Silent"
+HelpDesc[0]="프롬프트 없음. 모든 질문의 대답이 '예'인 것으로 가정함"
+HelpParm[1]="NoBind"
+HelpDesc[1]="DLL에 고유의 기능을 강제로 연결시키지 않습니다"
+HelpParm[2]="All"
+HelpDesc[2]="리빌드 청소 (그렇지 않으면 리빌드는 변경이 누적됩니다)"
 
 [DXTConvertCommandlet]
 HelpCmd="dxtconvert"
-HelpOneLiner="Convert DXT3/5 textures to DXT1/ RGBA"
+HelpOneLiner="DXT3/5 텍스쳐를 DXT1/ RGBA로 변환"
 HelpUsage="dxtconvert srcpath destpath"
 HelpParm[0]="srcpath"
-HelpDesc[0]="Path containing source files"
+HelpDesc[0]="소스 파일이 있는 경로"
 HelpParm[1]="destpath"
-HelpDesc[1]="Path for destination files"
+HelpDesc[1]="대상 파일 경로"
 
 [DataRipCommandlet]
 HelpCmd="datarip"
-HelpOneLiner="Create a package with Texture, Music and Sound data ripped out."
+HelpOneLiner="텍스처, 음악, 사운드 데이터를 떼어 낸 패키지 생성"
 HelpUsage="datarip srcpackage.ext dstpackage.ext"
 HelpParm[0]="srcpackage.ext"
-HelpDesc[0]="Source Package"
+HelpDesc[0]="소스 패키지"
 HelpParm[1]="dstpackage.ext"
-HelpDesc[1]="Destination Package"
+HelpDesc[1]="대상 패키지"
 
 [PackageFlagCommandlet]
 HelpCmd="packageflag"
-HelpOneLiner="Set package flags in package files"
+HelpOneLiner="패키지 파일에서 패키지 플래그를 설정 합니다"
 HelpUsage="packageflag src.ext [dest.ext <+|->flag [<+|->flag] ...]"
 HelpParm[0]="src.ext"
-HelpDesc[0]="Existing package file to load"
+HelpDesc[0]="불러 올 기존의 패키지 파일"
 HelpParm[1]="dest.exe"
-HelpDesc[1]="Name of new package file with the new flag settings"
+HelpDesc[1]="새로운 플래그 설정을 적용할 새 패키지 파일의 이름"
 HelpParm[2]="flag"
-HelpDesc[2]="+ to set a flag, or - to remove a flag, followed by one of:"
+HelpDesc[2]="  :다음에 덧붙여 플래그를 지정하려면 +, 삭제하려면 - "
 HelpParm[3]=" "
-HelpDesc[3]="  AllowDownload"
+HelpDesc[3]="  다운로드허용"
 HelpParm[4]=" "
-HelpDesc[4]="  ClientOptional"
+HelpDesc[4]="  클라이언트옵션"
 HelpParm[5]=" "
-HelpDesc[5]="  ServerSideOnly"
+HelpDesc[5]="  서버사이드전용"
 HelpParm[6]=" "
-HelpDesc[6]="  BrokenLinks"
+HelpDesc[6]="  깨진링크"
 HelpParm[7]=" "
-HelpDesc[7]="  Unsecure"
+HelpDesc[7]="  보안불확실"
 
 [ConformCommandlet]
 HelpCmd="conform"
-HelpOneLiner="Generate conforming binary files"
+HelpOneLiner="확인용 이진파일 생성"
 HelpUsage="conform existing_file.ext old_file.ext"
 HelpParm[0]="existingfile.ext"
-HelpDesc[0]="Existing binary file to load, conform, and save"
+HelpDesc[0]="불러오기, 확인, 저장을 위한 현재의 이진 파일"
 HelpParm[1]="oldfile.ext"
-HelpDesc[1]="Old file to make source file binary compatible with"
+HelpDesc[1]="호환 소스 파일 생성을 위한 이전 파일"
 
 [BatchExportCommandlet]
 HelpCmd="batchexport"
-HelpOneLiner="Export objects in bulk"
+HelpOneLiner="벌크 오브젝트 내보내기"
 HelpUsage="batchexport package.ext classname export_ext"
 HelpParm[0]="package.ext"
-HelpDesc[0]="Package whose objects you wish to export"
+HelpDesc[0]="보내기 하고자 하는 오브젝트가 포함된 패키지"
 HelpParm[1]="classname"
-HelpDesc[1]="Class of object to export"
+HelpDesc[1]="보내기 할 오브젝트 클래스"
 HelpParm[2]="export_ext"
-HelpDesc[2]="File extension to export to"
+HelpDesc[2]="보내기 할 파일 확장자"
 HelpParm[3]="path"
-HelpDesc[3]="Path to export files to, like c:\MyPath"
+HelpDesc[3]="파일을 내보낼 경로 예) c:\MyPath"
 
 [AnalyzeContentCommandlet]
 HelpCmd="analyzecontent"
-HelpOneLiner="Analyzes map"
+HelpOneLiner="맵 분석"
 HelpUsage="analyzecontent mapname"
 HelpParm[0]="mapname"
-HelpDesc[0]="Path to a map file"
+HelpDesc[0]="맵 파일의 경로"

@@ -5,11 +5,12 @@ Object=(Name=IpDrv.CompressCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.DecompressCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=IpDrv.TcpNetDriver,Class=Class,MetaClass=Engine.NetDriver)
 Object=(Name=IpDrv.UdpBeacon,Class=Class,MetaClass=Engine.Actor)
-Preferences=(Caption="TCP/IP Network Play",Parent="Networking",Class=IpDrv.TcpNetDriver)
-Preferences=(Caption="Server Beacon",Parent="Networking",Class=IpDrv.UdpBeacon,Immediate=True)
+Preferences=(Caption="네트워크",Parent="고급 옵션")
+Preferences=(Caption="TCP/IP 네트워크 플레이",Parent="네트워크",Class=IpDrv.TcpNetDriver)
+Preferences=(Caption="서버 비콘",Parent="네트워크",Class=IpDrv.UdpBeacon,Immediate=True)
 
 [TcpNetDriver]
-ClassCaption="TCP/IP 네트워크 플레이"Network Play
+ClassCaption="TCP/IP 네트워크 플레이"
 
 [UdpBeacon]
 ClassCaption="Server LAN Beacon"
@@ -29,8 +30,8 @@ HelpParm[0]=Files
 HelpDesc[0]="압축 할 와일드카드나 파일 이름" 
 
 [MasterServerUplink]
-MSUPropText[0]="서버 띄우기"
-MSUPropText[1]="프로세스 통계"
-MSUPropDesc[0]="당신의 서버가 인터넷 서버 브라우저에 뜨게 됩니다." 
-MSUPropDesc[1]="당신의 서버로부터 UT2004 통계 웹사이트에 올라가 있는 플레이어들의 통계를 봅니다." 
+MSUPropText[0]="서버리스트에 공개"
+MSUPropText[1]="통계 사용"
+MSUPropDesc[0]="당신의 서버가 인터넷 서버 브라우저에 공개 됩니다." 
+MSUPropDesc[1]="당신의 서버에 있는 플레이어 들의 통계정보를 UT2004 통계 웹사이트에 제공합니다." 
 

@@ -3,7 +3,7 @@ Title="골리앗"
 
 [LevelSummary]
 Title="골리앗"
-Description="높은곳 위의 Calaban VII, 골리앗 종류의 궤도 파워 스테이션은 식민지 이주자에게 번영과 그에 따른 힘과 보호를 제공하였다. 실질적으로, 작은 무기 발사로부터 안전한 이 플랫폼은 점점 토너먼트 아레나로 유명해졌다. 때때로 방사능 누출 결과로 유쾌하지만은 않지만 한 편 스스로 청소하기도 합니다."
+Description="높은곳 위의 Calaban VII, 골리앗 종류의 궤도 파워 스테이션은 식민지 이주자에게 번영과 그에 따른 힘과 보호를 제공하였다. 실질적으로, 작은 무기 발사로부터 안전한 이 플랫폼은 점점 토너먼트 아레나로 유명해졌다. 때때로 방사능 누출 결과로 유쾌하지만은 않지만 한 편 스스로 정화되기도 합니다."
 
 [Volume0]
 LocationName="비밀 지붕 플랫폼"
@@ -21,7 +21,7 @@ LocationName="U-데미지 스파운 홀"
 LocationName="미니건 실"
 
 [ZoneInfo3]
-LocationName="헬스 유리병 스파운 홀"
+LocationName="헬스 약병 스파운 홀"
 
 [ZoneInfo4]
 LocationName="라이트닝 건 대실"

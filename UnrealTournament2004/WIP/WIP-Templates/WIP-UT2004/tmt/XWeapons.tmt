@@ -1,0 +1,254 @@
+﻿[Public]
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutArena,Description="更換地圖中的武器和彈藥.")
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutNoSuperWeapon,"地圖中沒有救世主或離子砲.")
+
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.AssaultRifle,Description="廉價且容易製造的武器, AR770 對抗無裝甲的輕重量 5.56mm 戰鬥武器. 對於低中程度的裝甲有穿透能力, 這支步槍是輕型的支援火力武器. 可選用的 M355 榴彈發射器給予此武器對抗重型裝甲的能力.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BallLauncher,Description=" ")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BioRifle,Description="GES 生化步槍仍然是錦標賽中充滿爭議的武器. 有人喜歡, 有人討厭, 生化步槍的有效與否仍舊是辯論的議題. 有些純戰鬥份子認為這是膽小的放地雷手段. 其他人說這增加了以防守為主的參賽者的策略運用. 辯論之外, 此武器的主要攻擊模式提供快速且大範圍的攻擊, 而特別攻擊則是不定量的單發攻擊. 基本上就是能夠將黏液灑滿全場, 或是用一泡黏液將對手解決.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.FlakCannon,Description="三叉戟防禦科技第 7 系列熱焰砲靠著Mk3談判者的生產又在進化的過程中踏了一大步. 離子化的碎片可以造成有機組織 2 度或 3 度的灼傷, 瞬間造成燒炙. 攻擊有兩種模式: 離子化的碎片從砲管中成散狀射出; 或以榴彈方式投擲爆炸, 讓碎片全方位射出.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.LinkGun,Description="羅登動力武器系統結合所有武器的精華於先進電漿步槍 v23, 又稱為電漿槍. 雖然主要攻擊模式仍然是與之前相同的電漿攻擊, 特別攻擊的切割光束已經被更換為可變換能量. 接觸隊友時, 會轉換成無傷害的能量光束, 為正在使用電漿槍的隊友增加能量輸出功率. 要注意的時輸出能量的人, 是處於無防衛狀態的.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Minigun,Description="邵茲梅格 T23-A 23mm 旋轉砲可發射盒裝或非盒裝的高速彈藥. 淨重只有 8 公斤, T23 提供不錯的靈活性, 使用繫帶時可以輕鬆攜帶於背後. T23-A 旋轉砲是戰士的首選.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Painter,Description="離子標定器看起來無害, 它的主要攻擊模式只會射出低功率的雷射光標定目標. 但數秒後軌道離子砲將射出數十億瓦的能量攻擊目標, 將命中範圍的內的戰士完全摧毀. 離子標定器是遙控 VAPOR 離子砲的控制器. 離子標定器可使用狙擊鏡來提高命中率, 狙擊鏡是以特別攻擊鈕開啟. 當目標被標定後, 強烈建議使用者與目標保持一定距離, 防止被震波傷害.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Redeemer,Description="當你第一次見到這個迷你核子武器時, 你馬上同意這是競技場上最具威力的武器. 主要攻擊模式發射緩慢飛行大具有強大威力的飛彈; 但請在飛彈爆炸前逃離爆炸範圍. 特別攻擊上你遙控飛彈的飛行路徑. 注意, 你在操作救世主飛彈時可是無防衛的. 因為大型彈藥的原因, 救世主只有一枚飛彈.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.RocketLauncher,Description="三叉戟三管火箭發射器是便宜大碗的武器. 旋轉的發射管提供單發或多發的火箭攻擊, 讓你最多一次發射三顆火箭. 彈頭的射擊則是以強力震波為目的設計.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShieldGun,Description="肯夫勒 DD280 鎮暴武器可以抵擋和反彈彈藥和能量射線. 電漿波則能造成強大傷害, 摧毀組織和器官, 並讓血液內充滿氣泡. 這個武器雖然是為近身作戰設計, 但使用得當的話也是與其他武器同樣危險的利器.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShockRifle,Description="ASMD 電擊步槍並沒有改變太多. ASMD 有兩種攻擊模式可以混合使用做出震波消滅敵人. 這個混合攻擊的做法是以特別攻擊射出帶電的電漿球. 當這個慢速的光球靠近目標時, 使用主要攻擊以光子光束射穿電漿核, 在電漿電磁場中釋放出反光子的強大能量.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.SniperRifle,Description="閃電槍是高能量的步槍, 甚至有穿透裝甲的能力. 要遠距離瞄準敵人需要穩定的雙手, 但武器本身的反晃動穩定光學系統則讓使用這個武器容易不少. 當標定目標時, 使用者扣下版機, 將光子標定在目標上. 數微秒後步槍射出高伏特的電弧, 追蹤能量差並且毀滅目標.")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.TransLauncher,Description="時空轉換器原來是由聯得利集團 R&D 部門研發出來讓礦坑工人能夠快速逃離意外現場的工具. 但是, 這種快速分解重組的效果有許多副作用, 包括增加侵略性以及神經值.  為了保障今日的戰士們, 時空轉換器只能在低層次的聯盟中使用. 最新版本的時空轉換器有遙控的攝影機, 在偵查區域時特別有用. 要注意的時當觀看攝影機畫面時, 使用者對週遭沒有防衛能力.")
+
+[AssaultAmmoPickup]
+PickupMessage="你拿到一箱榴彈."
+
+[AssaultRifle]
+ItemName="衝鋒步槍"
+
+[AssaultRiflePickup]
+PickupMessage="你拿到衝鋒步槍."
+
+[BallAmmo]
+ItemName="球"
+
+[BallLauncher]
+ItemName="發球機"
+
+[BioAmmo]
+ItemName="生化步槍黏液"
+
+[BioAmmoPickup]
+PickupMessage="你拿到生化步槍彈藥"
+
+[BioRifle]
+ItemName="生化步槍"
+
+[BioRiflePickup]
+PickupMessage="你拿到生化步槍"
+
+[DamTypeAssaultBullet]
+DeathString="%o 被 %k 的攻擊步槍打穿了."
+FemaleSuicide="%o 打中了她自己."
+MaleSuicide="%o 打中了他自己."
+
+[DamTypeAssaultGrenade]
+DeathString="%o 差點躲開了 %k 的榴彈."
+FemaleSuicide="%o 踩到了自己的榴彈."
+MaleSuicide="%o 踩到了自己的榴彈."
+
+[DamTypeBioGlob]
+DeathString="%o 被 %k 的黏液溶解了."
+FemaleSuicide="%o 被自己的黏液溶解了."
+MaleSuicide="%o 被自己的黏液溶解了."
+
+[DamTypeFlakChunk]
+DeathString="%o 被 %k 的熱焰砲切成碎片."
+FemaleSuicide="%o 被自己的熱焰砲貫穿了."
+MaleSuicide="%o 被自己的熱焰砲貫穿了."
+
+[DamTypeFlakShell]
+DeathString="%o 被 %k 的熱焰砲撕裂了."
+FemaleSuicide="%o 用熱焰砲炸死了自己."
+MaleSuicide="%o 用熱焰砲炸死了自己."
+
+[DamTypeIonBlast]
+DeathString="%o 被摧毀了"
+FemaleSuicide="%o 被摧毀了"
+MaleSuicide="%o 被摧毀了"
+
+[DamTypeLinkPlasma]
+DeathString="%o 吃了一記 %k 的電漿."
+FemaleSuicide="%o 用電漿炸死了自己."
+MaleSuicide="%o 用電漿炸死了自己."
+
+[DamTypeLinkShaft]
+DeathString="%o 被 %k 的綠色光束打穿了."
+FemaleSuicide="%o 打穿了自己."
+MaleSuicide="%o 打穿了自己."
+
+[DamTypeMinigunBullet]
+DeathString="%o 被 %k 的機槍掃成蜂窩."
+FemaleSuicide="%o 的機槍拿反了."
+MaleSuicide="%o 的機槍拿反了."
+
+[DamTypeRedeemer]
+DeathString="%o 粉身碎骨了!"
+FemaleSuicide="%o 粉身碎骨了!"
+MaleSuicide="%o 粉身碎骨了!"
+
+[DamTypeRocket]
+DeathString="%o 乘坐著 %k 的火箭飛入天際."
+FemaleSuicide="%o 的火箭發射失敗."
+MaleSuicide="%o 的火箭發射失敗."
+
+[DamTypeShieldImpact]
+DeathString="%o 被 %k 的盾炮粉碎."
+FemaleSuicide="%o 不小心粉碎自己了."
+MaleSuicide="%o 不小心粉碎自己了."
+
+[DamTypeShockBall]
+DeathString="%o 被 %k 用電核炸死了."
+FemaleSuicide="%o 被電核炸死了."
+MaleSuicide="%o 被電核炸死了."
+
+[DamTypeShockBeam]
+DeathString="%k 的電擊步槍為 %o 帶來生命的亮光."
+FemaleSuicide="%o 不知道怎麼用電擊步槍打到自己."
+MaleSuicide="%o 不知道怎麼用電擊步槍打到自己."
+
+[DamTypeShockCombo]
+DeathString="%o 沒躲過 %k 的電擊爆破."
+FemaleSuicide="%o 不小心搞砸了電擊爆破."
+MaleSuicide="%o 不小心搞砸了電擊爆破."
+
+[DamTypeSniperHeadShot]
+DeathString="%o 的頭蓋骨給 %k 的閃電槍給炸酥了."
+FemaleSuicide="%o 違反了時空定律把自己給殺了."
+MaleSuicide="%o 違反了時空定律把自己給殺了."
+
+[DamTypeSniperShot]
+DeathString="%o 被 %k 電到了."
+FemaleSuicide="%o 有了個來電的經驗."
+MaleSuicide="%o 有了個來電的經驗."
+
+[DamTypeTeleFrag]
+DeathString="%o 的原子結構被 %k 打散了."
+FemaleSuicide="%o 去了沒人到過的地方."
+MaleSuicide="%o 去了沒人到過的地方."
+
+[FlakAmmo]
+ItemName="熱焰砲彈"
+
+[FlakAmmoPickup]
+PickupMessage="你拿到 10 個熱焰砲彈藥."
+
+[FlakCannon]
+ItemName="熱焰炮"
+
+[FlakCannonPickup]
+PickupMessage="你拿到熱焰砲."
+
+[GrenadeAmmo]
+ItemName="榴彈"
+
+[LinkAmmo]
+ItemName="連結彈藥"
+
+[LinkAmmoPickup]
+PickupMessage="你拿到連結能源."
+
+[LinkGun]
+ItemName="電漿槍"
+
+[LinkGunPickup]
+PickupMessage="你拿到電漿槍."
+
+[Minigun]
+ItemName="機槍"
+
+[MinigunAmmo]
+ItemName="子彈"
+
+[MinigunAmmoPickup]
+PickupMessage="你拿到 50 顆子彈."
+
+[MinigunPickup]
+PickupMessage="你拿到機槍."
+
+[MutArena]
+FriendlyName="競技場"
+Description="更換地圖中的武器和彈藥."
+
+[MutNoSuperWeapon]
+FriendlyName="無超級武器"
+Description="地圖中的超級武器被移除掉."
+
+[Painter]
+ItemName="離子標定器"
+
+[PainterPickup]
+PickupMessage="你拿到離子標定槍."
+
+[Redeemer]
+ItemName="救世主"
+
+[RedeemerAmmo]
+ItemName="救世主彈藥"
+
+[RedeemerPickup]
+PickupMessage="你拿到救世主."
+
+[RocketAmmo]
+ItemName="火箭"
+
+[RocketAmmoPickup]
+PickupMessage="你拿到火箭彈藥."
+
+[RocketLauncher]
+ItemName="火箭發射器"
+
+[RocketLauncherPickup]
+PickupMessage="你拿到火箭發射器."
+
+[ShieldAmmo]
+ItemName="盾"
+
+[ShieldGun]
+ItemName="盾槍"
+
+[ShieldGunPickup]
+PickupMessage="你拿到盾槍."
+
+[ShockAmmo]
+ItemName="電擊步槍電核"
+
+[ShockAmmoPickup]
+PickupMessage="你拿到電擊步槍電核."
+
+[ShockRifle]
+ItemName="電擊步槍"
+
+[ShockRiflePickup]
+PickupMessage="你拿到電擊步槍."
+
+[SniperAmmo]
+ItemName="閃電能量"
+
+[SniperAmmoPickup]
+PickupMessage="你拿到狙擊槍彈藥."
+
+[SniperRifle]
+ItemName="閃電槍"
+
+[SniperRiflePickup]
+PickupMessage="你拿到閃電槍."
+
+[SuperShockRifle]
+ItemName="超級電擊步槍"
+
+[SuperShockRiflePickup]
+PickupMessage="你拿到超級電擊步槍."
+
+[TransAmmo]
+ItemName="時空啟動器"
+
+[TransLauncher]
+ItemName="時空轉換器"
+

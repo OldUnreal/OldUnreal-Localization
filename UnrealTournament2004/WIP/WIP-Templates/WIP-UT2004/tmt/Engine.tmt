@@ -1,0 +1,345 @@
+﻿[Public]
+;Object=(Name=Engine.Console,Class=Class,MetaClass=Engine.Console)
+Object=(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Engine.MasterMD5Commandlet,Class=Class,MetaClass=Core.Commandlet)
+Preferences=(Caption="進階",Parent="進階設定")
+Preferences=(Caption="遊戲引擎設定",Parent="進階",Class=Engine.GameEngine,Category=Settings,Immediate=True)
+Preferences=(Caption="Key Aliases",Parent="進階",Class=Engine.Input,Immediate=True,Category=Aliases)
+Preferences=(Caption="Raw Key Bindings",Parent="進階",Class=Engine.Input,Immediate=True,Category=RawKeys)
+Preferences=(Caption="驅動程式",Parent="進階設定",Class=Engine.Engine,Immediate=False,Category=Drivers)
+Preferences=(Caption="公開伺服器資料",Parent="網路",Class=Engine.GameReplicationInfo,Immediate=True)
+Preferences=(Caption="遊戲設定",Parent="進階設定",Class=Engine.GameInfo,Immediate=True)
+
+[Errors]
+NetOpen="開啟檔案時發生錯誤"
+NetWrite="寫入檔案時發生錯誤"
+NetRefused="伺服器拒絕傳送 '%s'"
+NetClose="關閉檔案時發生錯誤"
+NetSize="檔案大小不合"
+NetMove="移動檔案時發生錯誤"
+NetInvalid="接收到無效的檔案要求"
+NoDownload="Package '%s' 無法下載"
+DownloadFailed="下載 package '%s' 失敗: %s"
+RequestDenied="伺服器要求下一關卡檔案: 拒絕"
+ConnectionFailed="連接失敗"
+ChAllocate="無法配置頻道"
+NetAlready="已經連結"
+NetListen="接聽失敗: 沒有連結內容"
+LoadEntry=""無法載入入口: %s"
+InvalidUrl="無效的 URL: %s"
+InvalidLink="無效的連結: %s"
+FailedBrowse="進入 %s 失敗: %s"
+Listen="接聽失敗: %s"
+AbortToEntry="失敗; 返回入口"
+ServerOpen="伺服器無法打開網路 URL"
+ServerListen="專用伺服器無法接聽: %s"
+Pending="連接 '%s' 的等待已經失敗; %s"
+LoadPlayerClass="玩者 class 載入失敗"
+ServerOutdated="伺服器的版本已經過時"
+ClientOutdated="你需要更新到最新的版本"
+InvalidCDKey="你的 CD 序號是無效的.  你需要重新安裝遊戲並輸入 CD 序號才能解決這個問題."
+ConnectLost="失去連線"
+
+[UpgradeDrivers]
+OutdatedDrivers="你電腦中的顯示卡驅動程式為舊版且可能無法對應這個遊戲."
+OursOrWeb="選擇 '是' 從 CD 上更新或 '否' 來連到製造商網站"
+InsertCD="請放入你的浴血戰場 CD 3"
+NvidiaURL="http://www.nvidia.com/content/drivers/drivers.asp"
+AtiURL="http://www.ati.com/support/driver.html"
+CDButton="從 CD 更新"
+WebButton="從網路更新"
+cancelButton="不要更新"
+
+[KeyNames]
+Up="上"
+Right="右"
+Left="左"
+Down="下"
+LeftMouse="滑鼠左鍵"
+RightMouse="滑鼠右鍵"
+MiddleMouse="滑鼠中鍵"
+MouseX="滑鼠X軸"
+MouseY="滑鼠Y軸"
+MouseZ="滑鼠Z軸"
+MouseW="滑鼠W軸"
+JoyX="搖桿X軸"
+JoyY="搖桿Y軸"
+JoyZ="搖桿Z軸"
+JoyU="搖桿U軸"
+JoyV="搖桿V軸"
+JoySlider1="搖桿滑桿1"
+JoySlider2="搖桿滑桿2"
+MouseWheelUp="滑鼠滾輪上"
+MouseWheelDown="滑鼠滾輪下"
+Joy1="搖桿1鈕"
+Joy2="搖桿2鈕"
+Joy3="搖桿3鈕"
+Joy4="搖桿4鈕"
+Joy5="搖桿5鈕"
+Joy6="搖桿6鈕"
+Joy7="搖桿7鈕"
+Joy8="搖桿8鈕"
+Joy9="搖桿9鈕"
+Joy10="搖桿10鈕"
+Joy11="搖桿11鈕"
+Joy12="搖桿12鈕"
+Joy13="搖桿13鈕"
+Joy14="搖桿14鈕"
+Joy15="搖桿15鈕"
+Joy16="搖桿16鈕"
+Space="空白鍵"
+PageUp="PAGE UP"
+PageDown="PAGE DOWN"
+End="END"
+Home="HOME"
+Select="SELECT"
+Print="PRINT"
+Execute="執行"
+PrintScrn="PRINTSCRN"
+Insert="INSERT"
+Delete="DELETE"
+Help="說明"
+NumPad0="NUM 0"
+NumPad1="NUM 1"
+NumPad2="NUM 2"
+NumPad3="NUM 3"
+NumPad4="NUM 4"
+NumPad5="NUM 5"
+NumPad6="NUM 6"
+NumPad7="NUM 7"
+NumPad8="NUM 8"
+NumPad9="NUM 9"
+GreyStar="GREY STAR"
+GreyPlus="GREY PLUS"
+Separator="SEPARATOR"
+GreyMinus="GREY MINUS"
+NumPadPeriod="NUM ."
+GreySlash="GREY SLASH"
+Pause="PAUSE"
+CapsLock="CAPSLOCK"
+Tab="TAB"
+Enter="ENTER"
+Shift="SHIFT"
+NumLock="NUMLOCK"
+Escape="ESCAPE"
+JoySlider2="JOYSLIDER 2"
+
+[Progress]
+CancelledConnect="取消的連結嘗試"
+RunningNet="%s: %s (%i 玩者)"
+NetReceiving="接收 '%s': %i/%i"
+NetReceiveOk="成功接收 '%s'"
+NetSend="傳送 '%s'"
+NetSending="傳送 '%s': %i/%i"
+Connecting="連接中..."
+Listening="接聽玩者中..."
+Loading="載入中"
+Saving="儲存中"
+Paused="%s 暫停"
+ReceiveFile="接收 '%s' (F10 取消)"
+ReceiveOptionalFile="接收非必須檔案 '%s' (按 F10 跳過)"
+ReceiveSize="大小 %iK, 完成 %3.1f%% (%iK)"
+ReceiveTotalPackages="已下載 %i 個檔案（共 %i 個）"
+ReceiveTotalSize="總未壓縮大小  %iK, 完成 %3.1f%% (%iK)"
+ConnectingText=""
+ConnectingURL="unreal://%s/%s"
+CorruptConnect="發現連線損壞"
+
+[ServerCommandlet]
+HelpCmd=server
+HelpOneLiner="網路遊戲伺服器"
+HelpUsage=server map.unr[?game=gametype] [-option...] [parm=value]...
+HelpWebLink=http://unreal.epicgames.com/servertips.htm
+HelpParm[0]=Log
+HelpDesc[0]="指定產生的日誌紀錄檔"
+HelpParm[1]=AllAdmin
+HelpDesc[1]="給所有的玩者管理權限"
+
+[MasterMD5Commandlet]
+HelpCmd=mastermd5 [*.ext {*.ext ...} ]
+HelpOneLiner="產生主要 MD5 表格"
+HelpUsage=mastermd5
+HelpWebLink=http://unreal.epicgames.com/servertips.htm
+
+[General]
+Upgrade="你必須先更新到最新版本才能進入這個伺服器, Epic 網站提供浴血戰場免費下載服務:"
+UpgradeURL="http://www.unreal.com/upgrade"
+UpgradeQuestion="你要開啟你的瀏覽器並前往更新下載的網頁?"
+Version="版本 %i"
+
+[AccessControl]
+IPBanned="你的 IP 被伺服器禁止了."
+WrongPassword="你輸入的密碼不正確."
+NeedPassword="你必須輸入密碼才能進入遊戲."
+SessionBanned="你的 IP 被目前進行的遊戲禁止了."
+KickedMsg="你被強制離開遊戲."
+
+[Ammo]
+PickupMessage="你撿起一些彈藥."
+
+[Crushed]
+DeathString="%o 被 %k 壓扁了."
+FemaleSuicide="%o 被壓扁了."
+MaleSuicide="%o 被壓扁了."
+
+[DamTypeTelefragged]
+DeathString="%o 被 %k 給傳送撕裂了"
+FemaleSuicide="%o 被 %k 給傳送撕裂了"
+MaleSuicide="%o 被 %k 給傳送撕裂了"
+
+[DamageType]
+DeathString="%o 被 %k 殺了."
+FemaleSuicide="%o 殺了她自己."
+MaleSuicide="%o 殺了他自己."
+
+[FailedConnect]
+FailMessage[0]="加入遊戲失敗.  需要密碼."
+FailMessage[1]="加入遊戲失敗.  密碼錯誤."
+FailMessage[2]="加入遊戲失敗.  遊戲已經開始."
+FailMessage[3]="加入遊戲失敗."
+
+[FellLava]
+DeathString="%o 墜落並燒焦了"
+FemaleSuicide="%o 墜落並燒焦了"
+MaleSuicide="%o 墜落並燒焦了"
+
+[GameInfo]
+bAlternateMode=False
+DefaultPlayerName="玩者"
+GameName="遊戲"
+GIPropsDisplayText[0]="電腦人技巧"
+GIPropsDisplayText[1]="留下武器"
+GIPropsDisplayText[2]="使用地圖輪替"
+GIPropsDisplayText[3]="血腥程度"
+GIPropsDisplayText[4]="遊戲速度"
+GIPropsDisplayText[5]="最大旁觀者數目"
+GIPropsDisplayText[6]="最大玩者數目"
+GIPropsDisplayText[7]="得分分數"
+GIPropsDisplayText[8]="最大生命數目"
+GIPropsDisplayText[9]="時間限制"
+GIPropsDisplayText[10]="世界統計日誌紀錄"
+GIPropsExtras[0]="0;新手;1;一般;2;進階;3;技巧;4;熟練;5;專家;6;超人;7;神"
+GIPropsExtras[1]="0;充滿血腥;1;少量血腥"
+
+[GameMessage]
+SwitchLevelMessage="更換關卡"
+LeftMessage=" 離開遊戲."
+FailedTeamMessage="無法找到隊伍給玩者"
+FailedPlaceMessage="無法找到起點"
+FailedSpawnMessage="無法再生"
+EnteredMessage=" 進入遊戲."
+MaxedOutMessage="伺服器已經滿載."
+OvertimeMessage="正規賽程平手. 猝死延長賽!!!"
+GlobalNameChange="改名為"
+NewTeamMessage="正在"
+NoNameChange="名稱已經被使用."
+VoteStarted="提議進行投票."
+VotePassed="投票通過."
+MustHaveStats="必須開啟統計才能加入此伺服器."
+NewPlayerMessage="一位新玩者加入了遊戲."
+
+[HUD]
+ProgressFontName="UT2003Fonts_tmt.TradMandFont12"
+OverrideConsoleFontName="UT2003Fonts_tmt.TradMandFontIRC"
+
+[GameProfile]
+PositionName[0]="自動指定"
+PositionName[1]="防禦"
+PositionName[2]="進攻"
+PositionName[3]="自由"
+PositionName[4]="支援"
+
+[GameReplicationInfo]
+GRIPropsDisplayText[0]="伺服器名稱"
+GRIPropsDisplayText[1]="伺服器短名"
+GRIPropsDisplayText[2]="管理員名稱"
+GRIPropsDisplayText[3]="管理員電子郵件"
+GRIPropsDisplayText[4]="訊息"
+GRIPropsDisplayText[5]=" - "
+GRIPropsDisplayText[6]="本"
+GRIPropsDisplayText[7]="日"
+
+[Gibbed]
+DeathString="%o 炸的血肉橫飛"
+FemaleSuicide="%o 炸的血肉橫飛"
+MaleSuicide="%o 炸的血肉橫飛"
+
+[LevelInfo]
+Title="無標題"
+
+[MatSubAction]
+Desc="無"
+
+[Mutator]
+FriendlyName="突變模組"
+Description="敘述"
+
+[Pickup]
+PickupMessage="拿到一個物品."
+
+[PlayerController]
+QuickSaveString="快速儲存"
+NoPauseMessage="遊戲無法暫停"
+ViewingFrom="目前觀看視野為"
+OwnCamera="從攝影機視野觀看"
+
+[PlayerReplicationInfo]
+StringSpectating="觀察中"
+StringUnknown="不明"
+
+[SubActionCameraEffect]
+Desc="攝影機效果"
+
+[SubActionCameraShake]
+Desc="搖動"
+
+[SubActionFOV]
+Desc="FOV"
+
+[SubActionFade]
+Desc="淡化"
+
+[SubActionGameSpeed]
+Desc="遊戲速度"
+
+[SubActionOrientation]
+Desc="方向"
+
+[SubActionSceneSpeed]
+Desc="場景速度"
+
+[SubActionTrigger]
+Desc="觸發"
+
+[Suicided]
+DeathString="%o 長了動脈瘤."
+FemaleSuicide="%o 長了動脈瘤."
+MaleSuicide="%o 長了動脈瘤."
+
+[TeamInfo]
+TeamName="隊伍"
+ColorNames[0]="紅"
+ColorNames[1]="藍"
+ColorNames[2]="綠"
+ColorNames[3]="金"
+
+[Volume]
+LocationName="未定義"
+
+[Weapon]
+MessageNoAmmo=" 沒有彈藥"
+
+[WeaponPickup]
+PickupMessage="你拿到一個武器"
+
+[XBoxPlayerInput]
+LookPresets[0].PresetName="線型"
+LookPresets[1].PresetName="倍速"
+LookPresets[2].PresetName="混合"
+LookPresets[3].PresetName="自訂"
+
+[fell]
+DeathString="%o 撞出了一個凹洞"
+FemaleSuicide="%o 撞出了一個凹洞"
+MaleSuicide="%o 撞出了一個凹洞"
+

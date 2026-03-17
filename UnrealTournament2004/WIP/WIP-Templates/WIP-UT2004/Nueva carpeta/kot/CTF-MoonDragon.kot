@@ -1,0 +1,52 @@
+﻿[LevelInfo0]
+Title="문드래곤"
+
+[LevelSummary]
+Title="문드래곤"
+Description="아주 오래 전 고대 시대의 한국, 드래곤이 살던 산의 숲 속 깊은 곳에 숨겨진 용감한 전사들의 격전지. 이 곳에서 터져 나오는 죽음의 비명 소리는 새벽 안개에 가리워져 누구에게도 들리지 않습니다..."
+
+[Volume10]
+LocationName="홍팀 깃발실"
+
+[Volume11]
+LocationName="홍팀 기지 입구"
+
+[Volume12]
+LocationName="중앙 동굴"
+
+[Volume14]
+LocationName="청팀 쉴드 사이드"
+
+[Volume17]
+LocationName="청팀 기지 입구"
+
+[Volume18]
+LocationName="청팀 중앙"
+
+[Volume19]
+LocationName="청팀 숲 지역"
+
+[Volume20]
+LocationName="홍팀 숲 지역"
+
+[Volume21]
+LocationName="중앙 동굴"
+
+[Volume3]
+LocationName="홍팀 중앙"
+
+[Volume6]
+LocationName="홍팀 쉴드 사이드"
+
+[Volume7]
+LocationName="홍팀 사이드 통로"
+
+[Volume8]
+LocationName="청팀 사이드 통로"
+
+[Volume9]
+LocationName="청팀 깃발실"
+
+[xBlueFlagBase1]
+ObjectiveName="청팀 깃발"
+

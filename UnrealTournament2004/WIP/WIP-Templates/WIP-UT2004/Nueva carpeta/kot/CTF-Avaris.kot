@@ -1,0 +1,171 @@
+﻿[LevelInfo0]
+Title="아바리스"
+
+[LevelSummary]
+Title="아바리스"
+Description="한때 위대한 제국의 수도였던 '아바리스'는 이제 황량한 사막의 모래바람에 버려진 채, 아무도 살지 않는 곳이 되었습니다. 토너먼트 경기중에 여기서 죽는 자들도 이 도시와 같은 운명을 맞이하게 될 것입니다."
+
+[ZoneInfo0]
+LocationName="청팀 좌측 작은방"
+
+[ZoneInfo1]
+LocationName="청팀 안마당"
+
+[ZoneInfo10]
+LocationName="청팀 메인 홀"
+
+[ZoneInfo11]
+LocationName="홍팀 우측 작은방"
+
+[ZoneInfo12]
+LocationName="홍팀 좌측 작은방(파괴됨)"
+
+[ZoneInfo13]
+LocationName="홍팀 깃발 기지"
+
+[ZoneInfo15]
+LocationName="안마당 건물"
+
+[ZoneInfo16]
+LocationName="홍팀 우측 입구"
+
+[ZoneInfo17]
+LocationName="안마당 건물"
+
+[ZoneInfo18]
+LocationName="홍팀 좌측 입구"
+
+[ZoneInfo19]
+LocationName="홍팀 메인 홀"
+
+[ZoneInfo2]
+LocationName="청팀 깃발 기지"
+
+[ZoneInfo20]
+LocationName="청팀 좌측 입구"
+
+[ZoneInfo21]
+LocationName="홍팀 우측 통로"
+
+[ZoneInfo22]
+LocationName="홍팀 우측 안마당"
+
+[ZoneInfo23]
+LocationName="청팀 깃발 기지"
+
+[ZoneInfo24]
+LocationName="청팀 깃발 기지"
+
+[ZoneInfo27]
+LocationName="청팀 좌측 사이드"
+
+[ZoneInfo28]
+LocationName="안마당 건물"
+
+[ZoneInfo29]
+LocationName="중앙 안마당"
+
+[ZoneInfo3]
+LocationName="중앙 지역"
+
+[ZoneInfo30]
+LocationName="청팀 우측 입구"
+
+[ZoneInfo31]
+LocationName="중앙 지역"
+
+[ZoneInfo32]
+LocationName="청팀 좌측 계단"
+
+[ZoneInfo33]
+LocationName="청팀 우측 작은방"
+
+[ZoneInfo34]
+LocationName="홍팀 좌측 계단"
+
+[ZoneInfo35]
+LocationName="중앙 지역"
+
+[ZoneInfo36]
+LocationName="홍팀 우측 계단"
+
+[ZoneInfo37]
+LocationName="청팀 깃발 기지"
+
+[ZoneInfo38]
+LocationName="홍팀 깃발 기지"
+
+[ZoneInfo39]
+LocationName="홍팀 깃발 기지"
+
+[ZoneInfo42]
+LocationName="홍팀 안마당"
+
+[ZoneInfo43]
+LocationName="안마당 건물"
+
+[ZoneInfo44]
+LocationName="청팀 좌측 사이드"
+
+[ZoneInfo45]
+LocationName="청팀 우측 작은방"
+
+[ZoneInfo46]
+LocationName="청팀 우측 작은방"
+
+[ZoneInfo47]
+LocationName="청팀 깃발 기지"
+
+[ZoneInfo48]
+LocationName="청팀 우측 작은방"
+
+[ZoneInfo49]
+LocationName="홍팀 우측 사이드"
+
+[ZoneInfo5]
+LocationName="홍팀 좌측 안마당"
+
+[ZoneInfo50]
+LocationName="청팀 우측 사이드"
+
+[ZoneInfo51]
+LocationName="청팀 깃발 기지"
+
+[ZoneInfo52]
+LocationName="청팀 깃발 기지"
+
+[ZoneInfo53]
+LocationName="홍팀 깃발 기지"
+
+[ZoneInfo54]
+LocationName="홍팀 깃발 기지"
+
+[ZoneInfo55]
+LocationName="청팀 우측 사이드"
+
+[ZoneInfo56]
+LocationName="중앙 지역"
+
+[ZoneInfo57]
+LocationName="중앙 지역"
+
+[ZoneInfo59]
+LocationName="홍팀 우측 사이드"
+
+[ZoneInfo6]
+LocationName="청팀 우측 계단"
+
+[ZoneInfo61]
+LocationName="홍팀 좌측 사이드"
+
+[ZoneInfo62]
+LocationName="홍팀 좌측 사이드"
+
+[ZoneInfo7]
+LocationName="청팀 좌측 작은방"
+
+[ZoneInfo8]
+LocationName="청팀 좌측 작은방"
+
+[ZoneInfo9]
+LocationName="중앙 안마당"

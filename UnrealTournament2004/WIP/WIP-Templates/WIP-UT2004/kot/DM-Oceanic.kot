@@ -1,14 +1,15 @@
 ﻿[LevelInfo0]
-Title="해양"
+Title="오세아닉"
 
 [LevelSummary]
-Title="해양"
+Title="오세아닉"
+Description="트라시안 해의 빙하 밑에 자리한 오셔닉 파워 스테이션은 주변 해안선 지역에 무한대의 용해 에너지를 쉴새 없이 공급합니다. 하지만 빙하 저변 통로에서의 전투에서 소름 끼치는 패배를 피할 수 있는 방법은 오로지 승리뿐입니다."
 
 [ZoneInfo0]
 LocationName="중간 위"
 
 [ZoneInfo1]
-LocationName="왼쪽복도1"
+LocationName="왼쪽 복도1"
 
 [ZoneInfo10]
 LocationName="쇼크라이플"
@@ -23,13 +24,13 @@ LocationName="플랙캐논"
 LocationName="로켓실"
 
 [ZoneInfo2]
-LocationName="중간위쪽"
+LocationName="중간 위쪽"
 
 [ZoneInfo3]
 LocationName="중간 아래"
 
 [ZoneInfo4]
-LocationName="중간위쪽"
+LocationName="중간 위쪽"
 
 [ZoneInfo6]
 LocationName="미니건"
@@ -38,8 +39,8 @@ LocationName="미니건"
 LocationName="중간방"
 
 [ZoneInfo8]
-LocationName="왼쪽복도2"
+LocationName="왼쪽 복도2"
 
 [ZoneInfo9]
-LocationName="중간아래쪽"
+LocationName="중간 아래쪽"
 

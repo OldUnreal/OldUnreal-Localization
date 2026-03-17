@@ -7,8 +7,44 @@ LevelEnterText="블라블라블라"
 
 [LevelSummary]
 Title="프러스트바이트"
-Description="추위에 황폐해 보이는 이곳이 단순해 보인다고 속지마라. 온스롯 아레나에서 가장 작은곳이긴 하나, 프러스트바이트는 정신없는 페이스와 맹렬한 싸움으로 유명한 곳이다."
+Description="추위에 황폐해 보이는 이곳이 단순해 보인다고 속지마라. 온스롯 아레나에서 가장 작은 곳이긴 하나, 프러스트바이트는 정신없는 페이스와 맹렬한 싸움으로 유명한 곳이다."
 LevelEnterText="블라블라블라"
+
+[MessageTrigger0]
+Message="피터 레스폰덱"
+
+[MessageTrigger1]
+Message="로젤리오 올구인"
+
+[MessageTrigger10]
+Message="필 코울"
+
+[MessageTrigger11]
+Message="네이트 오버맨"
+
+[MessageTrigger2]
+Message="제프 가이스"
+
+[MessageTrigger3]
+Message="데이빗 서먼스"
+
+[MessageTrigger4]
+Message="매트 엘프키"
+
+[MessageTrigger5]
+Message="스튜어트 핏즈시몬스"
+
+[MessageTrigger6]
+Message="론 프레스톤백"
+
+[MessageTrigger7]
+Message="벤 벡위스"
+
+[MessageTrigger8]
+Message="로랑 딜레이언"
+
+[MessageTrigger9]
+Message="데이브 헤이그우드"
 
 [PhysicsVolume51]
 LocationName="비밀 지하 잠복실"

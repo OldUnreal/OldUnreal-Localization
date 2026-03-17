@@ -1,0 +1,267 @@
+﻿[ACTION_DestroyActor]
+ActionString="摧毀演員"
+
+[ACTION_FinishRotation]
+ActionString="結束旋轉"
+
+[ACTION_FireWeapon]
+ActionString="發射武器"
+
+[ACTION_Freeze]
+ActionString="靜止"
+
+[ACTION_Jump]
+ActionString="跳躍"
+
+[ACTION_LocalizedMessage]
+ActionString="語言訊息"
+
+[ACTION_SetPhysics]
+ActionString="改變物理為 "
+
+[ACTION_ShootTarget]
+ActionString="射擊目標"
+
+[ACTION_SpawnActor]
+ActionString="再生演員"
+
+[ACTION_ThrowWeapon]
+ActionString="拋棄武器"
+
+[ActionMessage_BR]
+Messages[0]="轟炸任務"
+Messages[1]="球在場地中心"
+Messages[2]="觸碰到球就可以將其撿起"
+Messages[3]="持球者不能攻擊"
+Messages[4]="主要攻擊是將球射出"
+Messages[5]="特別攻擊瞄準隊友"
+Messages[6]="傳球給隊友"
+Messages[7]="每支隊伍都有得分的球門"
+Messages[8]="將球射門 = 3 分"
+Messages[9]="帶球進門 = 7 分"
+Messages[10]="祝你好運!"
+
+[ActionMessage_CTF]
+Messages[0]="搶旗賽"
+Messages[1]="兩個基地: 紅色與藍色"
+Messages[2]="觸碰敵方隊旗奪走旗子"
+Messages[3]="返回你的基地"
+Messages[4]="觸碰自己的隊旗得分"
+Messages[5]="時空轉換會失去旗幟"
+Messages[6]="預設的總得分是 3 分"
+Messages[7]="祝你好運!"
+
+[ActionMessage_DM]
+Messages[0]="死鬥"
+Messages[1]="按下攻擊鈕重生"
+Messages[2]="武器有兩種攻擊模式"
+Messages[3]="一般與特別攻擊"
+Messages[4]="衝鋒步槍"
+Messages[5]="發射子彈和榴彈"
+Messages[6]="盾槍"
+Messages[7]="近身攻擊"
+Messages[8]="防禦盾牌"
+Messages[9]="再地圖上可以找到其他武器"
+Messages[10]="熱焰砲"
+Messages[11]="生化步槍"
+Messages[12]="機槍"
+Messages[13]="移動"
+Messages[14]="WASD = 預設的移動鍵"
+Messages[15]="按同一鍵兩下可以閃躲"
+Messages[16]="跳躍"
+Messages[17]="雙重跳躍"
+Messages[18]="能力加強"
+Messages[19]="回復藥水"
+Messages[20]="醫藥包"
+Messages[21]="超級醫藥包"
+Messages[22]="護甲"
+Messages[23]="防護盾"
+Messages[24]="超級防護盾"
+Messages[25]="腎上腺素"
+Messages[26]="腎上腺素可執行特別動作"
+Messages[27]="增加傷害"
+Messages[28]="搶先到達狙殺目標!"
+Messages[29]="自殺則減少狙殺數"
+Messages[30]="祝你好運!"
+
+[ActionMessage_DOM]
+Messages[0]="雙重佔領"
+Messages[1]="據點 : A 和 B"
+Messages[2]="佔領據點 10 秒鐘"
+Messages[3]="觸碰到據點就取得控制權"
+Messages[4]="祝你好運!"
+
+[ActionMessage_SubTitle]
+Messages[0]="我該看起來怎麼樣?"
+Delays[0]=4
+Messages[1]="沒有我看起來那麼棒,寶貝..."
+Delays[1]=4
+Messages[2]="各位觀眾,歡迎來到全銀河最血腥的運動. 在這錦標賽中,勝者將成為神,而拜者將會付出生命!"
+Delays[2]=8
+Messages[3]="他們來了! 他們曾經是敵人, 但是現在他們是最有實力的隊伍之一."
+Delays[3]=8
+Messages[4]="沒錯,經驗是最重要的,他們每個人都是身經百戰."
+Delays[4]=8
+Messages[5]="看看馬爾坎,他在任何情況下都是這麼冷靜."
+Delays[5]=8
+Messages[6]="這個布魯克,不管他對場外的女性或是場內的對手,都是具有殺傷力啊!"
+Delays[6]=8
+Messages[7]="我最愛看到蘿倫了,他看來充滿精力啊."
+Delays[7]=8
+Messages[8]="好耶.....你看起來幹勁十足."
+Delays[8]=8
+Messages[9]="他是我的獵物!!"
+Delays[9]=8
+Messages[10]="馬..........爾..........坎............"
+Delays[10]=8
+Messages[11]="你太強了,高治!你太棒了,高治! 好啊, 寶貝,來吧!"
+Delays[11]=8
+Messages[12]="嗚啊..............!"
+Delays[12]=8
+Messages[13]="老天,你看到了嗎?"
+Delays[13]=8
+Messages[14]="吉姆,我告訴你, 那個高治,他一點也不尊重他的仰慕者."
+Delays[14]=8
+Messages[15]="嗯,我想他還在為他臉上新增的傷痕生氣,這要謝謝馬爾坎的贊助."
+Delays[15]=8
+Messages[16]="對啊, 我想他正打算好好報答一下馬爾坎."
+Delays[16]=8
+Messages[17]="沒錯.今晚的比賽看來會很精采."
+Delays[17]=8
+Messages[18]="因為馬爾坎的隊伍的積分目前領先,他們可以選擇競技場."
+Delays[18]=8
+Messages[19]="這看起來像極了... 卡蘭德拉冰源."
+Delays[19]=8
+Messages[20]="歐~~~耶, 我愛死了這場地."
+Delays[20]=8
+Messages[21]="今晚的比賽可說是血戰."
+Delays[21]=8
+
+[Action_CHANGELEVEL]
+ActionString="變更關卡"
+
+[Action_CHANGESCRIPT]
+ActionString="變更劇本"
+
+[Action_CHANGETEAM]
+ActionString="更換隊伍"
+
+[Action_CROUCH]
+ActionString="蹲下"
+
+[Action_ConsoleCommand]
+ActionString="操控台指令"
+
+[Action_DAMAGEINSTIGATOR]
+ActionString="傷害煽動者"
+
+[Action_DESTROYPAWN]
+ActionString="摧毀兵卒"
+
+[Action_DISPLAYMESSAGE]
+ActionString="顯示訊息"
+
+[Action_ENDSECTION]
+ActionString="結束段落"
+
+[Action_FADEVIEW]
+ActionString="淡出視點"
+
+[Action_GOTOACTION]
+ActionString="到動作"
+
+[Action_IFCONDITION]
+ActionString="如果情況"
+
+[Action_KILLINSTIGATOR]
+ActionString="傷害煽動者"
+
+[Action_LEAVESEQUENCE]
+ActionString="離開步驟"
+
+[Action_MOVETOPLAYER]
+ActionString="移動到玩家"
+
+[Action_MOVETOPOINT]
+ActionString="移動到定點"
+
+[Action_PLAYAMBIENTSOUND]
+ActionString="播放背景音效"
+
+[Action_PLAYANIM]
+ActionString="播放動畫"
+
+[Action_PLAYLOCALSOUND]
+ActionString="播放音效"
+
+[Action_PLAYMUSIC]
+ActionString="播放歌曲"
+
+[Action_PLAYSOUND]
+ActionString="播放音效"
+
+[Action_RUN]
+ActionString="奔跑"
+
+[Action_SETALERTNESS]
+ActionString="設定警戒程度"
+
+[Action_SETVIEWTARGET]
+ActionString="設定觀察目標"
+
+[Action_STOPANIMATION]
+ActionString="停止動畫"
+
+[Action_TRIGGEREVENT]
+ActionString="起發事件"
+
+[Action_TURNTOWARDPLAYER]
+ActionString="轉動面向玩家"
+
+[Action_WAITFORANIMEND]
+ActionString="等待動畫結束"
+
+[Action_WAITFOREVENT]
+ActionString="W等待外部事件"
+
+[Action_WAITFORPLAYER]
+ActionString="等待玩家"
+
+[Action_WAITFORTIMER]
+ActionString="等待計時"
+
+[Action_WALK]
+ActionString="行走"
+
+[Burned]
+DeathString="%o 被殺了."
+
+[Corroded]
+DeathString="o 被 %k 給溶解了."
+FemaleSuicide="%o 溶解成一攤黏液."
+MaleSuicide="%o 溶解成一攤黏液."
+
+[Counter]
+CountMessage="只剩下 %i 個了..."
+CompleteMessage="完成!"
+
+[Depressurized]
+DeathString="%o 被 %k 減壓了."
+FemaleSuicide="%o 被減壓了."
+MaleSuicide="%o 被減壓了."
+
+[Drowned]
+DeathString="%o 忘記了水中不能呼吸."
+FemaleSuicide="%o 忘記了水中不能呼吸."
+MaleSuicide="%o 忘記了水中不能呼吸."
+
+[MessageTextureClient]
+HisMessage="他的"
+HerMessage="她的"
+
+[ScriptedAction]
+ActionString="未定義的動作"
+
+[WaterVolume]
+LocationName="在水中"
+

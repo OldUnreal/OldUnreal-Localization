@@ -1,0 +1,22 @@
+﻿[Public]
+Class=(Class=WinDrv.WindowsClient,SuperClass=Engine.Client)
+Preferences=(Caption="顯示",Parent="進階設定",Class=WinDrv.WindowsClient,Immediate=True,Category=Display)
+Preferences=(Caption="搖桿",Parent="進階設定",Class=WinDrv.WindowsClient,Immediate=True,Category=Joystick)
+
+[Errors]
+Failed3D="3D 硬體初始化失敗"
+DDrawMode="DirectDraw 無法使用設定的畫面模式"
+
+[General]
+ViewPersp="透視地圖"
+ViewXY="鳥瞰地圖"
+ViewXZ="XZ 地圖"
+ViewYZ="YZ 地圖"
+ViewOther="視野"
+Color16="&16-bit 色彩"
+Color32="&32-bit 色彩"
+AdvancedOptions="進階設定"
+
+[WindowsClient]
+ClassCaption="標準視窗管理員"
+

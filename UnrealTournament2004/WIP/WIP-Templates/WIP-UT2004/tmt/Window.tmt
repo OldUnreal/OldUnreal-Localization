@@ -1,0 +1,72 @@
+﻿[Errors]
+Critical="嚴重錯誤"
+FailedConfigLoad="%s (載入失敗)"
+
+[General]
+BrowseButton="..."
+UseButton="使用"
+ClearButton="清除"
+ColorButton="色彩"
+PickButton="選擇"
+FindButton="尋找"
+OkButton="確定"
+AddButton="新增"
+EmptyButton="空白"
+InsertButton="插入"
+DeleteButton="刪除"
+DefaultsButton="重設至預設值"
+BackButton="< &B返回"
+NextButton="&N下一步 >"
+FinishButton="&F完成"
+CancelButton="取消"
+InstallButton="&I安裝"
+YesButton="&Y是"
+NoButton="&N否"
+AgreeButton="&A我同意"
+LanguagePrompt="語言:"
+LanguageWindow="語言選擇"
+LogWindow="%s 日誌視窗"
+PropNone="沒有選擇"
+PropSingle="%s 內容"
+PropMulti="%s 內容 (%i 選擇)"
+InsertCdText="請放入 Unreal CD-Rom 到光碟機內並按'是'繼續, 或'取消' 離開."
+InsertCdTitle="開始遊戲時需要 CD"
+AdvancedOptionsTitle="進階設定"
+Low="低"
+High="高"
+New="新"
+
+[FirstRun]
+Caption="初始設定"
+LowMemory="Unreal 偵測到你有 %i MB 的記憶體可供使用. 要增進效能, '低細節材質' 以及 '低聲音品質' 選項應該開啟. 你可以在 '效能設定' 選單中改變設定."
+NonMMX="Unreal 偵測到你使用非 MMX 電腦. 因此, 聲音播放的設定變更成最不消耗電腦效能的. 你可以在 '進階設定 / 音效' 選單中改變設定."
+Starting="Unreal 正以新的設定啟動. 如果你碰到任何問題, 請參閱 '開始'選單中關於排除問題的發行備註文件."
+
+[IDDIALOG_Directory]
+IDC_Directory="安裝資料夾"
+IDC_ChoosePrompt="請選擇安裝的資料夾."
+IDC_PathTitle="&P路徑:"
+IDC_DirectoryTitle="&D目錄:"
+IDC_DrivesTitle="&V硬碟:"
+IDC_NetworkButton="&N網路"
+
+[IDDIALOG_Password]
+IDC_Password="檢查密碼"
+IDC_Prompt="請輸入你的名字及密碼."
+IDC_Name="&N名字:"
+IDC_Password="&P密碼:"
+
+[IDMENU_NotifyIcon]
+ID_NotifyIcon="選單"
+ID_NotifyShowLog="&UnrealServer 操控台"
+ID_NotifyAdvancedOptions="&A進階設定"
+ID_NotifyExit="&X離開 UnrealServer"
+
+[IDMENU_Log]
+ID_LogFile="&F檔案"
+ID_LogAdvancedOptions="&A進階設定"
+ID_LogFileExit="&X離開"
+
+[IDDIALOG_CrashBox]
+IDC_Copy="複製"
+IDC_BugReport="傳送錯誤報告"

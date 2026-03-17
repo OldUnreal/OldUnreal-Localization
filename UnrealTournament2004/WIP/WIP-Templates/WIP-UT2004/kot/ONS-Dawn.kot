@@ -4,3 +4,30 @@ Title="새벽"
 [LevelSummary]
 Title="새벽"
 Description="정부 투기자들이 이 행성에 왔을때, Liandri는 자신들의 다음 온스롯 아레나를 찾았다는걸 알게되었다. 아직 생물체 초기단계인 원시적인 세상, 산듯한 풍경 그리고 파도같은 언덕들이 대량파괴의 환경에 알맞다."
+
+[Volume0]
+LocationName="청팀 기지"
+
+[Volume1]
+LocationName="홍팀 기지"
+
+[Volume10]
+LocationName="중서쪽 노드"
+
+[Volume5]
+LocationName="북동쪽 노드"
+
+[Volume6]
+LocationName="북서쪽 노드"
+
+[Volume7]
+LocationName="남서쪽 노드"
+
+[Volume8]
+LocationName="남서쪽 노드"
+
+[Volume9]
+LocationName="중동쪽 노드"
+
+[ZoneInfo0]
+LocationName="외부"

@@ -1,13 +1,13 @@
 ﻿[Errors]
 NetOpen="파일 열기 오류"
 NetWrite="파일 쓰기 오류"
-NetRefused="서버에서 %s 전송 거부"
+NetRefused="서버에서 '%s' 전송 거부"
 NetClose="파일 닫기 오류"
 NetSize="파일 크기가 일치하지 않음"
 NetMove="파일 이동 오류" 
 NetInvalid="부정확한 파일 요청 수신" 
-NoDownload=%s는 다운로드 할 수 없는 패키지 입니다" 
-DownloadFailed="%s 패키지 다운로드 실패: %s" 
+NoDownload="'%s'는 다운로드 할 수 없는 패키지 입니다" 
+DownloadFailed="'%s' 패키지 다운로드 실패: %s" 
 RequestDenied="서버가 펜딩 레벨에서 파일을 요청하였습니다: 거부"
 ConnectionFailed="연결 실패"
 ChAllocate="채널을 할당할 수 없습니다"
@@ -21,17 +21,17 @@ Listen="응답 대기 실패: %s"
 AbortToEntry="실패; 엔트리로 돌아갑니다" 
 ServerOpen="서버가 네트워크 URL을 열수 없습니다" 
 ServerListen="전용 서버가 대기할 수 없습니다: %s" 
-Pending="%s로의 연결 지연 실패; %s" 
+Pending="'%s'로의 연결 지연 실패; %s" 
 LoadPlayerClass="플레이어 클래스 로드 실패" 
 ServerOutdated="오래된 버전의 서버입니다" 
-ClientOutdated=""최신 패치를 설치해야 합니다"
+ClientOutdated="최신 패치를 설치해야 합니다"
 InvalidCDKey="사용할 수 없는 시디키 입니다. 이 문제를 해결하려면 게임을 다시 설치하고 시디키를 입력해야 합니다." 
 ConnectLost="연결 끊어짐" 
-DemoFileMissing="데모 플레이를 위한 %s 패키지가 없습니다."
-DownloadNotAllowed="%s 다운로드가 허가되지 않았습니다." 
+DemoFileMissing="데모 플레이를 위한 '%s' 패키지가 없습니다."
+DownloadNotAllowed="'%s' 다운로드가 허가되지 않았습니다." 
 
 [General]
-Upgrade="이 서버에 들어가려면 에픽 웹사이트에서 제공하는 언리얼의 최신 무료 업데이트가 필요합니다: " 
+Upgrade="이 서버에 들어가려면 에픽(Epic) 웹사이트에서 제공하는 언리얼의 최신 무료 업데이트가 필요합니다: " 
 UpgradeURL=http://www.unreal.com/upgrade
 UpgradeQuestion="웹 브라우저를 열어서 업그레이드 페이지를 보시겠습니까?"
 Version="%i 버전"
@@ -95,12 +95,12 @@ NumPad6="숫자키 6"
 NumPad7="숫자키 7"
 NumPad8="숫자키 8"
 NumPad9="숫자키 9"
-GreyStar="그레이 곱하기"
-GreyPlus="그레이 더하기"
+GreyStar="*"
+GreyPlus="+"
 Separator="분리부호"
-GreyMinus="그레이 -"
+GreyMinus="-"
 NumPadPeriod="숫자키 ."
-GreySlash="그레이 슬러쉬"
+GreySlash="/"
 Pause="PAUSE"
 CapsLock="CAPSLOCK"
 Tab="TAB"
@@ -112,21 +112,23 @@ Escape="ESC"
 [Progress]
 CancelledConnect="연결 시도 취소" 
 RunningNet="%s: %s (%i players)"
-NetReceiving="%s 수신 중: %i/%i
-NetReceiveOk="%s 성공적으로 수신하였습니다" 
-NetSend="%s 송신 중" 
-NetSending="%s 송신 중: %i/%i"
-Connecting="연결 중(취소는 F10)...
+NetReceiving="'%s' 수신 중: %i/%i"
+NetReceiveOk="'%s' 성공적으로 수신하였습니다" 
+NetSend="'%s' 송신 중" 
+NetSending="'%s' 송신 중: %i/%i"
+Connecting="연결 중(취소는 F10)... "
 Listening="클라이언트의 응답을 기다리는 중..."
-Loading="로딩 중"
+Loading="불러오기 중"
 Saving="저장 중"
 Paused="%s에 의해 일시 멈춤" 
-ReceiveFile="%s 수신 중(취소는 F10)"
-ReceiveOptionalFile="선택 사항 파일 %s 수신 중(건너 뛰려면 F10)
-ReceiveSize="파일 크기 %iK, %3.1f%% 완료"
+ReceiveFile="'%s' 수신 중(취소는 F10)"
+ReceiveOptionalFile="선택 사항 파일 '%s' 수신 중(건너 뛰려면 F10)"
+ReceiveSize="파일 크기 %iK, %3.1f%% 완료 (%iK)"
+ReceiveTotalPackages="%i 개 중 %i 개의 파일이 다운로드되었습니다"
+ReceiveTotalSize="압축되지 않은 총 크기  %iK, 완료 %3.1f%% (%iK)"
 ConnectingText=
 ConnectingURL=%s://%s/%s
-CorruptConnect="호환성이 없는 게임 파일!"
+CorruptConnect="호환성이 없는 게임 파일입니다!"
 
 [Public]
 ;Object=(Name=Engine.Console,Class=Class,MetaClass=Engine.Console)
@@ -134,25 +136,16 @@ Object=(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.MasterMD5Commandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.UModUnpackCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Engine.ExportCacheCommandlet,Class=Class,MetaClass=Core.Commandlet)
-; Main roots
-Preferences=(Caption="Advanced",Parent="Advanced Options")
-Preferences=(Caption="Audio",Parent="Advanced Options")
-Preferences=(Caption="Display",Parent="Advanced Options")
-Preferences=(Caption="Editor",Parent="Advanced Options")
-Preferences=(Caption="Game Settings",Parent="Advanced Options",Class=Engine.GameInfo,Immediate=True)
-Preferences=(Caption="Joystick",Parent="Advanced Options")
-Preferences=(Caption="Networking",Parent="Advanced Options")
-Preferences=(Caption="Rendering",Parent="Advanced Options")
-; "Advanced" root
-Preferences=(Caption="Game Engine Settings",Parent="Advanced",Class=Engine.GameEngine,Category=Settings,Immediate=True)
-Preferences=(Caption="Key Aliases",Parent="Advanced",Class=Engine.Input,Immediate=True,Category=Aliases)
-Preferences=(Caption="Raw Key Bindings",Parent="Advanced",Class=Engine.Input,Immediate=True,Category=RawKeys)
-Preferences=(Caption="Drivers",Parent="Advanced Options",Class=Engine.Engine,Immediate=False,Category=Drivers)
-; "Networking" root
-Preferences=(Caption="Public Server Information",Parent="Networking",Class=Engine.GameReplicationInfo,Immediate=True)
+Preferences=(Caption="고급",Parent="고급 옵션")
+Preferences=(Caption="게임 엔진 세팅",Parent="고급",Class=Engine.GameEngine,Category=Settings,Immediate=True)
+Preferences=(Caption="키 앨리어스",Parent="고급",Class=Engine.Input,Immediate=True,Category=Aliases)
+Preferences=(Caption="기본 키 바인딩",Parent="고급",Class=Engine.Input,Immediate=True,Category=RawKeys)
+Preferences=(Caption="드라이버",Parent="고급 옵션",Class=Engine.Engine,Immediate=False,Category=Drivers)
+Preferences=(Caption="공개 서버 정보",Parent="네트워크",Class=Engine.GameReplicationInfo,Immediate=True)
+Preferences=(Caption="게임 세팅",Parent="고급 옵션",Class=Engine.GameInfo,Immediate=True)
 
 [UpgradeDrivers]
-OutdatedDrivers="그래픽 카드 드라이버가 구형이어서 게임이 정상적으로 실행되지 않을 수 있습니다."
+OutdatedDrivers="그래픽 카드 드라이버의 버전이 오래된 버전이어서, 게임이 정상적으로 실행되지 않을 수 있습니다."
 OursOrWeb="'예'를 선택하시면 시디에서 업데이트 된 드라이버를 설치하며 '아니오'를 선택하시면 제조사 홈페이지로 연결됩니다." 
 InsertCD="언리얼 토너먼트 3번째 시디를 삽입하세요." 
 NvidiaURL=http://www.nvidia.com/content/drivers/drivers.asp
@@ -167,7 +160,7 @@ HelpOneLiner="마스터 MD5 데이터베이스를 처리합니다."
 HelpUsage=mastermd5 [-option..] <params>
 HelpWebLink=http://unreal.epicgames.com/servertips.htm
 HelpParm[0]=-c
-HelpDesc[0]="새 MD5 데이터베이를 생성합니다."
+HelpDesc[0]="새 MD5 데이터베이스를 생성합니다."
 HelpParm[1]=-a
 HelpDesc[1]="새로운 패키지를 데이터베이스에 추가합니다."
 HelpParm[2]=-s
@@ -177,7 +170,7 @@ HelpDesc[3]="모든 엔트리의 수정본을 <param>에 집어넣습니다."
 
 [UModUnpackCommandlet]
 HelpCmd=umodunpack
-HelpOneLiner="UMOD 파일 꾸러미를 풉니다."
+HelpOneLiner="UMOD 파일 패키지를 풉니다."
 HelpUsage=umodunpack [-option] <filename>
 HelpWebLink=http://unreal.epicgames.com/servertips.htm
 HelpParm[0]=-x
@@ -202,71 +195,74 @@ HelpUsage=exportcache [-option...] <package.ext> [package.ext...] [destfilename.
 HelpWebLink=http://unreal.epicgames.com/unrealcaching.htm
 HelpParm[0]=-a
 HelpParm[1]=-y
+HelpParm[2]=-v
+HelpParm[3]=package.ext
+HelpParm[4]=destfilename.ucl
 HelpDesc[0]="destfilename.ucl 안에 있는 매칭 엔트리를 업데이트 합니다. 모든 새 엔트리가 추가됩니다."
 HelpDesc[1]="작업 중 모든 시도들에 대해 자동으로 '예'로 대답합니다."
-HelpParm[2]=package.ext
 HelpDesc[2]="확장자가 .ut2 혹은 .u인 파일만 지원합니다. 파일 그룹을 쉽게 지정하기 위해 와일드 카드를 사용하거나 파일들을 각각 지정해 줄 수 있습니다."
-HelpParm[3]=destfilename.ucl
 HelpDesc[3]="대상 파일 이름을 선택적으로 지정해 줄 수 있습니다. 지정하지 않으면 캐쉬 레코드 파일의 초기 확장자가 사용됩니다."
+HelpDesc[4]="엔트리를 익스포트하기 위한 용도의 파일입니다. 패키지의 디폴트 파일 이름으로 익스포트 합니다. 여러개의 패키지들을 하나의 .ucl 파일로 익스포트 합니다."
 
 [AccessControl]
 IPBanned="당신의 IP 주소가 이 서버에서 금지되었습니다."
 WrongPassword="패스워드가 정확하지 않습니다."
 NeedPassword="이 게임에 조인하려면 패스워드가 필요합니다."
 SessionBanned="당신의 IP 주소가 현재 진행중인 게임 세션에서 금지되었습니다."
-KickedMsg="당신은 게임에서 강제로 쫓겨났습니다."
+KickedMsg="게임에서 강제로 쫓겨났습니다."
+DefaultKickReason="명시안됨"
 ACDisplayText[0]="게임 패스워드"
-ACDisplayText[1]="액세스 폴리시"
+ACDisplayText[1]="참가 방침"
 ACDisplayText[2]="관리자 패스워드"
-ACDisPlayText[3]="로그인 지연"
+ACDisplayText[3]="로그인 지연"
 ACDescText[0]="플레이어가 서버에 조인할 때 이 패스워드를 입력해야 합니다."
 ACDescText[1]="접근 금지 된 IP 주소나 주소 범위 지정"
 ACDescText[2]="관리자 권한으로 이 서버에 로그인 할 때 요구되는 패스워드"
-ACDescText[3]="수 차례의 로그인 실패후에 다시 로그인하기 위해서 기다려야 하는 시간(초)"
+ACDescText[3]="로그인에 실패했을 경우, 잠시 후 다시 시도해 보시기 바랍니다."
 
 [AdminBase]
-Msg_PlayerList="플레이어 리스트:"
-Msg_AllGameMaps="사용 가능한 맵들 (추가될수 있는)"
-Msg_AllMapLists="%gametype%에 사용가능한 맵 리스트."
-Msg_MapRotationList="%maplist%에서 액티브 한 맵들."
-Msg_NoMapsAdded="%maplist%에 맵이 추가 되지 않았습니다."
-Msg_AddedMapToList="맵리스트에 맵을 성공적으로 추가하였습니다."
-Msg_NoMapsRemoved="%maplist%에서 맵이 제거되지 않습니다."
-Msg_RemovedFromList="맵리스트에서 맵을 성공적으로 제거하였습니다."
-Msg_PlayerBanned="이 서버에서 %Player%가 추방되었습니다."
-Msg_SessionBanned="이 매치에서 %Player%가 추방되었습니다."
-Msg_PlayerKicked="%Player%가 추방되었습니다."
-Msg_NextMapNotFound="설정된 다음 맵이 없습니다. 같은 맴에서 다시 시작합니다."
-Msg_ChangingMapTo="%NextMap%으로 맵을 바꿉니다."
-Msg_NoMapInRotation="%maplist%에 맵이 설정되지 않았습니다.."
-Msg_NoMapsFound="%maplist%에서 매치되는 맵을 찾을수 없었습니다."
-Msg_MapIsInRotation="%maplist%에 있는 맵 매치중"
-Msg_MapNotInRotation="%maplist%의 맴버가 아닌 맵을 매치중입니다.."
-Msg_UnknownParam="알수 없는 변수: %Value%"
-Msg_NoParamsFound="변수를 찾을수 없습니다.!"
-Msg_ParamModified="성공적으로 변경하였습니다."
-Msg_ParamNotModified="변수를 변경할수 없었습니다."
-Msg_MapListAdded="게임타입에 맵리스트 %listname%를 성공적으로 추가하였습니다."
-Msg_MapListRemoved="게임타입에서 맵리스트 %listname%를 성공적으로 제거하였습니다."
-Msg_EditingMapList="맵리스트를 편집중입니다."
+Msg_PlayerList="플레이어 리스트 :"
+Msg_AllGameMaps="사용 가능한(추가 가능한) 맵들"
+Msg_AllMapLists="%gametype% 게임에 사용가능한 맵들"
+Msg_MapRotationList="%maplist% 맵리스트에 활성화된 맵들."
+Msg_NoMapsAdded="%maplist% 맵리스트에 추가할 맵들이 없습니다."
+Msg_AddedMapToList="맵들을 맵리스트에 성공적으로 추가했습니다"
+Msg_NoMapsRemoved="%maplist% 맵리스트에서 제거할 맵들이 없습니다."
+Msg_RemovedFromList="맵들을 맵리스트에서 성공적으로 제거했습니다."
+Msg_PlayerBanned="%Player%님은 이 서버에서 접속 차단 당하셨습니다"
+Msg_SessionBanned="%Player%님은 이 매치에서 접속 차단 당하셨습니다"
+Msg_PlayerKicked="%Player%님은 추방당하셨습니다"
+Msg_NextMapNotFound="다음맵을 찾을 수 없습니다. 같은 맵으로 다시 시작 합니다."
+Msg_ChangingMapTo="%NextMap%(으)로 맵을 변경합니다"
+Msg_NoMapInRotation="%maplist% 맵리스트에 설정된 맵이 없습니다."
+Msg_NoMapsFound="%maplist% 맵리스트의 맵과 매칭되는 맵을 찾을 수 없습니다."
+Msg_MapIsInRotation="Matching %maplist% 맵리스트의 맵들을 매칭합니다."
+Msg_MapNotInRotation="%maplist% 맵리스트의 맵들과 매칭할 수 없습니다."
+Msg_UnknownParam="알수없는 파라미터 : %Value%"
+Msg_NoParamsFound="파라미터가 없습니다!"
+Msg_ParamModified="변경 완료"
+Msg_ParamNotModified="파라미터를 수정할 수 없습니다"
+Msg_MapListAdded="%listname% 맵 리스트를 게임타입에 성공적으로 추가했습니다"
+Msg_MapListRemoved="%listname% 맵 리스트를 게임타임에서 성공적으로 제거했습니다"
+Msg_EditingMapList="맵리스트 수정중입니다"
 
 [Ammo]
-PickupMessage="탄약을 집었습니다."
+PickupMessage="탄약을 획득하였습니다."
 
 [BroadcastHandler]
-BHDisplayText[0]="관중 뮤트"
-BHDisplayText[1]="관중 참여"
-BHDescText[0]="이 옵션은 관람인이 게임 도중 채팅을 못하도록 해줍니다."
-BHDescText[1]="관람인의 채팅을 플레이어의 채팅과 분리시켜 줍니다."
+BHDisplayText[0]="조용한 관전자"
+BHDisplayText[1]="관전자 대화분리"
+BHDescText[0]="이 옵션은 관전자가 게임 도중 채팅을 하지 못하도록 해줍니다."
+BHDescText[1]="관전자의 채팅을 플레이어의 채팅과 분리시킵니다."
 
 [Canvas]
-TinyFontName="2K4Fonts_kot.GulimIRC"
-SmallFontName="2K4Fonts_kot.GulimIRC"
-MedFontName="2K4Fonts_kot.GulimIRC"
+TinyFontName="2K4Fonts_kot.Gulim8"
+SmallFontName="2K4Fonts_kot.Gulim8"
+MedFontName="2K4Fonts_kot.Gulim10"
 
 [ChatRoomMessage]
 AnonText="Someone"
-ChatRoomString[0]="다음 채널을 사용할 수 없거나 찾을 수 없습니다: %title%"
+ChatRoomString[0]="다음 채널을 사용할 수 없거나 찿을 수 없습니다: %title%"
 ChatRoomString[1]="이미 '%title%' 채널의 멤버입니다!"
 ChatRoomString[2]="'%title%' 채널은 패스워드가 필요합니다!"
 ChatRoomString[3]="'%title%' 채널에 들어가기 위한 패스워드가 틀렸습니다!"
@@ -277,148 +273,154 @@ ChatRoomString[7]="'%title%' 채널에 입장하셨습니다!"
 ChatRoomString[8]="'%title%' 채널에서 나가셨습니다."
 ChatRoomString[9]="'%title%' 채널에서 대화가 시작됐습니다."
 ChatRoomString[10]="'%title%' 채널에서 대화가 끝났습니다."
-ChatRoomString[11]="%pri% 님이 '%title%' 채널에 조인하셨습니다."
+ChatRoomString[11]="%pri% 님이 '%title%' 채널에 합류하셨습니다."
 ChatRoomString[12]="%pri% 님이 '%title%' 채널을 나가셨습니다."
 ChatRoomString[13]="%pri%님은 당신의 개인 채팅 채널에 접근 금지되었습니다."
-ChatRoomString[14]="접근 금지에 실패했습니다. 입력된 ID를 가진 플레이어가 없습니다!" 
-ChatRoomString[15]="이 서버에서는 음성채팅을 사용 하실수 없습니다."
+ChatRoomString[14]="음성 체팅 접근 금지 설정에 실패했습니다. 입력한 ID를 가진 플레이어가 없습니다!" 
+ChatRoomString[15]="이 서버에서는 음성 채팅을 사용할수 없습니다."
 
 [Crushed]
-DeathString="%o님은 %k님에 의해 산산조각 났습니다."
-FemaleSuicide="%o님은 산산조각 났습니다."
-MaleSuicide="%o님은 산산조각 났습니다."
+DeathString="%o 님이 %k 님의 공격에 의해 괴멸당했습니다"
+FemaleSuicide="%o 님이 괴멸당했습니다"
+MaleSuicide="%o 님이 괴멸당했습니다"
 
 [DamRanOver]
-DeathString="%k님이 %o님을 치였습니다."
-FemaleSuicide="%o님은 스스로 차에 깔렸습니다"
-MaleSuicide="%o님은 스스로 차에 깔렸습니다"
+DeathString="%k 님이 %o 님에게 치여 숨졌습니다"
+FemaleSuicide="%o 님이 스스로 차에 치여 숨졌습니다"
+MaleSuicide="%o 님이 스스로 차에 치여 숨졌습니다"
 
 [DamTypeTelefragged]
-DeathString="%o님은 %k님의 원격 폭파에 당하셨습니다"
-FemaleSuicide="%o님은 %k님의 원격 폭파에 당하셨습니다"
-MaleSuicide="%o님은 %k님의 원격 폭파에 당하셨습니다"
+DeathString="%o 님이 %k 님의 원격 폭파 공격에 의해 사망했습니다"
+FemaleSuicide="%o 님이 원격 폭파 공격에 사망했습니다"
+MaleSuicide="%o 님이 원격 폭파 공굑에 사망했습니다"
 
 [DamageType]
-DeathString="%o님은 %k님에 의해 사살되었습니다."
-FemaleSuicide="%o님은 자살하셨습니다."
-MaleSuicide="%o님은 자살하셨습니다."
+DeathString="%o 님이 %k 님에게 사살당했습니다"
+FemaleSuicide="%o 님이 자살했습니다"
+MaleSuicide="%o 님이 자살했습니다"
 
 [FailedConnect]
-FailMessage[0]="게임 조인 실패.  패스워드 필요함."
-FailMessage[1]="게임 조인 실패.  패스워드 틀림."
-FailMessage[2]="게임 조인 실패.  게임 이미 시작됨."
-FailMessage[3]="게임 조인 실패."
+FailMessage[0]="게임 참가 실패.  패스워드가 필요합니다."
+FailMessage[1]="게임 참가 실패.  잘못된 패스워드입니다."
+FailMessage[2]="게임 참가 실패.  게임이 이미 시작되었습니다."
+FailMessage[3]="게임 참가 실패."
 
 [FellLava]
-DeathString="%k님은 %o님이 죽음의 수영을 하게 만들었습니다."
-FemaleSuicide="%o님은 산산조각나서 불타고 있습니다!"
-MaleSuicide="%o님은 산산조각나서 불타고 있습니다!"
+DeathString="%o 님이 %k 님에 의해 나락으로 추락해 불타버렸습니다"
+FemaleSuicide="%o 님이 추락 후 불타버렸습니다"
+MaleSuicide="%o 님이 추락 후 불타버렸습니다"
 
 [GameInfo]
 bAlternateMode=False
-GoreLevelText[0]="고어 없음"
-GoreLevelText[1]="고어 줄임"
-GoreLevelText[2]="모든 고어"
+GoreLevelText[0]="없음"
+GoreLevelText[1]="낮음"
+GoreLevelText[2]="최대"
 DefaultPlayerName="플레이어"
 GameName="게임"
-GIPropsDisplayText[0]="보트 수준"
+GIPropsDisplayText[0]="인공지능 수준"
 GIPropsDisplayText[1]="무기 그대로 있음"
-GIPropsDisplayText[2]="고어 수준"
+GIPropsDisplayText[2]="잔혹도 수준"
 GIPropsDisplayText[3]="게임 속도"
-GIPropsDisplayText[4]="최대 관중 수"
+GIPropsDisplayText[4]="최대 관람자 수"
 GIPropsDisplayText[5]="최대 플레이어 수"
 GIPropsDisplayText[6]="목표 스코어"
 GIPropsDisplayText[7]="최대 생명 수"
 GIPropsDisplayText[8]="시간 제한"
 GIPropsDisplayText[9]="전세계 통계 로그인"
 GIPropsDisplayText[10]="무기 버리기 가능"
-GIPropsDisplayText[11]="뒤에서 보기"
-GIPropsDisplayText[12]="관리자 멈춤 사용"
-GIPropsDisplayText[13]="추방 전 시간 제한"
-GIPropsDisplayText[14]="무기 진동 보기"
-GIPropDescText[0]="상대방 보트 수준 지정"
-GIPropDescText[1]="무기를 주운 후에도 그대로 있습니다." 
-GIPropDescText[2]="피와 내장이 보이는 잔인한 장면을 줄일 수 있습니다."
-GIPropDescText[3]="게임 중 시간이 얼마나 빠르게 흐를지 조절할 수 있습니다."
+GIPropsDisplayText[11]="3인칭 시점"
+GIPropsDisplayText[12]="서버 관리자에 의한 게임 일시정지 기능 사용"
+GIPropsDisplayText[13]="비어있는 시간"
+GIPropsDisplayText[14]="무기 흔들림 보기"
+GIPropDescText[0]="컴퓨터 플레이의 인공지능 수준을 지정합니다."
+GIPropDescText[1]="무기를 획득한 후에도 그 자리에 무기가 계속 남아 있습니다." 
+GIPropDescText[2]="피와 살점을 볼수 있는 잔혹도 수준을 설정합니다."
+GIPropDescText[3]="게임 중 시간흐름의 빠르기를 조절합니다."
 GIPropDescText[4]="게임을 구경할 수 있는 관람인의 수를 정합니다."
-GIPropDescText[5]="이 서버에 조인할 수 있는 최대 플레이어 수를 정합니다."
-GIPropDescText[6]="플레이어 중 한사람이 이 점수에 도달하면 게임이 끝납니다."
+GIPropDescText[5]="이 서버에 참가할 수 있는 최대 플레이어 수를 정합니다."
+GIPropDescText[6]="플레이어 중 한 사람이 이 점수에 도달하면 게임이 끝납니다."
 GIPropDescText[7]="플레이어가 죽은 후에 되살아날 수 있는 횟수를 지정합니다."
-GIPropDescText[8]="한 게임의 시간 한도를 지정합니다."
-GIPropDescText[9]="게임 통계를 UT2004 전세계 통계 서버에 보냅니다."
-GIPropDescText[10]="이 옵션을 선택하면 플레이어가 현재 무기를 버릴 수 있습니다."
-GIPropDescText[11]="플레이어가 3인칭 시점에서 컨트롤 할 수 있습니다."
-GIPropDescText[12]="관리자가 게임을 일시적으로 멈출 수 있습니다."
-GIPropDescText[13]="여기서 지정한 시간동안 플레이어가 꼼짝도 하지 않고 있으면 서버에서 추방합니다."
-GIPropsExtras[0]="0.000000;초보;1.000000;중간;2.000000;경험자;3.000000;노련함;4.000000;명수;5.000000;마스터;6.000000;초인;7.000000;신"
-NoBindString="없음"
+GIPropDescText[8]="한 라운드의 경기 시간을 설정합니다."
+GIPropDescText[9]="게임 전적을 UT2004 전세계 통계 서버에 보냅니다."
+GIPropDescText[10]="플레이어는 소지한 무기를 버릴 수 있습니다."
+GIPropDescText[11]="플레이어가 3인칭 시점으로 조작 할 수 있습니다."
+GIPropDescText[12]="서버 관리자가 게임을 일시적으로 멈출 수 있습니다."
+GIPropDescText[13]="지정한 시간동안 플레이어를 조작하지 않으면 강제로 추방합니다."
+GIPropDescText[14]="몇몇 무기가 발사될때 화면이 흔들립니다."
+GIPropsExtras[0]="0.000000;초보;1.000000;보통;2.000000;경험자;3.000000;숙련가;4.000000;전문가;5.000000;마스터;6.000000;비인간적;7.000000;신적"
+NoBindString="[None]"
 
 [GameMessage]
-SwitchLevelMessage="레벨 바꾸기"
-LeftMessage=" 님이 게임에서 나가셨습니다."
-FailedTeamMessage=" 플레이어의 팀을 찾을 수 없습니다"
-FailedPlaceMessage=" 시작 지점을 찾을 수 없습니다"
-FailedSpawnMessage=" 플레이어를 되살릴 수 없습니다"
-EnteredMessage=" 님이 게임에 들어오셨습니다."
-MaxedOutMessage="서버의 최대 용량에 도달했습니다."
-OvertimeMessage="동점입니다. 서든 데스 연장전!!!"
-GlobalNameChange=" 님이 다음 이름으로 변경하셨습니다: "
-NewTeamMessage=" 님이 다음 팀으로 옮기셨습니다: "
+SwitchLevelMessage="레벨 변경"
+LeftMessage="플레이어가 게임에서 나갔습니다."
+FailedTeamMessage="플레이어의 팀을 찾을 수 없습니다."
+FailedPlaceMessage="시작 지점을 찾을 수 없습니다."
+FailedSpawnMessage="플레이어를 되살릴 수 없습니다."
+EnteredMessage="플레이어가 게임에 들어왔습니다."
+MaxedOutMessage="서버의 최대 수용인원에 도달했습니다."
+OvertimeMessage="동점입니다. 서든 데스 연장전 개시!!!"
+GlobalNameChange="플레이어가 다음 이름으로 변경하였습니다: "
+NewTeamMessage="플레이어가 다음 팀으로 옮겼습니다: "
 NoNameChange="이미 사용 중인 이름입니다."
-VoteStarted=" 님이 투표를 시작하셨습니다."
+VoteStarted="플레이어가 투표를 시작하였습니다."
 VotePassed="투표가 통과되었습니다."
-MustHaveStats="이 서버에 조인하려면 통계 기능을 켜셔야 합니다."
+MustHaveStats="이 서버에 참가하려면 통계 기능을 켜야 합니다."
 CantBeSpectator="죄송합니다, 이번엔 관람을 하실 수 없습니다."
 CantBePlayer="죄송합니다, 이번엔 플레이 하실 수 없습니다."
 BecameSpectator="관람하기"
 NewPlayerMessage="새로운 플레이어가 게임에 들어왔습니다."
-KickWarning="정지상태여서 당신은 추방되려 합니다."
-NewSpecMessage="관람자가 게임에 들어왔습니다/"
-SpecEnteredMessage=" 관람자에 합류하였습니다."
+KickWarning="조작하지 않고 있으므로 곧 서버에서 추방됩니다!"
+NewSpecMessage="관전자가 게임에 들어왔습니다."
+SpecEnteredMessage="관전자로 참여하였습니다."
 
 [GameProfile]
-PositionName[0]="자동 할당"
+PositionName[0]="자동 배속"
 PositionName[1]="방어"
 PositionName[2]="공격"
-PositionName[3]="방랑"
+PositionName[3]="정찰"
 PositionName[4]="지원"
 
 [GameReplicationInfo]
-GRIPropsDisplayText[0]="서버 이름"
-GRIPropsDisplayText[1]="관리자 이름"
-GRIPropsDisplayText[2]="관리자 이메일"
-GRIPropsDisplayText[3]="오늘의 메시지"
-GRIPropDescText[0]="서버 브라우저에 뜰 서버 이름"
+GRIPropsDisplayText[0]="서버이름"
+GRIPropsDisplayText[1]="서버 관리자 이름"
+GRIPropsDisplayText[2]="서버 관리자 E-Mail"
+GRIPropsDisplayText[3]="MOTD Line 1"
+GRIPropsDisplayText[4]="MOTD Line 2"
+GRIPropsDisplayText[5]="MOTD Line 3"
+GRIPropsDisplayText[6]="MOTD Line 4"
+GRIPropDescText[0]="서버 브라우저에 표시될 서버 이름"
 GRIPropDescText[1]="서버 관리자의 이름"
 GRIPropDescText[2]="서버 관리자의 이메일 주소"
-GRIPropDescText[3]="오늘의 메시지"
+GRIPropDescText[3]="오늘의 메시지 첫번째 줄"
+GRIPropDescText[4]="오늘의 메시지 두번째 줄"
+GRIPropDescText[5]="오늘의 메시지 세번째 줄"
+GRIPropDescText[6]="오늘의 메시지 네번째 줄"
 
 [Gibbed]
-DeathString="%o님은 폭발하여 갈기갈기 찢어졌습니다"
-FemaleSuicide="%o님은 폭발하여 갈기갈기 찢어졌습니다"
-MaleSuicide="%o님은 폭발하여 갈기갈기 찢어졌습니다"
+DeathString="%o 님이 폭발하여 형체를 알아볼 수 없게 되었습니다"
+FemaleSuicide="%o 님이 폭발하여 형체를 알아볼 수 없게 되었습니다"
+MaleSuicide="%o 님이 폭발하여 형체를 알아볼 수 없게 되었습니다"
 
 [HUD]
 ProgressFontName="2K4Fonts_kot.Gulim12"
-FontArrayNames[0]="2K4Fonts_kot.Gulim8"
-FontArrayNames[1]="2K4Fonts_kot.Gulim8"
-FontArrayNames[2]="2K4Fonts_kot.Gulim8"
-FontArrayNames[3]="2K4Fonts_kot.Gulim8"
-FontArrayNames[4]="2K4Fonts_kot.Gulim8"
-FontArrayNames[5]="2K4Fonts_kot.Gulim8"
-FontArrayNames[6]="2K4Fonts_kot.Gulim8"
-FontArrayNames[7]="2K4Fonts_kot.Gulim8"
-FontArrayNames[8]="2K4Fonts_kot.Gulim8"
-OverrideConsoleFontName="2K4Fonts_kot.GulimIRC"
+FontArrayNames[0]="Engine.DefaultFont"
+FontArrayNames[1]="Engine.DefaultFont"
+FontArrayNames[2]="Engine.DefaultFont"
+FontArrayNames[3]="Engine.DefaultFont"
+FontArrayNames[4]="Engine.DefaultFont"
+FontArrayNames[5]="Engine.DefaultFont"
+FontArrayNames[6]="Engine.DefaultFont"
+FontArrayNames[7]="Engine.DefaultFont"
+FontArrayNames[8]="Engine.DefaultFont"
 
 [Info]
-RulesGroup="규정"
+RulesGroup="규칙"
 GameGroup="게임"
 ServerGroup="서버"
 ChatGroup="채팅"
-BotsGroup="보트"
+BotsGroup="봇"
 MapVoteGroup="맵 투표"
-KickVoteGroup="투표 거부"
+KickVoteGroup="추방 투표"
 
 [LevelInfo]
 Title="타이틀 없음"
@@ -426,14 +428,14 @@ Title="타이틀 없음"
 [MaplistManager]
 DefaultListName="초기값"
 InvalidGameType="불러올 수 없습니다. 이런 경우는 보통 .int 파일은 존재하나 .u 파일이 삭제된 경우에 해당합니다."
-ReallyInvalidGameType="요청하신 '%gametype%' 게임타입을 불러올 수 없습니다."
-DefaultListExists="게임타입이 이미 리스트에 있습니다!"
+ReallyInvalidGameType="요청하신 '%gametype%' 게임방식을 불러올 수 없습니다."
+DefaultListExists="게임방식이 이미 리스트에 있습니다!"
 
 [MatSubAction]
 Desc="N/A"
 
 [Pickup]
-PickupMessage="아이템을 습득했습니다."
+PickupMessage="아이템을 획득하였습니다."
 
 [PlayerController]
 QuickSaveString="빠른 저장"
@@ -443,11 +445,11 @@ OwnCamera="카메라 위치에서 보기"
 
 [PlayerReplicationInfo]
 StringDead="사망함"
-StringSpectating="관람 중"
+StringSpectating="관전 중"
 StringUnknown="알 수 없음"
 
 [StreamPlaylistManager]
-DefaultPlaylistName="새로운 플레이 리스트"
+DefaultPlaylistName="새로운 플레이리스트"
 
 [SubActionCameraEffect]
 Desc="카메라 효과"
@@ -470,52 +472,52 @@ Desc="오리엔테이션"
 [SubActionSceneSpeed]
 Desc="장면 속도"
 
+[SubActionSubTitle]
+Desc="서브 타이틀"
+
 [SubActionTrigger]
 Desc="트리거"
 
 [Suicided]
-DeathString="%o님은 심장마비에 걸리셨습니다."
-FemaleSuicide="%o님은 심장마비에 걸리셨네요"
-MaleSuicide="%o님은 심장마비에 걸리셨네요"
+DeathString="%o 님이 패혈증으로 사망하였습니다"
+FemaleSuicide="%o 님이 패혈증으로 사망하였습니다"
+MaleSuicide="%o 님이 패혈증으로 사망하였습니다"
 
 [TeamInfo]
 TeamName="팀"
-ColorNames[0]="레드"
-ColorNames[1]="블루"
-ColorNames[2]="그린"
-ColorNames[3]="골드"
-
-[TextToSpeechAlias]
-Aliases=((ReplaceWord="즐거운 게임이였습니다."),(ReplaceWord="웃겨서 땅바닥을 구릅니다.!"),(ReplaceWord="크게 웃습니다.!"),(ReplaceWord="미소짓습니다."),(ReplaceWord="윙크합니다."),(ReplaceWord="오 나의 하나님!"),(ReplaceWord="나이스 샷"),(ReplaceWord="좋은시간 되세요."),(ReplaceWord="깃발 캐리어"),(ReplaceWord="위로 온다"),(ReplaceWord="아래로 온다"),(ReplaceWord="오른쪽으로 온다"),(ReplaceWord="왼쪽으로 온다"))
+ColorNames[0]="홍팀"
+ColorNames[1]="청팀"
+ColorNames[2]="그린팀"
+ColorNames[3]="골드팀"
 
 [Vehicle]
 VehiclePositionString="차량 내부"
 VehicleNameString="차량"
 
 [VoiceChatReplicationInfo]
-PublicChannelNames=("공개","지역")
-VCDisplayText[0]="보이스 채팅 가능"
-VCDisplayText[1]="Spatialization 가능"
-VCDisplayText[2]="지역 채널"
-VCDisplayText[3]="코덱 허용"
-VCDisplayText[4]="랜 코덱 허용"
+PublicChannelNames=("공개 채널","지역 채널")
+VCDisplayText[0]="보이스 채널 가능"
+VCDisplayText[1]="지역 채팅 가능"
+VCDisplayText[2]="지역 채널 열"
+VCDisplayText[3]="지역 채널 반경"
+VCDisplayText[4]="VoIP 코덱 포함"
 VCDisplayText[5]="VoIP 랜 코덱 허용"
 VCDescText[0]="서버에서 보이스 채팅 기능을 사용합니다."
 VCDescText[1]="서버에서 spatialization 기능을 사용합니다."
 VCDescText[2]="보이스 채팅 채널이 지역에 있는지 확인하여 같은 지역에 있는 플레이어들과 보이스 채팅을 할 수 있습니다." 
 VCDescText[3]="서버와 인터넷 게임을 위해 사용되는 코덱을 설정합니다."
-VCDescText[4]="서버와 랜 게임에서 사용되는 코덱을 설정합니다." 
+VCDescText[4]="서버와 랜 게임에서 사용되는 코덱을 설정합니다."
 VCDescText[5]="랜 게임에서 사용되는 코덱을 설정합니다."
-InstalledCodec=((CodecName="적은 대역폭",CodecDescription="(4.8Kbps) - 대역폭을 적게 사용하나, 사운드의 음질이 떨어질수 있습니다."),(CodecName="더 나은 품질",CodecDescription="(9.6kbps) - 대역폭을 더 사용하나, 더 맑은 음질을 누릴수 있습니다."))
+InstalledCodec=((CodecName="저 대역폭",CodecDescription="(4.8kbps) - 대역폭을 적게 사용합니다. 네트워크 성능이 향상되지만 음질은 떨어집니다."),(CodecName="고품질",CodecDescription="(9.6kbps) - 대역폭을 더 많이 사용하므로 네트워크 자원을 더 소모하는 대신 더 나은 음질을 제공합니다."))
 
 [Volume]
-LocationName="지정되지 않음"
+LocationName="불특정"
 
 [Weapon]
-MessageNoAmmo=" 님은 탄약이 없습니다"
+MessageNoAmmo="탄약이 없습니다"
 
 [WeaponPickup]
-PickupMessage="무기를 주웠습니다"
+PickupMessage="무기를 획득하였습니다"
 
 [XBoxPlayerInput]
 LookPresets[0].PresetName="Linear"
@@ -524,7 +526,6 @@ LookPresets[2].PresetName="Hybrid"
 LookPresets[3].PresetName="Custom"
 
 [fell]
-DeathString="%k님이 %o을 낭떠러지에서 밀어버렸습니다."
-FemaleSuicide="%o님은 사라지고 폭탄 흔적만 남았습니다"
-MaleSuicide="%o님은 폭발음과 함께 사라지셨습니다"
-
+DeathString="%k 님이 %o 님을 낭떠러지에서 밀어버렸습니다"
+FemaleSuicide="%o 님이 낭떠러지에 떨어졌습니다"
+MaleSuicide="%o 님이 낭떠러지에 떨어졌습니다"

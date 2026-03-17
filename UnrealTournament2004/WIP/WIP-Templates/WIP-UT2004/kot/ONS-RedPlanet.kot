@@ -1,7 +1,36 @@
 ﻿[LevelInfo0]
-Title="레드 플라네트"
+Title="레드 플라네"
 
 [LevelSummary]
-Title="레드 플라네트"
+Title="레드 플라네"
 Description="깊은 우주의 탐험은 지금까지 한번도 나타난적이 없던 태양이 없는 태양계를 발견하게 되었다. 적외선과 이산화탄소의 고대기층 반응으로 이곳 행성을 붉고 타는듯한 빛으로 물들인다. 전문가들은 말하기를 이곳 행성에서 18시간 이상 머물경우 돌이킬 수 없는 정신이상을 일으킬 것 이라고 한다. 물론 당신이 그리 오래 살 수 있을지는 모르지만...."
 
+[Volume0]
+LocationName="홍팀 기지"
+
+[Volume1]
+LocationName="홍팀 기지"
+
+[Volume2]
+LocationName="청팀 기지"
+
+[Volume3]
+LocationName="청팀 기지"
+
+[Volume4]
+LocationName="남서쪽 노드"
+
+[Volume5]
+LocationName="불서쪽 노드"
+
+[Volume6]
+LocationName="중심 노드"
+
+[Volume7]
+LocationName="남동쪽 노드"
+
+[Volume8]
+LocationName="북동쪽 노드"
+
+[ZoneInfo0]
+LocationName="외부"

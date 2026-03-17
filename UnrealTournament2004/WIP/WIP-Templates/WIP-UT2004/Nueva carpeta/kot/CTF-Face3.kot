@@ -1,0 +1,80 @@
+﻿[LevelInfo0]
+Title="페이스 3"
+
+[LevelSummary]
+Title="페이스 3"
+
+[Volume0]
+LocationName="홍팀 3층"
+
+[Volume1]
+LocationName="청팀 3층"
+
+[Volume10]
+LocationName="홍팀 쉴드"
+
+[Volume11]
+LocationName="청팀 쉴드"
+
+[Volume12]
+LocationName="홍팀 뒷문"
+
+[Volume13]
+LocationName="청팀 뒷문"
+
+[Volume2]
+LocationName="홍팀 레벨 2"
+
+[Volume3]
+LocationName="청팀 레벨 2"
+
+[Volume4]
+LocationName="청팀 플랙"
+
+[Volume5]
+LocationName="홍팀 플랙"
+
+[Volume6]
+LocationName="청팀 플랙"
+
+[Volume7]
+LocationName="청팀 플랙"
+
+[Volume8]
+LocationName="홍팀 플랙"
+
+[Volume9]
+LocationName="홍팀 플랙"
+
+[ZoneInfo1]
+LocationName="청팀 기지"
+
+[ZoneInfo10]
+LocationName="홍팀 미니건"
+
+[ZoneInfo11]
+LocationName="홍팀 기둥"
+
+[ZoneInfo2]
+LocationName="청팀 미니건"
+
+[ZoneInfo3]
+LocationName="청팀 미니건"
+
+[ZoneInfo4]
+LocationName="청팀 기둥"
+
+[ZoneInfo5]
+LocationName="청팀 미니건"
+
+[ZoneInfo6]
+LocationName="외부"
+
+[ZoneInfo7]
+LocationName="홍팀 기지"
+
+[ZoneInfo8]
+LocationName="홍팀 미니건"
+
+[ZoneInfo9]
+LocationName="홍팀 미니건"

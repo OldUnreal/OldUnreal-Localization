@@ -1,0 +1,30 @@
+﻿[Public]
+Object=(Name=XWebAdmin.UT2K3Skin,Class=Class,MetaClass=XWebAdmin.WebSkin)
+Object=(Name=XWebAdmin.ClassicUT,Class=Class,MetaClass=XWebAdmin.WebSkin)
+Object=(Name=XWebAdmin.UT2K3Stats,Class=Class,MetaClass=XWebAdmin.WebSkin)
+Object=(Name=XWebAdmin.UnrealAdminPage,Class=Class,MetaClass=XWebAdmin.WebSkin)
+
+[xWebQueryAdmins]
+NoteUserHomePage="歡迎到管理 &amp; 群組設定"
+NoteAccountPage="在這裡你可以改變你的密碼. 你也可以看到目前你被指定的權限為何."
+NoteUserAddPage="身為伺服器的管理人員你可以增加新的管理人員並給予他們權限. 請注意你設定的密碼不要太容易被猜出."
+NoteUserEditPage="身為伺服器的管理人員你可以管理並更改所屬其他管理人員的資料和權限."
+NoteUsersBrowsePage="在這裡你可以看到你所能設定的管理人員權限和群組選項."
+NoteGroupAddPage="你可以創造擁有相同權限的新群組. 群組是用來給予數個管理人員同樣的權限."
+NoteGroupEditPage="你可以改變群組設定的權限. 你只能改變你目前所有的權限."
+NoteGroupsBrowsePage="在這裡你可以看到所有你能管理的群組, 點選群組名稱可以改變設定."
+NoteGroupAccessPage="在這裡你可以決定管理人員所屬於哪個群組. 這會決定管理人員所有的基本權限."
+NoteMGroupAccessPage="在這裡你可以決定哪組管理人員有管理權限. 他將可以指定其他管理人員到這個群組."
+
+[xWebQueryCurrent]
+NoteGamePage="選擇遊戲類型及/或地圖並點選對應的變更紐."
+NotePlayersPage="顯示目前誰在進行遊戲. 你可以踢除電腦人和玩者, 但只能禁止玩者加入. 使用勾選格來處理玩者."
+NoteConsolePage="在這你可以告訴玩者你要做些變更或是以新的地圖重新開始. 你也可以看到玩者的對話, 不過團隊訊息除外."
+NoteMutatorsPage="選擇按下重新開始伺服器時你想要使用的突變模組"
+NoteBotsPage="需要加入更多的電腦人? 想要特定的電腦人加入遊戲或將太厲害的電腦人從遊戲中移除? 你來到正確的地方了."
+
+[xWebQueryDefaults]
+NoteMapsPage="將地圖加入右邊的清單來管理你的地圖輪替. 你也可以決定地圖更換的順序."
+NoteRulesPage="在這裡你可以設定遊戲種類的使用. 有些參數可能影響一種以上的遊戲種類."
+NotePolicyPage="顯示目前被禁止進入伺服器的 IP 位置和 IP 範圍. 你可以新增或是移除清單"
+

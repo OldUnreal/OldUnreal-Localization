@@ -1,0 +1,72 @@
+﻿[Errors]
+Critical="치명적 오류"
+FailedConfigLoad="%s (로딩 실패)"
+
+[General]
+BrowseButton="..."
+UseButton="사용"
+ClearButton="지우기"
+ColorButton="컬러"
+PickButton="선택"
+FindButton="검색"
+OkButton="확인"
+AddButton="추가"
+EmptyButton="비우기"
+InsertButton="삽입"
+DeleteButton="삭제"
+DefaultsButton="기본 설정으로 복구"
+BackButton="< 뒤로(B)"
+NextButton="다음(N) >"
+FinishButton="끝내기(F)"
+CancelButton="취소"
+InstallButton="인스톨(I)"
+YesButton="예(Y)"
+NoButton="아니오"
+AgreeButton="동의함(A)"
+LanguagePrompt="언어:"
+LanguageWindow="언어 선택"
+LogWindow="%s 로그 윈도우"
+PropNone="선택 없음"
+PropSingle="%s 특성"
+PropMulti="%s 특성 (%i 선택)"
+InsertCdText="CD-ROM 드라이브에 언리얼 CD를 삽입하고 '확인'을 클릭하여 계속하거나 '취소'를 눌러 종료합니다."
+InsertCdTitle="시작시에 CD가 필요합니다."
+AdvancedOptionsTitle="고급 옵션"
+Low="낮음"
+High="높음"
+New="새로운"
+
+[FirstRun]
+Caption="초기 구성"
+LowMemory="게임은 사용자의 PC가 %i 메가바이트의 메모리를 탑제하고 있는것을 탐지했습니다. 성능을 향상시키기 위해 'Low Detail Textures' 와 'Low Sound Quality' 옵션이 사용됩니다. 이것은 '성능 설정' 메뉴에서 변경할 수 있습니다."
+NonMMX="게임은 사용자의 CPU가 MMX가 탑재되지 않은 구 기종임을 탐지했습니다. 사운드 품질은 CPU 점유율을 최소한도로 줄이기 위해 낮게 설정합니다. 고급 옵션/오디오 메뉴에서 설정을 변경할 수 있습니다."
+Starting="언리얼이 새로운 세팅으로 시작합니다. 만약 문제가 발생한다면 릴리즈 노트의 '시작' 메뉴에서 문제 해결 섹션을 읽으십시오."
+
+[IDDIALOG_Directory]
+IDC_Directory="인스톨 폴더"
+IDC_ChoosePrompt="인스톨 폴더를 선택하십시오."
+IDC_PathTitle="경로(P):"
+IDC_DirectoryTitle="디렉토리(D):"
+IDC_DrivesTitle="드라이브(V):"
+IDC_NetworkButton="네트워크(N)"
+
+[IDDIALOG_Password]
+IDC_Password="패스워드 체크"
+IDC_Prompt="당신의 이름과 패스워드를 입력하십시오"
+IDC_Name="이름(N):"
+IDC_Password="패스워드(P):"
+
+[IDMENU_NotifyIcon]
+ID_NotifyIcon="메뉴"
+ID_NotifyShowLog="언리얼 서버 콘솔(U)"
+ID_NotifyAdvancedOptions="어드밴스드 옵션(A)"
+ID_NotifyExit="언리얼서버 종료(X)"
+
+[IDMENU_Log]
+ID_LogFile="파일(F)"
+ID_LogAdvancedOptions="어드밴스드 옵션(A)"
+ID_LogFileExit="종료(X)"
+
+[IDDIALOG_CrashBox]
+IDC_Copy="복사"
+IDC_BugReport="버그 리포트 제출"

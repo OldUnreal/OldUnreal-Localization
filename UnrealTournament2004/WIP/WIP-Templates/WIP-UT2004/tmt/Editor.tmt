@@ -1,0 +1,170 @@
+﻿[Public]
+Object=(Name=Editor.MasterCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.MakeCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.ConformCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.BatchExportCommandlet,Class=Class,MetaClass=Core.Commandlet)
+;Object=(Name=Editor.MergeDXTCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.PackageFlagCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.DataRipCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.PkgCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.MapConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.DXTConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.AnalyzeContentCommandlet,Class=Class,MetaClass=Core.Commandlet)
+;Object=(Name=PSX2Convert.PSX2ConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+;Object=(Name=PSX2Convert.PSX2MusicCommandlet,Class=Class,MetaClass=Core.Commandlet)
+;Object=(Name=GCNConvert.GCNConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.AnalyzeBuildCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.ConvertMaterialCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.TextureLODCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.RebuildCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.DumpIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.SetNormalLODCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.DumpConfigCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.ClassFlagCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.BatchImportCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.BatchingSummary,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckEmitters,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckSounds,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckStaticMeshes,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckTextures,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CheckUnicodeCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.ChecksumPackageCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CompareIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CompressTextures,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.CutdownContentCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.GroupRepairCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.ListExports,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.LoadPackage,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.PackageGenerationCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.MapKillZ,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.MergeIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.ObjectRenameCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.PS2ConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.RearrangeIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.SoundConvert,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.SoundLocCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.StaticMeshConvert,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.StripSourceCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.SurfaceTypeCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.TextureInfoCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.TextureStripCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Editor.UpdateUMODCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Preferences="(Caption="Advanced",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Advanced)"
+Preferences="(Caption="Colors",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Colors)"
+Preferences="(Caption="Grid",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Grid)"
+Preferences="(Caption="Rotation Grid",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=RotationGrid)"
+
+[MasterCommandlet]
+HelpCmd=master
+HelpOneLiner="建立主要安裝檔案"
+HelpUsage=master [-option...] [parm=value]...
+HelpParm[0]=MasterPath
+HelpDesc[0]="來源檔案的根目錄"
+HelpParm[1]=SrcPath
+HelpDesc[1]="複製檔案的目標根目錄"
+HelpParm[2]=RefPath
+HelpDesc[2]="delta-壓縮路徑關聯"
+
+[MapConvertCommandlet]
+HelpCmd=mapconvert
+HelpOneLiner="轉換舊格式地圖到新格式 (無結構型變)"
+HelpUsage=mapconvert SrcFilename DstFilename
+HelpParm[0]=SrcFilename
+HelpDesc[0]="地圖讀取來源檔名"
+HelpParm[1]=DstFilename
+HelpDesc[1]="地圖寫入目標檔名"
+
+[ConformCommandlet]
+HelpCmd=conform
+HelpOneLiner="產生轉換二進位檔案"
+HelpUsage=conform existing_file.ext old_file.ext
+HelpParm[0]=existingfile.ext
+HelpDesc[0]="已存二進位檔載入, 轉換, 及儲存"
+HelpParm[1]=oldfile.ext
+HelpDesc[1]="使來源檔二進位相容的舊檔案"
+
+[PkgCommandlet]
+HelpCmd=pkg
+HelpOneLiner="使用目錄架構匯入/匯出資料從/到 packages."
+HelpUsage=pkg [import/export] [texture/sound] [packagename] [directory]
+HelpParm[0]=import/export
+HelpDesc[0]="你想嘗試對資料作什麼"
+HelpParm[1]=texture/sound
+HelpDesc[1]="你工作中的 package 類型"
+HelpParm[2]=packagename
+HelpDesc[2]="你創造/匯出的 package"
+HelpParm[3]=directory
+HelpDesc[3]="讀取/寫入的目錄"
+
+[PackageFlagCommandlet]
+HelpCmd=packageflag
+HelpOneLiner="設定 package 標記於 package 檔案"
+HelpUsage=packageflag src.ext [dest.ext <+|->flag [<+|->flag] ...]
+HelpParm[0]=src.ext
+HelpDesc[0]="已存在的 package 檔案載入"
+HelpParm[1]=dest.exe
+HelpDesc[1]="新 package 檔案的檔名以及標記設定"
+HelpParm[2]=flag
+HelpDesc[2]="+ 鍵設定標記, 或 - 鍵移除標記, 之後加上以下之一:"
+HelpParm[3]=" "
+HelpDesc[3]="  允許下載"
+HelpParm[4]=" "
+HelpDesc[4]="  用戶選用"
+HelpParm[5]=" "
+HelpDesc[5]="  伺服器端使用"
+HelpParm[6]=" "
+HelpDesc[6]="  中斷連結"
+HelpParm[7]=" "
+HelpDesc[7]="  非保全的"
+
+[MakeCommandlet]
+HelpCmd=make
+HelpOneLiner="重建 UnrealScript packages"
+HelpUsage=make [-option...] [parm=value]...
+HelpParm[0]=Silent
+HelpDesc[0]="無詢問; 所有問題都回答 '是'"
+HelpParm[1]=NoBind
+HelpDesc[1]="不強迫本地函式連結 DLLs"
+HelpParm[2]=All
+HelpDesc[2]="完整重建 "
+
+[DXTConvertCommandlet]
+HelpCmd=dxtconvert
+HelpOneLiner="轉換 DXT3/5 材質格式到 DXT1/ RGBA"
+HelpUsage=dxtconvert srcpath destpath
+HelpParm[0]=srcpath
+HelpDesc[0]="含有來源檔的路徑"
+HelpParm[1]=destpath
+HelpDesc[1]="目標檔的路徑"
+
+
+[AnalyzeContentCommandlet]
+HelpCmd=analyzecontent
+HelpOneLiner="分析地圖"
+HelpUsage=analyzecontent mapname
+HelpParm[0]=mapname
+HelpDesc[0]="地圖檔路徑"
+
+
+[BatchExportCommandlet]
+HelpCmd=batchexport
+HelpOneLiner="純匯出物件"
+HelpUsage=batchexport package.ext classname export_ext
+HelpParm[0]=package.ext
+HelpDesc[0]="選擇 Package 物件匯出"
+HelpParm[1]=classname
+HelpDesc[1]="物件 Class 匯出"
+HelpParm[2]=export_ext
+HelpDesc[2]="匯出檔案副檔名"
+HelpParm[3]=path
+HelpDesc[3]="匯出檔案路徑, 例如 c:\MyPath"
+
+[DataRipCommandlet]
+HelpCmd=datarip
+HelpOneLiner="創造不含材質, 音樂, 音效的的 package."
+HelpUsage=datarip srcpackage.ext dstpackage.ext
+HelpParm[0]=srcpackage.ext
+HelpDesc[0]="來源 Package"
+HelpParm[1]=dstpackage.ext
+HelpDesc[1]="目標 Package"
+

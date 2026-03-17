@@ -3,7 +3,7 @@ Title="더블 데미지"
 
 [LevelSummary]
 Title="더블 데미지"
-Description="어떤 사람들은 한겨울에 댐 정상에서 열리는 경기를 미친짓이라고 말할지 모릅니다. 이 주위에서는, 그들을 '제물'이라고 부릅니다." 
+Description="어떤 사람들은 한겨울에 댐 정상에서 열리는 경기를 미친 짓이라고 말할지 모릅니다. 이 주위에서는 그들을 '제물'이라고 부릅니다." 
 
 [PhysicsVolume1]
 LocationName="아이스 필드"
@@ -156,7 +156,7 @@ LocationName="청팀 좌측 복도"
 LocationName="청팀 로비"
 
 [ZoneInfo80]
-LocationName="블로 로비"
+LocationName="청팀 로비"
 
 [ZoneInfo81]
 LocationName="청팀 좌측 복도"

@@ -1,47 +1,47 @@
 ﻿[DestroyableObjective_SM0]
-DestructionMessage="외곽 방어 무너졌습니다"
-ObjectiveDescription="게이트를 파괴하라"
+DestructionMessage="외곽 방어선이 무너졌습니다"
+ObjectiveDescription="게이트를 파괴하십시오"
 Objective_Info_Attacker="게이트를 파괴하라"
 Objective_Info_Defender="게이트를 방어하라"
 
 [DestroyableObjective_SM1]
 ObjectiveName="데이터 케이블"
-DestructionMessage="데이터 케이블 절단되었습니다!"
-ObjectiveDescription="데이터 케이블을 절단하라"
+DestructionMessage="데이터 케이블이 절단되었습니다!"
+ObjectiveDescription="데이터 케이블을 절단하십시오"
 Objective_Info_Attacker="데이터 케이블을 절단하라"
 Objective_Info_Defender="데이터 케이블을 보호하라"
 
 [DestroyableObjective_SM2]
 ObjectiveName="쉴드 컴포넌트 1"
-DestructionMessage="쉴드 제너레이터 파괴되었습니다!"
-ObjectiveDescription="쉴드 넥서스를 파괴하라"
+DestructionMessage="쉴드 제너레이터가 파괴되었습니다!"
+ObjectiveDescription="쉴드 넥서스를 파괴하십시오"
 Objective_Info_Attacker="쉴드 컴포넌트를 파괴하라"
 Objective_Info_Defender="쉴드 넥서스를 보호하라"
 
 [DestroyableObjective_SM3]
 ObjectiveName="쉴드 컴포넌트 3"
-DestructionMessage="쉴드 제너레이터 파괴되었습니다!"
-ObjectiveDescription="쉴드 넥서스를 파괴하라"
+DestructionMessage="쉴드 제너레이터가 파괴되었습니다!"
+ObjectiveDescription="쉴드 넥서스를 파괴하십시오"
 Objective_Info_Attacker="쉴드 컴포넌트를 파괴하라"
 Objective_Info_Defender="쉴드 넥서스를 보호하라"
 
 [DestroyableObjective_SM4]
 ObjectiveName="쉴드 컴포넌트 2"
-DestructionMessage="쉴드 제너레이터 파괴되었습니다!"
-ObjectiveDescription="쉴드 넥서스를 파괴하라"
+DestructionMessage="쉴드 제너레이터가 파괴되었습니다!"
+ObjectiveDescription="쉴드 넥서스를 파괴하십시오"
 Objective_Info_Attacker="쉴드 컴포넌트를 파괴하라"
 Objective_Info_Defender="쉴드 넥서스를 보호하라"
 
 [DestroyableObjective_SM5]
 ObjectiveName="인공 지능 제너레이터"
-DestructionMessage="인공 지능 제너레이터 파괴되었습니다!"
-ObjectiveDescription="인공 지능 제너레이터를 파괴하라"
+DestructionMessage="인공 지능 제너레이터가 파괴되었습니다!"
+ObjectiveDescription="인공 지능 제너레이터를 파괴하십시오"
 Objective_Info_Attacker="인공 지능 제너레이터를 파괴하라"
 Objective_Info_Defender="인공 지능 제너레이터를 보호하라"
 
 [HoldObjective2]
 ObjectiveName="텔레포터_활성화"
-DestructionMessage="공격팀의 새로운 재생 장소가 준비되었습니다"
+DestructionMessage="공격팀의 새로운 부활 장소가 준비되었습니다"
 ObjectiveDescription="위성 안테나를 조정하라"
 Objective_Info_Attacker="위성 안테나 스위치를 작동하라"
 Objective_Info_Defender="위성 안테나 스위치를 방어하라"
@@ -61,7 +61,7 @@ Title="로봇 공장"
 Description="LBX-7683 기계 행성 상에서 벌어진 Liandri 로봇들의 폭동 재현과 뒤이은 인간 병력의 폭동 진압 시나리오 입니다. LBX-7683은 차세대 Liandri 로봇의 연구 개발을 위한 전초 기지였습니다. Liandri Corporation의 최우수 과학자들은 자신들이 설계한 기계에 고도로 정밀한 인공 지능을 도입할 수 있게 되었습니다. 결과적으로 이들 로봇은 인간에 대항해 일어나 행성을 차지하고, 자신들의 창조자들을 잔혹하게 처치하고 암반의 풍부한 자원들을 파내 소유하게 됩니다. Liandri의 지도부는 로봇 제조를 담당하는 생산 시설을 직접 공격하기 위한 계획을 수립하였습니다. 세계에 대한 전면 침공이 이루어지는 동안 인공 지능 제너레이터를 파괴해 기계들의 자가 복제 능력을 파괴하고, 궁극적으로 폭동 진압을 이루기 위한 목적의 소규모 팀이 투입되었습니다."
 
 [SceneSubtitles0]
-SubTitles=("이 시나리오는 LBX-7683행성에서 발발한 리앤드리 사 로봇들의 반란과","뒤이은 휴먼 병력의 폭동 진압 과정을 재현한 것입니다.","LBX-7683행성은 차세대 리앤드리 로봇의 연구 개발을 위한 전초 기지였습니다.","리앤드리 사 최고의 과학자들은 자신들이 설계한 기계에 고도로 정밀한 인공지능을 도입하였습니다.","결과적으로 이들 로봇은 인간에 대항해 행성을 차지하고 행성과 행성을 둘러싼 위성들을 자신들의 소유로 선언하였습니다.","자신들의 창조자들을 잔혹하게 살해한 로봇들은 자신들의 이익을 위해 암반의 풍부한 자원들을 채굴하기 시작했습니다.","리앤드리 사의 지도자들은 로봇 제조를 담당하는 생산 시설을 직접 공격하기 위한 계획을 세웠습니다.","행성 전체를 공격하는 동안, 인공지능 제너레이터를 파괴하기 위한 특공대가 투입되었으며,","이 작전이 성공하면 기계들은 로봇 생산 능력을 잃게되고 반란도 끝나게 될 것입니다.","당신은 로봇 공장의 도킹/로딩 시설 근처에 착륙했습니다.","팀의 목표는 공장 지역의 방어를 뚫고 인공지능 제너레이터를 파괴하는 것입니다.","먼저, 당신은 기지와 통신하기 위해 인공위성 수신기를 조정해야만 합니다.","그 후에, 공장 입구를 막고 있는 게이트를 파괴합니다.",,"공장에 침투한 후에는 데이터 케이블을 절단해야 합니다.",,"인공지능 제너레이터를 노출시키기 위해서는 실드 넥서스의 세가지 구성부분을 박살내야 합니다.",,"인공지능 제너레이터를 파괴하면 로봇 생산이 중단됩니다.")
+SubTitles=("이 시나리오는 LBX-7683행성에서 발발한 리앤드리 사 로봇들의 반란과","뒤이은 인간 병력의 폭동 진압 과정을 재현한 것입니다.","LBX-7683행성은 차세대 리앤드리 로봇의 연구 개발을 위한 전초 기지였습니다.","리앤드리 사 최고의 과학자들은 자신들이 설계한 기계에 고도로 정밀한 인공지능을 도입하였습니다.","결과적으로 이들 로봇은 인간에 대항해 행성을 차지하고 행성과 행성을 둘러싼 위성들을 자신들의 소유로 선언하였습니다.","자신들의 창조자들을 잔혹하게 살해한 로봇들은 자신들의 이익을 위해 암반의 풍부한 자원들을 채굴하기 시작했습니다.","리앤드리 사의 지도자들은 로봇 제조를 담당하는 생산 시설을 직접 공격하기 위한 계획을 세웠습니다.","행성 전체를 공격하는 동안, 인공지능 제너레이터를 파괴하기 위한 특공대가 투입되었으며,","이 작전이 성공하면 기계들은 로봇 생산 능력을 잃게되고 반란도 끝나게 될 것입니다.","당신은 로봇 공장의 도킹/로딩 시설 근처에 착륙했습니다.","팀의 목표는 공장 지역의 방어를 뚫고 인공지능 제너레이터를 파괴하는 것입니다.","먼저, 당신은 기지와 통신하기 위해 인공위성 수신기를 조정해야만 합니다.","그 후에, 공장 입구를 막고 있는 게이트를 파괴합니다.",,"공장에 침투한 후에는 데이터 케이블을 절단해야 합니다.",,"인공지능 제너레이터를 노출시키기 위해서는 실드 넥서스의 세가지 구성부분을 박살내야 합니다.",,"인공지능 제너레이터를 파괴하면 로봇 생산이 중단됩니다.")
 
 [Volume0]
 LocationName="액세스 도어 외부"
@@ -115,16 +115,25 @@ LocationName="웨어하우스"
 LocationName="데이타 전송실 덕트"
 
 [ZoneInfo22]
-LocationName="포장챔버"
+LocationName="포장실"
 
 [ZoneInfo23]
-LocationName="포장챔버"
+LocationName="포장실"
 
 [ZoneInfo24]
 LocationName="쉴드 제네레이터 애낵스"
 
 [ZoneInfo25]
 LocationName="데이타 전송실"
+
+[ZoneInfo26]
+LocationName="인공 지능 제너레이터r"
+
+[ZoneInfo27]
+LocationName="분쇄기 플랜트"
+
+[ZoneInfo28]
+LocationName="인공 지능 컨베이어 벨트"
 
 [ZoneInfo3]
 LocationName="데이터 전송실 수송관"

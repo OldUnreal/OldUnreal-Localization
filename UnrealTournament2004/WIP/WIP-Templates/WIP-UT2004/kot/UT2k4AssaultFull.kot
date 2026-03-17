@@ -1,0 +1,57 @@
+﻿[ASTurret_IonCannon]
+VehiclePositionString="유도 이온 캐논"
+VehicleNameString="이온 캐논"
+
+[ASTurret_LinkTurret]
+VehiclePositionString="유도 링크 터렛"
+VehicleNameString="링크 터렛"
+
+[ASVehicle_SpaceFighter_Human]
+VehiclePositionString="스페이스파이터에"
+VehicleNameString="휴먼 스페이스파이터"
+
+[ASVehicle_SpaceFighter_Skaarj]
+VehicleNameString="스카즈 스페이스파이터"
+
+[DamTypeBallTurretPlasma]
+DeathString="%o님은 %k님의 플라즈마 공격에 의해 파괴되었습니다"
+FemaleSuicide="%o님이 자신이 쏜 플라스마에 불타 버렸습니다"
+MaleSuicide="%o님이 자신이 쏜 플라스마에 불타 버렸습니다"
+
+[DamTypeIonCannonBlast]
+DeathString="%o님이 %k님에 의해 제거되었습니다"
+FemaleSuicide="%o님이 제거되었습니다"
+MaleSuicide="%o님이 제거되었습니다"
+
+[DamTypeLinkTurretBeam]
+DeathString="%o님이 %k님의 링크 터렛에 의해 사살되었습니다"
+FemaleSuicide="%o님이 자살하였습니다"
+MaleSuicide="%o님이 자살하였습니다"
+
+[DamTypeLinkTurretPlasma]
+DeathString="%o님은 %k님이 발사한 플라즈마를 얻어 맞고 사망하였습니다"
+FemaleSuicide="%o님이 자신이 쏜 플라스마에 탔습니다"
+MaleSuicide="%o님이 자신이 쏜 플라스마에 탔습니다"
+
+[DamTypeSpaceFighterLaser]
+DeathString="%o님이 %k님의 레이저를 많이 받았습니다"
+FemaleSuicide="%o님이 자신이 쏜 레이저에 불타 버렸습니다"
+MaleSuicide="%o님이 자신이 쏜 레이저에 불타 버렸습니다"
+
+[DamTypeSpaceFighterMissile]
+DeathString="%o님이 %k님의 미사일을 피하지 못했습니다"
+FemaleSuicide="%o님이 자폭했습니다"
+MaleSuicide="%o님이 자폭했습니다"
+
+[Weapon_LinkTurret]
+ItemName="터렛 웨폰"
+
+[Weapon_SpaceFighter]
+ItemName="스페이스파이터 웨폰"
+
+[Weapon_Turret]
+ItemName="터렛 웨폰"
+
+[Weapon_Turret_IonCannon]
+ItemName="이온 케논 터렛 웨폰"
+

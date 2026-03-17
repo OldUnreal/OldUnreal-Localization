@@ -1,51 +1,51 @@
 ﻿[Public]
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="클래식 UT 스타일 무기와 구성가능한 이동능력(예:벽 피하기).)
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="Lightning Gun을 클래식 Sniper Rifle로 교체합니다.")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="Sniper Rifle을 Lightnign Gun으로 교체합니다.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="발사속도가 빠르며 10배의 포착반경을 지닌 이 Sniper Rifle은 치명적이며 헤드샷을 가할 수 있습니다.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="클래식 언리얼 토너먼트 스타일의 무기와 이동능력.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="라이트닝 건을 클래식 스나이퍼 라이플로 교체합니다.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="스나이퍼 라이플을 라이트닝 건으로 교체합니다.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="발사속도가 빠르며 10배의 포착반경을 지닌 이 스나이퍼 라이플은 치명적인 위력을 가지며 헤드샷을 가할 수 있습니다.")
 
 [ClassicSniperAmmo]
 ItemName="스나이퍼 탄약"
 
 [ClassicSniperAmmoPickup]
-PickupMessage="스나이퍼 탄약을 집어들었습니다."
+PickupMessage="스나이퍼 탄약을 획득하였습니다"
 
 [ClassicSniperRifle]
-Description="발사속도가 빠르며 10배의 포착반경을 지닌 이 Sniper Rifle은 치명적이며 헤드샷을 가할 수 있습니다."
+Description="빠른 발사속도와 10배율의 확대경을 지닌 이 스나이퍼 라이플은 적에게 치명적인 헤드샷을 가할 수 있습니다"
 ItemName="스나이퍼 라이플"
 
 [ClassicSniperRiflePickup]
-PickupMessage="스나이퍼 라이플을 확보했습니다."
+PickupMessage="스나이퍼 라이플을 획득하였습니다"
 
 [DamTypeClassicHeadshot]
-DeathString="%k님의 총알이 %o님의 머리를 명중시켰습니다."
-FemaleSuicide="%o님이 자신의 머리를 쏘았습니다."
-MaleSuicide="%o님이 자신의 머리를 쏘았습니다."
+DeathString="%k 님의 총알이 %o 님의 머리에 적중시켰습니다"
+FemaleSuicide="%o 님이 자신의 머리를 쐈습니다"
+MaleSuicide="%o 님이 자신의 머리를 쐈습니다"
 
 [DamTypeClassicSniper]
-DeathString="%k님이 %o님 몸에 구멍을 내었습니다."
-FemaleSuicide="%o님이 자신의 발을 쏘았습니다."
-MaleSuicide="%o님이 자신의 발을 쏘았습니다."
+DeathString="%k 님이 %o 님을 벌집으로 만들어 버렸습니다"
+FemaleSuicide="%o 님이 자기 발을 쐈습니다"
+MaleSuicide="%o 님이 자기 발을 쐈습니다"
 
 [MutUTClassic]
 DJString="더블 점프를 허용합니다"
-WDString="벽 피하기를 허용합니다"
-DDJString="피하기 더블 점프를 허용합니다"
-DJHelp="기능 사용시 플레이어가 점프 정점에서 더블 점프할 수 있습니다."
-WDHelp="기능 사용시 플레이어가 벽 피하기를 할 수 있습니다."
-DDJHelp="기능 사용시 플레이어가 피하기 점프 정점에서 더블 점프 할 수 있습니다."
+WDString="월 닷징을 허용합니다"
+DDJString="닷징 더블 점프를 허용합니다"
+DJHelp="플레이어는 한 번의 점프 후 정점에서 다시 한번 점프할 수 있습니다"
+WDHelp="플레이어는 월 닷징을 구사할 수 있습니다"
+DDJHelp="플레이어가 닷징후 그 정점에서 점프를 구사할 수 있습니다"
 WeapString="무기 데미지를 변경합니다"
-WeapHelp="기능 사용시 무기가 데미지를 더 가할 수 있습니다."
+WeapHelp="오리지널 언리얼 토너먼트식의 무기 데미지로 변경하며, 기본설정보다 더 강력해집니다"
 TranslocString="트랜스로케이터를 변경합니다"
-TranslocHelp="기능 사용시 트랜스로케이터가 더 빠르게 재충전됩니다."
-FriendlyName="UT 클래식"
-Description="클래식 UT 스타일 무기와 이동 옵션."
+TranslocHelp="트랜스로케이터 탄약이 더 빠르게 재충전됩니다"
+FriendlyName="언리얼토너먼트 클래식"
+Description="오리지널 언리얼 토너먼트 스타일의 무기와 조작체계를 사용할 수 있습니다"
 
 [MutUseLightning]
 FriendlyName="라이트닝 건"
-Description="모든 스나이퍼 라이플을 라이트닝 건으로 교체합니다."
+Description="모든 스나이퍼 라이플을 라이트닝 건으로 교체합니다"
 
 [MutUseSniper]
 FriendlyName="스나이퍼 라이플"
-Description="모든 라이트닝 건을 스나이퍼 라이플로 교체합니다."
+Description="모든 라이트닝 건을 스나이퍼 라이플로 교체합니다"
 

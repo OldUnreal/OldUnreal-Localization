@@ -1,0 +1,57 @@
+﻿[LevelInfo0]
+Title="라바자이언트 2"
+
+[LevelSummary]
+Title="라바자이언트 2"
+Description="피와 땀과 눈물은 많은 위대한 것들을 우리 시대에 남겨 주었습니다. 지옥의 화염과도 같은 용암원의 열기 속에서, 급박하게 죽어가는 참가자들이 남기는 것이라고는 죄수용 갑옷에 새겨진 때묻은 기록 뿐입니다."  
+
+[Volume0]
+LocationName="홍팀 기지"
+
+[Volume1]
+LocationName="청팀 기지"
+
+[Volume2]
+LocationName="작은 바위"
+
+[Volume3]
+LocationName="산꼭대기"
+
+[Volume4]
+LocationName="하층부 홍팀 구역"
+
+[Volume5]
+LocationName="하층부 홍팀 구역"
+
+[ZoneInfo0]
+LocationName="외부"
+
+[ZoneInfo1]
+LocationName="중간 발전실"
+
+[ZoneInfo10]
+LocationName="홍팀 기지"
+
+[ZoneInfo2]
+LocationName="중간 발전실"
+
+[ZoneInfo3]
+LocationName="중간 쉴드룸"
+
+[ZoneInfo4]
+LocationName="중간 로켓룸"
+
+[ZoneInfo5]
+LocationName="중간 로켓룸"
+
+[ZoneInfo6]
+LocationName="중간 로켓룸"
+
+[ZoneInfo7]
+LocationName="청팀 기지"
+
+[ZoneInfo8]
+LocationName="청팀 기지"
+
+[ZoneInfo9]
+LocationName="홍팀 기지"

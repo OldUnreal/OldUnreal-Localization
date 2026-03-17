@@ -1,0 +1,6 @@
+﻿[Public]
+Object=(Name=ALAudio.ALAudioSubsystem,Class=Class,MetaClass=Engine.AudioSubsystem)
+Preferences=(Caption="音效",Parent="進階設定",Class=ALAudio.ALAudioSubsystem,Immediate=True)
+
+[ALAudioSubsystem]
+ClassCaption="視窗 OpenAL 音效"

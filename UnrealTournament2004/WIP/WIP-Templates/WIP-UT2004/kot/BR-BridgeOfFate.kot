@@ -9,7 +9,7 @@ Description="거대한 동굴이 양 팀 사이를 가로막고 있으며, 그 �
 LocationName="동굴"
 
 [ZoneInfo1]
-LocationName="청팀 아머 입구"
+LocationName="청팀 부대 입구"
 
 [ZoneInfo10]
 LocationName="청팀 메인 입구"
@@ -30,10 +30,10 @@ LocationName="홍팀 폭탄실"
 LocationName="홍팀 바이오라이플 입구"
 
 [ZoneInfo16]
-LocationName="홍팀 아머 입구"
+LocationName="홍팀 부대 입구"
 
 [ZoneInfo17]
-LocationName="홍팀 아머 입구"
+LocationName="홍팀 부대 입구"
 
 [ZoneInfo18]
 LocationName="홍팀 바이오라이플 입구"
@@ -51,7 +51,7 @@ LocationName="홍팀 폭탄실"
 LocationName="홍팀 폭탄실"
 
 [ZoneInfo23]
-LocationName="홍팀 아머 입구"
+LocationName="홍팀 부대 입구"
 
 [ZoneInfo3]
 LocationName="청팀 폭탄실"
@@ -63,13 +63,13 @@ LocationName="청팀 주실"
 LocationName="청팀 바이오라이플 입구"
 
 [ZoneInfo6]
-LocationName="청팀 아머 입구"
+LocationName="청팀 부대 입구"
 
 [ZoneInfo7]
 LocationName="홍팀 주실"
 
 [ZoneInfo8]
-LocationName="청팀 아머 입구"
+LocationName="청팀 부대 입구"
 
 [ZoneInfo9]
 LocationName="청팀 바이오라이플 입구"

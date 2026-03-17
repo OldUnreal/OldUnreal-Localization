@@ -1,93 +1,95 @@
 ﻿[Public]
 ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xMutantGame,Description="DM|Mutant|BonusPack.Tab_IAMutant|BonusPack.MapListMutant|false")
 ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xLastManStandingGame,Description="DM|Last Man Standing|BonusPack.Tab_IALastManStanding|BonusPack.MapListLastManStanding|false")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="Camouflage combo 추가 (오른쪽 연속 네 번).")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutPintSizeCombo,Description="Pint-sized combo 추가 (왼쪽 연속 네 번).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="위장복 콤보 추가 (오른쪽 연속 네 번).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutPintSizeCombo,Description="소형화 콤보 추가 (왼쪽 연속 네 번).")
 
 [ComboCrate]
 ExecMessage="위장복!" 
-
 [ComboMiniMe]
-ExecMessage="파인트 사이즈!" 
+ExecMessage="소형화!" 
 
 [DamTypeMutant]
-DeathString="%o 님은 치명적인 돌연변이에 당했습니다!"  
-FemaleSuicide="%o 님은 치명적인 돌연변이에 당했습니다!"
-MaleSuicide="%o 님은 치명적인 돌연변이에 당했습니다!"
+DeathString="%o 님이 뮤턴트가 되었습니다!"  
+FemaleSuicide="%o 님이 뮤턴트가 되었습니다!"
+MaleSuicide="%o 님이 뮤턴트가 되었습니다!"
 
 [HudLMS]
-LivesRemainingString="라이프가 남았습니다"    
+LivesRemainingString="생명이 남았습니다"    
 PlayersRemainString="플레이어가 남았습니다 -- "  
 
 [HudMutant]
 MutantRangeFontName="UT2003Fonts.FontMono"
-BottomFeederText="BOTTOM FEEDER"      
+BottomFeederText="바텀 피더"      
 
 [LMSMessage]
-YouAreCamperMessage="캠핑 중입니다!"
-SomeoneIsCamperMessage=" "
-SomeoneIsCamperMessageTrailer=" 캠핑 중입니다!"
+YouAreCamperMessage="캠핑 중입니다!"      .
+SomeoneIsCamperMessage=" "                  
+SomeoneIsCamperMessageTrailer="캠핑 중입니다!"   
 
 [MutCrateCombo]
 CamoDisplayText="위장복 콤보"
-MiniDisplayText="파인트 싸이즈 콤보"
-CamoDescText="사용 가능시, 이 아드레날린 콤보는 당신을 커다란 바위나 빌딩 한부분의 홀로그래픽 프로젝션으로 당신을 위장시켜 줍니다. "
-MiniDescText="사용 가능시, 이 아드레날린 콤보는 당신을 작게 만들어 줍니다."
+MiniDisplayText="소형화 콤보"
+CamoDescText="콤보가 활성화 되면, 주변의 돌이나 건물의 일부 모습으로 위장하게 될 것입니다"
+MiniDescText="콤보가 활성화 되면,당신을 좀더 작게 만들어 줄 것입니다"
 FriendlyName="보너스 콤보"
-Description="파인트 사이즈 콤보는 왼쪽 연속 네번(LLLL) 위장복 콤보는 오른쪽 연속 네번(RRRR)을 사용하시면 됩니다."
+Description="소형화 콤보(좌좌좌좌)와 위장복 콤보(우우우우)를 추가합니다"
 
 [MutantMessage]
-YouAreMutantMessage="돌연변이가 되었습니다!"    
+YouAreMutantMessage="뮤턴트가 되었습니다!"    
 SomeoneIsMutantMessage=" "
-SomeoneIsMutantMessageTrailer="돌연변이가 되었습니다!"   
-FFAMessage="첫 돌연변이의 희생자가 발생했습니다!"                
-BottomFeederMessage="바텀 피더!"   
-NotBottomFeederMessage="Bottom Feeder 탈출!"   
+SomeoneIsMutantMessageTrailer="뮤턴트가 되었습니다!"   
+FFAMessage="첫번째 뮤턴트 등장!"                
+BottomFeederMessage="바텀피더!"   
+NotBottomFeederMessage="바텀피더 해제!"   
 
 [MutantNameMessage]
-BottomFeederMesg="(BOTTOM FEEDER)"     
-
+BottomFeederMesg="(바텀피더)"   
+  
 [ScoreBoardLMS]
-LivesText="라이프"    
+LivesText="생명"
 
 [Tab_IALastManStanding]
-IARulesExtraLives.Caption="죽이면 파워 회복" 
-IARulesExtraLives.Hint="선택하면, 죽일 때마다 플레이어의 파워가 회복됩니다." 
-IARulesLMSAllowAdrenaline.Caption="아드레날린 허용" 
-IARulesLMSAllowAdrenaline.Hint="선택하면, 플레이어들은 아드레날린을 사용할 수 있습니다." 
-IARulesLMSAllowPickups.Caption="줍기 허용" 
-IARulesLMSAllowPickups.Hint="선택하면, 정상적인 줍기 허용." 
-IARulesSuperWeaps.Caption="초강력 무기 허용" 
-IARulesSuperWeaps.Hint="선택하면, 초강력 무기 줍기 허용. "
+IARulesExtraLives.Caption="사살한만큼 체력 회복"
+IARulesExtraLives.Hint="선택시, 플레이어는 적을 사살하는 만큼, 일정량의 체력를 회복하게 됩니다"
+IARulesLMSAllowAdrenaline.Caption="아드레날린 허용"
+IARulesLMSAllowAdrenaline.Hint="선택시, 플레이어는 아드레날린을 사용할 수 있게 됩니다"
+IARulesLMSAllowPickups.Caption="아이템 획득 허용"
+IARulesLMSAllowPickups.Hint="선택시, 일반적인 아이템의 획득을 가능하게 합니다."
+IARulesSuperWeaps.Caption="초강력 무기 허용"
+IARulesSuperWeaps.Hint="선택시, 초강력 무기의 획득을 가능하게 합니다."
 
 [Tab_IAMutant]
 TargetScoreString="제한 점수" 
-IARulesBottomFeeders.Caption="바텀 피더"
-IARulesBottomFeeders.Hint="선택할 경우, 최하위 플레이어는 누구든지 죽일 수 있습니다." 
+IARulesBottomFeeders.Caption="바텀피더"
+IARulesBottomFeeders.Hint="선택시, 최하위 순위의 플레이어는 제한없이 누구든지 죽이는 것이 가능해집니다." 
 
 [xLastManStandingGame]
 LMSPropsDisplayText[0]="캠핑 시작" 
 LMSPropsDisplayText[1]="캠퍼 규정 시간" 
-LMSPropsDisplayText[2]="죽이기 위한 파워 증진"
+LMSPropsDisplayText[2]="살상 파워 증가"
 LMSPropsDisplayText[3]="초강력 무기 허용"  
 LMSPropsDisplayText[4]="캠퍼 경고" 
 LMSPropsDisplayText[5]="줍기 허용"  
 LMSPropsDisplayText[6]="아드레날린 허용"  
-LMSPropsDisplayText[7]="탄약 가득 채움"    
-LMSPropDescText[0]="캠퍼 경고를 시작하기 전에 플레이어가 한 자리에 얼마동안 있을 수 있는지 정합니다."
-LMSPropDescText[1]="얼마나 자주 캠퍼 경고를 플레이 할지 정합니다."
-LMSPropDescText[2]="이 옵션을 선택할 경우 다른 플레이어를 죽이면 파워가 생깁니다." 
-LMSPropDescText[3]="체크하면, 플레이어를 위하여 초강력 무기가 준비되어 있습니다."  
-LMSPropDescText[4]="이 옵션은 플레이어가 한자리에 너무 오래 서 있으면 경보가 울리게 할 수 있습니다."
-LMSPropDescText[5]="체크하면, 지도 안에서 주울 수 있습니다."
-LMSPropDescText[6]="체크하면, 아드레날린 콤보가 가능할 것입니다."  
-LMSPropDescText[7]="체크하면 플레이어들은 탄약이 가득한 각종 무기를 갖추고 시작합니다."    
+LMSPropsDisplayText[7]="탄약을 가득 채움"    
+LMSPropDescText[0]="캠퍼 경고를 활성화시키기 전에 플레이어가 한 자리에 얼마 동안 있을 수 있는지 정합니다."
+LMSPropDescText[1]="캠퍼 경고의 빈도를 할지 정합니다."
+LMSPropDescText[2]="다른 플레이어를 죽이면 체력을 회복하게 됩니다." 
+LMSPropDescText[3]="플레이어를 위해 초강력 무기가 준비됩니다."  
+LMSPropDescText[4]="플레이어가 한자리에 너무 오래 서 있으면 경보가 울리게 됩니다."
+LMSPropDescText[5]="아이템 획득이 가능합니다."
+LMSPropDescText[6]="아드레날린 콤보가 가능합니다."  
+LMSPropDescText[7]="플레이어들은 모든 무기와 탄약을 지급받고 시작합니다."    
 GameName="라스트 맨 스탠딩"   
-Description="각 플레이어는 제한된 숫자의 라이프를 갖고 시작합니다. 연기가 걷힐때 까지 남아있는 플레이어가 되는 것이 목표입니다."
+Description="라스트 맨 스탠딩: 각 플레이어는 제한된 숫자의 생명을 가지고 시작합니다. 치열한 전투의 마지막 순간까지 생존하는 것이 게임의 목표입니다."
               
 [xMutantGame]
-MutPropText="바텀 피더 옵션 사용"  
-MutDescText="작동시키면, 점수가 제일 낮은 플레이어가 바텀 피더이며 다른 플레이어를 죽일 수 있다." 
-GameName="돌연변이" 
-Description="제일 먼저 죽이는 플레이어는 돌연변이가 됩니다. 나머지들이 돌연변이를 죽이면 초인적 파워가 있는 돌연변이가 됩니다. 점수가 제일 낮은 플레이어가 바텀 피더가 됩니다. 바텀 피더도 다른 플레이어를 해치울 수 있습니다."
-
+MutPropText="바텀피더 옵션 사용"  
+MutDescText="활성화 할 경우, 점수가 제일 낮은 플레이어는 바텀 피더가 되며, 다른 플레이어들를 죽일 수 있게 됩니다." 
+GameName="뮤턴트" 
+Description="뮤턴트: 제일 먼저 상대방을 죽여 점수를 획득하는 플레이어가 뮤턴트가 되며, 그는 각종 혜택을 받게 되지만 다른 플레이어를 사살하지 않는한 체력이 서서히 감소하는 불이익을 가지게 됩니다. 이 뮤턴트를 죽이는 플레이어가 새로운 뮤턴트가 됩니다. 플레이어는 뮤턴트가 된 상태에서만 점수를 획득할 수 있으며 뮤턴트가 아닌 플레이어들은 서로를 공격할 수 없습니다. 점수가 제일 낮은 플레이어는 바텀 피더로 불리우고, 예외적으로 다른 플레이어를 사살하여 점수를 획득할 수 있습니다."
+ 
+[MutPintSizeCombo]
+FriendlyName="소형화 콤보"     
+Description="소형화 콤보 추가 (왼쪽 연속 네번)."

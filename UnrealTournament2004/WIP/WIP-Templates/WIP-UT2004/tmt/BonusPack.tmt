@@ -1,0 +1,74 @@
+﻿[Public]
+Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xMutantGame,Description="DM|Mutant|BonusPack.Tab_IAMutant|BonusPack.MapListMutant|false")
+Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xLastManStandingGame,Description="DM|Last Man Standing|BonusPack.Tab_IALastManStanding|BonusPack.MapListLastManStanding|false")
+
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="Adds the Camouflage combo (RRRR).")
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutPintSizeCombo,Description="Adds the Mini-Me combo (LLLL).")
+
+[ComboCrate]
+ExecMessage="迷彩!"
+
+[ComboMiniMe]
+ExecMessage="縮小!"
+
+[DamTypeMutant]
+DeathString="%o 突變失敗!"
+FemaleSuicide="%o 突變失敗!"
+MaleSuicide="%o 突變失敗!"
+
+[HudLMS]
+LivesRemainingString="剩餘生命"
+PlayersRemainString="剩餘玩者 -- "
+
+[HudMutant]
+MutantRangeFontName="UT2003Fonts.FontMono"
+BottomFeederText="墊底殺手"
+
+[LMSMessage]
+YouAreCamperMessage="你正在龜縮!"
+SomeoneIsCamperMessage=" "
+SomeoneIsCamperMessageTrailer=" 正在龜縮!"
+
+[MutCrateCombo]
+FriendlyName="迷彩動作"
+Description="增加迷彩動作 (右右右右)."
+
+[MutPintSizeCombo]
+FriendlyName="縮小動作"
+Description="增加縮小動作 (左左左左)."
+
+[MutantMessage]
+YouAreMutantMessage="你突變了!"
+SomeoneIsMutantMessage=" "
+SomeoneIsMutantMessageTrailer=" 突變了!"
+FFAMessage="第一個突變!"
+BottomFeederMessage="你是墊底殺手!"
+NotBottomFeederMessage="不再是墊底殺手!"
+
+[MutantNameMessage]
+BottomFeederMesg="(墊底殺手)"
+
+[ScoreBoardLMS]
+LivesText="生命"
+
+[Tab_IAMutant]
+TargetScoreString="分數限制"
+IARulesBottomFeeders.Caption="墊底殺手"
+IARulesBottomFeeders.Hint="點選時, 排名壂底的玩者可以殺死任何人."
+
+[xLastManStandingGame]
+GameName="最後生存者"
+
+[xMutantGame]
+GameName="突變人"
+
+[Tab_IALastManStanding]
+IARulesExtraLives.Caption="殺人增加生命"
+IARulesExtraLives.Hint="點選時, 每次擊殺時會回復一些生命."
+IARulesLMSAllowAdrenaline.Caption="允許腎上腺素"
+IARulesLMSAllowAdrenaline.Hint="點選時, 玩者可使用腎上腺素."
+IARulesLMSAllowPickups.Caption="允許道具"
+IARulesLMSAllowPickups.Hint="點選時, 允許使用一般道具."
+IARulesSuperWeaps.Caption="允許超級武器"
+IARulesSuperWeaps.Hint="點選時, 允許使用超級武器."
+

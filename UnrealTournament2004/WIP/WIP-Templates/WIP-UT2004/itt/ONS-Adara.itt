@@ -1,0 +1,34 @@
+﻿[LevelInfo0]
+Title="Canyon di Adara"
+
+[LevelSummary]
+Title="Canyon di Adara"
+Description="Questo campo di battaglia è stato plasmato da attività sismiche e da eoni di erosione. Il Canyon di Adara è un ottimo esempio della terribile forza della natura, ma non lasciarti ingannare dalla sua bellezza. Le lunghe cadute sono fatali e la struttura a corridoi del canyon rende piuttosto difficile sfuggire ai LaRAV."
+
+[Volume0]
+LocationName="Cascate a est"
+
+[Volume1]
+LocationName="Cascate a ovest"
+
+[Volume2]
+LocationName="Base est"
+
+[Volume3]
+LocationName="Base ovest"
+
+[Volume4]
+LocationName="Passaggio del ponte a nord"
+
+[Volume5]
+LocationName="Passaggio del ponte a sud"
+
+[Volume6]
+LocationName="Ponte"
+
+[Volume7]
+LocationName="Isola centrale"
+
+[ZoneInfo0]
+LocationName="Canyon"
+

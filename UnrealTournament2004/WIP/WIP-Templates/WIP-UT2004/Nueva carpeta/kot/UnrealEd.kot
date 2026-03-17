@@ -1,0 +1,7 @@
+﻿[General]
+FrameWindow="언리얼 레벨 에디터"
+Start="UnrealEd (시작)"
+Exit="UnrealEd (종료)"
+Run="UnrealEd (실행)"
+Product="UnrealEd"
+Abbreviation="UEd"

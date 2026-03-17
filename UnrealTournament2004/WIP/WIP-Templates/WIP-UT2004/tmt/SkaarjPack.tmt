@@ -1,0 +1,92 @@
+﻿[Public]
+Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM|Invasion|SkaarjPack.Tab_IAInvasion|BonusPack.MapListMutant|false")
+
+[DamTypeBelch]
+DeathString="%o 被瓦斯袋沙嗲了."
+FemaleSuicide="瓦斯袋自爆了."
+MaleSuicide="瓦斯袋自爆了."
+
+[DamTypeBruteRocket]
+DeathString="%o 被布魯特的火箭給炸了."
+FemaleSuicide="布魯特的火箭提早爆炸."
+MaleSuicide="布魯特的火箭提早爆炸."
+
+[DamTypeKrallBolt]
+DeathString="%o 被克雷爾電擊了."
+
+[DamTypeSkaarjProj]
+DeathString="%o 被斯卡拉燒焦了."
+
+[DamTypeWarlordRocket]
+DeathString="%o 被戰神肢解了."
+FemaleSuicide="戰神的火箭太早爆炸了."
+MaleSuicide="戰神的火箭太早爆炸了."
+
+[HUDInvasion]
+YouveLostTheMatch="侵略不斷持續"
+
+[Invasion]
+GameName="侵略"
+
+[InvasionDeathMessage]
+SomeoneString="怪物"
+
+[InvasionMessage]
+OutMessage="出現了!"
+
+[MeleeDamage]
+DeathString="%o 被切開了."
+FemaleSuicide="%o 被敲了."
+MaleSuicide="%o 被敲了."
+
+[ScoreboardInvasion]
+TeamScoreString="隊伍分數"
+WaveString="波數"
+
+[TAB_IAInvasion]
+IAInvasionWaveConfig.Caption="設定每波來襲"
+IAInvasionInitialWave.Caption="首波來襲"
+IAInvasionInitialWave.Hint="選擇首波來襲."
+
+[InvasionWaveConfig]
+WCFGClose.Caption="關閉"
+WCFGLabel1.Caption="設定每波來襲..."
+WCFGLabel2.Caption="難度"
+WCFGDifficulty.Hint="每波來襲的怪物難度為何."
+WCFGCreat01.Caption="普沛"
+WCFGCreat01.Hint="斯卡拉普沛."
+WCFGCreat02.Caption="鋸齒蒼蠅"
+WCFGCreat02.Hint="鋸齒蒼蠅."
+WCFGCreat03.Caption="魟魚"
+WCFGCreat03.Hint="魟魚."
+WCFGCreat04.Caption="克雷爾"
+WCFGCreat04.Hint="克雷爾."
+WCFGCreat05.Caption="精英克雷爾"
+WCFGCreat05.Hint="精英克雷爾."
+WCFGCreat06.Caption="瓦斯袋"
+WCFGCreat06.Hint="瓦斯袋."
+WCFGCreat07.Caption="布魯特"
+WCFGCreat07.Hint="布魯特."
+WCFGCreat08.Caption="斯卡拉"
+WCFGCreat08.Hint="斯卡拉."
+WCFGCreat09.Caption="貝西蛾"
+WCFGCreat09.Hint="貝西蛾."
+WCFGCreat10.Caption="冰斯卡拉"
+WCFGCreat10.Hint="冰斯卡拉."
+WCFGCreat11.Caption="火斯卡拉"
+WCFGCreat11.Hint="火斯卡拉."
+WCFGCreat12.Caption="戰神"
+WCFGCreat12.Hint="戰神."
+WCFGCreat13.Caption="普沛"
+WCFGCreat13.Hint="斯卡拉普沛."
+WCFGCreat14.Caption="普沛"
+WCFGCreat14.Hint="斯卡拉普沛."
+WCFGCreat15.Caption="鋸齒蒼蠅"
+WCFGCreat15.Hint="鋸齒蒼蠅."
+WCFGCreat16.Caption="鋸齒蒼蠅"
+WCFGCreat16.Hint="鋸齒蒼蠅."
+WCFGDuration.Caption="長度"
+WCFGDuration.Hint="每波來襲維持時間多長."
+WCFGWaveNo.Caption="波數"
+WCFGWaveNo.Hint="選擇調整第幾波來襲."
+

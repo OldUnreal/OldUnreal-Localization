@@ -33,7 +33,7 @@ LocationName="청팀 하층부 대공 포화실"
 LocationName="청팀 하층부 홀"
 
 [ZoneInfo2]
-LocationName="청팀 베이스"
+LocationName="청팀 기지"
 
 [ZoneInfo28]
 LocationName="청팀 생산실"
@@ -111,7 +111,7 @@ LocationName="홍팀 메인 룸"
 LocationName="홍팀 메인 룸"
 
 [ZoneInfo52]
-LocationName="홍팀 베이스"
+LocationName="홍팀 기지"
 
 [ZoneInfo53]
 LocationName="홍팀 생산실"
