@@ -1,0 +1,13 @@
+[Setup]
+LocalProduct="Unreal Tournament 2003"
+ReadMe=Help\ReadMe.int.txt
+SetupWindowTitle=Unreal Tournament 2003 Patch Setup
+ProductURL=http://www.unrealtournament2003.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\Logo.bmp
+License=License.int
+
+[UT2003Requirement]
+LocalProduct=UT2003

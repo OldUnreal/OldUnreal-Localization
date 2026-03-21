@@ -1,0 +1,16 @@
+[Setup]
+LocalProduct=Unreal Tournament 2003 Demo Patch
+ReadMe=Help\ReadMe-Demo.int.txt
+SetupWindowTitle=Unreal Setup
+ProductURL=http://www.unrealtournament2003.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer=Epic Games, Inc.
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\Logo.bmp
+
+[UT2003DemoRequirement]
+LocalProduct=UT2003Demo
+ProductURL=http://www.unrealtournament2003.com/
+VersionURL=http://unreal.epicgames.com/ut2003versions.htm
+Developer=Epic Games, Inc.
+DeveloperURL=http://www.epicgames.com/

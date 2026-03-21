@@ -1,0 +1,82 @@
+[Setup]
+LocalProduct="Unreal Tournament 2004"
+DefaultFolder="C:\UT2004"
+ReadMe=Help\ReadMe.int.txt
+SetupWindowTitle=Unreal Tournament 2004 Setup
+AutoplayWindowTitle="Unreal Tournament 2004 Options"
+ProductURL=http://www.unrealtournament2004.com/
+VersionURL=http://www.unrealtournament2004.com/
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\InstallerLogo.bmp
+License=License.int
+
+[General]
+PlayLevelCommand="&Play this UT2004 level"
+OpenLinkCommand="&Open this UT2004 link"
+InstallModuleCommand="&Install this UT2004 module"
+EditLevelCommand="&Edit this UT2004 level"
+SafeDiscAdminRights="You need to run this program as an administrator, not as a guest or limited user account."
+SafeDiscNoDisk="No disc in drive.  Please insert the disc labeled 'Unreal Tournament 2004 Play Disc' to continue."
+SafeDiscNoDrive="No CD-ROM or DVD-ROM drive detected."
+SafeDiscTitlebar="Unreal Tournament 2004"
+SafeDiscWrongDisc="Wrong disc in drive.  Please insert the disc labeled 'Unreal Tournament 2004 Play Disc' to continue."
+
+[UnrealGameContentGroup]
+Caption="Game Content"
+Description="Install this for best performance. If you deselect it, the game content will be loaded from CD during play, degrading performance, but using less hard disk space."
+
+[GameGroup]
+Caption="UT2004 Game"
+Description="Installation is required."
+
+[DirectXGroup]
+Caption="DirectX 9.0b"
+Description="Optional Microsoft DirectX 9.0b drivers for enhanced graphics, sound, and joystick support."
+
+[ECEModGroup]
+Caption="ECE Mods"
+Description="Optional, Install the Editors Choice Game Mods"
+
+[OpenALGroup]
+Caption="OpenAL"
+Description="Required for hardware accelerated 3D sound effects."
+
+[Win2000XPGroup]
+Caption="Windows 2000/XP Direct3D"
+Description="Required for Windows 2000/XP [temporary-not for ship]."
+
+[EditorGroup]
+Caption="Unreal Editor"
+Description="Unreal world editor, for creating your own 3D Unreal environments. For advanced users; installation is optional."
+
+[DesktopGroup]
+Caption="Desktop shortcut"
+Description="Create a desktop shortcut for playing UT2004"
+
+[DesktopShortcut]
+Caption="Play UT2004"
+
+[PlayShortcut]
+Caption="Play UT2004"
+
+[SafeModeShortcut]
+Caption="UT2004 Safe Mode"
+
+[EditorShortcut]
+Caption="UT2004 Editor"
+
+[DocumentationShortcut]
+Caption="Release Notes"
+
+[ManualShortcut]
+Caption="UT2004 Manual"
+
+[WebShortcut]
+Caption="UT2004 Web Page"
+
+[UninstallShortcut]
+Caption="Uninstall Unreal Tournament 2004"
+
+[BookShortCut]
+Caption="Mastering Unreal Technology - Book Preview"
