@@ -1,6 +1,6 @@
 ﻿[Public]
 ; EN: ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM|Invasion|SkaarjPack.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
-;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM | Invasion | SkaarjPack.Tab_IAInvasion | SkaarjPack.MapListSkaarjInvasion | false")
+;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM||SkaarjPack.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
 
 [DamTypeBelch]
 ; EN: DeathString="%o was sauteed by a Gasbag."

@@ -2473,7 +2473,7 @@ BotBio[5]=""
 [RatedTeamInfo7]
 TeamName="Red Claw"
 ; EN: TeamBio="The N.E.G. has long recognized the superiority of the Skaarj warrior as a military fighting machine, as was made clear in the brutal Human-Skaarj wars.  The Skaarj Hybrid is the result of secret military genetic research using both human and Skaarj DNA performed after the capture of a Skaarj scout ship. If proven in Tournament battle, the Hybrids shall become a leading force in ground based ops."
-TeamBio="El N.E.G. ha reconegut durant molt de temps la superioritat del guerrer Skaarj com a màquina de combat militar, com es va deixar clar a les brutals guerres Humà-Skaarj. L’híbrid Skaarj és el resultat d’una investigació genètica militar secreta que utilitza tant l’ADN humà com l’ADN de Skaarj realitzats després de la captura d’un vaixell explorador Skaarj. Si es demostra a la batalla del torneig, els híbrids esdevindran una força líder en operacions terrestres."
+TeamBio=""
 BotNames[0]="Dominator"
 BotNames[1]="Berserker"
 BotNames[2]="Guardian"
