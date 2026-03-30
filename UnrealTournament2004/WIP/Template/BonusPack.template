@@ -31,9 +31,11 @@ LivesRemainingString=""
 PlayersRemainString=""
 
 [HudMutant]
-MutantRangeFontName=UT2003Fonts.FontMono
 ; EN: BottomFeederText="BOTTOM FEEDER"
 BottomFeederText=""
+; N_K: BEWARE WHEN MODIFYING THIS LINE. This only accepts "package.texture" keys. Make sure you enter the right one.
+; At any doubt, ask in the forums or Discord.
+MutantRangeFontName=UT2003Fonts.FontMono
 
 [LMSMessage]
 ; EN: YouAreCamperMessage="You Are Camping!"
@@ -142,9 +144,9 @@ GameName=""
 Description=""
 
 [xMutantGame]
-; EN: MutPropText="Enable BottomFeeder"
+; EN: MutPropText="Enable Bottom Feeder"
 MutPropText=""
-; EN: MutDescText="If enabled, the player with the lowest score is the BottomFeeder, and can kill other players."
+; EN: MutDescText="If enabled, the player with the lowest score is the Bottom Feeder, and can kill other players."
 MutDescText=""
 ; EN: GameName="Mutant"
 GameName=""

@@ -29,7 +29,7 @@ LocationName=""
 LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="Blue BioRifle Entrance"
+; EN: LocationName="Blue Bio Rifle Entrance"
 LocationName=""
 
 [ZoneInfo14]
@@ -37,7 +37,7 @@ LocationName=""
 LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Red BioRifle Entrance"
+; EN: LocationName="Red Bio Rifle Entrance"
 LocationName=""
 
 [ZoneInfo16]
@@ -49,7 +49,7 @@ LocationName=""
 LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="Red BioRifle Entrance"
+; EN: LocationName="Red Bio Rifle Entrance"
 LocationName=""
 
 [ZoneInfo19]
@@ -57,11 +57,11 @@ LocationName=""
 LocationName=""
 
 [ZoneInfo2]
-; EN: LocationName="Blue BioRifle Entrance"
+; EN: LocationName="Blue Bio Rifle Entrance"
 LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="Red BioRifle Entrance"
+; EN: LocationName="Red Bio Rifle Entrance"
 LocationName=""
 
 [ZoneInfo21]
@@ -85,7 +85,7 @@ LocationName=""
 LocationName=""
 
 [ZoneInfo26]
-; EN: LocationName="Blue BioRifle Entrance"
+; EN: LocationName="Blue Bio Rifle Entrance"
 LocationName=""
 
 [ZoneInfo27]
@@ -133,7 +133,7 @@ LocationName=""
 LocationName=""
 
 [ZoneInfo38]
-; EN: LocationName="Red BioRifle Entrance"
+; EN: LocationName="Red Bio Rifle Entrance"
 LocationName=""
 
 [ZoneInfo39]
@@ -161,6 +161,6 @@ LocationName=""
 LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="Blue BioRifle Entrance"
+; EN: LocationName="Blue Bio Rifle Entrance"
 LocationName=""
 

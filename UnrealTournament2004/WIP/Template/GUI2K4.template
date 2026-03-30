@@ -103,7 +103,7 @@ BindingLabel[32]=""
 BindingLabel[33]=""
 ; EN: BindingLabel[34]="Rocket Launcher"
 BindingLabel[34]=""
-; EN: BindingLabel[35]="Lightning Rifle"
+; EN: BindingLabel[35]="Lightning Gun"
 BindingLabel[35]=""
 ; EN: BindingLabel[36]="Translocator"
 BindingLabel[36]=""
@@ -3663,36 +3663,58 @@ OkButton.Caption=""
 ; EN: Title.Caption="Modify Quick Switch Key Bind"
 Title.Caption=""
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2K4Medium]
 FontArrayNames=("2K4Fonts.Verdana10","2K4Fonts.Verdana12","2K4Fonts.Verdana14","2K4Fonts.Verdana16","2K4Fonts.Verdana18")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4Default]
 FontArrayNames=("2K4Fonts.Verdana10")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4Header]
 FontArrayNames=("2K4Fonts.Verdana18","2K4Fonts.Verdana20","2K4Fonts.Verdana22","2K4Fonts.Verdana24","2K4Fonts.Verdana26")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4IRC]
 FontArrayNames=("2K4Fonts.FontSmallText","2K4Fonts.Verdana8","2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana10")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4Large]
 FontArrayNames=("2K4Fonts.Verdana14","2K4Fonts.Verdana16","2K4Fonts.Verdana18","2K4Fonts.Verdana20","2K4Fonts.Verdana22")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4MainMenu]
 FontArrayNames=("2K4Fonts.Impact32","2K4Fonts.Verdana24")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4Menu]
 FontArrayNames=("2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana12","2K4Fonts.Verdana14","2K4Fonts.Verdana16")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4MidGame]
 FontArrayNames=("UT2003Fonts.FontEurostile17","UT2003Fonts.FontEurostile14","UT2003Fonts.FontEurostile11","UT2003Fonts.FontEurostile11","UT2003Fonts.FontEurostile9","UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontSmallText")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4ServerList]
 FontArrayNames=("2K4Fonts.Verdana8","2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana12","2K4Fonts.Verdana12")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4Small]
 FontArrayNames=("2K4Fonts.FontSmallText","2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana12","2K4Fonts.Verdana14")
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [fntUT2k4SmallHeader]
 FontArrayNames=("2K4Fonts.Verdana12","2K4Fonts.Verdana14","2K4Fonts.Verdana16","2K4Fonts.Verdana18","2K4Fonts.Verdana20")
 

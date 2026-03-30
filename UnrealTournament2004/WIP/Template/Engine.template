@@ -460,6 +460,8 @@ BHDescText[0]=""
 ; EN: BHDescText[1]="Check this option to separate spectator chat from player chat."
 BHDescText[1]=""
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [Canvas]
 TinyFontName="UT2003Fonts.FontMono"
 SmallFontName="UT2003Fonts.FontMono"
@@ -715,6 +717,8 @@ FemaleSuicide=""
 ; EN: MaleSuicide="%o exploded in a shower of body parts."
 MaleSuicide=""
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [HUD]
 ProgressFontName="UT2003Fonts.FontEurostile12"
 FontArrayNames[0]="Engine.DefaultFont"

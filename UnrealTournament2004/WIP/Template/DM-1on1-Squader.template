@@ -13,11 +13,11 @@ Description=""
 LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="UDamage Halls"
+; EN: LocationName="Double Damage Halls"
 LocationName=""
 
 [ZoneInfo11]
-; EN: LocationName="UDamage Halls"
+; EN: LocationName="Double Damage Halls"
 LocationName=""
 
 [ZoneInfo12]
@@ -53,6 +53,6 @@ LocationName=""
 LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="UDamage Halls"
+; EN: LocationName="Double Damage Halls"
 LocationName=""
 

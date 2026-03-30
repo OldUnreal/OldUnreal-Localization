@@ -60,6 +60,8 @@ HasBlue=""
 ; EN: HasRed="took the red flag!"
 HasRed=""
 
+; N_K: BEWARE WHEN MODIFYING THIS SECTION. This only accepts "package.texture" keys. Make sure you enter the right ones.
+; At any doubt, ask in the forums or Discord.
 [CinematicHud]
 FontArrayNames[0]="UT2003Fonts.jFontLarge1024x768"
 FontArrayNames[1]="UT2003Fonts.jFontLarge800x600"
