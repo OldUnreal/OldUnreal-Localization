@@ -1,5 +1,4 @@
 ﻿[AdminPlayerList]
-[AdminPlayerList]
 ; EN: ColumnHeadings=("Player Name","Unique ID","IP")
 ColumnHeadings=("","","")
 
@@ -235,7 +234,7 @@ ColumnHeadings=(,"","","","")
 
 [DefaultCrosshairs]
 ; EN: Crosshair=((FriendlyName="Cross (1)"),(FriendlyName="Cross (2)"),(FriendlyName="Cross (3)"),(FriendlyName="Cross (4)"),(FriendlyName="Cross (5)"),(FriendlyName="Dot"),(FriendlyName="Pointer"),(FriendlyName="Triad (1)"),(FriendlyName="Triad (2)"),(FriendlyName="Triad (3)"),(FriendlyName="Bracket (1)"),(FriendlyName="Bracket (2)"),(FriendlyName="Circle (1)"),(FriendlyName="Circle (2)"))
-Crosshair=((FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName="Punto"),(FriendlyName="Puntero"),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""))
+Crosshair=((FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName="Punto"),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""),(FriendlyName=""))
 
 [ExtendedConsole]
 ; EN: AddedCurrentHead="Added Server:"
