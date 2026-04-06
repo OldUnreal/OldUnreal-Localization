@@ -37,3 +37,6 @@
   * **_Lynx:** Fonts and additional contributions
 * **_Hebrew:_**
   * **DDRRE:** Original author and fonts
+* **_Polish:_**
+  * **CD Projekt Red:** Original localization
+  * **TigerTheGreat:** Updating and cleanup
