@@ -1,66 +1,66 @@
 ﻿[LevelInfo0]
 ; EN: Title="Moon Dragon"
-Title="Månedrage"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Moon Dragon"
-Title="Månedrage"
+Title=""
 ; EN: Description="In the depths of ancient Korea, hidden high up in the Mountain of the Moon Dragon, battles rage between brave warriors."
-Description="I dypet av det gamle Korea, gjemt høyt oppe i Månedragens fjell, raser kamper mellom modige krigere."
+Description=""
 
 [Volume10]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rom med rødt flagg"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Entrances"
-LocationName="Røde bunninnganger"
+LocationName=""
 
 [Volume12]
-LocationName="Central Cave"
+; EN: LocationName="Central Cave"
+LocationName=""
 
 [Volume14]
-LocationName="Blue Shield Side"
+; EN: LocationName="Blue Shield Side"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Blue Base Entrances"
-LocationName="Blå bunninnganger"
+LocationName=""
 
 [Volume18]
-LocationName="Blue Center"
+; EN: LocationName="Blue Center"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Blue Fortress Area"
-LocationName="Blå festningsområde"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Red Fortress Area"
-LocationName="Rødt festningsområde"
+LocationName=""
 
 [Volume21]
-LocationName="Central Cave"
+; EN: LocationName="Central Cave"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Center"
-LocationName="Rødt senter"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Shield Side"
-LocationName="Rød skjoldside"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Side Route"
-LocationName="Rød sidevei"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Side Route"
-LocationName="Blå sidevei"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Rom med blått flagg"
-
-[xBlueFlagBase1]
-; EN: ObjectiveName="BlueFlag"
-ObjectiveName="Blått Flagg"
+LocationName=""
 

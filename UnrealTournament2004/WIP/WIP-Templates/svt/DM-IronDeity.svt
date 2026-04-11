@@ -1,57 +1,58 @@
 ﻿[LevelInfo0]
 ; EN: Title="Iron Deity"
-Title="Järnguden"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Iron Deity"
-Title="Järnguden"
-; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the double damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
-Description="Denna stora och imponerande arena spelar bäst med två medelstora lag av kombattanter. Försök att inte fastna för att springa genom det trånga fläktrummet och se till att kontrollera den dubbla skadan. Slutligen, håll ögonen öppna för den dolda Återlösaren!"
+Title=""
+; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the Double Damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Near Lightning Gun"
-LocationName="Nära Lightning Gun"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Lower Ramp"
-LocationName="Nedre rampen"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Low FPS room"
-LocationName="Rum med lågt FPS"
+LocationName=""
 
 [ZoneInfo11]
-; EN: LocationName="Near DoubleDamage"
-LocationName="Nära DoubleDamage"
+; EN: LocationName="Near Double Damage"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Closet"
-LocationName="Garderob"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Near Link Gun"
-LocationName="Nära Link Gun"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Minigun"
+; EN: LocationName="Minigun"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Double Damage"
-LocationName="Dubbel skada"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Flak Room"
-LocationName="Flak rum"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Bathroom"
-LocationName="Badrum"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Closet"
-LocationName="Garderob"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Near Shock Rifle"
-LocationName="Nära Shock Rifle"
+LocationName=""
 

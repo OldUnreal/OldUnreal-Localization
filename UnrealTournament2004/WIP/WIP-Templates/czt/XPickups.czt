@@ -1,28 +1,28 @@
 ﻿[AdrenalinePickup]
 ; EN: PickupMessage="Adrenaline "
-PickupMessage="Adrenalin "
+PickupMessage=" "
 
 [MiniHealthPack]
 ; EN: PickupMessage="You picked up a Health Vial +"
-PickupMessage="Vyzvedli jste si lahvičku zdraví +"
+PickupMessage=" +"
 
 [ShieldPickup]
 ; EN: PickupMessage="You picked up a Shield Pack +"
-PickupMessage="Sebral jsi Shield Pack +"
+PickupMessage=" +"
 
 [SuperHealthPack]
 ; EN: PickupMessage="You picked up a Big Keg O' Health +"
-PickupMessage="Vyzvedli jste Big Keg O' Health +"
+PickupMessage=" +"
 
 [SuperShieldPack]
 ; EN: PickupMessage="You picked up a Super Shield Pack +"
-PickupMessage="Vyzvedli jste Super Shield Pack +"
+PickupMessage=" +"
 
 [TournamentHealth]
 ; EN: PickupMessage="You picked up a Health Pack +"
-PickupMessage="Vyzvedli jste Health Pack +"
+PickupMessage=" +"
 
 [UDamagePack]
 ; EN: PickupMessage="DOUBLE DAMAGE!"
-PickupMessage="DVOJNÁSOBNÉ POŠKOZENÍ!"
+PickupMessage=""
 

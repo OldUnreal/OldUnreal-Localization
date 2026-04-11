@@ -1,84 +1,90 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ironic"
-Title="Ironikus"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Ironic"
-Title="Ironikus"
+Title=""
 ; EN: Description="In the solitude of the abandoned coastal platforms of New Argentina, the quiet hum of bird and animal life yields to the roar of rocket fire, and the blast of shock rifles. Looks like R&R has been put on hold for today, so grab some ammo and get out there. It's time for a little old fashioned deathmatch."
-Description="Új-Argentína elhagyott tengerparti platformjainak magányában a madár- és állatvilág csendes zümmögése enged a rakétatűz zúgásának és a sokkoló puskák robajának. Úgy tűnik, az R&R-t a mai napra felfüggesztették, szóval vegyél egy lőszert, és menj ki. Itt az ideje egy kis régimódi deathmatchnek."
+Description=""
 
 [ZoneInfo0]
-LocationName="Shock Rifle"
+; EN: LocationName="Shock Rifle"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="Bio Rifle"
-LocationName="Bio puska"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Top Hallway"
-LocationName="Felső folyosó"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Top Hallway"
-LocationName="Felső folyosó"
+LocationName=""
 
 [ZoneInfo12]
-LocationName="Flak Cannon"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo13]
-LocationName="Flak Cannon"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo14]
-LocationName="Pulse Gun"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Amplifier"
-LocationName="Erősítő"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakétavető"
+LocationName=""
 
 [ZoneInfo17]
-LocationName="Shock Rifle"
+; EN: LocationName="Shock Rifle"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakétavető"
+LocationName=""
 
 [ZoneInfo19]
-LocationName="Shock Rifle"
+; EN: LocationName="Outside"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakétavető"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Elevator"
-LocationName="Lift"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Elevator"
-LocationName="Lift"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="Shield Room"
-LocationName="Pajzs szoba"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="Shield Room"
-LocationName="Pajzs szoba"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Top Hallway"
-LocationName="Felső folyosó"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Top Hallway"
-LocationName="Felső folyosó"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Elevator"
-LocationName="Lift"
+LocationName=""
 

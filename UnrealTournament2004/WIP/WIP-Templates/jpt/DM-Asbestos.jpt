@@ -1,0 +1,84 @@
+﻿[LevelInfo0]
+; EN: Title="Asbestos"
+LocationName=""
+
+[LevelSummary]
+; EN: Title="Asbestos"
+LocationName=""
+
+[Trigger0]
+; EN: Message="0wnage"
+LocationName=""
+
+[Trigger1]
+; EN: Message="0wnage"
+LocationName=""
+
+[ZoneInfo0]
+; EN: LocationName="Lightning Gun"
+LocationName=""
+
+[ZoneInfo10]
+; EN: LocationName="Small Pool"
+LocationName=""
+
+[ZoneInfo13]
+; EN: LocationName="Link Gun"
+LocationName=""
+
+[ZoneInfo14]
+; EN: LocationName="Flak"
+LocationName=""
+
+[ZoneInfo15]
+; EN: LocationName="Shock Rifle"
+LocationName=""
+
+[ZoneInfo16]
+; EN: LocationName="Flak Lift"
+LocationName=""
+
+[ZoneInfo17]
+; EN: LocationName="Lightning Gun"
+LocationName=""
+
+[ZoneInfo18]
+; EN: LocationName="Bio Rifle"
+LocationName=""
+
+[ZoneInfo19]
+; EN: LocationName="Double Damage"
+LocationName=""
+
+[ZoneInfo2]
+; EN: LocationName="Double Damage"
+LocationName=""
+
+[ZoneInfo3]
+; EN: LocationName="Lightning Gun"
+LocationName=""
+
+[ZoneInfo4]
+; EN: LocationName="Shock Rifle"
+LocationName=""
+
+[ZoneInfo5]
+; EN: LocationName="Double Damage"
+LocationName=""
+
+[ZoneInfo6]
+; EN: LocationName="Flak"
+LocationName=""
+
+[ZoneInfo7]
+; EN: LocationName="Double Damage Lift"
+LocationName=""
+
+[ZoneInfo8]
+; EN: LocationName="Shock Rifle"
+LocationName=""
+
+[ZoneInfo9]
+; EN: LocationName="Double Damage"
+LocationName=""
+

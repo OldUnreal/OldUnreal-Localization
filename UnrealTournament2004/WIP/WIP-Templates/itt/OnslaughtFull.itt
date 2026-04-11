@@ -1,79 +1,80 @@
 ﻿[DamTypeIonTankBlast]
-; EN: DeathString="%o was OBLITERATED by %k"
-DeathString="%o è stato OBLITERATO da %k"
-; EN: FemaleSuicide="%o was OBLITERATED"
-FemaleSuicide="%o è stato ANNULLATO"
-; EN: MaleSuicide="%o was OBLITERATED"
-MaleSuicide="%o è stato ANNULLATO"
+; EN: DeathString="%o was OBLITERATED by %k!"
+DeathString=""
+; EN: FemaleSuicide="%o was OBLITERATED!"
+FemaleSuicide=""
+; EN: MaleSuicide="%o was OBLITERATED!"
+MaleSuicide=""
 
 [DamTypeMASCannon]
 ; EN: DeathString="%o was VAPORIZED by %k!"
-DeathString="%o è stato VAPORIZZATO da %k!"
+DeathString=""
 ; EN: FemaleSuicide="%o was VAPORIZED!"
-FemaleSuicide="%o è stato VAPORIZZATO!"
+FemaleSuicide=""
 ; EN: MaleSuicide="%o was VAPORIZED!"
-MaleSuicide="%o è stato VAPORIZZATO!"
+MaleSuicide=""
 
 [DamTypeMASPlasma]
 ; EN: DeathString="%k's Leviathan turret plasmanated %o."
-DeathString="La torretta del Leviatano di %k ha plasmato %o."
+DeathString=""
 ; EN: FemaleSuicide="%o wasted herself."
-FemaleSuicide="%o si è sprecata."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o wasted himself."
-MaleSuicide="%o si è sprecato."
+MaleSuicide=""
 
 [MutVehicleArena]
 ; EN: ArenaDisplayText="Arena Vehicle"
-ArenaDisplayText="Veicolo dell'arena"
+ArenaDisplayText=""
 ; EN: ArenaDescText="Determines which vehicle type will be used in the match."
-ArenaDescText="Determina quale tipo di veicolo verrà utilizzato nella partita."
+ArenaDescText=""
 ; EN: FriendlyName="Vehicle Arena"
-FriendlyName="Veicolo Arena"
+FriendlyName=""
 ; EN: Description="Replace all vehicles in map with a particular type."
-Description="Sostituisci tutti i veicoli sulla mappa con un tipo particolare."
+Description=""
 
 [ONSBomber]
 ; EN: VehiclePositionString="in a DragonFly"
-VehiclePositionString="in una libellula"
+VehiclePositionString=""
 ; EN: VehicleNameString="DragonFly"
-VehicleNameString="Libellula"
+VehicleNameString=""
 
 [ONSGenericSD]
 ; EN: VehiclePositionString="indisposed"
-VehiclePositionString="indisposto"
-VehicleNameString="TC-1200"
+VehiclePositionString=""
+; EN: VehicleNameString="TC-1200"
+VehicleNameString=""
 
 [ONSHoverTank_IonPlasma]
 ; EN: VehiclePositionString="in an Ion Plasma Tank"
-VehiclePositionString="in un serbatoio di plasma ionico"
+VehiclePositionString=""
 ; EN: VehicleNameString="Ion Plasma Tank"
-VehicleNameString="Serbatoio di plasma ionico"
+VehicleNameString=""
 
 [ONSMASSideGunPawn]
 ; EN: VehiclePositionString="in a Leviathan turret"
-VehiclePositionString="in una torretta del Leviatano"
+VehiclePositionString=""
 ; EN: VehicleNameString="Leviathan Turret"
-VehicleNameString="Torretta Leviatano"
+VehicleNameString=""
 
 [ONSMobileAssaultStation]
 ; EN: VehiclePositionString="in a Leviathan"
-VehiclePositionString="in un Leviatano"
+VehiclePositionString=""
 ; EN: VehicleNameString="Leviathan"
-VehicleNameString="Leviatano"
+VehicleNameString=""
 
 [ONSPainter]
 ; EN: Description="The Target Painter, similar to the Ion Painter, fires a harmless, low power laser with its primary fire. Unlike the Ion Painter, however, this weapon calls in a bomber that launches a string of bombs in the direction the user is facing, centered on the painted target. The bombs will easily incinerate the target and any unfortunates that happen to be nearby."
-Description="Il Target Painter, simile allo Ion Painter, spara un innocuo laser a bassa potenza con il suo fuoco primario. A differenza dello Ion Painter, tuttavia, quest'arma richiama un bombardiere che lancia una serie di bombe nella direzione in cui è rivolto l'utilizzatore, centrata sul bersaglio dipinto. Le bombe inceneriranno facilmente il bersaglio e tutti gli sfortunati che si trovano nelle vicinanze."
+Description=""
 ; EN: ItemName="Target Painter"
-ItemName="Pittore di bersagli"
+ItemName=""
 
 [ONSPainterPickup]
 ; EN: PickupMessage="You got the Target Painter."
-PickupMessage="Hai il pittore di bersagli."
+PickupMessage=""
 
 [ONSTankSecondaryTurretPawn_IonPlasma]
-; EN: VehiclePositionString="in an Ion Tank turret"
-VehiclePositionString="in una torretta del serbatoio ionico"
-; EN: VehicleNameString="Ion Tank Minigun Turret"
-VehicleNameString="Torretta minigun serbatoio ionico"
+; EN: VehiclePositionString="in an Ion Plasma Tank Minigun Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Ion Plasma Tank Minigun Turret"
+VehicleNameString=""
 

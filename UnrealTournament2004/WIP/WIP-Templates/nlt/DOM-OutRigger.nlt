@@ -1,91 +1,92 @@
 ﻿[LevelInfo0]
 ; EN: Title="Outrigger"
-Title="stempel"
-; EN: LocationName="Unknown"
-LocationName="Onbekend"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Outrigger"
-Title="stempel"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Dom A, Basement"
-LocationName="Dom A, Kelder"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Dom B, Basement"
-LocationName="Dom B, Kelder"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Middle Area."
-LocationName="Midden gebied."
+LocationName=""
 
 [Volume11]
-LocationName="Sniping Tower"
+; EN: LocationName="Sniping Tower"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Dom B, Platform 3"
-LocationName="Dom B, Perron 3"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Dom A, Platform 3"
-LocationName="Dom A, Perron 3"
+LocationName=""
 
 [Volume15]
-LocationName="Dom B"
+; EN: LocationName="Dom B"
+LocationName=""
 
 [Volume16]
-LocationName="Dom A"
+; EN: LocationName="Dom A"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Dom B, Platform 2"
-LocationName="Dom B, Perron 2"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Dom B, Crow's Nest"
-LocationName="Dom B, kraaiennest"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Dom A, Crow's Nest"
-LocationName="Dom A, kraaiennest"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Dom A, Platform 2"
-LocationName="Dom A, Perron 2"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Dom A, Platform 1"
-LocationName="Dom A, Perron 1"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Dom B, Platform 1"
-LocationName="Dom B, Perron 1"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Spawning Grounds."
-LocationName="Paaigronden."
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Dom B, Basement"
-LocationName="Dom B, Kelder"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Dom A, Platform 1"
-LocationName="Dom A, Perron 1"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Dom A, Platform 3"
-LocationName="Dom A, Perron 3"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Dom B, Platform 1"
-LocationName="Dom B, Perron 1"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Dom B, Platform 3"
-LocationName="Dom B, Perron 3"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Dom A, Basement"
-LocationName="Dom A, Kelder"
+LocationName=""
 

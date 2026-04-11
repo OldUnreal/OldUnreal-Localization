@@ -1,158 +1,158 @@
 ﻿[LevelInfo0]
 ; EN: Title="Twin Tombs"
-Title="Tvillinggravar"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Twin Tombs"
-Title="Tvillinggravar"
+Title=""
 ; EN: Description="Winter has fallen on the tombs and the dead are restless.  This elegant recreation of the twin tombs of brothers Ramses III and Rudamon has a reputation for speed, brutality, and treachery, just like the pharaohs interred within."
-Description="Vintern har fallit på gravarna och de döda är rastlösa. Denna eleganta återskapande av tvillinggravarna av bröderna Ramses III och Rudamon har ett rykte för snabbhet, brutalitet och förräderi, precis som faraonerna som begravdes inom dem."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blå övre korridoren"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue base"
-LocationName="Blå bas"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red base"
-LocationName="Röd bas"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red lower hallway"
-LocationName="Röd nedre korridoren"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red jump pads"
-LocationName="Röda hoppkuddar"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Blue jump pads"
-LocationName="Blå hoppkuddar"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red upper hallway"
-LocationName="Röd övre hall"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Red roof top"
-LocationName="Rött tak"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Blå nedre hall"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blå övre korridoren"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Outside Area"
-LocationName="Utanför området"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red lower hallway"
-LocationName="Röd nedre korridoren"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red lower hallway"
-LocationName="Röd nedre korridoren"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue rooftop"
-LocationName="Blå tak"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Red base"
-LocationName="Röd bas"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Blå nedre hall"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue foyer"
-LocationName="Blå foajén"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Blue foyer"
-LocationName="Blå foajén"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red foyer"
-LocationName="Röd foajé"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blå övre korridoren"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blå övre korridoren"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blå övre korridoren"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blå Flagg Rum"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blå övre korridoren"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Blå nedre hall"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Blue base"
-LocationName="Blå bas"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Blå nedre hall"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blå övre korridoren"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Red upper hallway"
-LocationName="Röd övre hall"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red foyer"
-LocationName="Röd foajé"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Blue roof top"
-LocationName="Blått tak"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Red lower hallway"
-LocationName="Röd nedre korridoren"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Red rooftop"
-LocationName="Rött tak"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red upper hallway"
-LocationName="Röd övre hall"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red upper hallway"
-LocationName="Röd övre hall"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Flag Room"
-LocationName="Röd Flagga Rum"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red upper hallway"
-LocationName="Röd övre hall"
+LocationName=""
 

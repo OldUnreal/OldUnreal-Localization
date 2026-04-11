@@ -1,128 +1,106 @@
 ﻿[LevelInfo0]
-Title="Island Hop"
+; EN: Title="Island Hop"
+Title=""
 
 [LevelSummary]
-Title="Island Hop"
+; EN: Title="Island Hop"
+Title=""
 ; EN: Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
-Description="Toto vulkanické souostroví kdysi sloužilo jako brána do lidských válek 21. století. Řada mostů, přeměněná pro turnajové použití, nyní spojuje ostrovy. Tyto mosty, i když se skvěle používají pro pozemní vozidla, neposkytují přímou cestu k bitvě. Manty budou primární volbou pro přepravu."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Southwest Island"
-LocationName="Jihozápadní ostrov"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Southwest Island"
-LocationName="Jihozápadní ostrov"
+LocationName=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="West Island"
-LocationName="Západní ostrov"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Northwest Island"
-LocationName="Severozápadní ostrov"
+LocationName=""
+
+[Volume13]
+; EN: LocationName="Northwest Node (1)"
+LocationName=" (1)"
 
 [Volume14]
 ; EN: LocationName="Northwest Island"
-LocationName="Severozápadní ostrov"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Northeast Island"
-LocationName="Severovýchodní ostrov"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Northeast Island"
-LocationName="Severovýchodní ostrov"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Northeast Island"
-LocationName="Severovýchodní ostrov"
+LocationName=""
+
+[Volume18]
+; EN: LocationName="Blue Prime Node (4)"
+LocationName=" (4)"
 
 [Volume19]
 ; EN: LocationName="East Island"
-LocationName="Východní ostrov"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southwest Island"
-LocationName="Jihozápadní ostrov"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Small Northeast Island"
-LocationName="Malý severovýchodní ostrov"
+LocationName=""
+
+[Volume21]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="East Island"
-LocationName="Východní ostrov"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Southeast Island"
-LocationName="Jihovýchodní ostrov"
+LocationName=""
+
+[Volume24]
+; EN: LocationName="Southeast Node (3)"
+LocationName=" (3)"
 
 [Volume25]
 ; EN: LocationName="Southeast Island"
-LocationName="Jihovýchodní ostrov"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Volcano"
-LocationName="Sopka"
+LocationName=""
+
+[Volume3]
+; EN: LocationName="Red Prime Node (2)"
+LocationName=" (2)"
 
 [Volume5]
 ; EN: LocationName="West Island"
-LocationName="Západní ostrov"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Small Southwest Island"
-LocationName="Malý jihozápadní ostrov"
-
-[WaterVolume1]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume18]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume19]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume20]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume23]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume24]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume25]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume26]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume27]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume28]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume3]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
-
-[WaterVolume31]
-; EN: LocationName="Under Water"
-LocationName="Pod vodou"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 

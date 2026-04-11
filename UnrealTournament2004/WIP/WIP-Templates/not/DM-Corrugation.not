@@ -1,89 +1,90 @@
 ﻿[LevelInfo0]
 ; EN: Title="Corrugation"
-Title="Korrugering"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Corrugation"
-Title="Korrugering"
+Title=""
 ; EN: Description="After many years of Tournament battles, this arena is slowly being eaten away by successive rocket and shock rifle blasts. Add your contribution to its destruction."
-Description="Etter mange år med turneringskamper blir denne arenaen sakte spist bort av påfølgende rakett- og sjokkriflesprengninger. Legg ditt bidrag til dens ødeleggelse."
+Description=""
 
 [ZoneInfo1]
 ; EN: LocationName="Furnace Area"
-LocationName="Ovnsområde"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="West Area"
-LocationName="Vestområdet"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Sewer Entrance"
-LocationName="Kloakkinngang"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="East Sewer Area"
-LocationName="Østre kloakkområde"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="South Area"
-LocationName="Sør-området"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="East Sewer Area"
-LocationName="Østre kloakkområde"
+LocationName=""
 
 [ZoneInfo15]
-LocationName="Atrium"
+; EN: LocationName="Atrium"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Furnace Area"
-LocationName="Ovnsområde"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="North Stairway"
-LocationName="Nordre trapp"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="East Corridor"
-LocationName="Østre korridor"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="East Area"
-LocationName="Østområdet"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Central Sewer"
-LocationName="Sentralkloakk"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="South Sewer Area"
-LocationName="Sør avløpsområde"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="West Elevator Shaft"
-LocationName="Vest heissjakt"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="South East Sewer"
-LocationName="Sørøst-kloakk"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="East Curved Corridor"
-LocationName="Østbuet korridor"
+; EN: LocationName="Southwest Curved Corridor"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="East Area"
-LocationName="Østområdet"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Central Area"
-LocationName="Sentralområdet"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="East Curved Corridor"
-LocationName="Østbuet korridor"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Pump Area"
-LocationName="Pumpeområde"
+LocationName=""
 

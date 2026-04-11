@@ -1,57 +1,58 @@
 ﻿[LevelInfo0]
 ; EN: Title="Iron Deity"
-Title="Vasistenség"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Iron Deity"
-Title="Vasistenség"
-; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the double damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
-Description="Ez a nagy és impozáns aréna két közepes méretű harcos csapattal játszik a legjobban. Próbálj meg ne elkapni a szűk ventilátorszobán való átfutást, és ügyelj arra, hogy kordában tartsd a dupla sebzést. Végezetül, tartsd a szemed a rejtett Megváltó után!"
+Title=""
+; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the Double Damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Near Lightning Gun"
-LocationName="Villámfegyver közelében"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Lower Ramp"
-LocationName="Alsó rámpa"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Low FPS room"
-LocationName="Alacsony FPS szoba"
+LocationName=""
 
 [ZoneInfo11]
-; EN: LocationName="Near DoubleDamage"
-LocationName="DoubleDamage közelében"
+; EN: LocationName="Near Double Damage"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Closet"
-LocationName="Fülke"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Near Link Gun"
-LocationName="Link Gun közelében"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Minigun"
+; EN: LocationName="Minigun"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Double Damage"
-LocationName="Dupla sebzés"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Flak Room"
-LocationName="Flak szoba"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Bathroom"
-LocationName="Fürdőszoba"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Closet"
-LocationName="Fülke"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Near Shock Rifle"
-LocationName="Shock Rifle közelében"
+LocationName=""
 

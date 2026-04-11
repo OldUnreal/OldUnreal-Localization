@@ -1,57 +1,58 @@
 ﻿[LevelInfo0]
 ; EN: Title="Iron Deity"
-Title="IJzeren godheid"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Iron Deity"
-Title="IJzeren godheid"
-; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the double damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
-Description="Deze grote en imposante arena speelt het beste met twee middelgrote teams van strijders. Probeer niet betrapt te worden terwijl je door de krappe ventilatorkamer rent en zorg ervoor dat je de dubbele schade onder controle houdt. Houd ten slotte je ogen open voor de verborgen Verlosser!"
+Title=""
+; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the Double Damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Near Lightning Gun"
-LocationName="In de buurt van Lightning Gun"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Lower Ramp"
-LocationName="Lagere helling"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Low FPS room"
-LocationName="Kamer met lage FPS"
+LocationName=""
 
 [ZoneInfo11]
-; EN: LocationName="Near DoubleDamage"
-LocationName="In de buurt van DoubleDamage"
+; EN: LocationName="Near Double Damage"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Closet"
-LocationName="Kast"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Near Link Gun"
-LocationName="In de buurt van Link Gun"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Minigun"
+; EN: LocationName="Minigun"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Double Damage"
-LocationName="Dubbele schade"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Flak Room"
-LocationName="Flak-kamer"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Bathroom"
-LocationName="Badkamer"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Closet"
-LocationName="Kast"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Near Shock Rifle"
-LocationName="In de buurt van Schokgeweer"
+LocationName=""
 

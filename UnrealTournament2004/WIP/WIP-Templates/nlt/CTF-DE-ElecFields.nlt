@@ -1,128 +1,130 @@
 ﻿[LevelInfo0]
-Title="ElecFields"
+; EN: Title="Electric Fields"
+Title=""
 
 [LevelSummary]
-Title="ElecFields"
+; EN: Title="Electric Fields"
+Title=""
 ; EN: Description="The static towers of the Marakan flow have proven to be one of the most popular venues in the Tournament since their introduction last season. The true nature of the modern gladiator is revealed as participants butcher their way to victory. Whether competing in CTF or Bombing Run competitions, players must keep one thing in mind at all times as they do battle in the poisonous skies of Purgatory -- It's a long way down."
-Description="De statische torens van de Marakan-stroom hebben bewezen een van de meest populaire locaties in het toernooi te zijn sinds hun introductie vorig seizoen. De ware aard van de moderne gladiator wordt onthuld als deelnemers zich een weg banen naar de overwinning. Of je nu deelneemt aan VdV- of Bombing Run-competities, spelers moeten altijd één ding in gedachten houden als ze strijden in de giftige lucht van Purgatory: het is een lange weg naar beneden."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Blue Front"
-LocationName="Blauwe voorkant"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Spawning Area"
-LocationName="Blauw paaigebied"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Base Ramp"
-LocationName="Rode basishelling"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Ramp"
-LocationName="Rode basishelling"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Onderste oprijplaat vooraan"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rode onderste oprit vooraan"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Onderste oprijplaat vooraan"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Onderste oprijplaat vooraan"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rode onderste oprit vooraan"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rode onderste oprit vooraan"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Top Middle Area"
-LocationName="Bovenste middengebied"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Tower Area"
-LocationName="Torengebied"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Lower Middle Area"
-LocationName="Lager middengebied"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Blue Front Upper Ramp"
-LocationName="Bovenste oprijplaat vooraan"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Blue Front Upper Ramp"
-LocationName="Bovenste oprijplaat vooraan"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="Blue Front Upper Ramp"
-LocationName="Bovenste oprijplaat vooraan"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Red Front Upper Ramp"
-LocationName="Bovenste oprijplaat vooraan"
+LocationName=""
 
 [Volume24]
 ; EN: LocationName="Red Front Upper Ramp"
-LocationName="Bovenste oprijplaat vooraan"
+LocationName=""
 
 [Volume25]
 ; EN: LocationName="Red Front Upper Ramp"
-LocationName="Bovenste oprijplaat vooraan"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rode onderste oprit vooraan"
+LocationName=""
 
 [Volume27]
 ; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Onderste oprijplaat vooraan"
+LocationName=""
 
 [Volume28]
 ; EN: LocationName="Blue Base"
-LocationName="Blauwe basis"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Spawning Area"
-LocationName="Rood paaigebied"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Red Front"
-LocationName="Rode voorkant"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Base Ramp"
-LocationName="Blauwe basishelling"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Blue Base Ramp"
-LocationName="Blauwe basishelling"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Base"
-LocationName="Rode basis"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Red Front"
-LocationName="Rode voorkant"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Front"
-LocationName="Blauwe voorkant"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Buiten"
+LocationName=""
 

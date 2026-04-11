@@ -1,88 +1,90 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ironic"
-Title="Ironický"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Ironic"
-Title="Ironický"
+Title=""
 ; EN: Description="In the solitude of the abandoned coastal platforms of New Argentina, the quiet hum of bird and animal life yields to the roar of rocket fire, and the blast of shock rifles. Looks like R&R has been put on hold for today, so grab some ammo and get out there. It's time for a little old fashioned deathmatch."
-Description="V samotě opuštěných pobřežních plošin Nové Argentiny se tichý hukot ptáků a zvířat podvoluje řevu raketové palby a rachotu rázových pušek. Vypadá to, že R&R bylo pro dnešek pozastaveno, tak si vezměte nějakou munici a vyražte. Je čas na trochu staromódní deathmatch."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Shock Rifle"
-LocationName="Šoková puška"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="Bio Rifle"
-LocationName="Bio puška"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Top Hallway"
-LocationName="Horní chodba"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Top Hallway"
-LocationName="Horní chodba"
+LocationName=""
 
 [ZoneInfo12]
-LocationName="Flak Cannon"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo13]
-LocationName="Flak Cannon"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo14]
-; EN: LocationName="Pulse Gun"
-LocationName="Pulzní pistole"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Amplifier"
-LocationName="Zesilovač"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Raketomet"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Shock Rifle"
-LocationName="Šoková puška"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Raketomet"
+LocationName=""
 
 [ZoneInfo19]
-; EN: LocationName="Shock Rifle"
-LocationName="Šoková puška"
+; EN: LocationName="Outside"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Raketomet"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Elevator"
-LocationName="Výtah"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Elevator"
-LocationName="Výtah"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="Shield Room"
-LocationName="Místnost štítu"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="Shield Room"
-LocationName="Místnost štítu"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Top Hallway"
-LocationName="Horní chodba"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Top Hallway"
-LocationName="Horní chodba"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Elevator"
-LocationName="Výtah"
+LocationName=""
 

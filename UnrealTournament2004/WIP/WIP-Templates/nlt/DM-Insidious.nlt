@@ -1,60 +1,72 @@
 ﻿[LevelInfo0]
 ; EN: Title="Insidious"
-Title="Verraderlijk"
-LevelEnterText="DM-Insidious"
+Title=""
+; EN: LevelEnterText="DM-Insidious"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Insidious"
-Title="Verraderlijk"
-LevelEnterText="DM-Insidious"
+Title=""
+; EN: LevelEnterText="DM-Insidious"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Wall Tanks"
-LocationName="Wandtanks"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Bio Hall"
+; EN: LocationName="Bio Hall"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Lower Hall"
-LocationName="Benedenzaal"
+; EN: LocationName="Eastern Lower Halls"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="Flak Hall"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Upper Halls"
-LocationName="Bovenste Zalen"
+; EN: LocationName="Bio Hall"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Klonen van tanks"
+LocationName=""
+
+[ZoneInfo14]
+; EN: LocationName="Northern Upper Halls"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Upper Halls"
-LocationName="Bovenste Zalen"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Klonen van tanks"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Klonen van tanks"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Lower hall"
-LocationName="Benedenhal"
+; EN: LocationName="Western Lower Halls"
+LocationName=""
+
+[ZoneInfo6]
+; EN: LocationName="Southern Upper Halls"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Wall Tanks"
-LocationName="Wandtanks"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Wall Tanks"
-LocationName="Wandtanks"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Fan Room"
-LocationName="Ventilatorkamer"
+LocationName=""
 

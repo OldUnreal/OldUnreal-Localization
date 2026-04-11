@@ -1,158 +1,158 @@
 ﻿[LevelInfo0]
 ; EN: Title="Twin Tombs"
-Title="Tombes jumelles"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Twin Tombs"
-Title="Tombes jumelles"
+Title=""
 ; EN: Description="Winter has fallen on the tombs and the dead are restless.  This elegant recreation of the twin tombs of brothers Ramses III and Rudamon has a reputation for speed, brutality, and treachery, just like the pharaohs interred within."
-Description="L'hiver est tombé sur les tombes et les morts s'agitent. Cette reconstitution élégante des tombes jumelles des frères Ramsès III et Rudamon est réputée pour sa rapidité, sa brutalité et sa trahison, tout comme les pharaons qui y sont enterrés."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Couloir supérieur bleu"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue base"
-LocationName="Base bleue"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red base"
-LocationName="Base rouge"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red lower hallway"
-LocationName="Couloir inférieur rouge"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red jump pads"
-LocationName="Tapis de saut rouges"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Blue jump pads"
-LocationName="Tapis de saut bleus"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red upper hallway"
-LocationName="Couloir supérieur rouge"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Red roof top"
-LocationName="Toit rouge"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Couloir inférieur bleu"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Couloir supérieur bleu"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Outside Area"
-LocationName="Espace extérieur"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red lower hallway"
-LocationName="Couloir inférieur rouge"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red lower hallway"
-LocationName="Couloir inférieur rouge"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue rooftop"
-LocationName="Toit bleu"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Red base"
-LocationName="Base rouge"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Couloir inférieur bleu"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue foyer"
-LocationName="Foyer bleu"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Blue foyer"
-LocationName="Foyer bleu"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red foyer"
-LocationName="Foyer rouge"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Couloir supérieur bleu"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Couloir supérieur bleu"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Couloir supérieur bleu"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Chambre Pavillon Bleu"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Couloir supérieur bleu"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Couloir inférieur bleu"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Blue base"
-LocationName="Base bleue"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Couloir inférieur bleu"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Couloir supérieur bleu"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Red upper hallway"
-LocationName="Couloir supérieur rouge"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red foyer"
-LocationName="Foyer rouge"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Blue roof top"
-LocationName="Toit bleu"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Red lower hallway"
-LocationName="Couloir inférieur rouge"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Red rooftop"
-LocationName="Toit rouge"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red upper hallway"
-LocationName="Couloir supérieur rouge"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red upper hallway"
-LocationName="Couloir supérieur rouge"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Flag Room"
-LocationName="Chambre Drapeau Rouge"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red upper hallway"
-LocationName="Couloir supérieur rouge"
+LocationName=""
 

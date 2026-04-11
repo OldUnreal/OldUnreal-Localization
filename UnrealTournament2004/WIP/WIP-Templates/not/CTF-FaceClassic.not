@@ -1,96 +1,102 @@
 ﻿[LevelInfo0]
-Title="Face Classic"
+; EN: Title="Face Classic"
+Title=""
 
 [LevelInfo13]
-; EN: Title="Facing Worlds"
-Title="Å møte verdener"
+; EN: Title="Face Classic"
+Title=""
 
 [LevelSummary]
-Title="Face Classic"
+; EN: Title="Face Classic"
+Title=""
 ; EN: Description="This island-asteroid and its two towers have proven to be a perfect setting for Tournament CTF matches, so face your enemy and let the games begin!"
-Description="Denne øy-asteroiden og dens to tårn har vist seg å være en perfekt ramme for CTF-turneringer, så møt fienden din og la spillene begynne!"
+Description=""
 
 [Volume0]
 ; EN: LocationName="Blue Base Lower Sniper Loft"
-LocationName="Blue Base Nedre Sniper Loft"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Base Top Sniper Ledge"
-LocationName="Blå Base Top Sniper Ledge"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Base Top Sniper Ledge"
-LocationName="Rød Base Top Sniper Ledge"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Base Lower Sniper Loft"
-LocationName="Red Base Nedre Sniper Loft"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Central Open Ground"
-LocationName="Sentral åpen bakke"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Rød Base Nedre Nivå"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Red Base Top Sniper Ledge"
-LocationName="Rød Base Top Sniper Ledge"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="Blue Side Open Ground"
+; EN: LocationName="Blue Side Open Ground"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Blå base lavere nivå"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Blue Base Top Sniper Ledge"
-LocationName="Blå Base Top Sniper Ledge"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Base Lower Sniper Loft"
-LocationName="Red Base Nedre Sniper Loft"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Base Lower Sniper Loft"
-LocationName="Blue Base Nedre Sniper Loft"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="Blue Base Redeemer Loft"
+; EN: LocationName="Blue Base Redeemer Loft"
+LocationName=""
 
 [ZoneInfo22]
-LocationName="Blue Base Entrance"
+; EN: LocationName="Blue Base Entrance"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Blå base lavere nivå"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Blå base lavere nivå"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Red Base Redeemer Loft"
+; EN: LocationName="Red Base Redeemer Loft"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Base Entrance"
-LocationName="Rød baseinngang"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Rød Base Nedre Nivå"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Rød Base Nedre Nivå"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Rød Base Nedre Nivå"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Side Open Ground"
-LocationName="Rød side åpen bakke"
+LocationName=""
 

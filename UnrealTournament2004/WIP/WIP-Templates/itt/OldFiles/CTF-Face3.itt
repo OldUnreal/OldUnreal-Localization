@@ -1,0 +1,105 @@
+﻿[LevelInfo0]
+; EN: Title="Facing Worlds 3"
+Title="Affrontare i Mondi 3"
+
+[LevelSummary]
+; EN: Title="Facing Worlds 3"
+Title="Affrontare i Mondi 3"
+
+[Volume0]
+; EN: LocationName="Red Level 3"
+LocationName="Rosso Livello 3"
+
+[Volume1]
+; EN: LocationName="Blue Level 3"
+LocationName="Blu Livello 3"
+
+[Volume10]
+; EN: LocationName="Red Shield"
+LocationName="Scudo Rosso"
+
+[Volume11]
+; EN: LocationName="Blue Shield"
+LocationName="Scudo Blu"
+
+[Volume12]
+; EN: LocationName="Red Backdoor"
+LocationName="Porta sul retro rosso"
+
+[Volume13]
+; EN: LocationName="Blue Backdoor"
+LocationName="Porta sul retro blu"
+
+[Volume2]
+; EN: LocationName="Blue Level 2"
+LocationName="Blu Livello 2"
+
+[Volume3]
+; EN: LocationName="Red Level2"
+LocationName="Rosso Livello2"
+
+[Volume4]
+; EN: LocationName="Blue Flak"
+LocationName="Blu Flak"
+
+[Volume5]
+LocationName="Red Flak"
+
+[Volume6]
+; EN: LocationName="Blue Flak"
+LocationName="Blu Flak"
+
+[Volume7]
+; EN: LocationName="Blue Flak"
+LocationName="Blu Flak"
+
+[Volume8]
+LocationName="Red Flak"
+
+[Volume9]
+LocationName="Red Flak"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Base Blu"
+
+[ZoneInfo10]
+; EN: LocationName="Red Minigun"
+LocationName="Mitragliatrice rossa"
+
+[ZoneInfo11]
+; EN: LocationName="Red Pillars"
+LocationName="Colonne rosse"
+
+[ZoneInfo2]
+; EN: LocationName="Blue Minigun"
+LocationName="Mitragliatrice blu"
+
+[ZoneInfo3]
+; EN: LocationName="Blue Minigun"
+LocationName="Mitragliatrice blu"
+
+[ZoneInfo4]
+; EN: LocationName="Blue Pillars"
+LocationName="Colonne Blu"
+
+[ZoneInfo5]
+; EN: LocationName="Blue Minigun"
+LocationName="Mitragliatrice blu"
+
+[ZoneInfo6]
+; EN: LocationName="Outside"
+LocationName="Al di fuori"
+
+[ZoneInfo7]
+; EN: LocationName="Red Base"
+LocationName="Base Rossa"
+
+[ZoneInfo8]
+; EN: LocationName="Red Minigun"
+LocationName="Mitragliatrice rossa"
+
+[ZoneInfo9]
+; EN: LocationName="Red Minigun"
+LocationName="Mitragliatrice rossa"
+

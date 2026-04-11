@@ -1,46 +1,46 @@
 ﻿[LevelInfo0]
 ; EN: Title="Dawn"
-Title="Aube"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Dawn"
-Title="Aube"
+Title=""
 ; EN: Description="When Government prospectors happened upon this planet, Liandri knew they had found their next Onslaught arena. A primordial world still in the early stages of life, the lush landscape and rolling hills provide a serene and fitting environment for wholesale destruction."
-Description="Lorsque les prospecteurs du gouvernement sont arrivés sur cette planète, Liandri savait qu'ils avaient trouvé leur prochaine arène d'Assaut. Un monde primordial encore aux premiers stades de la vie, le paysage luxuriant et les collines offrent un environnement serein et propice à une destruction massive."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Blue Base"
-LocationName="Base bleue"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red Base"
-LocationName="Base rouge"
+LocationName=""
 
 [Volume10]
-; EN: LocationName="Central West Node"
-LocationName="Nœud Centre-Ouest"
+; EN: LocationName="Central West Node (1)"
+LocationName=" (1)"
 
 [Volume5]
-; EN: LocationName="Northeast Node"
-LocationName="Nœud nord-est"
+; EN: LocationName="Northeast Node (3)"
+LocationName=" (3)"
 
 [Volume6]
-; EN: LocationName="Northwest Node"
-LocationName="Nœud Nord-Ouest"
+; EN: LocationName="Northwest Node (6)"
+LocationName=" (6)"
 
 [Volume7]
-; EN: LocationName="Southwest Node"
-LocationName="Nœud sud-ouest"
+; EN: LocationName="Southwest Node (2)"
+LocationName=" (2)"
 
 [Volume8]
-; EN: LocationName="Southeast Node"
-LocationName="Nœud sud-est"
+; EN: LocationName="Southeast Node (5)"
+LocationName=" (5)"
 
 [Volume9]
-; EN: LocationName="Central East Node"
-LocationName="Nœud Centre-Est"
+; EN: LocationName="Central East Node (4)"
+LocationName=" (4)"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="À l'extérieur"
+LocationName=""
 

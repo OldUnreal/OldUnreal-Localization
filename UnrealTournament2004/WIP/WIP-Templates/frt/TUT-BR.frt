@@ -1,160 +1,160 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bombing Run Tutorial"
-Title="Tutoriel de bombardement"
+Title=""
 
 [LevelInfo6]
 ; EN: Title="Temple Of Anubis"
-Title="Temple d'Anubis"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bombing Run Tutorial"
-Title="Tutoriel de bombardement"
+Title=""
 
 [ZoneInfo0]
-; EN: LocationName="Painter sand dune"
-LocationName="Peintre dune de sable"
+; EN: LocationName="Redeemer"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Super shield sand dune"
-LocationName="Dune de sable super bouclier"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Blue respawn room"
-LocationName="Salle de réapparition bleue"
+; EN: LocationName="Blue South Respawn"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Blue respawn room"
-LocationName="Salle de réapparition bleue"
+; EN: LocationName="Blue South Respawn"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="Blue respawn room"
-LocationName="Salle de réapparition bleue"
+; EN: LocationName="Blue South Respawn"
+LocationName=""
 
 [ZoneInfo14]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Red North Top Entrance"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Red base"
-LocationName="Base rouge"
+; EN: LocationName="Red Base"
+LocationName=""
 
 [ZoneInfo16]
-; EN: LocationName="Red base"
-LocationName="Base rouge"
+; EN: LocationName="Red Base"
+LocationName=""
 
 [ZoneInfo17]
-; EN: LocationName="Red respawn room"
-LocationName="Salle de réapparition rouge"
+; EN: LocationName="Red North Respawn"
+LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="Blue respawn room"
-LocationName="Salle de réapparition bleue"
+; EN: LocationName="Blue North Respawn"
+LocationName=""
 
 [ZoneInfo19]
-; EN: LocationName="Red respawn room"
-LocationName="Salle de réapparition rouge"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo2]
-; EN: LocationName="Flakk cannon room"
-LocationName="Salle des canons Flakk"
+; EN: LocationName="Rocket Launcher Room"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="Red respawn room"
-LocationName="Salle de réapparition rouge"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo21]
-; EN: LocationName="Red respawn room"
-LocationName="Salle de réapparition rouge"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo22]
-; EN: LocationName="Red respawn room"
-LocationName="Salle de réapparition rouge"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo23]
-; EN: LocationName="Blue Respawn room"
-LocationName="Salle de réapparition bleue"
+; EN: LocationName="Blue North Respawn"
+LocationName=""
 
 [ZoneInfo24]
-; EN: LocationName="Blue repawn room"
-LocationName="Salle de réapparition bleue"
+; EN: LocationName="Blue North Respawn"
+LocationName=""
 
 [ZoneInfo25]
-; EN: LocationName="Bomb respawn room"
-LocationName="Salle de réapparition des bombes"
+; EN: LocationName="Center"
+LocationName=""
 
 [ZoneInfo26]
-; EN: LocationName="Rocket launcher room"
-LocationName="Salle des lance-roquettes"
+; EN: LocationName="Flak Cannon Room"
+LocationName=""
 
 [ZoneInfo27]
-; EN: LocationName="Rocket launcher room"
-LocationName="Salle des lance-roquettes"
+; EN: LocationName="Flak Cannon Room"
+LocationName=""
 
 [ZoneInfo28]
-; EN: LocationName="Flakk cannon room"
-LocationName="Salle des canons Flakk"
+; EN: LocationName="Rocket Launcher Room"
+LocationName=""
 
 [ZoneInfo29]
-; EN: LocationName="Bomb respawn room"
-LocationName="Salle de réapparition des bombes"
+; EN: LocationName="Center (Red Side)"
+LocationName=""
 
 [ZoneInfo3]
-; EN: LocationName="Red respawn room"
-LocationName="Salle de réapparition rouge"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo30]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Red Courtyard"
+LocationName=""
 
 [ZoneInfo31]
-; EN: LocationName="Bomb respawn room"
-LocationName="Salle de réapparition des bombes"
+; EN: LocationName="Center (Blue Side)"
+LocationName=""
 
 [ZoneInfo32]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Red Courtyard"
+LocationName=""
 
 [ZoneInfo33]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Red South Top Entrance"
+LocationName=""
 
 [ZoneInfo34]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Red North Top Entrance"
+LocationName=""
 
 [ZoneInfo35]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Blue North Top Entrance"
+LocationName=""
 
 [ZoneInfo36]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Red South Top Entrance"
+LocationName=""
 
 [ZoneInfo37]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Blue North Top Entrance"
+LocationName=""
 
 [ZoneInfo38]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Blue South Top Entrance"
+LocationName=""
 
 [ZoneInfo39]
-; EN: LocationName="Red court yard"
-LocationName="Cour rouge"
+; EN: LocationName="Blue South Top Entrance"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Blue court yard"
-LocationName="Cour bleue"
+; EN: LocationName="Blue Courtyard"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="Blue court yard"
-LocationName="Cour bleue"
+; EN: LocationName="Blue Courtyard"
+LocationName=""
 
 [ZoneInfo8]
-; EN: LocationName="Blue base"
-LocationName="Base bleue"
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="Blue base"
-LocationName="Base bleue"
+; EN: LocationName="Blue Base"
+LocationName=""
 

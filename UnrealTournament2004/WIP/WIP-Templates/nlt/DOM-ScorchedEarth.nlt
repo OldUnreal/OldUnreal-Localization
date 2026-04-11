@@ -1,83 +1,80 @@
 ﻿[LevelInfo0]
 ; EN: Title="Scorched Earth"
-Title="Verschroeide aarde"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Scorched Earth"
-Title="Verschroeide aarde"
+Title=""
 
 [PhysicsVolume0]
 ; EN: LocationName="Blue Spawn"
-LocationName="Blauwe spawn"
+LocationName=""
 
 [PhysicsVolume1]
 ; EN: LocationName="Red Spawn"
-LocationName="Rode spawn"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Inside Center"
-LocationName="Binnen centrum"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Back Hallway B"
-LocationName="Terug Gang B"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Outside"
-LocationName="Buiten"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Inside Center"
-LocationName="Binnen centrum"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Spawn Blue"
-LocationName="Spawn Blauw"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Front Hallway A"
-LocationName="Voorhal A"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Front Hallway A"
-LocationName="Voorhal A"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Room A"
-LocationName="Kamer A"
-
-[ZoneInfo2]
-LocationName="Skybox"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Back Hallway A"
-LocationName="Terug Hal A"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Inside Center"
-LocationName="Binnen centrum"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Inside Center"
-LocationName="Binnen centrum"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Inside Center"
-LocationName="Binnen centrum"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Front Hallway B"
-LocationName="Voorgang B"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Spawn Red"
-LocationName="Spawn Rood"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Front Hallway B"
-LocationName="Voorgang B"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Room B"
-LocationName="Kamer B"
+LocationName=""
 

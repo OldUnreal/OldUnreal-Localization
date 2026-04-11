@@ -1,16 +1,16 @@
 ﻿[Counter0]
 ; EN: CompleteMessage="Secret activated!"
-CompleteMessage="Hemligheten aktiverad!"
+CompleteMessage=""
 
 [LevelInfo0]
 ; EN: Title="Frostbite"
-Title="Förfrysning"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Frostbite"
-Title="Förfrysning"
+Title=""
 ; EN: Description="Don't be deceived by the apparent simplicity found in this frozen waste. Although it's among the smallest arenas for Onslaught, Frostbite is defined by frenetic pace and pitched battles."
-Description="Låt dig inte luras av den uppenbara enkelheten som finns i detta frusna avfall. Även om det är bland de minsta arenorna för Onslaught, definieras Frostbite av frenetisk fart och strider."
+Description=""
 
 [MessageTrigger0]
 Message="Peter Respondek"
@@ -50,115 +50,193 @@ Message="Dave Hagewood"
 
 [PhysicsVolume51]
 ; EN: LocationName="Secret Underground Hiding Place"
-LocationName="Hemligt underjordiskt gömställe"
+LocationName=""
+
+[Volume0]
+; EN: LocationName="Blue Tower"
+LocationName=""
+
+[Volume1]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume10]
+; EN: LocationName="Red Power Core"
+LocationName=""
+
+[Volume11]
+; EN: LocationName="Red Power Core"
+LocationName=""
+
+[Volume12]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume13]
+; EN: LocationName="Red Entrance"
+LocationName=""
+
+[Volume14]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume15]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume16]
+; EN: LocationName="Red Tower"
+LocationName=""
+
+[Volume17]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [Volume18]
 ; EN: LocationName="Southeast Valley"
-LocationName="Sydöstra dalen"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Southwest Lake"
-LocationName="Sydvästra sjön"
+LocationName=""
+
+[Volume2]
+; EN: LocationName="Blue Tower"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Northwest Lake"
-LocationName="Nordvästra sjön"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Northeast Valley"
-LocationName="Nordöstra dalen"
+LocationName=""
 
 [Volume22]
-LocationName="Central Lake"
+; EN: LocationName="Central Lake"
+LocationName=""
 
 [Volume23]
-LocationName="Northern Canyon"
+; EN: LocationName="Northern Canyon"
+LocationName=""
 
 [Volume24]
 ; EN: LocationName="Southern Canyon"
-LocationName="Södra kanjonen"
+LocationName=""
 
 [Volume25]
-; EN: LocationName="Unspecified"
-LocationName="Ospecificerad"
+; EN: LocationName="Southeast Node (1)"
+LocationName=" (1)"
 
 [Volume26]
-; EN: LocationName="Unspecified"
-LocationName="Ospecificerad"
+; EN: LocationName="Northeast Node (2)"
+LocationName=" (2)"
 
 [Volume27]
 ; EN: LocationName="Central Mountain"
-LocationName="Centrala berget"
+LocationName=""
 
 [Volume29]
 ; EN: LocationName="Central Mountain"
-LocationName="Centrala berget"
+LocationName=""
+
+[Volume3]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [Volume30]
 ; EN: LocationName="North"
-LocationName="Norr"
+LocationName=""
 
 [Volume31]
 ; EN: LocationName="South"
-LocationName="söder"
+LocationName=""
+
+[Volume4]
+; EN: LocationName="Red Tower"
+LocationName=""
+
+[Volume5]
+; EN: LocationName="Blue Base"
+LocationName=""
+
+[Volume6]
+; EN: LocationName="Blue Power Core"
+LocationName=""
+
+[Volume7]
+; EN: LocationName="Blue Power Core"
+LocationName=""
 
 [Volume8]
-; EN: LocationName="Unspecified"
-LocationName="Ospecificerad"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume9]
+; EN: LocationName="Blue Entrance"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Entrance"
-LocationName="Blå entré"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Tower"
-LocationName="Blå tornet"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Outside"
-LocationName="Utanför"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [ZoneInfo11]
-; EN: LocationName="Outside"
-LocationName="Utanför"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Tower"
-LocationName="Röda tornet"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="Outside"
-LocationName="Utanför"
+; EN: LocationName="Red Base"
+LocationName=""
+
+[ZoneInfo14]
+; EN: LocationName="Secret Hideout"
+LocationName=""
+
+[ZoneInfo15]
+; EN: LocationName="Easter Egg Area"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Tower"
-LocationName="Röda tornet"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Outside"
-LocationName="Utanför"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Tower"
-LocationName="Röda tornet"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Tower"
-LocationName="Blå tornet"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="Outside"
-LocationName="Utanför"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Tower"
-LocationName="Röda tornet"
+LocationName=""
 
 [ZoneInfo8]
-; EN: LocationName="Outside"
-LocationName="Utanför"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [ZoneInfo9]
-; EN: LocationName="Outside"
-LocationName="Utanför"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 

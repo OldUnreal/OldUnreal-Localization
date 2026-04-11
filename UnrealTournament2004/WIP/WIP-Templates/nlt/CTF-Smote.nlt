@@ -1,226 +1,226 @@
 ﻿[LavaVolume10]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume12]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume13]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume15]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume16]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume2]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume23]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume24]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume25]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume26]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume5]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume7]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LavaVolume9]
 ; EN: LocationName="In Lava!"
-LocationName="In lava!"
+LocationName=""
 
 [LevelInfo0]
 ; EN: Title="Smote"
-Title="smote"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Smote"
-Title="smote"
+Title=""
 ; EN: Description="The earth trembles beneath your feet, and the sky rains fire and ash down on you from above. The path to victory is as treacherous and deadly as the enemies you face on the battlefield, and less forgiving."
-Description="De aarde beeft onder je voeten, en de lucht laat vuur en as van boven op je neerregenen. Het pad naar de overwinning is net zo verraderlijk en dodelijk als de vijanden die je op het slagveld tegenkomt, en minder vergevingsgezind."
+Description=""
 
 [Volume10]
 ; EN: LocationName="Red Base Main Paths"
-LocationName="Hoofdpaden rode basis"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Higher Paths"
-LocationName="Hogere paden met rode basis"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Base Main Paths"
-LocationName="Hoofdpaden rode basis"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Base Higher Paths"
-LocationName="Hogere paden met blauwe basis"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Base Main Paths"
-LocationName="Hoofdpaden blauwe basis"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Blue Base Fortifications"
-LocationName="Blauwe basisversterkingen"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Blue Base Main Paths"
-LocationName="Hoofdpaden blauwe basis"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Side of Volcano"
-LocationName="Kant van vulkaan"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Blue Base Lower Paths"
-LocationName="Blauwe basis lagere paden"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="Blue Base Lower Paths"
-LocationName="Blauwe basis lagere paden"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Volcano Caverns"
-LocationName="Vulkaangrotten"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="Rode basis onderste paden"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="Rode basis onderste paden"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="Rode basis onderste paden"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Base Lower Paths"
-LocationName="Blauwe basis lagere paden"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Base Fortifications"
-LocationName="Rode Basis Vestingwerken"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Red Base Cellar Entrance"
-LocationName="Ingang rode basis kelder"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Out of Bounds!"
-LocationName="Buiten de grenzen!"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Base Main Entrance"
-LocationName="Blauwe basis hoofdingang"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Blue Base Cellar Entrance"
-LocationName="Blauwe basis kelder ingang"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blauwe Vlag Kamer"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Volcano Caverns"
-LocationName="Vulkaangrotten"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Volcano Caverns"
-LocationName="Vulkaangrotten"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Blue Base Main Entrance"
-LocationName="Blauwe basis hoofdingang"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Base Cellar Access"
-LocationName="Toegang tot kelder met blauwe basis"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Base Main Entrance"
-LocationName="Hoofdingang rode basis"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Base Cellar Access"
-LocationName="Toegang tot de rode basiskelder"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Base Cellar"
-LocationName="Rode Basis Kelder"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rode Vlag Kamer"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Blue Base Tower"
-LocationName="Blauwe basistoren"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Base Tower"
-LocationName="Rode basistoren"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="Blauwe Basis Kelder"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Base Cellar Entrance"
-LocationName="Blauwe basis kelder ingang"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="Blauwe Basis Kelder"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="Blauwe Basis Kelder"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Base Cellar"
-LocationName="Rode Basis Kelder"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Base Cellar"
-LocationName="Rode Basis Kelder"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Base Cellar Entrance"
-LocationName="Ingang rode basis kelder"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base Main Entrance"
-LocationName="Hoofdingang rode basis"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Base Tower Entrance"
-LocationName="Ingang rode basistoren"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Base Tower Entrance"
-LocationName="Ingang blauwe basistoren"
+LocationName=""
 

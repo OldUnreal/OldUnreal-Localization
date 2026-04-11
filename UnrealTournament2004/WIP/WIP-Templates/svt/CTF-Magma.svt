@@ -1,91 +1,96 @@
 ﻿[LevelInfo0]
-Title="Magma"
+; EN: Title="Magma"
+Title=""
 
 [LevelSummary]
-Title="Magma"
+; EN: Title="Magma"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Inside Blue Base"
-LocationName="Inuti Blue Base"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Inside Red Base"
-LocationName="Inuti röd bas"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Walkways"
-LocationName="Röda gångvägar"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Blue Walkways"
-LocationName="Blå gångvägar"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Upper Red Base"
-LocationName="Övre röda bas"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Upper Blue Base"
-LocationName="Övre blå bas"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Red Tower"
-LocationName="Röda tornet"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Tower"
-LocationName="Blå tornet"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Blue Tower Bottom"
-LocationName="Blue Tower Botten"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Tower Bottom"
-LocationName="Röda tornet Botten"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Under Red Base"
-LocationName="Under Röd Bas"
+LocationName=""
 
 [Volume9]
-LocationName="Under Blue Base"
+; EN: LocationName="Under Blue Base"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="Lava Pit"
-LocationName="Lava Grop"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Cave"
-LocationName="Grotta"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="BlueSide"
+; EN: LocationName="Blue Side"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Cave"
-LocationName="Grotta"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Cave"
-LocationName="Grotta"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Cave"
-LocationName="Grotta"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Cave"
-LocationName="Grotta"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Cave"
-LocationName="Grotta"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="cave"
-LocationName="grotta"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="RedSide"
+; EN: LocationName="Red Side"
+LocationName=""
 

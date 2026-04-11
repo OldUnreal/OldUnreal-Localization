@@ -1,230 +1,230 @@
 ﻿[LevelInfo0]
 ; EN: Title="Avaris"
-Title="Avari"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Avaris"
-Title="Avari"
+Title=""
 ; EN: Description="Once the capital of a mighty empire, Avaris now lies empty, abandoned to the relentless elements of the desert.  Those who die here in the Tournament share the same fate."
-Description="Ooit de hoofdstad van een machtig rijk, ligt Avaris nu leeg, overgelaten aan de meedogenloze elementen van de woestijn. Degenen die hier in het toernooi sterven, delen hetzelfde lot."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="Blauwe linker voorkamer"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blauwe binnenplaats"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Main Hall"
-LocationName="Blauwe Grote Zaal"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Right Antechamber"
-LocationName="Rood Rechts Voorkamer"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Left Antechamber (Destroyed)"
-LocationName="Rode linker antichambre (vernietigd)"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Flag Base"
-LocationName="Rode Vlag-basis"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Courtyard Building"
-LocationName="Binnenplaats Gebouw"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Right Entrance"
-LocationName="Rode ingang rechts"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Courtyard Building"
-LocationName="Binnenplaats Gebouw"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Left Entrance"
-LocationName="Rode linker ingang"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Main Hall"
-LocationName="Rode Grote Zaal"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Blauwe Vlag Basis"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Left Entrance"
-LocationName="Blauwe linker ingang"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Right Passages"
-LocationName="Rode rechtse passages"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Right Courtyard"
-LocationName="Rode Rechts Binnenplaats"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Blauwe Vlag Basis"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Blauwe Vlag Basis"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Left Side"
-LocationName="Blauwe linkerkant"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Courtyard Building"
-LocationName="Binnenplaats Gebouw"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Central Courtyard"
-LocationName="Centrale binnenplaats"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Central Area"
-LocationName="Middelste gebied"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue Right Entrance"
-LocationName="Blauwe ingang rechts"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Central Area"
-LocationName="Middelste gebied"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Left Staircase"
-LocationName="Blauwe linkertrap"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Blauwe Rechter Voorkamer"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Red Left Staircase"
-LocationName="Rode linkertrap"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Central Area"
-LocationName="Middelste gebied"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Red Right Staircase"
-LocationName="Rode trap rechts"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Blauwe Vlag Basis"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Red Flag Base"
-LocationName="Rode Vlag-basis"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Red Flag Base"
-LocationName="Rode Vlag-basis"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Red Courtyard"
-LocationName="Rode binnenplaats"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Courtyard Building"
-LocationName="Binnenplaats Gebouw"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Blue Left Side"
-LocationName="Blauwe linkerkant"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Blauwe Rechter Voorkamer"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Blauwe Rechter Voorkamer"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Blauwe Vlag Basis"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Blauwe Rechter Voorkamer"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Red Right Side"
-LocationName="Rode rechterkant"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Left Courtyard"
-LocationName="Rode linkerbinnenplaats"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="Blue Right Side"
-LocationName="Blauwe rechterkant"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Blauwe Vlag Basis"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Blauwe Vlag Basis"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Red Flag Base"
-LocationName="Rode Vlag-basis"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Red Flag Base"
-LocationName="Rode Vlag-basis"
+LocationName=""
 
 [ZoneInfo55]
 ; EN: LocationName="Blue Right Side"
-LocationName="Blauwe rechterkant"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="Central Area"
-LocationName="Middelste gebied"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="Central Area"
-LocationName="Middelste gebied"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Red Right Side"
-LocationName="Rode rechterkant"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Right Staircase"
-LocationName="Blauwe Rechter Trap"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="Red Left Side"
-LocationName="Rode linkerkant"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Red Left Side"
-LocationName="Rode linkerkant"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="Blauwe linker voorkamer"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="Blauwe linker voorkamer"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Central Courtyard"
-LocationName="Centrale binnenplaats"
+LocationName=""
 

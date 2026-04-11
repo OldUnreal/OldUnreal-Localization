@@ -1,62 +1,62 @@
 ﻿[LevelInfo0]
 ; EN: Title="Access"
-Title="Accès"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Access"
-Title="Accès"
+Title=""
 ; EN: Description="Seal off the Domination point of your choice by controlling the Access button in the middle of the arena."
-Description="Fermez le point de domination de votre choix en contrôlant le bouton d'accès au milieu de l'arène."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Switch Room"
-LocationName="Salle de commutation"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Salles d'apparition bleues"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Switch Room"
-LocationName="Salle de commutation"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Point A Room"
-LocationName="Point une pièce"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Point B Room"
-LocationName="Chambre Point B"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Salles d'apparition rouges"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Salles d'apparition rouges"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Salles d'apparition bleues"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Salles d'apparition bleues"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Salles d'apparition rouges"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Switch Room"
-LocationName="Salle de commutation"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Switch Room"
-LocationName="Salle de commutation"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Switch Room"
-LocationName="Salle de commutation"
+LocationName=""
 

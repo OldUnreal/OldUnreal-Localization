@@ -1,0 +1,102 @@
+﻿[LevelInfo0]
+; EN: Title="Face Classic"
+Title="viso classico"
+
+[LevelInfo13]
+; EN: Title="Facing Worlds"
+Title="Affrontare i mondi"
+
+[LevelSummary]
+; EN: Title="Face Classic"
+Title="viso classico"
+; EN: Description="This island-asteroid and its two towers have proven to be a perfect setting for Tournament CTF matches, so face your enemy and let the games begin!"
+Description="Quest'isola-asteroide e le sue due torri hanno dimostrato di essere un'ambientazione perfetta per le partite del torneo CTF, quindi affronta il tuo nemico e lascia che i giochi abbiano inizio!"
+
+[Volume0]
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName="Loft da cecchino inferiore con base blu"
+
+[Volume1]
+; EN: LocationName="Blue Base Top Sniper Ledge"
+LocationName="Bordo da cecchino superiore base blu"
+
+[Volume2]
+; EN: LocationName="Red Base Top Sniper Ledge"
+LocationName="sporgenza da cecchino superiore base rossa"
+
+[Volume3]
+; EN: LocationName="Red Base Lower Sniper Loft"
+LocationName="Loft da cecchino inferiore con base rossa"
+
+[Volume4]
+; EN: LocationName="Central Open Ground"
+LocationName="Terra aperta centrale"
+
+[ZoneInfo0]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Base Rossa Livello Inferiore"
+
+[ZoneInfo1]
+; EN: LocationName="Red Base Top Sniper Ledge"
+LocationName="sporgenza da cecchino superiore base rossa"
+
+[ZoneInfo10]
+; EN: LocationName="Blue Side Open Ground"
+LocationName="Lato Blu Terreno Aperto"
+
+[ZoneInfo18]
+; EN: LocationName="Blue Base Lower Level"
+LocationName="Base Blu Livello Inferiore"
+
+[ZoneInfo19]
+; EN: LocationName="Blue Base Top Sniper Ledge"
+LocationName="Bordo da cecchino superiore base blu"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base Lower Sniper Loft"
+LocationName="Loft da cecchino inferiore con base rossa"
+
+[ZoneInfo20]
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName="Loft da cecchino inferiore con base blu"
+
+[ZoneInfo21]
+; EN: LocationName="Blue Base Redeemer Loft"
+LocationName="Loft Redentore Base Blu"
+
+[ZoneInfo22]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Ingresso Base Blu"
+
+[ZoneInfo24]
+; EN: LocationName="Blue Base Lower Level"
+LocationName="Base Blu Livello Inferiore"
+
+[ZoneInfo25]
+; EN: LocationName="Blue Base Lower Level"
+LocationName="Base Blu Livello Inferiore"
+
+[ZoneInfo3]
+; EN: LocationName="Red Base Redeemer Loft"
+LocationName="Loft Redentore Base Rossa"
+
+[ZoneInfo4]
+; EN: LocationName="Red Base Entrance"
+LocationName="Ingresso Base Rossa"
+
+[ZoneInfo6]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Base Rossa Livello Inferiore"
+
+[ZoneInfo7]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Base Rossa Livello Inferiore"
+
+[ZoneInfo8]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Base Rossa Livello Inferiore"
+
+[ZoneInfo9]
+; EN: LocationName="Red Side Open Ground"
+LocationName="Terreno Aperto Lato Rosso"
+

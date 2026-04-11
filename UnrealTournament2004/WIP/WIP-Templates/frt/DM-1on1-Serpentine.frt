@@ -1,24 +1,24 @@
 ﻿[LevelInfo0]
 ; EN: Title="Serpentine"
-Title="Serpentin"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Serpentine"
-Title="Serpentin"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Serpent Catwalk"
-LocationName="Passerelle du Serpent"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Pit Maze"
-LocationName="Labyrinthe des fosses"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Maze Surface"
-LocationName="Surface du labyrinthe"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Ledges"
-LocationName="corniches"
+LocationName=""
 

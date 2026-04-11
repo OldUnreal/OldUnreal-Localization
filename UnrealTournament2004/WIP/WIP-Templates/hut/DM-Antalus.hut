@@ -1,52 +1,56 @@
 ﻿[LevelInfo0]
-Title="Antalus"
+; EN: Title="Antalus"
+Title=""
 
 [LevelSummary]
-Title="Antalus"
+; EN: Title="Antalus"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Shock Rifle Area"
-LocationName="Shock Puska terület"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Pond Area"
-LocationName="Tóterület"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Flak Area"
-LocationName="Flak terület"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Rocket Link Area"
-LocationName="Rocket Link terület"
+LocationName=""
 
 [Volume4]
-LocationName="Shield Link Mini Area"
+; EN: LocationName="Shield Link Mini Area"
+LocationName=""
 
 [Volume5]
-LocationName="Sniper Ridge"
+; EN: LocationName="Sniper Ridge"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Adrenaline Alley"
-LocationName="Adrenalin sikátor"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Super Shield Cave"
-LocationName="Super Shield barlang"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Super Shield Cave"
-LocationName="Super Shield barlang"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Super Shield Cave"
-LocationName="Super Shield barlang"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Super Shield Cave"
-LocationName="Super Shield barlang"
+LocationName=""
 

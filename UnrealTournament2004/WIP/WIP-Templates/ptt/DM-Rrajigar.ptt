@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 
 [LevelSummary]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 ; EN: Description="Fight in the Rrajigar mines."
-Description="Lute nas minas de Rrajigar."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Machine Area"
-LocationName="Área da Máquina"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="WaterFall"
-LocationName="Cascata"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Shield Area"
-LocationName="Área de Escudo"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Shock Area"
-LocationName="Área de choque"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="River"
-LocationName="Rio"
+LocationName=""
 

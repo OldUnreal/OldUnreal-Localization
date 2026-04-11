@@ -1,32 +1,34 @@
 ﻿[LevelInfo0]
 ; EN: Title="Conduit"
-Title="Rörledning"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Conduit"
-Title="Rörledning"
+Title=""
 ; EN: Description="The ebb and flow of static charge in the Conduit, harnessed to sate the requirements of an energy hungry society. The ebb and flow of a team battle in the Conduit, broadcast to sate the requirements of a depraved, bloodthirsty society."
-Description="Ebb och flöde av statisk laddning i ledningen, utnyttjad för att tillfredsställa kraven i ett energihungrigt samhälle. Ebb och flod av en lagstrid i Conduit, sänds för att tillgodose kraven i ett depraverat, blodtörstigt samhälle."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Central base"
-LocationName="Central bas"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="Blue  locker room"
-LocationName="Blått omklädningsrum"
+; EN: LocationName="Blue locker room"
+LocationName=""
 
 [ZoneInfo3]
-; EN: LocationName="Red  locker room"
-LocationName="Rött omklädningsrum"
+; EN: LocationName="Red locker room"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="DOM B"
+; EN: LocationName="DOM B"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Central conduit"
-LocationName="Central ledning"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="DOM A"
+; EN: LocationName="DOM A"
+LocationName=""
 

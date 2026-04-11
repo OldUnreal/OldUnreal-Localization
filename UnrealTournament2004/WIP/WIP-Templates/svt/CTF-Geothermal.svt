@@ -1,104 +1,104 @@
 ﻿[LevelInfo0]
 ; EN: Title="Geothermal"
-Title="Geotermisk"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Geothermal"
-Title="Geotermisk"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Middle Walkway"
-LocationName="Mellersta gångväg"
+LocationName=""
 
 [WaterVolume5]
 ; EN: LocationName="Blue Water"
-LocationName="Blått vatten"
+LocationName=""
 
 [WaterVolume7]
 ; EN: LocationName="Red Water"
-LocationName="Rött vatten"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="RED Flag Room"
-LocationName="RÖD Flagga Rum"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="RED Machine Room"
-LocationName="RÖTT maskinrum"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Machine Room"
-LocationName="BLÅT maskinrum"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Water Room"
-LocationName="BLÅT Vattenrum"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="RED Flag Room"
-LocationName="RÖD Flagga Rum"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Middle"
-LocationName="Mitten"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED High Entrance"
-LocationName="RÖD High Entrance"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="BLUE Low Entrance"
-LocationName="BLÅ Låg Entré"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLÅ High Entrance"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="RED Water Room"
-LocationName="RÖTT vattenrum"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLÅ High Entrance"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLÅ High Entrance"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="BLÅ Flagga Rum"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="BLÅ Flagga Rum"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLÅ High Entrance"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="RED Low Entrance"
-LocationName="RÖD Låg entré"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RED High Entrance"
-LocationName="RÖD High Entrance"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="RED High Entrance"
-LocationName="RÖD High Entrance"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="BLÅ Flagga Rum"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="RED High Entrance"
-LocationName="RÖD High Entrance"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="RED Flag Room"
-LocationName="RÖD Flagga Rum"
+LocationName=""
 

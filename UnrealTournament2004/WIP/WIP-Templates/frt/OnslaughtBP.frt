@@ -1,76 +1,77 @@
 ﻿[DamTypeArtilleryShell]
 ; EN: DeathString="%k rained on %o's parade."
-DeathString="%k a plu sur le défilé de %o."
-; EN: FemaleSuicide="%o managed to kill herself with her own Artillery."
-FemaleSuicide="%o a réussi à se suicider avec sa propre artillerie."
-; EN: MaleSuicide="%o managed to kill himself with his own Artillery."
-MaleSuicide="%o a réussi à se suicider avec sa propre artillerie."
+DeathString=""
+; EN: FemaleSuicide="%o was killed by an artillery strike."
+FemaleSuicide=""
+; EN: MaleSuicide="%o was killed by an artillery strike."
+MaleSuicide=""
 
 [DamTypeONSCicadaLaser]
 ; EN: DeathString="%k's blaster stung %o."
-DeathString="Le blaster de %k a piqué %o."
+DeathString=""
 ; EN: FemaleSuicide="%o used her blaster on herself."
-FemaleSuicide="%o a utilisé son blaster sur elle-même."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o used his blaster on himself."
-MaleSuicide="%o a utilisé son blaster sur lui-même."
+MaleSuicide=""
 
 [DamTypeONSCicadaRocket]
 ; EN: DeathString="%k's blew %o to bits."
-DeathString="%k a fait exploser %o en bits."
+DeathString=""
 ; EN: FemaleSuicide="%o blew herself up good."
-FemaleSuicide="%o s'est bien fait exploser."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o blew himself up good."
-MaleSuicide="%o s'est bien fait exploser."
+MaleSuicide=""
 
 [DamTypeShockTankProximityExplosion]
 ; EN: DeathString="%o got too close to %k's Paladin."
-DeathString="%o s'est trop rapproché du Paladin de %k."
+DeathString=""
 
 [DamTypeShockTankShockBall]
 ; EN: DeathString="%o couldn't avoid the blast from %k's Paladin."
-DeathString="%o n'a pas pu éviter l'explosion du Paladin de %k."
+DeathString=""
 
 [MutVehiclePickups]
 ; EN: FriendlyName="Vehicle Pickups"
-FriendlyName="Ramassage de véhicules"
+FriendlyName=""
 ; EN: Description="Vehicles will pickup items and give them to the driver"
-Description="Les véhicules ramasseront les articles et les remettront au conducteur"
+Description=""
 
 [MutBonusVehicles]
 ; EN: FriendlyName="Bonus Vehicles"
-FriendlyName="Véhicules bonus"
+FriendlyName=""
 ; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
-Description="Sur certaines cartes officielles, ce mod remplace certains véhicules par le Cicada, le SPMA ou le Paladin."
+Description=""
 
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
-VehiclePositionString="dans un SPMA"
+VehiclePositionString=""
 VehicleNameString="SPMA"
 
 [ONSArtillerySideGunPawn]
 ; EN: VehiclePositionString="in a SPMA side turret"
-VehiclePositionString="dans une tourelle latérale SPMA"
+VehiclePositionString=""
 ; EN: VehicleNameString="SPMA Side Turret"
-VehicleNameString="Tourelle latérale SPMA"
+VehicleNameString=""
 
 [ONSDualACGatlingGunPawn]
 ; EN: LockedMsg=" INCOMING "
-LockedMsg=" ENTRANT "
-; EN: VehiclePositionString="in a Cicada turret"
-VehiclePositionString="dans une tourelle Cigale"
-; EN: VehicleNameString="Cicada Laser Turret"
-VehicleNameString="Tourelle Laser Cigale"
+LockedMsg=""
+; EN: VehiclePositionString="in a Cicada's Laser Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Cicada's Laser Turret"
+VehicleNameString=""
 
 [ONSDualAttackCraft]
 ; EN: LockedMsg=" Locked "
-LockedMsg=" Fermé à clé "
+LockedMsg=""
+; EN: CoPilotLabel="Gunner"
+CoPilotLabel=""
 ; EN: VehiclePositionString="in a Cicada"
-VehiclePositionString="dans une cigale"
-; EN: VehicleNameString="Cicada"
-VehicleNameString="Cigale"
+VehiclePositionString=""
+VehicleNameString="Cicada"
 
 [ONSShockTank]
 ; EN: VehiclePositionString="in a Paladin"
-VehiclePositionString="dans un Paladin"
+VehiclePositionString=""
 VehicleNameString="Paladin"
 

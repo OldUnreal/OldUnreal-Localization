@@ -9,47 +9,48 @@ Preferences=(Caption="TCP/IP Network Play",Parent="Networking",Class=IpDrv.TcpNe
 Preferences=(Caption="Server Beacon",Parent="Networking",Class=IpDrv.UdpBeacon,Immediate=True)
 
 [TcpNetDriver]
-; EN: ClassCaption=TCP/IP Network Play
-ClassCaption=TCP/IP-nettverksavspilling
+; EN: ClassCaption="TCP/IP Network Play"
+ClassCaption=""
 
 [UdpBeacon]
-ClassCaption=Server LAN Beacon
+; EN: ClassCaption="Server LAN Beacon"
+ClassCaption=""
 
 [DecompressCommandlet]
-; EN: HelpCmd=decompress
-HelpCmd=dekomprimere
-; EN: HelpOneLiner=Decompress a file compressed with ucc compress.
-HelpOneLiner=Dekomprimer en fil komprimert med ucc-komprimering.
-; EN: HelpUsage=decompress CompressedFile
-HelpUsage=dekomprimer CompressedFile
-; EN: HelpParm[0]=CompressedFile
-HelpParm[0]=Komprimert fil
-; EN: HelpDesc[0]=The .uz file to decompress.
-HelpDesc[0]=.uz-filen som skal dekomprimeres.
+HelpCmd=decompress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+; EN: HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpOneLiner=""
+; EN: HelpUsage="decompress CompressedFile"
+HelpUsage=""
+; EN: HelpParm[0]="CompressedFile"
+HelpParm[0]=""
+; EN: HelpDesc[0]="The.uz file to decompress."
+HelpDesc[0]=""
 
 [CompressCommandlet]
-; EN: HelpCmd=compress
-HelpCmd=komprimere
-; EN: HelpOneLiner=Compress an Unreal package for auto-downloading.  A file with extension .uz will be created.
-HelpOneLiner=Komprimer en Unreal-pakke for automatisk nedlasting. En fil med filtypen .uz vil bli opprettet.
-; EN: HelpUsage=compress File1 [File2 [File3 ...]]
-HelpUsage=komprimere Fil1 [Fil2 [Fil3 ...]]
-; EN: HelpParm[0]=Files
-HelpParm[0]=Filer
-; EN: HelpDesc[0]=The wildcard or file names to compress.
-HelpDesc[0]=Jokertegnet eller filnavnene som skal komprimeres.
+HelpCmd=compress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+; EN: HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpOneLiner=""
+; EN: HelpUsage="compress File1 [File2 [File3...]]"
+HelpUsage=""
+; EN: HelpParm[0]="Files"
+HelpParm[0]=""
+; EN: HelpDesc[0]="The wildcard or file names to compress."
+HelpDesc[0]=""
 
 [MasterServerUplink]
 ; EN: MSUPropText[0]="Advertise Server"
-MSUPropText[0]="Annonser server"
+MSUPropText[0]=""
 ; EN: MSUPropText[1]="Process Stats"
-MSUPropText[1]="Prosessstatistikk"
+MSUPropText[1]=""
 ; EN: MSUPropText[2]="Ignore UTAN Bans"
-MSUPropText[2]="Ignorer UTAN-forbud"
-; EN: MSUPropDesc[0]="if true, your server is advertised on the internet server browser."
-MSUPropDesc[0]="hvis dette er sant, annonseres serveren din i nettleseren på nettserveren."
+MSUPropText[2]=""
+; EN: MSUPropDesc[0]="If checked, your server will be advertised on the Internet Server Browser."
+MSUPropDesc[0]=""
 ; EN: MSUPropDesc[1]="Publishes player stats from your server on the UT2004 stats website."
-MSUPropDesc[1]="Publiserer spillerstatistikk fra serveren din på UT2004-statistikknettstedet."
+MSUPropDesc[1]=""
 ; EN: MSUPropDesc[2]="If true, your server will ignore UTAN based bans coming from the master server."
-MSUPropDesc[2]="Hvis sant, vil serveren din ignorere UTAN-baserte forbud som kommer fra hovedserveren."
+MSUPropDesc[2]=""
 

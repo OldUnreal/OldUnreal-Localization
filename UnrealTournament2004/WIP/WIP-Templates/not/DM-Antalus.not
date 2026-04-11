@@ -1,48 +1,56 @@
 ﻿[LevelInfo0]
-Title="Antalus"
+; EN: Title="Antalus"
+Title=""
 
 [LevelSummary]
-Title="Antalus"
+; EN: Title="Antalus"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Shock Rifle Area"
-LocationName="Sjokkrifleområde"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Pond Area"
-LocationName="Damområdet"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Flak Area"
-LocationName="Flak Område"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Rocket Link Area"
-LocationName="Rocket Link-området"
+LocationName=""
 
 [Volume4]
-LocationName="Shield Link Mini Area"
+; EN: LocationName="Shield Link Mini Area"
+LocationName=""
 
 [Volume5]
-LocationName="Sniper Ridge"
+; EN: LocationName="Sniper Ridge"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Adrenaline Alley"
-LocationName="Adrenalin Alley"
+LocationName=""
 
 [ZoneInfo0]
-LocationName="Super Shield Cave"
+; EN: LocationName="Super Shield Cave"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Utenfor"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="Super Shield Cave"
+; EN: LocationName="Super Shield Cave"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Super Shield Cave"
+; EN: LocationName="Super Shield Cave"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="Super Shield Cave"
+; EN: LocationName="Super Shield Cave"
+LocationName=""
 

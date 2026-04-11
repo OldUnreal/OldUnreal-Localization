@@ -1,102 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Metallurgy"
-Title="Metallurgie"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Metallurgy"
-Title="Metallurgie"
+Title=""
 ; EN: Description="Separating the fast from the slow, the strong from the weak, the skilled from the incompetent - Metallurgy will test your mettle."
-Description="De snelle van de trage scheiden, de sterke van de zwakke, de bekwame van de incompetente - Metallurgie zal je moed testen."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Near the fuel tanker"
-LocationName="In de buurt van de brandstoftanker"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Outside the molten metal cascade"
-LocationName="Buiten de cascade van gesmolten metaal"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Beneath the ducts of molten metal"
-LocationName="Onder de kanalen van gesmolten metaal"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Between the pillars"
-LocationName="Tussen de pilaren"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Between the pillars"
-LocationName="Tussen de pilaren"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Second floor deck"
-LocationName="Dek op de tweede verdieping"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Second floor deck"
-LocationName="Dek op de tweede verdieping"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Second floor deck"
-LocationName="Dek op de tweede verdieping"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="First floor deck"
-LocationName="Dek op de eerste verdieping"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="First floor deck"
-LocationName="Dek op de eerste verdieping"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="First floor deck"
-LocationName="Dek op de eerste verdieping"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="On the roof"
-LocationName="Op het dak"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southern exterior"
-LocationName="zuidelijke buitenkant"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Western exterior"
-LocationName="Westers exterieur"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Northern exterior"
-LocationName="noordelijke buitenkant"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Northern exterior"
-LocationName="noordelijke buitenkant"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Northern exterior"
-LocationName="noordelijke buitenkant"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Northern exterior"
-LocationName="noordelijke buitenkant"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Communication tower"
-LocationName="Communicatie toren"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Above the ducts of molten metal"
-LocationName="Boven de kanalen van gesmolten metaal"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Molten metal cascade"
-LocationName="Cascade van gesmolten metaal"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Interior atrium"
-LocationName="Interieur atrium"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Interior ground floor"
-LocationName="Interieur begane grond"
+LocationName=""
 

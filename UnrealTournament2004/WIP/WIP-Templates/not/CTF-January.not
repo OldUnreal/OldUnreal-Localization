@@ -1,121 +1,126 @@
 ﻿[LevelInfo0]
 ; EN: Title="January"
-Title="januar"
+Title=""
 
 [LevelSummary]
 ; EN: Title="January"
-Title="januar"
+Title=""
 ; EN: Description="After a somewhat failed renovation attempt, the Liandri Corporation authorized the restructuring and repair of facility 32356.  Nearly 2 years later, the gates are open.  Welcome to facility 32356-a code-named January!"
-Description="Etter et noe mislykket oppussingsforsøk, godkjente Liandri Corporation restrukturering og reparasjon av anlegg 32356. Nesten 2 år senere er portene åpne. Velkommen til anlegg 32356 - et kodenavn januar!"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Blå entré"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="Blue Pipe Exit"
+; EN: LocationName="Blue Pipe Exit"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Flag Access"
-LocationName="Blått flagg tilgang"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Rød entré"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Red Entrance Stairs"
-LocationName="Rød inngangstrapp"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Foyer"
-LocationName="Rød foaje"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base med blått flagg"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Upper Flag Base"
-LocationName="Blå øvre flaggbase"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Platform"
-LocationName="Rød plattform"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Doors (Left)"
-LocationName="Røde dører (venstre)"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Platform"
-LocationName="Blå plattform"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Red Access Hall"
-LocationName="Rød adkomsthall"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="Red Pipe Exit"
+; EN: LocationName="Red Pipe Exit"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Flag Access"
-LocationName="Tilgang med rødt flagg"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red Bunker"
-LocationName="Rød Bunker"
+LocationName=""
 
 [ZoneInfo24]
-LocationName="Red Flag Base"
+; EN: LocationName="Red Flag Base"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Red Upper Flag Base"
-LocationName="Rød øvre flaggbase"
+LocationName=""
 
 [ZoneInfo26]
-LocationName="Red Junction"
+; EN: LocationName="Red Junction"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Blå entré"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Upper Flag Base"
-LocationName="Rød øvre flaggbase"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Entrance Stairs"
-LocationName="Blå inngangstrapp"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Rød entré"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Middle"
-LocationName="Midten"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blå foaje"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Blue Bunker"
-LocationName="Blå Bunker"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Blue Junction"
+; EN: LocationName="Blue Junction"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Doors (Left)"
-LocationName="Blå dører (venstre)"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Access Hall"
-LocationName="Blå Adkomsthall"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Upper Flag Base"
-LocationName="Blå øvre flaggbase"
+LocationName=""
 

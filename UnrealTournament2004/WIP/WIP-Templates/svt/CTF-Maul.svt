@@ -1,30 +1,32 @@
 ﻿[LevelInfo0]
-Title="Maul"
+; EN: Title="Maul"
+Title=""
 
 [LevelSummary]
-Title="Maul"
+; EN: Title="Maul"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Blue Side"
-LocationName="Blå sida"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red Side"
-LocationName="Röda sidan"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Base"
-LocationName="Röd bas"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Base"
-LocationName="Blå bas"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Roof"
-LocationName="Blått tak"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Roof"
-LocationName="Rött tak"
+LocationName=""
 

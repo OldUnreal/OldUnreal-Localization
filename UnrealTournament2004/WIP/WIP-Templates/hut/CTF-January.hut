@@ -1,121 +1,126 @@
 ﻿[LevelInfo0]
 ; EN: Title="January"
-Title="január"
+Title=""
 
 [LevelSummary]
 ; EN: Title="January"
-Title="január"
+Title=""
 ; EN: Description="After a somewhat failed renovation attempt, the Liandri Corporation authorized the restructuring and repair of facility 32356.  Nearly 2 years later, the gates are open.  Welcome to facility 32356-a code-named January!"
-Description="Egy kissé kudarcba fulladt felújítási kísérlet után a Liandri Corporation engedélyezte a 32356. számú létesítmény átalakítását és javítását. Közel 2 évvel később a kapu nyitva áll. Üdvözöljük a 32356-os létesítményben, amelynek kódneve Január!"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Kék bejárati csarnok"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Pipe Exit"
-LocationName="Blue Pipe kijárat"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Flag Access"
-LocationName="Kék zászló hozzáférés"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Piros bejárati csarnok"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Red Entrance Stairs"
-LocationName="Piros bejárati lépcsők"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Foyer"
-LocationName="Vörös előtér"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Kék zászló bázis"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Upper Flag Base"
-LocationName="Kék felső zászló alap"
+LocationName=""
 
 [ZoneInfo18]
-LocationName="Red Platform"
+; EN: LocationName="Red Platform"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Doors (Left)"
-LocationName="Piros ajtók (balra)"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Platform"
-LocationName="Kék platform"
+LocationName=""
 
 [ZoneInfo20]
-LocationName="Red Access Hall"
+; EN: LocationName="Red Access Hall"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Pipe Exit"
-LocationName="Piros cső kijárat"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Flag Access"
-LocationName="Red Flag hozzáférés"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red Bunker"
-LocationName="Vörös Bunker"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Red Flag Base"
-LocationName="Vörös zászló bázis"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Red Upper Flag Base"
-LocationName="Piros felső zászlótartó"
+LocationName=""
 
 [ZoneInfo26]
-LocationName="Red Junction"
+; EN: LocationName="Red Junction"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Kék bejárati csarnok"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Upper Flag Base"
-LocationName="Piros felső zászlótartó"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Entrance Stairs"
-LocationName="Kék bejárati lépcsők"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Piros bejárati csarnok"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Middle"
-LocationName="Középső"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Foyer"
-LocationName="Kék előtér"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Blue Bunker"
-LocationName="Kék Bunker"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Blue Junction"
+; EN: LocationName="Blue Junction"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Doors (Left)"
-LocationName="Kék ajtók (balra)"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="Blue Access Hall"
+; EN: LocationName="Blue Access Hall"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Upper Flag Base"
-LocationName="Kék felső zászló alap"
+LocationName=""
 

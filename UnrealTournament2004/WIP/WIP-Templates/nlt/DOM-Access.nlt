@@ -1,62 +1,62 @@
 ﻿[LevelInfo0]
 ; EN: Title="Access"
-Title="Toegang"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Access"
-Title="Toegang"
+Title=""
 ; EN: Description="Seal off the Domination point of your choice by controlling the Access button in the middle of the arena."
-Description="Sluit het Domination-punt van je keuze af door de toegangsknop in het midden van de arena te bedienen."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Switch Room"
-LocationName="Schakelruimte"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Blauwe spawnhallen"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Switch Room"
-LocationName="Schakelruimte"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Point A Room"
-LocationName="Wijs een kamer aan"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Point B Room"
-LocationName="Punt B Kamer"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Rode spawnhallen"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Rode spawnhallen"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Blauwe spawnhallen"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Blauwe spawnhallen"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Rode spawnhallen"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Switch Room"
-LocationName="Schakelruimte"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Switch Room"
-LocationName="Schakelruimte"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Switch Room"
-LocationName="Schakelruimte"
+LocationName=""
 

@@ -1,28 +1,28 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ruination"
-Title="破滅"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Ruination"
-Title="破滅"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Open Ground"
-LocationName="オープングラウンド"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="DOM Point A"
-LocationName="DOMポイントA"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="DOM Point B"
-LocationName="DOMポイントB"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Point B Ruins"
-LocationName="ポイントB遺跡"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Point A Ruins"
-LocationName="ポイントA遺跡"
+LocationName=""
 

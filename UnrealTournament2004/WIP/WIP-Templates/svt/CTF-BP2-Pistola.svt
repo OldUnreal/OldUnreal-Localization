@@ -1,50 +1,54 @@
 ﻿[LevelInfo0]
-Title="Pistola Battle Grounds"
+; EN: Title="Pistola Battle Grounds"
+Title=""
 
 [LevelSummary]
-Title="Pistola Battle Grounds"
+; EN: Title="Pistola Battle Grounds"
+Title=""
 ; EN: Description="This twin complex of concrete and metal combines the beauty of nature with the harsh lines of industrial architecture to create a fierce battle arena.  Where is my Pistola?"
-Description="Detta tvillingkomplex av betong och metall kombinerar naturens skönhet med industriell arkitekturs hårda linjer för att skapa en hård kamparena. Var är min Pistola?"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Utanför"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Flagroom"
-LocationName="Blå Flaggrum"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Flagroom"
-LocationName="Röda flaggrummet"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Interials A"
-LocationName="Röda inslag A"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Interials B"
-LocationName="Röda inslag B"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Red Flak Foyer"
-LocationName="Röd Flak Foajé"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Foyer A"
-LocationName="Röda foajén A"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="Blue Interials A"
+; EN: LocationName="Blue Interials A"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Blue Interials B"
+; EN: LocationName="Blue Interials B"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Flak Foyer"
-LocationName="Blue Flak Foajén"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Foyer A"
-LocationName="Blå foajén A"
+LocationName=""
 

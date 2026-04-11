@@ -1,83 +1,86 @@
 ﻿[LevelInfo0]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelInfo6]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelSummary]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 ; EN: Description="Prieth Callas was a hard, cruel man, fond of torturing his enemies before sending them to their deaths. He raised creatures of great size and ferocity, setting them against his prisoners in arenas of his own creation. Grendelkeep is the last of his diabolical constructions, left to fall into ruin after Callas was dragged from the battlements by his own men and fed to the creatures he bred in the dark kennels below. The rain has washed away the blood, but the evil that bred here has left a much deeper stain."
-Description="Prieth Callas byl tvrdý, krutý muž, rád mučil své nepřátele, než je poslal na smrt. Vychoval tvory velké velikosti a zuřivosti a postavil je proti svým vězňům v arénách svého vlastního stvoření. Grendelkeep je poslední z jeho ďábelských staveb, která se nechala zřítit poté, co Callasovou vytáhli z cimbuří jeho vlastní muži a nakrmili ji stvoření, která choval v temných boudách pod nimi. Déšť krev spláchl, ale zlo, které se zde množilo, zanechalo mnohem hlubší skvrnu."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Great Room Hall"
-LocationName="Velký pokojový sál"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Great Room"
-LocationName="Velký pokoj"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Sniper Nest"
-LocationName="Hnízdo odstřelovačů"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Great Room Hall"
-LocationName="Velký pokojový sál"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Lower Flak Hall"
-LocationName="Dolní Flak Hall"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Lower Flak Hall"
-LocationName="Dolní Flak Hall"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Great Room Hall"
-LocationName="Velký pokojový sál"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Velký Amp Hall"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Horní raketový sál"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Horní raketový sál"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Great Room"
-LocationName="Velký pokoj"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Great Room"
-LocationName="Velký pokoj"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Great Room"
-LocationName="Velký pokoj"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Horní raketový sál"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini sál"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini sál"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Great Tower"
-LocationName="Velká věž"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Sniper Nest"
-LocationName="Hnízdo odstřelovačů"
+LocationName=""
 

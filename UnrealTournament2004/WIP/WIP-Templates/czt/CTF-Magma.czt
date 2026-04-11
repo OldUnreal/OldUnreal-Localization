@@ -1,92 +1,96 @@
 ﻿[LevelInfo0]
-Title="Magma"
+; EN: Title="Magma"
+Title=""
 
 [LevelSummary]
-Title="Magma"
+; EN: Title="Magma"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Inside Blue Base"
-LocationName="Uvnitř Modrá základna"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Inside Red Base"
-LocationName="Uvnitř červené základny"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Walkways"
-LocationName="Červené chodníky"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Blue Walkways"
-LocationName="Modré chodníky"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Upper Red Base"
-LocationName="Horní červená základna"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Upper Blue Base"
-LocationName="Horní modrá základna"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Red Tower"
-LocationName="Červená věž"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Tower"
-LocationName="Modrá věž"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Blue Tower Bottom"
-LocationName="Modré dno věže"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Tower Bottom"
-LocationName="Spodní část červené věže"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Under Red Base"
-LocationName="Pod červenou základnou"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Under Blue Base"
-LocationName="Pod modrou základnou"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="Lava Pit"
-LocationName="Lávová jáma"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Cave"
-LocationName="Jeskyně"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="BlueSide"
+; EN: LocationName="Blue Side"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Cave"
-LocationName="Jeskyně"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Cave"
-LocationName="Jeskyně"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Cave"
-LocationName="Jeskyně"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Cave"
-LocationName="Jeskyně"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Cave"
-LocationName="Jeskyně"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="cave"
-LocationName="jeskyně"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="RedSide"
+; EN: LocationName="Red Side"
+LocationName=""
 

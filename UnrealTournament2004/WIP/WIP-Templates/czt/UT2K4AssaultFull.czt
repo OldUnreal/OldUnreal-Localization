@@ -1,85 +1,88 @@
 ﻿[ASTurret_IonCannon]
 ; EN: VehiclePositionString="manning an Ion Cannon"
-VehiclePositionString="obsluhovat iontové dělo"
+VehiclePositionString=""
 ; EN: VehicleNameString="Ion Cannon"
-VehicleNameString="Iontové dělo"
+VehicleNameString=""
 
 [ASTurret_LinkTurret]
 ; EN: VehiclePositionString="manning a Link Turret"
-VehiclePositionString="obsluhující Link Turret"
-VehicleNameString="Link Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Link Turret"
+VehicleNameString=""
 
 [ASVehicle_SpaceFighter_Human]
-; EN: VehiclePositionString="in a spacefighter"
-VehiclePositionString="ve vesmírné stíhačce"
+; EN: VehiclePositionString="in a Human Spacefighter"
+VehiclePositionString=""
 ; EN: VehicleNameString="Human Spacefighter"
-VehicleNameString="Lidská vesmírná stíhačka"
+VehicleNameString=""
 
 [ASVehicle_SpaceFighter_Skaarj]
+; EN: VehiclePositionString="in a Skaarj Spacefighter"
+VehiclePositionString=""
 ; EN: VehicleNameString="Skaarj Spacefighter"
-VehicleNameString="Spacefighter Skaarj"
+VehicleNameString=""
 
 [DamTypeBallTurretPlasma]
 ; EN: DeathString="%o was served an extra helping of %k's plasma."
-DeathString="%o byla podávána další dávka plazmy %k."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own plasma blast."
-FemaleSuicide="%o se smažila vlastním výbuchem plazmy."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own plasma blast."
-MaleSuicide="%o se usmažil svým vlastním plazmovým výbuchem."
+MaleSuicide=""
 
 [DamTypeIonCannonBlast]
-; EN: DeathString="%o was OBLITERATED by %k"
-DeathString="%o byl VYMAZÁN %k"
-; EN: FemaleSuicide="%o was OBLITERATED"
-FemaleSuicide="%o byl VYMAZÁN"
-; EN: MaleSuicide="%o was OBLITERATED"
-MaleSuicide="%o byl VYMAZÁN"
+; EN: DeathString="%o was OBLITERATED by %k!"
+DeathString=""
+; EN: FemaleSuicide="%o was OBLITERATED!"
+FemaleSuicide=""
+; EN: MaleSuicide="%o was OBLITERATED!"
+MaleSuicide=""
 
 [DamTypeLinkTurretBeam]
 ; EN: DeathString="%o was carved up by %k's green shaft."
-DeathString="%o bylo vyříznuto zeleným hřídelem %k."
+DeathString=""
 ; EN: FemaleSuicide="%o shafted herself."
-FemaleSuicide="%o se ohnala."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o shafted himself."
-MaleSuicide="%o se ohnal."
+MaleSuicide=""
 
 [DamTypeLinkTurretPlasma]
 ; EN: DeathString="%o was served an extra helping of %k's plasma."
-DeathString="%o byla podávána další dávka plazmy %k."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own plasma blast."
-FemaleSuicide="%o se smažila vlastním výbuchem plazmy."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own plasma blast."
-MaleSuicide="%o se usmažil svým vlastním plazmovým výbuchem."
+MaleSuicide=""
 
 [DamTypeSpaceFighterLaser]
 ; EN: DeathString="%o was served an extra helping of %k's lasers."
-DeathString="%o dostal extra pomoc laserů %k."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own laser blast."
-FemaleSuicide="%o se smažila vlastním laserovým výbuchem."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own laser blast."
-MaleSuicide="%o se usmažil svým vlastním laserovým výbuchem."
+MaleSuicide=""
 
 [DamTypeSpaceFighterMissile]
 ; EN: DeathString="%o couldn't avoid %k's missile."
-DeathString="%o se nemohl vyhnout střele %k."
+DeathString=""
 ; EN: FemaleSuicide="%o blasted herself out of space."
-FemaleSuicide="%o se vyhodila z vesmíru."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o blasted himself out of space."
-MaleSuicide="%o se vystřelil z vesmíru."
+MaleSuicide=""
 
 [Weapon_LinkTurret]
 ; EN: ItemName="Turret weapon"
-ItemName="Věžová zbraň"
+ItemName=""
 
 [Weapon_SpaceFighter]
 ; EN: ItemName="SpaceFighter weapon"
-ItemName="Zbraň SpaceFighter"
+ItemName=""
 
 [Weapon_Turret]
 ; EN: ItemName="Turret weapon"
-ItemName="Věžová zbraň"
+ItemName=""
 
 [Weapon_Turret_IonCannon]
 ; EN: ItemName="Ion Cannon Turret weapon"
-ItemName="Iontová dělová věžová zbraň"
+ItemName=""
 

@@ -1,24 +1,24 @@
 ﻿[LevelInfo0]
 ; EN: Title="Serpentine"
-Title="蛇紋石"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Serpentine"
-Title="蛇紋石"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Serpent Catwalk"
-LocationName="蛇キャットウォーク"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Pit Maze"
-LocationName="ピットメイズ"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Maze Surface"
-LocationName="迷路の表面"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Ledges"
-LocationName="レッジ"
+LocationName=""
 

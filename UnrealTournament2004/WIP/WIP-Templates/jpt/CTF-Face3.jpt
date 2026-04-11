@@ -1,108 +1,108 @@
 ﻿[LevelInfo0]
 ; EN: Title="Facing Worlds 3"
-Title="直面する世界3"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Facing Worlds 3"
-Title="直面する世界3"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Red Level 3"
-LocationName="赤レベル3"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Level 3"
-LocationName="ブルーレベル3"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Shield"
-LocationName="レッドシールド"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Blue Shield"
-LocationName="ブルーシールド"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Backdoor"
-LocationName="赤い裏口"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Backdoor"
-LocationName="ブルーバックドア"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Blue Level 2"
-LocationName="ブルーレベル2"
+LocationName=""
 
 [Volume3]
-; EN: LocationName="Red Level2"
-LocationName="赤レベル2"
+; EN: LocationName="Red Level 2"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Flak"
-LocationName="ブルーフラック"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Flak"
-LocationName="レッドフラック"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Blue Flak"
-LocationName="ブルーフラック"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Blue Flak"
-LocationName="ブルーフラック"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Red Flak"
-LocationName="レッドフラック"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Flak"
-LocationName="レッドフラック"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Base"
-LocationName="ブルーベース"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Red Minigun"
-LocationName="レッドミニガン"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Pillars"
-LocationName="赤い柱"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Minigun"
-LocationName="ブルーミニガン"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Minigun"
-LocationName="ブルーミニガン"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Pillars"
-LocationName="青い柱"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Minigun"
-LocationName="ブルーミニガン"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Outside"
-LocationName="外"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Red Base"
-LocationName="レッドベース"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Minigun"
-LocationName="レッドミニガン"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Minigun"
-LocationName="レッドミニガン"
+LocationName=""
 

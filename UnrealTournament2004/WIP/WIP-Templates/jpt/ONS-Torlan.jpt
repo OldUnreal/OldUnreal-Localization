@@ -1,54 +1,66 @@
 ﻿[LevelInfo0]
 ; EN: Title="Torlan"
-Title="トーラン"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Torlan"
-Title="トーラン"
+Title=""
 ; EN: Description="Set on the dried outskirts of a lush jungle continent, two factions clash in fierce combat for control of a major communications tower and its adjacent power supply. With the dam holding back the waters from the nearby jungle, the dried out riverbed running across the battlefield allows for an easy attack route into enemy territory and could provide a decisive victor with ownership of the enormous Comm-tower as the reward."
-Description="緑豊かなジャングル大陸の乾燥した郊外に位置し、2つの派閥が、主要な通信塔とそれに隣接する電源を制御するための激しい戦闘で衝突します。ダムが近くのジャングルからの水を抑えているので、戦場を横切って走る干上がった川床は敵の領土への簡単な攻撃ルートを可能にし、報酬として巨大なコムタワーの所有権を決定的な勝利者に与えることができます。"
+Description=""
+
+[Volume0]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Central Canyon"
-LocationName="セントラルキャニオン"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Central Canyon"
-LocationName="セントラルキャニオン"
+LocationName=""
 
 [Volume12]
-; EN: LocationName="Unspecified"
-LocationName="不特定"
+; EN: LocationName="Red Prime Node (2)"
+LocationName=" (2)"
 
 [Volume13]
 ; EN: LocationName="Tower Bridge"
-LocationName="タワーブリッジ"
+LocationName=""
+
+[Volume14]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume2]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Tower"
-LocationName="ブルータワー"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Red Tower"
-LocationName="レッドタワー"
+LocationName=""
 
 [Volume6]
-; EN: LocationName="Unspecified"
-LocationName="不特定"
+; EN: LocationName="Red Goliath Node (1)"
+LocationName=" (1)"
 
 [Volume7]
-; EN: LocationName="Unspecified"
-LocationName="不特定"
+; EN: LocationName="Blue Goliath Node (5)"
+LocationName=" (5)"
 
 [Volume8]
-; EN: LocationName="Unspecified"
-LocationName="不特定"
+; EN: LocationName="Blue Prime Node (4)"
+LocationName=" (4)"
 
 [Volume9]
 ; EN: LocationName="Central Tower"
-LocationName="セントラルタワー"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="外"
+LocationName=""
 

@@ -1,163 +1,166 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bridge of Fate"
-Title="Ödets bro"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bridge of Fate"
-Title="Ödets bro"
+Title=""
 ; EN: Description="Two sides, a huge cave in between, three bridges going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
-Description="Två sidor, en enorm grotta däremellan, tre broar som går från sida till sida, överbryggar gapet mellan två lag, överbryggar gapet mellan hopp och förtvivlan."
+Description=""
 
 [ZoneInfo0]
-LocationName="Central Cavern"
+; EN: LocationName="Central Cavern"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Shield Entrance"
-LocationName="Blue Shield Entré"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Pillar Room"
-LocationName="Blå pelaren rum"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blå Flagg Rum"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Blue Rear Rocket Side"
-LocationName="Blå raketsida bak"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="Blue BioRifle Entrance"
-LocationName="Blå BioRifle Entré"
+; EN: LocationName="Blue Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Red Flag Room"
-LocationName="Röd Flagga Rum"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Red BioRifle Entrance"
-LocationName="Röd BioRifle Entré"
+; EN: LocationName="Red Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Shield Entrance"
-LocationName="Röd sköld Entré"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Red Shield Entrance"
-LocationName="Röd sköld Entré"
+LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="Red BioRifle Entrance"
-LocationName="Röd BioRifle Entré"
+; EN: LocationName="Red Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Pillar Room"
-LocationName="Röda pelarrummet"
+LocationName=""
 
 [ZoneInfo2]
-; EN: LocationName="Blue BioRifle Entrance"
-LocationName="Blå BioRifle Entré"
+; EN: LocationName="Blue Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="Red BioRifle Entrance"
-LocationName="Röd BioRifle Entré"
+; EN: LocationName="Red Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Flag Room"
-LocationName="Röd Flagga Rum"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Forward Flak Side"
-LocationName="Röd Forward Flak Side"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red Shield Entrance"
-LocationName="Röd sköld Entré"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Shield Entrance"
-LocationName="Blue Shield Entré"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Shield Entrance"
-LocationName="Blue Shield Entré"
+LocationName=""
 
 [ZoneInfo26]
-; EN: LocationName="Blue BioRifle Entrance"
-LocationName="Blå BioRifle Entré"
+; EN: LocationName="Blue Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blå Flagg Rum"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blå Flagg Rum"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Flag Room"
-LocationName="Röd Flagga Rum"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Rear Flak Side"
-LocationName="Blå Baksida Flak"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Red Rear Flak Side"
-LocationName="Röd bakre flaksida"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Red Rear Rocket Side"
-LocationName="Röd bakre raketsida"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Red Forward Flak Side"
-LocationName="Röd Forward Flak Side"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Red Forward Rocket Side"
-LocationName="Röd framraketsida"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Red Forward Flak Side"
-LocationName="Röd Forward Flak Side"
+LocationName=""
 
 [ZoneInfo35]
-LocationName="Blue Forward Rocket Side"
+; EN: LocationName="Blue Forward Rocket Side"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Blue Forward Flak Side"
-LocationName="Blå Forward Flak Side"
+LocationName=""
 
 [ZoneInfo38]
-; EN: LocationName="Red BioRifle Entrance"
-LocationName="Röd BioRifle Entré"
+; EN: LocationName="Red Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Red Shield Entrance"
-LocationName="Röd sköld Entré"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Pillar Room"
-LocationName="Blå pelaren rum"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Forward Flak Side"
-LocationName="Blå Forward Flak Side"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Blue Forward Rocket Side"
+; EN: LocationName="Blue Forward Rocket Side"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Red Pillar Room"
-LocationName="Röda pelarrummet"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Shield Entrance"
-LocationName="Blue Shield Entré"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="Blue BioRifle Entrance"
-LocationName="Blå BioRifle Entré"
+; EN: LocationName="Blue Bio Rifle Entrance"
+LocationName=""
 

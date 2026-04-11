@@ -5,27 +5,29 @@ Preferences=(Caption="Windows",Parent="Joystick",Class=WinDrv.WindowsClient,Imme
 
 [Errors]
 ; EN: Failed3D="3d hardware initialization failed"
-Failed3D="A 3D hardver inicializálása nem sikerült"
+Failed3D=""
 ; EN: DDrawMode="DirectDraw was unable to set the requested video mode"
-DDrawMode="A DirectDraw nem tudta beállítani a kért videomódot"
+DDrawMode=""
 
 [General]
 ; EN: ViewPersp="Perspective map"
-ViewPersp="Perspektivikus térkép"
+ViewPersp=""
 ; EN: ViewXY="Overhead map"
-ViewXY="Felülnézeti térkép"
+ViewXY=""
 ; EN: ViewXZ="XZ map"
-ViewXZ="XZ térkép"
+ViewXZ=""
 ; EN: ViewYZ="YZ map"
-ViewYZ="YZ térkép"
-ViewOther="Viewport"
+ViewYZ=""
+; EN: ViewOther="Viewport"
+ViewOther=""
 ; EN: Color16="&16-bit color"
-Color16="&16 bites szín"
+Color16=""
 ; EN: Color32="&32-bit color"
-Color32="&32 bites szín"
+Color32=""
 ; EN: AdvancedOptions="Advanced Options"
-AdvancedOptions="Haladó beállítások"
+AdvancedOptions=""
 
 [WindowsClient]
 ; EN: ClassCaption="Standard Windows Manager"
-ClassCaption="Normál Windows Manager"
+ClassCaption=""
+

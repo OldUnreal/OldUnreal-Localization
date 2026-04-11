@@ -1,63 +1,66 @@
 ﻿[LevelInfo0]
 ; EN: Title="Hot Iron Injector"
-Title="Injetor de Ferro Quente"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Hot Iron Injector"
-Title="Injetor de Ferro Quente"
+Title=""
 ; EN: Description="A recent and complex addition to the tournament, Injector is a twisting maze of imposing architecture, duct work, and generators. Watch yourself in the tighter corridors and make sure you keep your eyes peeled when going for the super shield!"
-Description="Uma adição recente e complexa ao torneio, o Injector é um labirinto de arquitetura imponente, dutos e geradores. Observe-se nos corredores mais apertados e certifique-se de manter os olhos bem abertos quando for para o super escudo!"
+Description=""
 
 [ZoneInfo0]
-LocationName="Supershield"
+; EN: LocationName="Supershield"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Double Damage"
-LocationName="Dano Duplo"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="Hall O Death"
+; EN: LocationName="Hall O Death"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Elbow"
-LocationName="Cotovelo"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Small of Elbow"
-LocationName="Pequeno de cotovelo"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Link Ammo"
-LocationName="Link de munição"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Toilet"
-LocationName="Banheiro"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Lightning Gun"
-LocationName="Pistola Relâmpago"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Electric Hall"
-LocationName="Salão Elétrico"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Shock and BioRifle"
-LocationName="Choque e BioRifle"
+; EN: LocationName="Shock and Bio Rifle"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RL and Link"
-LocationName="RL e Link"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Closet"
-LocationName="Armário"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="Hangar"
+; EN: LocationName="Hangar"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Double Damage"
-LocationName="Dano Duplo"
+LocationName=""
 

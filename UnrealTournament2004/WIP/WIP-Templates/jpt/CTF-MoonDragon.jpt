@@ -1,70 +1,66 @@
 ﻿[LevelInfo0]
 ; EN: Title="Moon Dragon"
-Title="ムーンドラゴン"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Moon Dragon"
-Title="ムーンドラゴン"
+Title=""
 ; EN: Description="In the depths of ancient Korea, hidden high up in the Mountain of the Moon Dragon, battles rage between brave warriors."
-Description="ムーンドラゴンの山の高いところに隠された古代韓国の奥深くで、勇敢な戦士の間で戦いが激化しています。"
+Description=""
 
 [Volume10]
 ; EN: LocationName="Red Flag Room"
-LocationName="レッドフラッグルーム"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Entrances"
-LocationName="レッドベースの入り口"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Central Cave"
-LocationName="中央洞窟"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Shield Side"
-LocationName="ブルーシールドサイド"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Blue Base Entrances"
-LocationName="ブルーベースの入り口"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Blue Center"
-LocationName="ブルーセンター"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Blue Fortress Area"
-LocationName="ブルーフォートレスエリア"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Red Fortress Area"
-LocationName="赤い要塞エリア"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Central Cave"
-LocationName="中央洞窟"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Center"
-LocationName="レッドセンター"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Shield Side"
-LocationName="レッドシールドサイド"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Side Route"
-LocationName="レッドサイドルート"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Side Route"
-LocationName="ブルーサイドルート"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="ブルーフラッグルーム"
-
-[xBlueFlagBase1]
-; EN: ObjectiveName="BlueFlag"
-ObjectiveName="ブルーフラッグ"
+LocationName=""
 

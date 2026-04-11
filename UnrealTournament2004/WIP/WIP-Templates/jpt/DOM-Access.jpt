@@ -1,62 +1,62 @@
 ﻿[LevelInfo0]
 ; EN: Title="Access"
-Title="アクセス"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Access"
-Title="アクセス"
+Title=""
 ; EN: Description="Seal off the Domination point of your choice by controlling the Access button in the middle of the arena."
-Description="アリーナの中央にあるアクセスボタンを操作して、選択したドミネーションポイントを封鎖します。"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Switch Room"
-LocationName="スイッチルーム"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="ブルースポーンホール"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Switch Room"
-LocationName="スイッチルーム"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Point A Room"
-LocationName="ポイントAルーム"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Point B Room"
-LocationName="ポイントBルーム"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="レッドスポーンホール"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="レッドスポーンホール"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="ブルースポーンホール"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="ブルースポーンホール"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="レッドスポーンホール"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Switch Room"
-LocationName="スイッチルーム"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Switch Room"
-LocationName="スイッチルーム"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Switch Room"
-LocationName="スイッチルーム"
+LocationName=""
 

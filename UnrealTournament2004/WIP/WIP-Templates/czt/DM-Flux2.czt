@@ -1,36 +1,36 @@
 ﻿[LevelInfo0]
 ; EN: Title="Flux 2"
-Title="Tok 2"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Flux 2"
-Title="Tok 2"
+Title=""
 
 [Volume5]
 ; EN: LocationName="Back Alley"
-LocationName="Zadní ulička"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Long Ramp Area"
-LocationName="Oblast dlouhé rampy"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Long Ramp Area"
-LocationName="Oblast dlouhé rampy"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Front Area"
-LocationName="Přední oblast"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Walkway Area"
-LocationName="Oblast chodníku"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Inside"
-LocationName="Uvnitř"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 

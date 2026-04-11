@@ -1,85 +1,88 @@
 ﻿[ASTurret_IonCannon]
 ; EN: VehiclePositionString="manning an Ion Cannon"
-VehiclePositionString="presidiare un cannone a ioni"
+VehiclePositionString=""
 ; EN: VehicleNameString="Ion Cannon"
-VehicleNameString="cannone a ioni"
+VehicleNameString=""
 
 [ASTurret_LinkTurret]
 ; EN: VehiclePositionString="manning a Link Turret"
-VehiclePositionString="presidiare una Torretta Link"
+VehiclePositionString=""
 ; EN: VehicleNameString="Link Turret"
-VehicleNameString="Torretta di collegamento"
+VehicleNameString=""
 
 [ASVehicle_SpaceFighter_Human]
-; EN: VehiclePositionString="in a spacefighter"
-VehiclePositionString="in un caccia spaziale"
+; EN: VehiclePositionString="in a Human Spacefighter"
+VehiclePositionString=""
 ; EN: VehicleNameString="Human Spacefighter"
-VehicleNameString="Combattente spaziale umano"
+VehicleNameString=""
 
 [ASVehicle_SpaceFighter_Skaarj]
-VehicleNameString="Skaarj Spacefighter"
+; EN: VehiclePositionString="in a Skaarj Spacefighter"
+VehiclePositionString=""
+; EN: VehicleNameString="Skaarj Spacefighter"
+VehicleNameString=""
 
 [DamTypeBallTurretPlasma]
 ; EN: DeathString="%o was served an extra helping of %k's plasma."
-DeathString="%o è stata servita una porzione extra del plasma di %k."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own plasma blast."
-FemaleSuicide="%o si è fritta con la sua stessa esplosione di plasma."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own plasma blast."
-MaleSuicide="%o si è fritto con la sua stessa esplosione di plasma."
+MaleSuicide=""
 
 [DamTypeIonCannonBlast]
-; EN: DeathString="%o was OBLITERATED by %k"
-DeathString="%o è stato OBLITERATO da %k"
-; EN: FemaleSuicide="%o was OBLITERATED"
-FemaleSuicide="%o è stato ANNULLATO"
-; EN: MaleSuicide="%o was OBLITERATED"
-MaleSuicide="%o è stato ANNULLATO"
+; EN: DeathString="%o was OBLITERATED by %k!"
+DeathString=""
+; EN: FemaleSuicide="%o was OBLITERATED!"
+FemaleSuicide=""
+; EN: MaleSuicide="%o was OBLITERATED!"
+MaleSuicide=""
 
 [DamTypeLinkTurretBeam]
 ; EN: DeathString="%o was carved up by %k's green shaft."
-DeathString="%o è stato tagliato dall'asta verde di %k."
+DeathString=""
 ; EN: FemaleSuicide="%o shafted herself."
-FemaleSuicide="%o si è fottuta."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o shafted himself."
-MaleSuicide="%o si è fregato."
+MaleSuicide=""
 
 [DamTypeLinkTurretPlasma]
 ; EN: DeathString="%o was served an extra helping of %k's plasma."
-DeathString="%o è stata servita una porzione extra del plasma di %k."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own plasma blast."
-FemaleSuicide="%o si è fritta con la sua stessa esplosione di plasma."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own plasma blast."
-MaleSuicide="%o si è fritto con la sua stessa esplosione di plasma."
+MaleSuicide=""
 
 [DamTypeSpaceFighterLaser]
 ; EN: DeathString="%o was served an extra helping of %k's lasers."
-DeathString="%o è stato servito un aiuto extra dei laser di %k."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own laser blast."
-FemaleSuicide="Si è fritta con il suo stesso raggio laser."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own laser blast."
-MaleSuicide="%o si è fritto con il suo stesso raggio laser."
+MaleSuicide=""
 
 [DamTypeSpaceFighterMissile]
 ; EN: DeathString="%o couldn't avoid %k's missile."
-DeathString="%o non ha potuto evitare il missile di %k."
+DeathString=""
 ; EN: FemaleSuicide="%o blasted herself out of space."
-FemaleSuicide="%o si è lanciata nello spazio."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o blasted himself out of space."
-MaleSuicide="%o si è lanciato nello spazio."
+MaleSuicide=""
 
 [Weapon_LinkTurret]
 ; EN: ItemName="Turret weapon"
-ItemName="Arma della torretta"
+ItemName=""
 
 [Weapon_SpaceFighter]
 ; EN: ItemName="SpaceFighter weapon"
-ItemName="Arma SpaceFighter"
+ItemName=""
 
 [Weapon_Turret]
 ; EN: ItemName="Turret weapon"
-ItemName="Arma della torretta"
+ItemName=""
 
 [Weapon_Turret_IonCannon]
 ; EN: ItemName="Ion Cannon Turret weapon"
-ItemName="Arma della torretta del cannone a ioni"
+ItemName=""
 

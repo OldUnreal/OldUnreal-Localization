@@ -1,87 +1,88 @@
 ﻿[LevelInfo0]
 ; EN: Title="Sun Temple"
-Title="Nap templom"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Sun Temple"
-Title="Nap templom"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="Open Ground"
-LocationName="Nyílt terep"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Dom B folyosók"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Dom B Upper Room"
-LocationName="Dom B felső szoba"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Dom Point B"
-LocationName="Dom pont B"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A folyosók"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A folyosók"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Dom A Entryway"
-LocationName="Dom A bejárat"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Dom A Upper Room"
-LocationName="Dom A felső szoba"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Dom A Upper Room"
-LocationName="Dom A felső szoba"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Dom A Courtyard"
-LocationName="Dom A udvar"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Dom B Entryway"
-LocationName="Dom B bejárat"
+LocationName=""
 
 [ZoneInfo23]
-LocationName="Dom Point A"
+; EN: LocationName="Dom Point A"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Dom B Upper Room"
-LocationName="Dom B felső szoba"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Central Jump Room"
-LocationName="Központi ugróterem"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Dom B Courtyard"
-LocationName="Dom B udvar"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Dom B folyosók"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Dom B folyosók"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A folyosók"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A folyosók"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Dom B folyosók"
+LocationName=""
 

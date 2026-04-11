@@ -1,32 +1,32 @@
 ﻿[LevelInfo0]
 ; EN: Title="Maul"
-Title="Malmener"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Maul"
-Title="Malmener"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Blue Side"
-LocationName="Côté bleu"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red Side"
-LocationName="Côté rouge"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Base"
-LocationName="Base rouge"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Base"
-LocationName="Base bleue"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Roof"
-LocationName="Toit Bleu"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Roof"
-LocationName="Toit rouge"
+LocationName=""
 

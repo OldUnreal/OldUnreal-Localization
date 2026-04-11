@@ -1,22 +1,24 @@
 ﻿[LevelInfo0]
 ; EN: Title="Serpentine"
-Title="Szerpentin"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Serpentine"
-Title="Szerpentin"
+Title=""
 
 [Volume0]
-LocationName="Serpent Catwalk"
+; EN: LocationName="Serpent Catwalk"
+LocationName=""
 
 [Volume1]
-LocationName="Pit Maze"
+; EN: LocationName="Pit Maze"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Maze Surface"
-LocationName="Labirintus felület"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Ledges"
-LocationName="Párkányok"
+LocationName=""
 

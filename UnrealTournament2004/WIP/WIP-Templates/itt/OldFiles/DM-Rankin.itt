@@ -1,0 +1,28 @@
+﻿[LevelInfo0]
+Title="Rankin"
+
+[LevelSummary]
+Title="Rankin"
+; EN: Description="A medium sized map set in an old industrial building, in the middle of a heavy thunderstorm."
+Description="Una mappa di medie dimensioni ambientata in un vecchio edificio industriale, nel bel mezzo di un forte temporale."
+
+[Volume0]
+; EN: LocationName="Factory Area 2"
+LocationName="Area di fabbrica 2"
+
+[Volume1]
+; EN: LocationName="Factory Area 1"
+LocationName="Area di fabbrica 1"
+
+[Volume2]
+; EN: LocationName="Flak Room"
+LocationName="camera antiproiettile"
+
+[Volume3]
+; EN: LocationName="Amp Area"
+LocationName="Area dell'amplificatore"
+
+[Volume4]
+; EN: LocationName="Basement"
+LocationName="Seminterrato"
+

@@ -1,160 +1,160 @@
 ﻿[LevelInfo0]
 ; EN: Title="Slaughterhouse"
-Title="食肉処理場"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="食肉処理場"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Slaughterhouse"
-Title="食肉処理場"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="食肉処理場"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="ブルーミートストレージ"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawnroom Beta"
-LocationName="ブルースポーンルームベータ"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Drain Room"
-LocationName="ブルードレンルーム"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Meat Storage Entrance"
-LocationName="青肉貯蔵入口"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Freezer"
-LocationName="レッドフリーザー"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Bomb Gate"
-LocationName="赤い爆弾の門"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Red Spawnroom Beta"
-LocationName="レッドスポーンルームベータ"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Back Hallway"
-LocationName="レッドバック廊下"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Fountains"
-LocationName="赤い噴水"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Spawnroom Alpha"
-LocationName="ブルースポーンルームアルファ"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Chapel"
-LocationName="レッドチャペル"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Drainage"
-LocationName="赤い排水"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Bomb Gate"
-LocationName="ブルーボムゲート"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
-LocationName="この男のチャック。青い部屋のグラウンドチャック"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Spawnroom Alpha"
-LocationName="レッドスポーンルームアルファ"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="レッドソー廊下"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Courtyard"
-LocationName="ブルーコートヤード"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="OOoh, he's dead in the Red"
-LocationName="ああ、彼は赤で死んでいる"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Courtyard"
-LocationName="ブルーコートヤード"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Main Hall"
-LocationName="ブルーメインホール"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="ブルーソー廊下"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="ブルーミートストレージ"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="レッドソー廊下"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="ブルーソー廊下"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Red Main Hall"
-LocationName="赤いメインホール"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Red Pipe"
-LocationName="赤いパイプ"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Red Courtyard"
-LocationName="赤い中庭"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Pipe"
-LocationName="青いパイプ"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Red Freezer Entrance"
-LocationName="赤い冷凍庫の入り口"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Chapel"
-LocationName="ブルーチャペル"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Fountains"
-LocationName="青い噴水"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Back Hallway"
-LocationName="ブルーバック廊下"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Bomb Courtyard"
-LocationName="爆弾中庭"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Courtyard"
-LocationName="赤い中庭"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Freezer"
-LocationName="レッドフリーザー"
+LocationName=""
 
 [xBombDelivery0]
 ; EN: ObjectiveName="Blue Bombgoal"
-ObjectiveName="ブルーボムゴール"
+LocationName=""
 
 [xBombDelivery2]
 ; EN: ObjectiveName="Red Bombgoal"
-ObjectiveName="赤い爆弾"
+LocationName=""
 

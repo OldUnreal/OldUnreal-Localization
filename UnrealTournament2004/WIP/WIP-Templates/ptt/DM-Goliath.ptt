@@ -1,51 +1,54 @@
 ﻿[LevelInfo0]
 ; EN: Title="Goliath"
-Title="Golias"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Goliath"
-Title="Golias"
+Title=""
 ; EN: Description="High above Calaban VII, Goliath class orbital power stations provide the thriving colonies below with both power and protection.  Virtually immune to small arms fire, the platforms have become popular staging arenas for the tournaments.  Occasional radiation leakage has resulted in arenas that are not only entertaining, but self-cleaning too."
-Description="Bem acima de Calaban VII, as usinas orbitais da classe Golias fornecem energia e proteção às prósperas colônias abaixo. Virtualmente imunes ao fogo de armas pequenas, as plataformas se tornaram arenas populares para os torneios. O vazamento ocasional de radiação resultou em arenas que não são apenas divertidas, mas também autolimpantes."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Secret Rooftop Platform"
-LocationName="Plataforma Secret Rooftop"
+LocationName=""
 
 [Volume1]
-LocationName="Sneaky Lowgrav Quadjump Spot"
+; EN: LocationName="Sneaky Lowgrav Quadjump Spot"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Shock Rifle Room"
-LocationName="Quarto Shock Rifle"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Udamage Spawn Hall"
+; EN: LocationName="Double Damage Spawn Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Minigun Room"
-LocationName="Quarto Minigun"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Health Vial Spawn Hall"
-LocationName="Salão de Spawn de Vial de Saúde"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Lightning Gun Big Room"
-LocationName="Sala grande da arma de raios"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="Super Shield Spawn Hall"
+; EN: LocationName="Super Shield Spawn Hall"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Lightning Gun Big Room"
-LocationName="Sala grande da arma de raios"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Lower Mid Halls"
-LocationName="Salões intermediários inferiores"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Upper Mid Halls"
-LocationName="Salões intermediários superiores"
+LocationName=""
 

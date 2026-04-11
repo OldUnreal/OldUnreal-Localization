@@ -1,77 +1,77 @@
 ﻿[DamTypeArtilleryShell]
 ; EN: DeathString="%k rained on %o's parade."
-DeathString="％kは％oのパレードで雨が降った。"
-; EN: FemaleSuicide="%o managed to kill herself with her own Artillery."
-FemaleSuicide="％oは自分の砲兵でなんとか自殺した。"
-; EN: MaleSuicide="%o managed to kill himself with his own Artillery."
-MaleSuicide="％oは自分の砲兵でなんとか自殺した。"
+DeathString=""
+; EN: FemaleSuicide="%o was killed by an artillery strike."
+FemaleSuicide=""
+; EN: MaleSuicide="%o was killed by an artillery strike."
+MaleSuicide=""
 
 [DamTypeONSCicadaLaser]
 ; EN: DeathString="%k's blaster stung %o."
-DeathString="％kのブラスターは％oを刺しました。"
+DeathString=""
 ; EN: FemaleSuicide="%o used her blaster on herself."
-FemaleSuicide="％oは自分でブラスターを使用しました。"
+FemaleSuicide=""
 ; EN: MaleSuicide="%o used his blaster on himself."
-MaleSuicide="％oは自分でブラスターを使用しました。"
+MaleSuicide=""
 
 [DamTypeONSCicadaRocket]
 ; EN: DeathString="%k's blew %o to bits."
-DeathString="％kは％oをビットに吹き飛ばしました。"
+DeathString=""
 ; EN: FemaleSuicide="%o blew herself up good."
-FemaleSuicide="％oは自分自身を上手く爆破しました。"
+FemaleSuicide=""
 ; EN: MaleSuicide="%o blew himself up good."
-MaleSuicide="％oは自分自身を上手く爆破しました。"
+MaleSuicide=""
 
 [DamTypeShockTankProximityExplosion]
 ; EN: DeathString="%o got too close to %k's Paladin."
-DeathString="％oは％kのパラディンに近づきすぎました。"
+DeathString=""
 
 [DamTypeShockTankShockBall]
 ; EN: DeathString="%o couldn't avoid the blast from %k's Paladin."
-DeathString="％oは％kのパラディンからの爆発を避けられませんでした。"
+DeathString=""
 
 [MutVehiclePickups]
 ; EN: FriendlyName="Vehicle Pickups"
-FriendlyName="車両ピックアップ"
+FriendlyName=""
 ; EN: Description="Vehicles will pickup items and give them to the driver"
-Description="車両はアイテムをピックアップしてドライバーに渡します"
+Description=""
 
 [MutBonusVehicles]
 ; EN: FriendlyName="Bonus Vehicles"
-FriendlyName="ボーナス車両"
+FriendlyName=""
 ; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
-Description="一部の公式マップでは、特定の車両がCicada、SPMA、またはPaladinに置き換えられます。"
+Description=""
 
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
-VehiclePositionString="SPMAで"
+VehiclePositionString=""
 VehicleNameString="SPMA"
 
 [ONSArtillerySideGunPawn]
 ; EN: VehiclePositionString="in a SPMA side turret"
-VehiclePositionString="SPMAサイドタレット内"
+VehiclePositionString=""
 ; EN: VehicleNameString="SPMA Side Turret"
-VehicleNameString="SPMAサイドタレット"
+VehicleNameString=""
 
 [ONSDualACGatlingGunPawn]
 ; EN: LockedMsg=" INCOMING "
-LockedMsg=" 入ってくる "
-; EN: VehiclePositionString="in a Cicada turret"
-VehiclePositionString="蝉の砲塔で"
-; EN: VehicleNameString="Cicada Laser Turret"
-VehicleNameString="セミレーザータレット"
+LockedMsg=""
+; EN: VehiclePositionString="in a Cicada's Laser Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Cicada's Laser Turret"
+VehicleNameString=""
 
 [ONSDualAttackCraft]
 ; EN: LockedMsg=" Locked "
-LockedMsg=" ロック済み "
+LockedMsg=""
+; EN: CoPilotLabel="Gunner"
+CoPilotLabel=""
 ; EN: VehiclePositionString="in a Cicada"
-VehiclePositionString="蝉で"
-; EN: VehicleNameString="Cicada"
-VehicleNameString="蝉"
+VehiclePositionString=""
+VehicleNameString="Cicada"
 
 [ONSShockTank]
 ; EN: VehiclePositionString="in a Paladin"
-VehiclePositionString="パラディンで"
-; EN: VehicleNameString="Paladin"
-VehicleNameString="パラディン"
+VehiclePositionString=""
+VehicleNameString="Paladin"
 

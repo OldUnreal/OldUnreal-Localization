@@ -1,98 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bridge of Fate"
-Title="ponte del destino"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bridge of Fate"
-Title="ponte del destino"
+Title=""
 ; EN: Description="Two sides, a huge cave in between, one bridge going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
-Description="Due lati, un'enorme caverna in mezzo, un ponte che va da una parte all'altra, colmando il divario tra due squadre, colmando il divario tra speranza e disperazione."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Cave"
-LocationName="Grotta"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="Ingresso armatura BLU"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Main Entrance"
-LocationName="BLU Ingresso Principale"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLU Bomb Room"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLU Bomb Room"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="Ingresso BLU BioRifle"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo14]
-LocationName="RED Bomb Room"
+; EN: LocationName="RED Bomb Room"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="Ingresso RED BioRifle"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="Ingresso armatura ROSSA"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="Ingresso armatura ROSSA"
+LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="Ingresso RED BioRifle"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="RED Main Entrance"
-LocationName="Ingresso principale ROSSO"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="Ingresso RED BioRifle"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="RED Bomb Room"
+; EN: LocationName="RED Bomb Room"
+LocationName=""
 
 [ZoneInfo22]
-LocationName="RED Bomb Room"
+; EN: LocationName="RED Bomb Room"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="Ingresso armatura ROSSA"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLU Bomb Room"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Pillar Room"
-LocationName="Sala Pilastro BLU"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="Ingresso BLU BioRifle"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="Ingresso armatura BLU"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="RED Pillar Room"
+; EN: LocationName="RED Pillar Room"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="Ingresso armatura BLU"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="Ingresso BLU BioRifle"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 

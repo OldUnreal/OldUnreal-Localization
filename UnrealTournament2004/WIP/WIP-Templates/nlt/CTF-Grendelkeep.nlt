@@ -1,255 +1,258 @@
 ﻿[LevelInfo0]
 ; EN: Title="Grendelkeep"
-Title="Grendelhuis"
+Title=""
 
 [LevelInfo12]
 ; EN: Title="Grendelkeep"
-Title="Grendelhuis"
+Title=""
 
 [LevelInfo6]
 ; EN: Title="Grendelkeep"
-Title="Grendelhuis"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Grendelkeep"
-Title="Grendelhuis"
+Title=""
 ; EN: Description="Prieth Callas was a hard, cruel man, fond of torturing his enemies before sending them to their deaths. He raised creatures of great size and ferocity, setting them against his prisoners in arenas of his own creation. Grendelkeep is the last of his diabolical constructions, left to fall into ruin after Callas was dragged from the battlements by his own men and fed to the creatures he bred in the dark kennels below. The rain has washed away the blood, but the evil that bred here has left a much deeper stain."
-Description="Prieth Callas was een harde, wrede man, dol op het martelen van zijn vijanden voordat hij ze de dood in stuurde. Hij bracht wezens van grote omvang en wreedheid groot en zette ze op tegen zijn gevangenen in arena's van zijn eigen creatie. Grendelkeep is de laatste van zijn duivelse constructies, achtergelaten om in verval te raken nadat Callas door zijn eigen mannen van de kantelen werd gesleept en gevoerd aan de wezens die hij fokte in de donkere kennels beneden. De regen heeft het bloed weggespoeld, maar het kwaad dat zich hier heeft voortgeplant, heeft een veel diepere vlek achtergelaten."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="BLUE Main Room"
-LocationName="BLAUWE hoofdruimte"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Great Room"
-LocationName="Geweldige kamer"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Center"
-LocationName="Centrum"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Main Hall"
-LocationName="BLAUWE Grote Zaal"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Great Room"
-LocationName="Geweldige kamer"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="BLUE Lower Flak Hall"
-LocationName="BLAUWE Lagere Flak Hall"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="BLUE Lower Hall"
-LocationName="BLAUWE Benedenzaal"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="BLUE Base"
-LocationName="BLAUWE basis"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="BLUE Spawn"
-LocationName="BLAUWE spawn"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="BLUE Spawn"
-LocationName="BLAUWE spawn"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="BLUE Main Room"
-LocationName="BLAUWE hoofdruimte"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Great Room"
-LocationName="Geweldige kamer"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Great Room Hall"
-LocationName="Grote Zaal"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Grote Amp Hall"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Bovenste Rocket Hall"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Bovenste Rocket Hall"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Bovenste Rocket Hall"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Mini Hall"
-LocationName="Minizaal"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Mini Hall"
-LocationName="Minizaal"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Great Tower"
-LocationName="Grote Toren"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Main Room"
-LocationName="BLAUWE hoofdruimte"
+LocationName=""
 
 [ZoneInfo40]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Great Room Hall"
-LocationName="Grote Zaal"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Lower Flak Hall"
-LocationName="Lagere Flak Hall"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Great Room Hall"
-LocationName="Grote Zaal"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Great Room"
-LocationName="Geweldige kamer"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="RED Lower Flak Hall"
-LocationName="RODE Lagere Flak Hall"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Great Room"
-LocationName="Geweldige kamer"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Great Room Hall"
-LocationName="Grote Zaal"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Grote Amp Hall"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="BLUE Spawn"
-LocationName="BLAUWE spawn"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="RED Main Room"
-LocationName="RODE hoofdkamer"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="RED Main Room"
-LocationName="RODE hoofdkamer"
+LocationName=""
 
 [ZoneInfo52]
-; EN: LocationName="RED BASE"
-LocationName="RODE BASIS"
+; EN: LocationName="RED Base"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="RED Spawn"
-LocationName="RODE spawn"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="RED Spawn"
-LocationName="RODE spawn"
+LocationName=""
 
 [ZoneInfo55]
 ; EN: LocationName="RED Spawn"
-LocationName="RODE spawn"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="RED Sniper Hall"
-LocationName="RODE Sniperzaal"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="RED Sniper Hall"
-LocationName="RODE Sniperzaal"
+LocationName=""
 
 [ZoneInfo58]
 ; EN: LocationName="RED round stairs"
-LocationName="RODE ronde trappen"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Center"
-LocationName="Centrum"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Sniper Hall"
-LocationName="BLAUWE Sniperzaal"
+LocationName=""
 
 [ZoneInfo60]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Bovenste Rocket Hall"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="RED Main Hall"
-LocationName="RODE Grote Zaal"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Bovenste Rocket Hall"
+LocationName=""
 
 [ZoneInfo64]
 ; EN: LocationName="RED Lower Hall"
-LocationName="RODE Benedenzaal"
+LocationName=""
 
 [ZoneInfo65]
 ; EN: LocationName="RED Main Room"
-LocationName="RODE hoofdkamer"
+LocationName=""
 
 [ZoneInfo66]
 ; EN: LocationName="Great Room"
-LocationName="Geweldige kamer"
+LocationName=""
 
 [ZoneInfo67]
 ; EN: LocationName="Great Room"
-LocationName="Geweldige kamer"
+LocationName=""
 
 [ZoneInfo68]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Bovenste Rocket Hall"
+LocationName=""
 
 [ZoneInfo69]
 ; EN: LocationName="Mini Hall"
-LocationName="Minizaal"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="BLUE Sniper Hall"
-LocationName="BLAUWE Sniperzaal"
+LocationName=""
 
 [ZoneInfo70]
 ; EN: LocationName="Mini Hall"
-LocationName="Minizaal"
+LocationName=""
 
 [ZoneInfo72]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo73]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo74]
 ; EN: LocationName="Great Room Hall"
-LocationName="Grote Zaal"
+LocationName=""
 
 [ZoneInfo76]
 ; EN: LocationName="Great Room Hall"
-LocationName="Grote Zaal"
+LocationName=""
 
 [ZoneInfo77]
 ; EN: LocationName="Great Room"
-LocationName="Geweldige kamer"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="BLUE Round Stairs"
-LocationName="BLAUWE ronde trappen"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Center"
-LocationName="Centrum"
+LocationName=""
 

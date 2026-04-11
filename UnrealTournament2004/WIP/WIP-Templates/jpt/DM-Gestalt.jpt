@@ -1,30 +1,30 @@
 ﻿[LevelInfo0]
 ; EN: Title="Gestalt"
-Title="ゲシュタルト"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Gestalt"
-Title="ゲシュタルト"
+Title=""
 ; EN: Description="Sitting just below the ever-thinning polar ice caps, the Gestalt Research Center will chill its inhabitants to their bones.  In fact, bones may be all that's left to chill, since this location has been added to the growing list of tournament settings."
-Description="間伐を続ける極地の氷冠のすぐ下にあるゲシュタルト研究センターは、住民を骨まで冷やします。実際、この場所はトーナメント設定の増え続けるリストに追加されているので、骨は冷やすために残されているすべてである可能性があります。"
+Description=""
 
 [Volume1]
 ; EN: LocationName="Center Atrium"
-LocationName="センターアトリウム"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Back Lift"
-LocationName="バックリフト"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Bio Bay"
-LocationName="バイオベイ"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Center Lift "
-LocationName="センターリフト "
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Flak Hall"
-LocationName="フラックホール"
+LocationName=""
 

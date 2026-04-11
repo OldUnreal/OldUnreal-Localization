@@ -1,20 +1,22 @@
 ﻿[LevelInfo0]
 ; EN: Title="The Junkyard"
-Title="Skräpgården"
+Title=""
 ; EN: LevelEnterText="Welcome to the Planet of Junk"
-LevelEnterText="Välkommen till Skräpplaneten"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="The Junkyard"
-Title="Skräpgården"
+Title=""
 ; EN: Description="Down through eons, the refuse of civilizations has come to rest here.  You and your friends shall only add to the pile."
-Description="Genom eoner har civilisationernas avfall kommit till vila här. Du och dina vänner ska bara lägga till i högen."
+Description=""
 ; EN: LevelEnterText="Welcome to the Planet of Junk"
-LevelEnterText="Välkommen till Skräpplaneten"
+LevelEnterText=""
 
 [ZoneInfo0]
-LocationName="Lost in the Junk"
+; EN: LocationName="Lost in the Junk"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Lost in the Junk"
+; EN: LocationName="Lost in the Junk"
+LocationName=""
 

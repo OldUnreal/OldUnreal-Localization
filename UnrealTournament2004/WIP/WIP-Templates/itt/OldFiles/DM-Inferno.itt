@@ -1,0 +1,74 @@
+﻿[LevelInfo0]
+Title="Inferno"
+
+[LevelSummary]
+Title="Inferno"
+
+[ZoneInfo0]
+; EN: LocationName="minigun tower"
+LocationName="torre minigun"
+
+[ZoneInfo1]
+; EN: LocationName="burning in hell"
+LocationName="bruciando all'inferno"
+
+[ZoneInfo10]
+; EN: LocationName="shock tower"
+LocationName="torre d'urto"
+
+[ZoneInfo11]
+; EN: LocationName="middle tower"
+LocationName="torre di mezzo"
+
+[ZoneInfo12]
+; EN: LocationName="shock tower"
+LocationName="torre d'urto"
+
+[ZoneInfo13]
+; EN: LocationName="shock tower"
+LocationName="torre d'urto"
+
+[ZoneInfo14]
+; EN: LocationName="burning in hell"
+LocationName="bruciando all'inferno"
+
+[ZoneInfo15]
+; EN: LocationName="burning in hell"
+LocationName="bruciando all'inferno"
+
+[ZoneInfo16]
+; EN: LocationName="burning in hell"
+LocationName="bruciando all'inferno"
+
+[ZoneInfo2]
+; EN: LocationName="flak tower"
+LocationName="torre antiproiettile"
+
+[ZoneInfo3]
+; EN: LocationName="middle tower"
+LocationName="torre di mezzo"
+
+[ZoneInfo4]
+; EN: LocationName="minigun tower"
+LocationName="torre minigun"
+
+[ZoneInfo5]
+; EN: LocationName="minigun tower"
+LocationName="torre minigun"
+
+[ZoneInfo6]
+; EN: LocationName="flak tower"
+LocationName="torre antiproiettile"
+
+[ZoneInfo7]
+; EN: LocationName="flak tower"
+LocationName="torre antiproiettile"
+
+[ZoneInfo8]
+; EN: LocationName="middle tower"
+LocationName="torre di mezzo"
+
+[ZoneInfo9]
+; EN: LocationName="middle tower"
+LocationName="torre di mezzo"
+

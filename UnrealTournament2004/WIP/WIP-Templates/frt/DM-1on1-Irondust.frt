@@ -1,45 +1,46 @@
 ﻿[LevelInfo0]
 ; EN: Title="Irondust"
-Title="Poussière de fer"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Irondust"
-Title="Poussière de fer"
+Title=""
 ; EN: Description="Piece of cake? Yeah you bet... Prepare to get dusted Ironman!"
-Description="Part de gâteau? Ouais, tu paries... Préparez-vous à vous faire saupoudrer d'Ironman !"
+Description=""
 
 [ZoneInfo1]
-LocationName="Super Shield Lift"
+; EN: LocationName="Super Shield Lift"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Left Lift"
-LocationName="Ascenseur gauche"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Right Lift"
-LocationName="Ascenseur droit"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Minigun Arches"
-LocationName="Arches Minigun"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Link Gun Area"
-LocationName="Zone de canon de liaison"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Double Health"
-LocationName="Double Santé"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Shield Area"
-LocationName="Zone de bouclier"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Circular Hall"
-LocationName="Salle Circulaire"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Catwalks"
-LocationName="Passerelles"
+LocationName=""
 

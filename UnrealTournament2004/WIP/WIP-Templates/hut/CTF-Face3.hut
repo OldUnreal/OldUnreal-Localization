@@ -1,102 +1,108 @@
 ﻿[LevelInfo0]
 ; EN: Title="Facing Worlds 3"
-Title="Szembenézni a világokkal 3"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Facing Worlds 3"
-Title="Szembenézni a világokkal 3"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Red Level 3"
-LocationName="Piros 3. szint"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Level 3"
-LocationName="Kék 3. szint"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Shield"
-LocationName="Vörös Pajzs"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Blue Shield"
-LocationName="Kék pajzs"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Backdoor"
-LocationName="Piros hátsó ajtó"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Backdoor"
-LocationName="Kék hátsó ajtó"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Blue Level 2"
-LocationName="Kék 2. szint"
+LocationName=""
 
 [Volume3]
-; EN: LocationName="Red Level2"
-LocationName="Piros 2. szint"
+; EN: LocationName="Red Level 2"
+LocationName=""
 
 [Volume4]
-LocationName="Blue Flak"
+; EN: LocationName="Blue Flak"
+LocationName=""
 
 [Volume5]
-LocationName="Red Flak"
+; EN: LocationName="Red Flak"
+LocationName=""
 
 [Volume6]
-LocationName="Blue Flak"
+; EN: LocationName="Blue Flak"
+LocationName=""
 
 [Volume7]
-LocationName="Blue Flak"
+; EN: LocationName="Blue Flak"
+LocationName=""
 
 [Volume8]
-LocationName="Red Flak"
+; EN: LocationName="Red Flak"
+LocationName=""
 
 [Volume9]
-LocationName="Red Flak"
+; EN: LocationName="Red Flak"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Base"
-LocationName="Kék alap"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Red Minigun"
-LocationName="Piros Minigun"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Pillars"
-LocationName="Vörös oszlopok"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Minigun"
-LocationName="Kék Minigun"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Minigun"
-LocationName="Kék Minigun"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Pillars"
-LocationName="Kék oszlopok"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Minigun"
-LocationName="Kék Minigun"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Red Base"
-LocationName="Piros alap"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Minigun"
-LocationName="Piros Minigun"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Minigun"
-LocationName="Piros Minigun"
+LocationName=""
 

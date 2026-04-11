@@ -5,28 +5,29 @@ Preferences=(Caption="Windows",Parent="Joystick",Class=WinDrv.WindowsClient,Imme
 
 [Errors]
 ; EN: Failed3D="3d hardware initialization failed"
-Failed3D="A inicialização do hardware 3D falhou"
+Failed3D=""
 ; EN: DDrawMode="DirectDraw was unable to set the requested video mode"
-DDrawMode="DirectDraw não foi capaz de definir o modo de vídeo solicitado"
+DDrawMode=""
 
 [General]
 ; EN: ViewPersp="Perspective map"
-ViewPersp="Mapa de perspectiva"
+ViewPersp=""
 ; EN: ViewXY="Overhead map"
-ViewXY="Mapa aéreo"
+ViewXY=""
 ; EN: ViewXZ="XZ map"
-ViewXZ="Mapa XZ"
+ViewXZ=""
 ; EN: ViewYZ="YZ map"
-ViewYZ="Mapa YZ"
+ViewYZ=""
 ; EN: ViewOther="Viewport"
-ViewOther="Janela de exibição"
+ViewOther=""
 ; EN: Color16="&16-bit color"
-Color16="E cor de 16 bits"
+Color16=""
 ; EN: Color32="&32-bit color"
-Color32="E cor de 32 bits"
+Color32=""
 ; EN: AdvancedOptions="Advanced Options"
-AdvancedOptions="Opções avançadas"
+AdvancedOptions=""
 
 [WindowsClient]
 ; EN: ClassCaption="Standard Windows Manager"
-ClassCaption="Gerenciador padrão do Windows"
+ClassCaption=""
+

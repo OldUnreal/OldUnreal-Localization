@@ -1,16 +1,16 @@
 ﻿[LevelInfo0]
-; EN: Title="Asbestos"
-Title="Amiante"
+; EN: Title="Deathmatch Tutorial"
+Title=""
 
 [LevelSummary]
-; EN: Title="Asbestos"
-Title="Amiante"
+; EN: Title="Deathmatch Tutorial"
+Title=""
 
 [Trigger0]
 ; EN: Message="0wnage"
-Message="0wage"
+Message=""
 
 [Trigger1]
 ; EN: Message="0wnage"
-Message="0wage"
+Message=""
 

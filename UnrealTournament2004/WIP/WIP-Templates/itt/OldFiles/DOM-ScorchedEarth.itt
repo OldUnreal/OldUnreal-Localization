@@ -1,0 +1,82 @@
+﻿[LevelInfo0]
+; EN: Title="Scorched Earth"
+Title="Terra Bruciata"
+
+[LevelSummary]
+; EN: Title="Scorched Earth"
+Title="Terra Bruciata"
+
+[PhysicsVolume0]
+; EN: LocationName="Blue Spawn"
+LocationName="Progenie Blu"
+
+[PhysicsVolume1]
+; EN: LocationName="Red Spawn"
+LocationName="progenie rossa"
+
+[ZoneInfo0]
+; EN: LocationName="Inside Center"
+LocationName="All'interno del centro"
+
+[ZoneInfo1]
+; EN: LocationName="Back Hallway B"
+LocationName="Corridoio sul retro B"
+
+[ZoneInfo14]
+; EN: LocationName="Outside"
+LocationName="Al di fuori"
+
+[ZoneInfo15]
+; EN: LocationName="Inside Center"
+LocationName="All'interno del centro"
+
+[ZoneInfo16]
+; EN: LocationName="Spawn Blue"
+LocationName="Genera blu"
+
+[ZoneInfo17]
+; EN: LocationName="Front Hallway A"
+LocationName="Corridoio anteriore A"
+
+[ZoneInfo18]
+; EN: LocationName="Front Hallway A"
+LocationName="Corridoio anteriore A"
+
+[ZoneInfo19]
+; EN: LocationName="Room A"
+LocationName="Stanza A"
+
+[ZoneInfo2]
+LocationName="Skybox"
+
+[ZoneInfo20]
+; EN: LocationName="Back Hallway A"
+LocationName="Corridoio posteriore A"
+
+[ZoneInfo3]
+; EN: LocationName="Inside Center"
+LocationName="All'interno del centro"
+
+[ZoneInfo4]
+; EN: LocationName="Inside Center"
+LocationName="All'interno del centro"
+
+[ZoneInfo5]
+; EN: LocationName="Inside Center"
+LocationName="All'interno del centro"
+
+[ZoneInfo6]
+; EN: LocationName="Front Hallway B"
+LocationName="Corridoio anteriore B"
+
+[ZoneInfo7]
+LocationName="Spawn Red"
+
+[ZoneInfo8]
+; EN: LocationName="Front Hallway B"
+LocationName="Corridoio anteriore B"
+
+[ZoneInfo9]
+; EN: LocationName="Room B"
+LocationName="Camera B"
+

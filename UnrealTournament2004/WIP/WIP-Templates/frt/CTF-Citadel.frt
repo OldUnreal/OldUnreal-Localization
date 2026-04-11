@@ -1,96 +1,96 @@
 ﻿[LevelInfo0]
 ; EN: Title="Citadel"
-Title="Citadelle"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Citadel"
-Title="Citadelle"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Middle Bridge"
-LocationName="Pont du Milieu"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red High Bridge"
-LocationName="Pont haut rouge"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="Entrée en pente rouge"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Entrance"
-LocationName="Entrée rouge"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Blue Entrance"
-LocationName="Entrée bleue"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Low Bridge"
-LocationName="Pont bas rouge"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Low Bridge"
-LocationName="Pont bas bleu"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue High Bridge"
-LocationName="Pont haut bleu"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Mesa"
-LocationName="Mesa bleu"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Mesa"
-LocationName="Mesa rouge"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="Entrée en pente bleue"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base Pavillon Bleu"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Flag Base"
-LocationName="Base de drapeau rouge"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="Entrée en pente bleue"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="À l'extérieur"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="Entrée en pente rouge"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Flag Base"
-LocationName="Base de drapeau rouge"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Entrance"
-LocationName="Entrée rouge"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Entrance"
-LocationName="Entrée rouge"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Entrance"
-LocationName="Entrée bleue"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Entrance"
-LocationName="Entrée bleue"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Chambre Pavillon Bleu"
+LocationName=""
 

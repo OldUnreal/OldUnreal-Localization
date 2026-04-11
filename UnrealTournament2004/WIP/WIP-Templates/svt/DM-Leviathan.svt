@@ -1,50 +1,52 @@
 ﻿[LevelInfo0]
-Title="Leviathan"
+; EN: Title="Leviathan"
+Title=""
 
 [LevelSummary]
-Title="Leviathan"
+; EN: Title="Leviathan"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="North-East Upper Hallway"
-LocationName="Nordöstra övre korridoren"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Main Room"
-LocationName="Vardagsrum"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="North-East Hallway"
-LocationName="Nordöstra korridoren"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="North-West Upper Hallway"
-LocationName="Nordvästra övre hall"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="North-West Hallway"
-LocationName="Nordvästra korridoren"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Western Chamber"
-LocationName="Västra kammaren"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="South-West Hallway"
-LocationName="Sydvästra korridoren"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="South-West Upper Hallway"
-LocationName="Sydvästra övre hall"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="South-East Upper Hallway"
-LocationName="Sydöstra övre korridoren"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="South-East Hallway"
-LocationName="Sydöstra korridoren"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Eastern Chamber"
-LocationName="Östra kammaren"
+LocationName=""
 

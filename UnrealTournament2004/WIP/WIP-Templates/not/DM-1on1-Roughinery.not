@@ -1,21 +1,22 @@
 ﻿[LevelInfo0]
 ; EN: Title="Roughinery"
-Title="Grovarbeid"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Roughinery"
-Title="Grovarbeid"
+Title=""
 ; EN: Description="The remnant of an old refinery now serves as a location for your duels. Use its intricate layout to your advantage and don't lose track of your enemy."
-Description="Resten av et gammelt raffineri fungerer nå som et sted for duellene dine. Bruk den intrikate layouten til din fordel og ikke mist oversikten over fienden din."
+Description=""
 
 [ZoneInfo1]
 ; EN: LocationName="Rocket Launcher Area"
-LocationName="Rakettutskyterområde"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Double Health Area"
-LocationName="Dobbelt helseområde"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Link Gun Area"
+; EN: LocationName="Link Gun Area"
+LocationName=""
 

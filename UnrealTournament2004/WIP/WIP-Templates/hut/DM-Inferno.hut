@@ -1,76 +1,76 @@
 ﻿[LevelInfo0]
 ; EN: Title="Inferno"
-Title="Pokol"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Inferno"
-Title="Pokol"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="minigun tower"
-LocationName="miniágyú torony"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="burning in hell"
-LocationName="ég a pokolban"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="shock tower"
-LocationName="sokktorony"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="middle tower"
-LocationName="középső torony"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="shock tower"
-LocationName="sokktorony"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="shock tower"
-LocationName="sokktorony"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="burning in hell"
-LocationName="ég a pokolban"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="burning in hell"
-LocationName="ég a pokolban"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="burning in hell"
-LocationName="ég a pokolban"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="flak tower"
-LocationName="flak torony"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="middle tower"
-LocationName="középső torony"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="minigun tower"
-LocationName="miniágyú torony"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="minigun tower"
-LocationName="miniágyú torony"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="flak tower"
-LocationName="flak torony"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="flak tower"
-LocationName="flak torony"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="middle tower"
-LocationName="középső torony"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="middle tower"
-LocationName="középső torony"
+LocationName=""
 

@@ -1,51 +1,54 @@
 ﻿[LevelInfo0]
-Title="Pistola Battle Grounds"
+; EN: Title="Pistola Battle Grounds"
+Title=""
 
 [LevelSummary]
-Title="Pistola Battle Grounds"
+; EN: Title="Pistola Battle Grounds"
+Title=""
 ; EN: Description="This twin complex of concrete and metal combines the beauty of nature with the harsh lines of industrial architecture to create a fierce battle arena.  Where is my Pistola?"
-Description="Dit tweelingcomplex van beton en metaal combineert de schoonheid van de natuur met de harde lijnen van industriële architectuur om een ​​felle strijdarena te creëren. Waar is mijn Pistola?"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Buiten"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Flagroom"
-LocationName="Blauwe Vlaggenkamer"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Flagroom"
-LocationName="Rode Vlaggenkamer"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Interials A"
-LocationName="Rode tussenstukken A"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Interials B"
-LocationName="Rode tussenstukken B"
+LocationName=""
 
 [ZoneInfo14]
-LocationName="Red Flak Foyer"
+; EN: LocationName="Red Flak Foyer"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Foyer A"
-LocationName="Rode Foyer A"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Interials A"
-LocationName="Blauwe tussenstukken A"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Interials B"
-LocationName="Blauwe tussenstukken B"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Flak Foyer"
-LocationName="Blauwe Flak Foyer"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Foyer A"
-LocationName="Blauwe Foyer A"
+LocationName=""
 

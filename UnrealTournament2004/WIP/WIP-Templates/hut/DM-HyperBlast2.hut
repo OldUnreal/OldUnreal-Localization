@@ -1,64 +1,66 @@
 ﻿[LevelInfo0]
-Title="HyperBlast2"
+; EN: Title="HyperBlast2"
+Title=""
 
 [LevelSummary]
-Title="HyperBlast2"
+; EN: Title="HyperBlast2"
+Title=""
 ; EN: Description="Thanks to Magnetic Anti-Vacuum Resonance technology, combatants are able to battle outside of Xan's 'HyperBlast' arena ship for an extended period of time. Use extreme caution though, one mistake and you'll find yourself floating in space."
-Description="A Magnetic Anti-Vacuum Resonance technológiának köszönhetően a harcosok hosszabb ideig képesek harcolni Xan „HyperBlast” arénahajóján kívül. Legyen azonban rendkívül óvatos, egy hiba és az űrben lebegni fog."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="lower ventricle "
-LocationName="alsó kamra "
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="port side ramp"
-LocationName="kikötői oldali rámpa"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="upper atrium"
-LocationName="felső pitvar"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="port side interior"
-LocationName="port oldali belső"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="exterior"
-LocationName="külső"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="starboard moon hallway"
-LocationName="jobboldali holdfolyosó"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="aft room"
-LocationName="hátsó szoba"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="starboard side ramp"
-LocationName="jobb oldali rámpa"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="upper ventricle "
-LocationName="felső kamra "
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="lower atrium"
-LocationName="alsó pitvar"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="starboard side interior"
-LocationName="jobb oldali belső"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="port moon hallway"
-LocationName="port hold folyosó"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="starboard side wing"
-LocationName="jobb oldali szárny"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="port side wing"
-LocationName="kikötő oldali szárny"
+LocationName=""
 

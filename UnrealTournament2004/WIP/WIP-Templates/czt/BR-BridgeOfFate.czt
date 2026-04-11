@@ -1,96 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bridge of Fate"
-Title="Most osudu"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bridge of Fate"
-Title="Most osudu"
+Title=""
 ; EN: Description="Two sides, a huge cave in between, one bridge going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
-Description="Dvě strany, obrovská jeskyně mezi nimi, jeden most vedoucí ze strany na stranu, překlenující propast mezi dvěma týmy, překlenující propast mezi nadějí a zoufalstvím."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Cave"
-LocationName="Jeskyně"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="BLUE Vchod do brnění"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Main Entrance"
-LocationName="MODRÝ hlavní vchod"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="BLUE Bomb Room"
+; EN: LocationName="BLUE Bomb Room"
+LocationName=""
 
 [ZoneInfo12]
-LocationName="BLUE Bomb Room"
+; EN: LocationName="BLUE Bomb Room"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="BLUE BioRifle Vchod"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo14]
-LocationName="RED Bomb Room"
+; EN: LocationName="RED Bomb Room"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="RED BioRifle Vchod"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="Vstup do RED Armor"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="Vstup do RED Armor"
+LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="RED BioRifle Vchod"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="RED Main Entrance"
-LocationName="ČERVENÝ hlavní vchod"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="RED BioRifle Vchod"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="RED Bomb Room"
+; EN: LocationName="RED Bomb Room"
+LocationName=""
 
 [ZoneInfo22]
-LocationName="RED Bomb Room"
+; EN: LocationName="RED Bomb Room"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="Vstup do RED Armor"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="BLUE Bomb Room"
+; EN: LocationName="BLUE Bomb Room"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Pillar Room"
-LocationName="Místnost MODRÁ SLOUPEK"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="BLUE BioRifle Vchod"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="BLUE Vchod do brnění"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="RED Pillar Room"
-LocationName="Pokoj s ČERVENÝM sloupem"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="BLUE Vchod do brnění"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="BLUE BioRifle Vchod"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 

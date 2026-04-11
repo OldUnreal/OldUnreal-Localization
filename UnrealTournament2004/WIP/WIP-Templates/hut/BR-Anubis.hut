@@ -1,146 +1,160 @@
 ﻿[LevelInfo0]
 ; EN: Title="Temple Of Anubis"
-Title="Anubisz temploma"
+Title=""
 
 [LevelInfo6]
 ; EN: Title="Temple Of Anubis"
-Title="Anubisz temploma"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Temple Of Anubis"
-Title="Anubisz temploma"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="Redeemer"
-LocationName="Megváltó"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Super shield sand dune"
-LocationName="Szuper pajzs homokdűne"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="Blue Respawn"
+; EN: LocationName="Blue South Respawn"
+LocationName=""
 
 [ZoneInfo12]
-LocationName="Blue Respawn"
+; EN: LocationName="Blue South Respawn"
+LocationName=""
 
 [ZoneInfo13]
-LocationName="Blue Respawn"
+; EN: LocationName="Blue South Respawn"
+LocationName=""
 
 [ZoneInfo14]
-; EN: LocationName="Blue Top Entrance"
-LocationName="Kék felső bejárat"
+; EN: LocationName="Red North Top Entrance"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Base"
-LocationName="Piros alap"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Base"
-LocationName="Piros alap"
+LocationName=""
 
 [ZoneInfo17]
-LocationName="Red Respawn"
+; EN: LocationName="Red North Respawn"
+LocationName=""
 
 [ZoneInfo18]
-LocationName="Blue Respawn"
+; EN: LocationName="Blue North Respawn"
+LocationName=""
 
 [ZoneInfo19]
-LocationName="Red Respawn"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="Flak Cannon"
+; EN: LocationName="Rocket Launcher Room"
+LocationName=""
 
 [ZoneInfo20]
-LocationName="Red Respawn"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="Red Respawn"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo22]
-LocationName="Red Respawn"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo23]
-LocationName="Blue Respawn"
+; EN: LocationName="Blue North Respawn"
+LocationName=""
 
 [ZoneInfo24]
-LocationName="Blue Respawn"
+; EN: LocationName="Blue North Respawn"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Center"
-LocationName="Központ"
+LocationName=""
 
 [ZoneInfo26]
-; EN: LocationName="Rocket launcher room"
-LocationName="Rakétavető szoba"
+; EN: LocationName="Flak Cannon Room"
+LocationName=""
 
 [ZoneInfo27]
-; EN: LocationName="Rocket Launcher"
-LocationName="Rakétavető"
+; EN: LocationName="Flak Cannon Room"
+LocationName=""
 
 [ZoneInfo28]
-LocationName="Flak Cannon"
+; EN: LocationName="Rocket Launcher Room"
+LocationName=""
 
 [ZoneInfo29]
-; EN: LocationName="Center"
-LocationName="Központ"
+; EN: LocationName="Center (Red Side)"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Red Respawn"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo30]
-; EN: LocationName="Red court yard"
-LocationName="Piros udvar"
+; EN: LocationName="Red Courtyard"
+LocationName=""
 
 [ZoneInfo31]
-; EN: LocationName="Center"
-LocationName="Központ"
+; EN: LocationName="Center (Blue Side)"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Red Courtyard"
-LocationName="Vörös udvar"
+LocationName=""
 
 [ZoneInfo33]
-; EN: LocationName="Blue Top Entrance"
-LocationName="Kék felső bejárat"
+; EN: LocationName="Red South Top Entrance"
+LocationName=""
 
 [ZoneInfo34]
-; EN: LocationName="Blue Top Entrance"
-LocationName="Kék felső bejárat"
+; EN: LocationName="Red North Top Entrance"
+LocationName=""
 
 [ZoneInfo35]
-; EN: LocationName="Red Top Entrance"
-LocationName="Red Top bejárat"
+; EN: LocationName="Blue North Top Entrance"
+LocationName=""
 
 [ZoneInfo36]
-; EN: LocationName="Blue Top Entrance"
-LocationName="Kék felső bejárat"
+; EN: LocationName="Red South Top Entrance"
+LocationName=""
 
 [ZoneInfo37]
-; EN: LocationName="Red Top Entrance"
-LocationName="Red Top bejárat"
+; EN: LocationName="Blue North Top Entrance"
+LocationName=""
 
 [ZoneInfo38]
-; EN: LocationName="Red Top Entrance"
-LocationName="Red Top bejárat"
+; EN: LocationName="Blue South Top Entrance"
+LocationName=""
 
 [ZoneInfo39]
-; EN: LocationName="Red Top Entrance"
-LocationName="Red Top bejárat"
+; EN: LocationName="Blue South Top Entrance"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Kék udvar"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Kék udvar"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Base"
-LocationName="Kék alap"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Base"
-LocationName="Kék alap"
+LocationName=""
 

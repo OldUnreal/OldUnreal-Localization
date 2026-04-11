@@ -1,51 +1,66 @@
 ﻿[LevelInfo0]
-Title="Torlan"
+; EN: Title="Torlan"
+Title=""
 
 [LevelSummary]
-Title="Torlan"
+; EN: Title="Torlan"
+Title=""
 ; EN: Description="Set on the dried outskirts of a lush jungle continent, two factions clash in fierce combat for control of a major communications tower and its adjacent power supply. With the dam holding back the waters from the nearby jungle, the dried out riverbed running across the battlefield allows for an easy attack route into enemy territory and could provide a decisive victor with ownership of the enormous Comm-tower as the reward."
-Description="A buja dzsungel kontinensének kiszáradt peremén játszódik, két frakció ádáz harcban csap össze egy nagy kommunikációs torony és a szomszédos tápegység irányításáért. Mivel a gát visszatartja a vizeket a közeli dzsungelből, a csatatéren átfutó kiszáradt folyómeder könnyű támadási útvonalat tesz lehetővé az ellenséges területre, és döntő győztesként jutalmazhatja a hatalmas Comm-torony tulajdonjogát."
+Description=""
+
+[Volume0]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Central Canyon"
-LocationName="Közép-kanyon"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Central Canyon"
-LocationName="Közép-kanyon"
+LocationName=""
 
 [Volume12]
-; EN: LocationName="Unspecified"
-LocationName="Meg nem határozott"
+; EN: LocationName="Red Prime Node (2)"
+LocationName=" (2)"
 
 [Volume13]
-LocationName="Tower Bridge"
+; EN: LocationName="Tower Bridge"
+LocationName=""
+
+[Volume14]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume2]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Tower"
-LocationName="Kék torony"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Red Tower"
-LocationName="Vörös torony"
+LocationName=""
 
 [Volume6]
-; EN: LocationName="Unspecified"
-LocationName="Meg nem határozott"
+; EN: LocationName="Red Goliath Node (1)"
+LocationName=" (1)"
 
 [Volume7]
-; EN: LocationName="Unspecified"
-LocationName="Meg nem határozott"
+; EN: LocationName="Blue Goliath Node (5)"
+LocationName=" (5)"
 
 [Volume8]
-; EN: LocationName="Unspecified"
-LocationName="Meg nem határozott"
+; EN: LocationName="Blue Prime Node (4)"
+LocationName=" (4)"
 
 [Volume9]
 ; EN: LocationName="Central Tower"
-LocationName="Központi torony"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 

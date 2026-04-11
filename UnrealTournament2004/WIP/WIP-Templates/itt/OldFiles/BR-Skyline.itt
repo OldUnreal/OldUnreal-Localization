@@ -1,0 +1,32 @@
+﻿[LevelInfo0]
+; EN: Title="Skyline"
+Title="Orizzonte"
+
+[LevelSummary]
+; EN: Title="Skyline"
+Title="Orizzonte"
+
+[MessageTextureClient0]
+; EN: ScrollingMessage="%lp IS WINNING WITH A SCORE OF %lf"
+ScrollingMessage="%lp VINCE CON UN PUNTEGGIO DI %lf"
+
+[Volume2]
+; EN: LocationName="Inside Blue Tower"
+LocationName="Dentro la Torre Blu"
+
+[Volume3]
+; EN: LocationName="Central Tower"
+LocationName="Torre Centrale"
+
+[Volume4]
+; EN: LocationName="Inside Red Tower"
+LocationName="Dentro la Torre Rossa"
+
+[Volume5]
+; EN: LocationName="Red Tower"
+LocationName="Torre Rossa"
+
+[Volume6]
+; EN: LocationName="Blue Tower"
+LocationName="Torre Blu"
+

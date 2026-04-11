@@ -1,128 +1,106 @@
 ﻿[LevelInfo0]
-Title="Island Hop"
+; EN: Title="Island Hop"
+Title=""
 
 [LevelSummary]
-Title="Island Hop"
+; EN: Title="Island Hop"
+Title=""
 ; EN: Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
-Description="Denna vulkaniska skärgård fungerade en gång som en inkörsport i 2000-talets mänskliga krig. En serie broar, omvandlade för turneringsbruk, förbinder nu öarna. Även om dessa broar är utmärkta för markbaserade fordon, ger de ingen direkt väg till strid. Mantas kommer att vara det primära valet för transport."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Southwest Island"
-LocationName="Sydvästra ön"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Southwest Island"
-LocationName="Sydvästra ön"
+LocationName=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="West Island"
-LocationName="Västra ön"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Northwest Island"
-LocationName="Nordvästra ön"
+LocationName=""
+
+[Volume13]
+; EN: LocationName="Northwest Node (1)"
+LocationName=" (1)"
 
 [Volume14]
 ; EN: LocationName="Northwest Island"
-LocationName="Nordvästra ön"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Northeast Island"
-LocationName="Nordöstra ön"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Northeast Island"
-LocationName="Nordöstra ön"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Northeast Island"
-LocationName="Nordöstra ön"
+LocationName=""
+
+[Volume18]
+; EN: LocationName="Blue Prime Node (4)"
+LocationName=" (4)"
 
 [Volume19]
 ; EN: LocationName="East Island"
-LocationName="Östra ön"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southwest Island"
-LocationName="Sydvästra ön"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Small Northeast Island"
-LocationName="Liten nordöstra ön"
+LocationName=""
+
+[Volume21]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="East Island"
-LocationName="Östra ön"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Southeast Island"
-LocationName="Sydöstra ön"
+LocationName=""
+
+[Volume24]
+; EN: LocationName="Southeast Node (3)"
+LocationName=" (3)"
 
 [Volume25]
 ; EN: LocationName="Southeast Island"
-LocationName="Sydöstra ön"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Volcano"
-LocationName="Vulkan"
+LocationName=""
+
+[Volume3]
+; EN: LocationName="Red Prime Node (2)"
+LocationName=" (2)"
 
 [Volume5]
 ; EN: LocationName="West Island"
-LocationName="Västra ön"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Small Southwest Island"
-LocationName="Liten sydvästra ö"
-
-[WaterVolume1]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume18]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume19]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume20]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume23]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume24]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume25]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume26]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume27]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume28]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume3]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
-
-[WaterVolume31]
-; EN: LocationName="Under Water"
-LocationName="Under Vatten"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Utanför"
+LocationName=""
 

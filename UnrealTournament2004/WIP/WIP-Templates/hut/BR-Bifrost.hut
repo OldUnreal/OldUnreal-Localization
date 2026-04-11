@@ -1,67 +1,60 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bifrost Bases"
-Title="Bifrost alapok"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bifrost Bases"
-Title="Bifrost alapok"
+Title=""
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Front Room"
-LocationName="KÉK előszoba"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="RED Front Room"
-LocationName="PIROS elülső szoba"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED Hallway"
-LocationName="PIROS folyosó"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="RED Bomb Room"
-LocationName="VÖRÖS bombaterem"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="BLUE Hallway"
-LocationName="KÉK folyosó"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="KÉK bombaterem"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="RED Bomb Room"
-LocationName="VÖRÖS bombaterem"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Hallway"
-LocationName="KÉK folyosó"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RED Hallway"
-LocationName="PIROS folyosó"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="KÉK bombaterem"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="RED Entrance"
-LocationName="PIROS bejárat"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="BLUE Entrance"
-LocationName="KÉK Bejárat"
-
-[xBombDelivery0]
-DestructionMessage="Red Team Scores!"
-
-[xBombDelivery1]
-; EN: DestructionMessage="Blue Team Scores!"
-DestructionMessage="Kék csapat pontszámai!"
+LocationName=""
 

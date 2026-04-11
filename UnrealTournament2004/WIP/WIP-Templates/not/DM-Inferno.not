@@ -1,76 +1,76 @@
 ﻿[LevelInfo0]
 ; EN: Title="Inferno"
-Title="Helvete"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Inferno"
-Title="Helvete"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="minigun tower"
-LocationName="minigun tårn"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="burning in hell"
-LocationName="brenner i helvete"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="shock tower"
-LocationName="sjokktårn"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="middle tower"
-LocationName="midterste tårn"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="shock tower"
-LocationName="sjokktårn"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="shock tower"
-LocationName="sjokktårn"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="burning in hell"
-LocationName="brenner i helvete"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="burning in hell"
-LocationName="brenner i helvete"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="burning in hell"
-LocationName="brenner i helvete"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="flak tower"
-LocationName="flak tårn"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="middle tower"
-LocationName="midterste tårn"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="minigun tower"
-LocationName="minigun tårn"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="minigun tower"
-LocationName="minigun tårn"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="flak tower"
-LocationName="flak tårn"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="flak tower"
-LocationName="flak tårn"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="middle tower"
-LocationName="midterste tårn"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="middle tower"
-LocationName="midterste tårn"
+LocationName=""
 

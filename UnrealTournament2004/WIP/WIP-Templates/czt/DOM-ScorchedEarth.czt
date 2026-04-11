@@ -1,80 +1,80 @@
 ﻿[LevelInfo0]
 ; EN: Title="Scorched Earth"
-Title="Spálená země"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Scorched Earth"
-Title="Spálená země"
+Title=""
 
 [PhysicsVolume0]
 ; EN: LocationName="Blue Spawn"
-LocationName="Modrý potěr"
+LocationName=""
 
 [PhysicsVolume1]
-LocationName="Red Spawn"
+; EN: LocationName="Red Spawn"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Inside Center"
-LocationName="Uvnitř centra"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Back Hallway B"
-LocationName="Zadní chodba B"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Inside Center"
-LocationName="Uvnitř centra"
+LocationName=""
 
 [ZoneInfo16]
-LocationName="Spawn Blue"
+; EN: LocationName="Spawn Blue"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Front Hallway A"
-LocationName="Přední chodba A"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Front Hallway A"
-LocationName="Přední chodba A"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Room A"
-LocationName="Místnost A"
-
-[ZoneInfo2]
-LocationName="Skybox"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Back Hallway A"
-LocationName="Zadní chodba A"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Inside Center"
-LocationName="Uvnitř centra"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Inside Center"
-LocationName="Uvnitř centra"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Inside Center"
-LocationName="Uvnitř centra"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Front Hallway B"
-LocationName="Přední chodba B"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="Spawn Red"
+; EN: LocationName="Spawn Red"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Front Hallway B"
-LocationName="Přední chodba B"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Room B"
-LocationName="Místnost B"
+LocationName=""
 

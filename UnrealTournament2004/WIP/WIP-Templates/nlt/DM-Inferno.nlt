@@ -1,76 +1,76 @@
 ﻿[LevelInfo0]
 ; EN: Title="Inferno"
-Title="hel"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Inferno"
-Title="hel"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="minigun tower"
-LocationName="minigun toren"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="burning in hell"
-LocationName="brandend in de hel"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="shock tower"
-LocationName="schok toren"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="middle tower"
-LocationName="middelste toren"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="shock tower"
-LocationName="schok toren"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="shock tower"
-LocationName="schok toren"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="burning in hell"
-LocationName="brandend in de hel"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="burning in hell"
-LocationName="brandend in de hel"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="burning in hell"
-LocationName="brandend in de hel"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="flak tower"
-LocationName="luchtafweer toren"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="middle tower"
-LocationName="middelste toren"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="minigun tower"
-LocationName="minigun toren"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="minigun tower"
-LocationName="minigun toren"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="flak tower"
-LocationName="luchtafweer toren"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="flak tower"
-LocationName="luchtafweer toren"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="middle tower"
-LocationName="middelste toren"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="middle tower"
-LocationName="middelste toren"
+LocationName=""
 

@@ -1,104 +1,104 @@
 ﻿[LevelInfo0]
 ; EN: Title="Geothermal"
-Title="Geotermikus"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Geothermal"
-Title="Geotermikus"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Middle Walkway"
-LocationName="Középső sétány"
+LocationName=""
 
 [WaterVolume5]
 ; EN: LocationName="Blue Water"
-LocationName="Nyílt víz"
+LocationName=""
 
 [WaterVolume7]
 ; EN: LocationName="Red Water"
-LocationName="Vörös Víz"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="RED Flag Room"
-LocationName="VÖRÖS Zászlós szoba"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="RED Machine Room"
-LocationName="PIROS Gépterem"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Machine Room"
-LocationName="KÉK Gépterem"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Water Room"
-LocationName="KÉK vízi szoba"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="RED Flag Room"
-LocationName="VÖRÖS Zászlós szoba"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Middle"
-LocationName="Középső"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED High Entrance"
-LocationName="PIROS magas bejárat"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="BLUE Low Entrance"
-LocationName="KÉK Alacsony bejárat"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="KÉK Magas bejárat"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="RED Water Room"
-LocationName="VÖRÖS vizes szoba"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="KÉK Magas bejárat"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="KÉK Magas bejárat"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="KÉK Zászlós szoba"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="KÉK Zászlós szoba"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="KÉK Magas bejárat"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="RED Low Entrance"
-LocationName="PIROS Alacsony bejárat"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RED High Entrance"
-LocationName="PIROS magas bejárat"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="RED High Entrance"
-LocationName="PIROS magas bejárat"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="KÉK Zászlós szoba"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="RED High Entrance"
-LocationName="PIROS magas bejárat"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="RED Flag Room"
-LocationName="VÖRÖS Zászlós szoba"
+LocationName=""
 

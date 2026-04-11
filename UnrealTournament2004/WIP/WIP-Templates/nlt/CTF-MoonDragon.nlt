@@ -1,70 +1,66 @@
 ﻿[LevelInfo0]
 ; EN: Title="Moon Dragon"
-Title="Maandraak"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Moon Dragon"
-Title="Maandraak"
+Title=""
 ; EN: Description="In the depths of ancient Korea, hidden high up in the Mountain of the Moon Dragon, battles rage between brave warriors."
-Description="In de diepten van het oude Korea, hoog verborgen in de Berg van de Maandraak, woeden gevechten tussen dappere krijgers."
+Description=""
 
 [Volume10]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rode Vlag Kamer"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Entrances"
-LocationName="Rode basisingangen"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Central Cave"
-LocationName="Centrale Grot"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Shield Side"
-LocationName="Blauwe schildzijde"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Blue Base Entrances"
-LocationName="Blauwe basisingangen"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Blue Center"
-LocationName="Blauw Centrum"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Blue Fortress Area"
-LocationName="Blauw fortgebied"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Red Fortress Area"
-LocationName="Rode Vestinggebied"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Central Cave"
-LocationName="Centrale Grot"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Center"
-LocationName="Rood Centrum"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Shield Side"
-LocationName="Rode schildzijde"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Side Route"
-LocationName="Rode zijroute"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Side Route"
-LocationName="Blauwe zijroute"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blauwe Vlag Kamer"
-
-[xBlueFlagBase1]
-; EN: ObjectiveName="BlueFlag"
-ObjectiveName="Blauwe Vlag"
+LocationName=""
 

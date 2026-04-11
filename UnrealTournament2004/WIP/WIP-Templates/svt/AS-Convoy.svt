@@ -6,15 +6,15 @@ Message="1..."
 
 [Action_DISPLAYMESSAGE12]
 ; EN: Message="The doors are now open!"
-Message="Dörrarna är nu öppna!"
+Message=""
 
 [Action_DISPLAYMESSAGE4]
 ; EN: Message="The attackers have infiltrated the repair vessel!"
-Message="Angriparna har infiltrerat reparationsfartyget!"
+Message=""
 
 [Action_DISPLAYMESSAGE6]
 ; EN: Message="The attackers have reached the weapon trailer!"
-Message="Angriparna har nått vapentrailern!"
+Message=""
 
 [Action_DISPLAYMESSAGE7]
 Message="5..."
@@ -27,204 +27,205 @@ Message="3..."
 
 [HoldObjective1]
 ; EN: DestructionMessage="The forward weapon cache has been stolen!"
-DestructionMessage="Den främre vapencachen har blivit stulen!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Open the panel to advance closer."
-ObjectiveDescription="Öppna panelen för att gå närmare."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Open the panel"
-Objective_Info_Attacker="Öppna panelen"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the panel"
-Objective_Info_Defender="Försvara panelen"
+Objective_Info_Defender=""
 
 [HoldObjective2]
 ; EN: DestructionMessage="The boarding platform has been extended!"
-DestructionMessage="Ombordstigningsplattformen har förlängts!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Extend the boarding platform to continue your advance."
-ObjectiveDescription="Förläng ombordstigningsplattformen för att fortsätta ditt framsteg."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Extend the boarding platform"
-Objective_Info_Attacker="Förläng ombordstigningsplattformen"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the boarding platform"
-Objective_Info_Defender="Försvara ombordstigningsplattformen"
+Objective_Info_Defender=""
 
 [HoldObjective3]
 ; EN: DestructionMessage="The N.E.X.U.S. missiles have been secured!"
-DestructionMessage="N.E.X.U.S. missiler har säkrats!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Retrieve the N.E.X.U.S. missiles and your mission is complete!"
-ObjectiveDescription="Hämta N.E.X.U.S. missiler och ditt uppdrag är klart!"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Retrieve the N.E.X.U.S. missiles"
-Objective_Info_Attacker="Hämta N.E.X.U.S. missiler"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the N.E.X.U.S. missiles"
-Objective_Info_Defender="Försvara N.E.X.U.S. missiler"
+Objective_Info_Defender=""
 
 [HoldObjective4]
 ; EN: DestructionMessage="Side doors have been opened!"
-DestructionMessage="Sidodörrarna har öppnats!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Use the side door switch in order to proceed"
-ObjectiveDescription="Använd sidodörrskontakten för att fortsätta"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Open the side doors"
-Objective_Info_Attacker="Öppna sidodörrarna"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the side door switch"
-Objective_Info_Defender="Försvara sidodörrskontakten"
+Objective_Info_Defender=""
 
 [HoldObjective5]
 ; EN: DestructionMessage="The explosives are in place!"
-DestructionMessage="Sprängämnena är på plats!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Place explosives on the rear door to gain access to the repair vessel."
-ObjectiveDescription="Placera sprängämnen på bakdörren för att komma åt reparationskärlet."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Place explosives on the door"
-Objective_Info_Attacker="Placera sprängämnen på dörren"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the door"
-Objective_Info_Defender="Försvara dörren"
+Objective_Info_Defender=""
 
 [HoldObjective6]
 ; EN: DestructionMessage="Reinforcements are on the way!"
-DestructionMessage="Förstärkningar är på väg!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Open the rear door of the repair vessel to advance."
-ObjectiveDescription="Öppna den bakre luckan på reparationskärlet för att avancera."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Open rear door"
-Objective_Info_Attacker="Öppna bakdörren"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend rear door"
-Objective_Info_Defender="Försvara bakdörren"
+Objective_Info_Defender=""
 
 [InfoPod0]
 ; EN: POD_Message="! ! ! S T A N D    B A C K ! ! !"
-POD_Message="! ! ! HÅLL DIG UNDAN ! ! !"
+POD_Message=""
 
 [InfoPod19]
 ; EN: POD_Message="DROP DOWN HERE"
-POD_Message="SLIPP NED HÄR"
+POD_Message=""
 
 [InfoPod20]
 ; EN: POD_Message="DROP DOWN HERE"
-POD_Message="SLIPP NED HÄR"
+POD_Message=""
 
 [InfoPod21]
 ; EN: POD_Message="DROP DOWN HERE"
-POD_Message="SLIPP NED HÄR"
+POD_Message=""
 
 [InfoPod30]
 ; EN: POD_Message="! ! ! S T A N D    B A C K ! ! !"
-POD_Message="! ! ! HÅLL DIG UNDAN ! ! !"
+POD_Message=""
 
 [LevelInfo0]
 ; EN: Title="Convoy"
-Title="Konvoj"
+Title=""
 
 [LevelInfo9]
 ; EN: Title="Convoy"
-Title="Konvoj"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Convoy"
-Title="Konvoj"
-; EN: Description="This scenario is a recreation of the recovery of the Nexus prototype missiles by the NEG military, after they were stolen by the Hellions. NEG forces pinpointed the location of the cache due to a hidden homing device on these devastating weapons of mass destruction. The exact location of the missiles could only be pinpointed during the short period when they were being transferred from one location to another above ground on Taron, and the military had no choice but to strike at this time."
-Description="Det här scenariot är en återskapande av återställningen av Nexus prototypmissiler av NEG-militären, efter att de stals av Hellions. NEG-styrkor hittade platsen för cachen på grund av en gömd målsökningsenhet på dessa förödande massförstörelsevapen. Den exakta platsen för missilerna kunde bara fastställas under den korta period då de överfördes från en plats till en annan ovan jord på Taron, och militären hade inget annat val än att slå till vid denna tidpunkt."
+Title=""
+; EN: Description="This scenario is a recreation of the recovery of the N.E.X.U.S. prototype missiles by the N.E.G. military, after they were stolen by the Hellions. N.E.G. forces pinpointed the location of the cache due to a hidden homing device on these devastating weapons of mass destruction. The exact location of the missiles could only be pinpointed during the short period when they were being transferred from one location to another above ground on Taron, and the military had no choice but to strike at this time."
+Description=""
 
 [SceneSubtitles0]
-SubTitles=("This scenario is a recreation of the recovery of the N.E.X.U.S. prototype missiles by the NEG military, after they were stolen by the Hellions.","NEG forces pinpointed the location of the cache due to a hidden homing device on these devastating weapons of mass destruction.","The exact location of the missiles could only be pinpointed during the short period when they were being transferred from one location to another above ground on Taron, and the military had no choice but to strike at this time.","The attackers must first make their way to the Hellions' boarding platform, manipulate the controls, and extend the platform to allow the advance to continue.",,"At this point, it may be a good idea for the attackers to remove this control panel and convert the trailer circuitry to work for them instead of the Hellions. It will allow for a faster advance and an upgrade in weaponry.",,"The attackers must cross the boarding platform, reach the rear door, and plant explosives on the door to gain access to the inside of the Hellion repair vessel.",,"In order to make a quicker advance, open the rear doors of the Repair Vessel. This will allow the attackers to start much closer to the next objective.",,"One word of caution. There is a gasoline tanker within the repair vessel, watch your fire or it may explode, making progress far more difficult.",,"The attackers need to flip this switch in order to be able to proceed any further. This will allow them to control the side doors to proceed to the final objective.",,"The attackers must make it to the weapon trailer. Once inside, they must hold this switch to retrieve the Nexus missiles.")
+; EN: SubTitles=("This scenario is a recreation of the recovery of the N.E.X.U.S. prototype missiles by the N.E.G. military, after they were stolen by the Hellions.","N.E.G. forces pinpointed the location of the cache due to a hidden homing device on these devastating weapons of mass destruction.","The exact location of the missiles could only be pinpointed during the short period when they were being transferred from one location to another above ground on Taron, and the military had no choice but to strike at this time.","The attackers must first make their way to the Hellions' boarding platform, manipulate the controls, and extend the platform to allow the advance to continue.",,"At this point, it may be a good idea for the attackers to remove this control panel and convert the trailer circuitry to work for them instead of the Hellions. It will allow for a faster advance and an upgrade in weaponry.",,"The attackers must cross the boarding platform, reach the rear door, and plant explosives on the door to gain access to the inside of the Hellion repair vessel.",,"In order to make a quicker advance, open the rear doors of the Repair Vessel. This will allow the attackers to start much closer to the next objective.",,"One word of caution. There is a gasoline tanker within the repair vessel, watch your fire or it may explode, making progress far more difficult.",,"The attackers need to flip this switch in order to be able to proceed any further. This will allow them to control the side doors to proceed to the final objective.",,"The attackers must make it to the weapon trailer. Once inside, they must hold this switch to retrieve the N.E.X.U.S. missiles.")
+SubTitles=("","","","",,"",,"",,"",,"",,"",,"")
 
 [Trigger_ASMessageTrigger0]
 ; EN: Message="Air strike inbound! Seek shelter immediately!"
-Message="Inkommande flyganfall! Sök skydd omedelbart!"
+Message=""
 
 [TriggeredObjective0]
 ; EN: DestructionMessage="The N.E.X.U.S. trailer has been opened!"
-DestructionMessage="N.E.X.U.S. trailern har öppnats!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Reach the N.E.X.U.S. missile trailer and open it"
-ObjectiveDescription="Nå N.E.X.U.S. missiltrailer och öppna den"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Reach the N.E.X.U.S. missile trailer"
-Objective_Info_Attacker="Nå N.E.X.U.S. missiltrailer"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the N.E.X.U.S. missile trailer"
-Objective_Info_Defender="Försvara N.E.X.U.S. missiltrailer"
+Objective_Info_Defender=""
 
 [Volume1]
 ; EN: LocationName="Attacker vehicle"
-LocationName="Angriparfordon"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Rear sniper tower"
-LocationName="Bakre prickskyttstorn"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Rear sniper tower"
-LocationName="Bakre prickskyttstorn"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Minigun platform"
-LocationName="Minigun plattform"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Minigun platform"
-LocationName="Minigun plattform"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Forward sniping tower"
-LocationName="Framåt prickskyttetorn"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Forward sniping tower"
-LocationName="Framåt prickskyttetorn"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Cargo trailer"
-LocationName="Lastvagn"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Boarding platform vehicle"
-LocationName="Påstigningsplattform fordon"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Forward weapon cache"
-LocationName="Framåt vapencache"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Pipe trailer"
-LocationName="Rörvagn"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Weapon trailer vehicle"
-LocationName="Vapen släpfordon"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Weapon trailer roof"
-LocationName="Vapenvagnstak"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Boarding platform"
-LocationName="Ombordstigningsplattform"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Boarding platform"
-LocationName="Ombordstigningsplattform"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Utanför"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Repair vessel bridge"
-LocationName="Reparera fartygsbro"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Repair vessel upper deck"
-LocationName="Reparera fartygets övre däck"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Repair vessel upper deck"
-LocationName="Reparera fartygets övre däck"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Door"
-LocationName="Dörr"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Repair vessel"
-LocationName="Reparera kärl"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Weapon trailer inside"
-LocationName="Vapentrailer inuti"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Outside"
-LocationName="Utanför"
+LocationName=""
 

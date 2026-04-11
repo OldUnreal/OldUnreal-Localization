@@ -1,98 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Face Classic"
-Title="Visage Classique"
+Title=""
 
 [LevelInfo13]
-; EN: Title="Facing Worlds"
-Title="Face aux mondes"
+; EN: Title="Face Classic"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Face Classic"
-Title="Visage Classique"
+Title=""
 ; EN: Description="This island-asteroid and its two towers have proven to be a perfect setting for Tournament CTF matches, so face your enemy and let the games begin!"
-Description="Cette île-astéroïde et ses deux tours se sont avérées être un cadre parfait pour les matchs du Tournoi CTF, alors affrontez votre ennemi et que les jeux commencent !"
+Description=""
 
 [Volume0]
-LocationName="Blue Base Lower Sniper Loft"
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Base Top Sniper Ledge"
-LocationName="Rebord de tireur d'élite à base bleue"
+LocationName=""
 
 [Volume2]
-LocationName="Red Base Top Sniper Ledge"
+; EN: LocationName="Red Base Top Sniper Ledge"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Base Lower Sniper Loft"
-LocationName="Loft inférieur de tireur d'élite de base rouge"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Central Open Ground"
-LocationName="Terrain Ouvert Central"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Niveau inférieur de la base rouge"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Red Base Top Sniper Ledge"
+; EN: LocationName="Red Base Top Sniper Ledge"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Side Open Ground"
-LocationName="Terrain ouvert côté bleu"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Niveau inférieur de la base bleue"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Blue Base Top Sniper Ledge"
-LocationName="Rebord de tireur d'élite à base bleue"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Base Lower Sniper Loft"
-LocationName="Loft inférieur de tireur d'élite de base rouge"
+LocationName=""
 
 [ZoneInfo20]
-LocationName="Blue Base Lower Sniper Loft"
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Blue Base Redeemer Loft"
-LocationName="Loft Rédempteur Base Bleue"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Blue Base Entrance"
-LocationName="Entrée de la base bleue"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Niveau inférieur de la base bleue"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Niveau inférieur de la base bleue"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Base Redeemer Loft"
-LocationName="Loft Rédempteur Base Rouge"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Base Entrance"
-LocationName="Entrée de la base rouge"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Niveau inférieur de la base rouge"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Niveau inférieur de la base rouge"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Niveau inférieur de la base rouge"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Side Open Ground"
-LocationName="Terrain ouvert côté rouge"
+LocationName=""
 

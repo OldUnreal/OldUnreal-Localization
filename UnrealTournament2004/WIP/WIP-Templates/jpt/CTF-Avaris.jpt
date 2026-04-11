@@ -1,230 +1,230 @@
 ﻿[LevelInfo0]
 ; EN: Title="Avaris"
-Title="アヴァリス"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Avaris"
-Title="アヴァリス"
+Title=""
 ; EN: Description="Once the capital of a mighty empire, Avaris now lies empty, abandoned to the relentless elements of the desert.  Those who die here in the Tournament share the same fate."
-Description="かつては強大な帝国の首都だったアヴァリスは、今では空っぽになり、砂漠の執拗な要素に見捨てられています。ここトーナメントで死ぬ人々は同じ運命を共有します。"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="ブルーレフトアンテカンバー"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Courtyard"
-LocationName="ブルーコートヤード"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Main Hall"
-LocationName="ブルーメインホール"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Right Antechamber"
-LocationName="レッドライトアンテカンバー"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Left Antechamber (Destroyed)"
-LocationName="レッドレフトアンテカンバー（破壊）"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Flag Base"
-LocationName="レッドフラッグベース"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Courtyard Building"
-LocationName="中庭ビル"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Right Entrance"
-LocationName="赤い右の入り口"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Courtyard Building"
-LocationName="中庭ビル"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Left Entrance"
-LocationName="赤い左の入り口"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Main Hall"
-LocationName="赤いメインホール"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Flag Base"
-LocationName="ブルーフラッグベース"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Left Entrance"
-LocationName="青い左の入り口"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Right Passages"
-LocationName="レッドライトパッセージ"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Right Courtyard"
-LocationName="レッドライトコートヤード"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Flag Base"
-LocationName="ブルーフラッグベース"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Flag Base"
-LocationName="ブルーフラッグベース"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Left Side"
-LocationName="青い左側"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Courtyard Building"
-LocationName="中庭ビル"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Central Courtyard"
-LocationName="中庭"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Central Area"
-LocationName="セントラルエリア"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue Right Entrance"
-LocationName="青い右の入り口"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Central Area"
-LocationName="セントラルエリア"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Left Staircase"
-LocationName="青い左階段"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="ブルーライトアンテカンバー"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Red Left Staircase"
-LocationName="赤い左階段"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Central Area"
-LocationName="セントラルエリア"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Red Right Staircase"
-LocationName="赤い右階段"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Flag Base"
-LocationName="ブルーフラッグベース"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Red Flag Base"
-LocationName="レッドフラッグベース"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Red Flag Base"
-LocationName="レッドフラッグベース"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Red Courtyard"
-LocationName="赤い中庭"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Courtyard Building"
-LocationName="中庭ビル"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Blue Left Side"
-LocationName="青い左側"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="ブルーライトアンテカンバー"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="ブルーライトアンテカンバー"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Blue Flag Base"
-LocationName="ブルーフラッグベース"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="ブルーライトアンテカンバー"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Red Right Side"
-LocationName="赤い右側"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Left Courtyard"
-LocationName="赤い左の中庭"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="Blue Right Side"
-LocationName="青い右側"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Blue Flag Base"
-LocationName="ブルーフラッグベース"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Blue Flag Base"
-LocationName="ブルーフラッグベース"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Red Flag Base"
-LocationName="レッドフラッグベース"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Red Flag Base"
-LocationName="レッドフラッグベース"
+LocationName=""
 
 [ZoneInfo55]
 ; EN: LocationName="Blue Right Side"
-LocationName="青い右側"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="Central Area"
-LocationName="セントラルエリア"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="Central Area"
-LocationName="セントラルエリア"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Red Right Side"
-LocationName="赤い右側"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Right Staircase"
-LocationName="青い右階段"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="Red Left Side"
-LocationName="赤い左側"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Red Left Side"
-LocationName="赤い左側"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="ブルーレフトアンテカンバー"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="ブルーレフトアンテカンバー"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Central Courtyard"
-LocationName="中庭"
+LocationName=""
 

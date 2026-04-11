@@ -1,47 +1,50 @@
 ﻿[LevelInfo0]
-Title="Grassyknoll"
+; EN: Title="Grassyknoll"
+Title=""
 
 [LevelSummary]
-Title="Grassyknoll"
+; EN: Title="Grassyknoll"
+Title=""
 ; EN: Description="A warm breeze through the trees brings the stink of hot metal and sulphur, and the coppery scent of blood. Somewhere ahead crazed laughter echoes the report of a plasma rifle, taunting an unseen enemy. The sizzle of scorched flesh is the only answer. There's no magic bullets here, no conspiracy, just a gauntlet of enemies to overcome and finally bring the flag home. "
-Description="Uma brisa quente através das árvores traz o fedor de metal quente e enxofre, e o cheiro acobreado de sangue. Em algum lugar à frente, uma risada enlouquecida ecoa o barulho de um rifle de plasma, provocando um inimigo invisível. O chiar da carne queimada é a única resposta. Não há balas mágicas aqui, nenhuma conspiração, apenas um desafio de inimigos para superar e finalmente trazer a bandeira para casa. "
+Description=""
 
 [LimitationVolume1]
-; EN: LocationName="MineField"
-LocationName="Campo minado"
+; EN: LocationName="Mine Field"
+LocationName=""
 
 [PhysicsVolume12]
 ; EN: LocationName="Red Outdoors"
-LocationName="Vermelho ao ar livre"
+LocationName=""
 
 [PhysicsVolume13]
 ; EN: LocationName="Blue Outdoors"
-LocationName="Azul ao ar livre"
+LocationName=""
 
 [Volume0]
 ; EN: LocationName="Blue Adrenaline"
-LocationName="Adrenalina Azul"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Sniper Forest"
-LocationName="Floresta de Sniper"
+LocationName=""
 
 [Volume2]
-LocationName="Super Shield"
+; EN: LocationName="Super Shield"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Adrenaline"
-LocationName="Adrenalina Vermelha"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Double Damage"
-LocationName="Dano Duplo"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Base"
-LocationName="Base Azul"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Base"
-LocationName="Base Vermelha"
+LocationName=""
 

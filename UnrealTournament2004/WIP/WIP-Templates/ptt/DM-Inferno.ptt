@@ -1,74 +1,76 @@
 ﻿[LevelInfo0]
-Title="Inferno"
+; EN: Title="Inferno"
+Title=""
 
 [LevelSummary]
-Title="Inferno"
+; EN: Title="Inferno"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="minigun tower"
-LocationName="torre de minigun"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="burning in hell"
-LocationName="queimando no inferno"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="shock tower"
-LocationName="torre de choque"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="middle tower"
-LocationName="torre do meio"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="shock tower"
-LocationName="torre de choque"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="shock tower"
-LocationName="torre de choque"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="burning in hell"
-LocationName="queimando no inferno"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="burning in hell"
-LocationName="queimando no inferno"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="burning in hell"
-LocationName="queimando no inferno"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="flak tower"
-LocationName="torre de ataque"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="middle tower"
-LocationName="torre do meio"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="minigun tower"
-LocationName="torre de minigun"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="minigun tower"
-LocationName="torre de minigun"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="flak tower"
-LocationName="torre de ataque"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="flak tower"
-LocationName="torre de ataque"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="middle tower"
-LocationName="torre do meio"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="middle tower"
-LocationName="torre do meio"
+LocationName=""
 

@@ -1,225 +1,230 @@
 ﻿[LevelInfo0]
-Title="Avaris"
+; EN: Title="Avaris"
+Title=""
 
 [LevelSummary]
-Title="Avaris"
+; EN: Title="Avaris"
+Title=""
 ; EN: Description="Once the capital of a mighty empire, Avaris now lies empty, abandoned to the relentless elements of the desert.  Those who die here in the Tournament share the same fate."
-Description="Outrora a capital de um poderoso império, Avaris agora está vazia, abandonada aos elementos implacáveis ​​do deserto. Aqueles que morrem aqui no Torneio compartilham o mesmo destino."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="Antecâmara Azul Esquerda"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Pátio Azul"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="Blue Main Hall"
+; EN: LocationName="Blue Main Hall"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Right Antechamber"
-LocationName="Antecâmara direita vermelha"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Left Antechamber (Destroyed)"
-LocationName="Antecâmara Esquerda Vermelha (Destruída)"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Flag Base"
-LocationName="Base Bandeira Vermelha"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Courtyard Building"
-LocationName="Edifício do pátio"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Right Entrance"
-LocationName="Entrada direita vermelha"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Courtyard Building"
-LocationName="Edifício do pátio"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Left Entrance"
-LocationName="Entrada Esquerda Vermelha"
+LocationName=""
 
 [ZoneInfo19]
-LocationName="Red Main Hall"
+; EN: LocationName="Red Main Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base Bandeira Azul"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Left Entrance"
-LocationName="Entrada Azul Esquerda"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="Red Right Passages"
+; EN: LocationName="Red Right Passages"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Right Courtyard"
-LocationName="Pátio Vermelho à Direita"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base Bandeira Azul"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base Bandeira Azul"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Left Side"
-LocationName="Lado Esquerdo Azul"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Courtyard Building"
-LocationName="Edifício do pátio"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Central Courtyard"
-LocationName="Pátio Central"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Central Area"
-LocationName="Área central"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue Right Entrance"
-LocationName="Entrada direita azul"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Central Area"
-LocationName="Área central"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Left Staircase"
-LocationName="Escada Azul Esquerda"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Câmara Antecâmara Direita Azul"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Red Left Staircase"
-LocationName="Escada Esquerda Vermelha"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Central Area"
-LocationName="Área central"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Red Right Staircase"
-LocationName="Escada Vermelha Direita"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base Bandeira Azul"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Red Flag Base"
-LocationName="Base Bandeira Vermelha"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Red Flag Base"
-LocationName="Base Bandeira Vermelha"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Red Courtyard"
-LocationName="Pátio Vermelho"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Courtyard Building"
-LocationName="Edifício do pátio"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Blue Left Side"
-LocationName="Lado Esquerdo Azul"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Câmara Antecâmara Direita Azul"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Câmara Antecâmara Direita Azul"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base Bandeira Azul"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Blue Right Antechamber"
-LocationName="Câmara Antecâmara Direita Azul"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Red Right Side"
-LocationName="Lado direito vermelho"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Left Courtyard"
-LocationName="Pátio Esquerdo Vermelho"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="Blue Right Side"
-LocationName="Lado Direito Azul"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base Bandeira Azul"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base Bandeira Azul"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Red Flag Base"
-LocationName="Base Bandeira Vermelha"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Red Flag Base"
-LocationName="Base Bandeira Vermelha"
+LocationName=""
 
 [ZoneInfo55]
 ; EN: LocationName="Blue Right Side"
-LocationName="Lado Direito Azul"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="Central Area"
-LocationName="Área central"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="Central Area"
-LocationName="Área central"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Red Right Side"
-LocationName="Lado direito vermelho"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Right Staircase"
-LocationName="Escada Azul Direita"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="Red Left Side"
-LocationName="Lado esquerdo vermelho"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Red Left Side"
-LocationName="Lado esquerdo vermelho"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="Antecâmara Azul Esquerda"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Left Antechamber"
-LocationName="Antecâmara Azul Esquerda"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Central Courtyard"
-LocationName="Pátio Central"
+LocationName=""
 

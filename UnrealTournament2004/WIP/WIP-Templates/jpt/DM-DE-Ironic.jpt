@@ -1,90 +1,90 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ironic"
-Title="皮肉な"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Ironic"
-Title="皮肉な"
+Title=""
 ; EN: Description="In the solitude of the abandoned coastal platforms of New Argentina, the quiet hum of bird and animal life yields to the roar of rocket fire, and the blast of shock rifles. Looks like R&R has been put on hold for today, so grab some ammo and get out there. It's time for a little old fashioned deathmatch."
-Description="ニューアルゼンチンの放棄された沿岸プラットフォームの孤独の中で、鳥や動物の静かなハムはロケットの火の轟音とショックライフルの爆発に屈します。今日はR＆Rが保留になっているようですので、弾薬を持って出てください。少し古風なデスマッチの時間です。"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Shock Rifle"
-LocationName="ショックライフル"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="Bio Rifle"
-LocationName="バイオライフル"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Top Hallway"
-LocationName="上部の廊下"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Top Hallway"
-LocationName="上部の廊下"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Flak Cannon"
-LocationName="フラックキャノン"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="Flak Cannon"
-LocationName="フラックキャノン"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo14]
-; EN: LocationName="Pulse Gun"
-LocationName="パルスガン"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Amplifier"
-LocationName="増幅器"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Rocket Launcher"
-LocationName="ロケットランチャー"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Shock Rifle"
-LocationName="ショックライフル"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Rocket Launcher"
-LocationName="ロケットランチャー"
+LocationName=""
 
 [ZoneInfo19]
-; EN: LocationName="Shock Rifle"
-LocationName="ショックライフル"
+; EN: LocationName="Outside"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Rocket Launcher"
-LocationName="ロケットランチャー"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Elevator"
-LocationName="エレベーター"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Elevator"
-LocationName="エレベーター"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="Shield Room"
-LocationName="シールドルーム"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="Shield Room"
-LocationName="シールドルーム"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Top Hallway"
-LocationName="上部の廊下"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Top Hallway"
-LocationName="上部の廊下"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Elevator"
-LocationName="エレベーター"
+LocationName=""
 

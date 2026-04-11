@@ -1,66 +1,94 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tricky"
-Title="Záludné"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tricky"
-Title="Záludné"
+Title=""
 ; EN: Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
-Description="TUTO SOBOTU, POUZE JEDEN DEN, SE V ARÉNĚ M-M-MONSTER VALLEY STAŇTE SVĚDKY AAAAKÚŽASNÉ PODívané na TURNAJOVÉ BOJE NA NÁPAD!!! DVA TÝMY A 65 TUN MÍČKŮ DO ZMĚNY PŘEKÁŽENÍ VOZIDLA! BUĎTE TAM PRO HOŘÍCÍ ​​OBRUHY, VÝSKOKY monstra, HALFPIPE KREV A ŠÍLENSTVÍ 150 METRŮ VYSOKÉ VĚŽE ZKOUHY! BUĎ TAM!!!"
+Description=""
 
 [MessageTrigger1]
 ; EN: Message="cleared the Holy Shit Gap!"
-Message="vyčistil propast!"
+Message=""
 
 [MessageTrigger10]
 ; EN: Message="cleared the Ludicrous Gap!"
-Message="vyčistil Ludicrous Gap!"
+Message=""
 
 [MessageTrigger11]
 ; EN: Message="All Gaps cleared!"
-Message="Všechny mezery odstraněny!"
+Message=""
 
 [MessageTrigger12]
 ; EN: Message="clears all Gaps!"
-Message="odstraňuje všechny mezery!"
+Message=""
 
 [MessageTrigger2]
 ; EN: Message="Holy Shit Gap!"
-Message="Sakra mezera!"
+Message=""
 
 [MessageTrigger3]
 ; EN: Message="Ben's sweet Gap"
-Message="Benova sladká Gap"
+Message=""
 
 [MessageTrigger4]
 ; EN: Message="Cleared Ben's sweet Gap!"
-Message="Vyčistil Benovu sladkou mezeru!"
+Message=""
 
 [MessageTrigger5]
 ; EN: Message="Unreal Gap!"
-Message="Neskutečná propast!"
+Message=""
 
 [MessageTrigger6]
 ; EN: Message="cleared the Unreal Gap!"
-Message="vyčistil Unreal Gap!"
+Message=""
 
 [MessageTrigger7]
 ; EN: Message="M-M-M-Monster Gap!"
-Message="M-M-M-Mezera monster!"
+Message=""
 
 [MessageTrigger8]
 ; EN: Message="cleared the M-M-M-Monster Gap!"
-Message="vyčistil mezeru M-M-M-Monster Gap!"
+Message=""
 
 [MessageTrigger9]
 ; EN: Message="Ludicrous Gap!"
-Message="Směšná mezera!"
+Message=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Tower"
-LocationName="Věž"
+LocationName=""
+
+[Volume5]
+; EN: LocationName="Red Prime Node (3)"
+LocationName=" (3)"
+
+[Volume6]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName=" (2)"
+
+[Volume7]
+; EN: LocationName="Southwest Node (4)"
+LocationName=" (4)"
+
+[Volume8]
+; EN: LocationName="Southeast Node (5)"
+LocationName=""
+
+[Volume9]
+; EN: LocationName="Center Node (1)"
+LocationName=" (1)"
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 

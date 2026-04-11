@@ -1,14 +1,14 @@
 ﻿[ASCriticalObjectiveVolume2]
 ; EN: LocationName="Subway station entrance"
-LocationName="Vstup do stanice metra"
+LocationName=""
 
 [ASCriticalObjectiveVolume3]
 ; EN: LocationName="Subway train"
-LocationName="Vlak metra"
+LocationName=""
 
 [ASCriticalObjectiveVolume4]
 ; EN: LocationName="Boarding station"
-LocationName="Nástupní stanice"
+LocationName=""
 
 [Action_DISPLAYMESSAGE0]
 Message="5..."
@@ -27,161 +27,167 @@ Message="1..."
 
 [DestroyableObjective_SM0]
 ; EN: ObjectiveName="Gate Lock"
-ObjectiveName="Zámek brány"
+ObjectiveName=""
 ; EN: DestructionMessage="Gate Lock Destroyed!"
-DestructionMessage="Zámek brány zničen!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy the gate Lock"
-ObjectiveDescription="Zničte zámek brány"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Gate Lock"
-Objective_Info_Attacker="Zničte zámek brány"
-Objective_Info_Defender="Defend Gate Lock"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Defend Gate Lock"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM1]
 ; EN: ObjectiveName="barricade"
-ObjectiveName="barikáda"
+ObjectiveName=""
 ; EN: DestructionMessage="barricade destroyed!"
-DestructionMessage="barikáda zničena!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy the barricade"
-ObjectiveDescription="Zničte barikádu"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy barricade"
-Objective_Info_Attacker="Zničte barikádu"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend barricade"
-Objective_Info_Defender="Bránit barikádu"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM2]
 ; EN: ObjectiveName="Gate Lock"
-ObjectiveName="Zámek brány"
+ObjectiveName=""
 ; EN: DestructionMessage="Gate Lock Destroyed!"
-DestructionMessage="Zámek brány zničen!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy the gate Lock"
-ObjectiveDescription="Zničte zámek brány"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Gate Lock"
-Objective_Info_Attacker="Zničte zámek brány"
-Objective_Info_Defender="Defend Gate Lock"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Defend Gate Lock"
+Objective_Info_Defender=""
 
 [HoldObjective0]
 ; EN: ObjectiveName="Explosive #2"
-ObjectiveName="Výbušnina #2"
+ObjectiveName=""
 ; EN: DestructionMessage="The explosives are in place!"
-DestructionMessage="Výbušniny jsou na místě!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Plant an explosive"
-ObjectiveDescription="Umístěte výbušninu"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Command Center"
-Objective_Info_Attacker="Zničte Command Center"
-Objective_Info_Defender="Defend Command Center"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Defend Command Center"
+Objective_Info_Defender=""
 
 [HoldObjective1]
 ; EN: ObjectiveName="Forward outpost"
-ObjectiveName="Předsunutá základna"
+ObjectiveName=""
 ; EN: DestructionMessage="Forward outpost taken!"
-DestructionMessage="Předsunutá základna obsazena!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Take the forward outpost "
-ObjectiveDescription="Vezměte přední základnu "
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Secure forward outpost"
-Objective_Info_Attacker="Zabezpečte předsunutou základnu"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend forward outpost"
-Objective_Info_Defender="Bránit předsunutou základnu"
+Objective_Info_Defender=""
 
 [HoldObjective2]
 ; EN: ObjectiveName="Explosive #1"
-ObjectiveName="Výbušnina #1"
+ObjectiveName=""
 ; EN: DestructionMessage="The explosives are in place!"
-DestructionMessage="Výbušniny jsou na místě!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Plant an explosive"
-ObjectiveDescription="Umístěte výbušninu"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Command Center"
-Objective_Info_Attacker="Zničte Command Center"
-Objective_Info_Defender="Defend Command Center"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Defend Command Center"
+Objective_Info_Defender=""
 
 [LevelInfo0]
 ; EN: Title="The Fallen City"
-Title="Padlé město"
+Title=""
 
 [LevelSummary]
 ; EN: Title="The Fallen City"
-Title="Padlé město"
-; EN: Description="Following the human/Skaarj war, many of Earth's cities lay in ruins.  When the New Earth Government attempted to assert its authority over these areas, they were confronted by many rebel groups, often covertly financed by the great corporations, which had established bases in the destroyed cities. This scenario recreates the destruction of a rebel command center by NEG forces. In keeping with the historical battle, the attacker's insertion point is a distance away from the command center, because of the heavy anti-aircraft protection around the bunker."
-Description="Po válce mezi lidmi a Skaarjem leželo mnoho pozemských měst v troskách. Když se vláda Nové Země pokusila prosadit svou autoritu nad těmito oblastmi, byly konfrontovány mnoha povstaleckými skupinami, často skrytě financovanými velkými korporacemi, které si zřídily základny ve zničených městech. Tento scénář znovu vytváří zničení velitelského centra rebelů silami NEG. V souladu s historickou bitvou je místo vložení útočníka vzdáleno od velitelského centra kvůli těžké protiletadlové ochraně kolem bunkru."
+Title=""
+; EN: Description="Following the human/Skaarj war, many of Earth's cities lay in ruins.  When the New Earth Government attempted to assert its authority over these areas, they were confronted by many rebel groups, often covertly financed by the great corporations, which had established bases in the destroyed cities. This scenario recreates the destruction of a rebel command center by N.E.G. forces. In keeping with the historical battle, the attacker's insertion point is a distance away from the command center, because of the heavy anti-aircraft protection around the bunker."
+Description=""
 
 [SceneSubtitles1]
-SubTitles=("Following the human/Skaarj war, many of Earth's cities lay in ruins.  When the New Earth Government attempted to assert its authority over these areas,","they were confronted by many rebel groups, often covertly financed by the great corporations, which had established bases in the destroyed cities.","This scenario recreates the destruction of a rebel command center by NEG forces. ","In keeping with the historical battle, the attackers' insertion point is a distance away from the command center, because of the heavy anti-aircraft protection around the bunker. ","The attackers must first make their way through the streets on foot and clear out any resistance they find. They must destroy the barricade in order to proceed to the next objective.","Next, they must take out the forward outpost. When the area is clear, a shipment of heavier cargo will be dropped in to help you proceed.","The defenders are nestled deep within this hardened bunker. You will have to bypass the defenses and infiltrate the bunker to reach their command center.","Reach the underground command center and place explosives to destroy the entire base. This should bring the resistance to its knees.")
+; EN: SubTitles=("Following the human/Skaarj war, many of Earth's cities lay in ruins.  When the New Earth Government attempted to assert its authority over these areas,","they were confronted by many rebel groups, often covertly financed by the great corporations, which had established bases in the destroyed cities.","This scenario recreates the destruction of a rebel command center by N.E.G. forces. ","In keeping with the historical battle, the attackers' insertion point is a distance away from the command center, because of the heavy anti-aircraft protection around the bunker. ","The attackers must first make their way through the streets on foot and clear out any resistance they find. They must destroy the barricade in order to proceed to the next objective.","Next, they must take out the forward outpost. When the area is clear, a shipment of heavier cargo will be dropped in to help you proceed.","The defenders are nestled deep within this hardened bunker. You will have to bypass the defenses and infiltrate the bunker to reach their command center.","Reach the underground command center and place explosives to destroy the entire base. This should bring the resistance to its knees.")
+SubTitles=("","","","","","","","")
 
 [Trigger_ASMessageTrigger0]
 ; EN: Message="Bunker infiltrated!"
-Message="Bunkr infiltrován!"
+Message=""
 
 [Trigger_ASMessageTrigger2]
 ; EN: Message="Command center destroyed!"
-Message="Velitelské centrum zničeno!"
+Message=""
 
 [Trigger_ASMessageTrigger3]
 ; EN: Message="Explosives Set!!!"
-Message="Sada výbušnin!!!"
+Message=""
 
 [Volume0]
 ; EN: LocationName="Forward outpost"
-LocationName="Předsunutá základna"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Attackers drop zone"
-LocationName="Útočníci sestupové zóny"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Stairs"
-LocationName="Schody"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Subway station lobby"
-LocationName="Lobby stanice metra"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Station roof"
-LocationName="Střecha stanice"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Vents"
-LocationName="Větrací otvory"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Subway train"
-LocationName="Vlak metra"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Subway tracks"
-LocationName="Tratě metra"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Rebel look out"
-LocationName="Rebel, pozor"
+LocationName=""
 
 [Volume3]
-LocationName="Caudle Ave."
+; EN: LocationName="Caudle Ave."
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Attackers drop zone"
-LocationName="Útočníci sestupové zóny"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Boarding station"
-LocationName="Nástupní stanice"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Statue pass"
-LocationName="Průkaz sochy"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Statue pass"
-LocationName="Průkaz sochy"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Roman path way"
-LocationName="Cesta římské cesty"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Subway ticket stand"
-LocationName="Stánek na metro"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Destroyed city"
-LocationName="Zničené město"
+LocationName=""
 

@@ -1,27 +1,30 @@
 ﻿[LevelInfo0]
-Title="DesertIsle"
+; EN: Title="Desert Isle"
+Title=""
 
 [LevelSummary]
-Title="DesertIsle"
+; EN: Title="Desert Isle"
+Title=""
 ; EN: Description="Under a searing sun, one little stream means life itself to this island of green in an ocean of sand. What will be left when its waters run red?"
-Description="Onder een brandende zon betekent één beekje het leven zelf voor dit groene eiland in een oceaan van zand. Wat zal er overblijven als het water rood kleurt?"
+Description=""
 
 [Volume0]
-LocationName="River End"
+; EN: LocationName="River End"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="The Hill"
-LocationName="De heuvel"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="River Start"
-LocationName="Rivier start"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="River Middle"
-LocationName="Rivier Midden"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="=Desert="
-LocationName="=Woestijn="
+LocationName=""
 

@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
 ; EN: Title="Trite"
-Title="Banal"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Trite"
-Title="Banal"
+Title=""
 ; EN: Description="Watch your back and stay alert in this abandoned facility or you may end up as cold as the steel which surrounds you..."
-Description="Titta på din rygg och håll dig alert i denna övergivna anläggning, annars kan du bli lika kall som stålet som omger dig..."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Flak Area"
-LocationName="Flakområde"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="UDamage Area"
+; EN: LocationName="Double Damage Area"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Shield Room"
-LocationName="Sköldrum"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Sniper Rifle Area"
-LocationName="Område för prickskyttegevär"
+LocationName="
 
 [ZoneInfo4]
-LocationName="Shock Rifle Hall"
+; EN: LocationName="Shock Rifle Hall"
+LocationName=""
 

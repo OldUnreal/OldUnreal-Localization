@@ -9,47 +9,48 @@ Preferences=(Caption="TCP/IP Network Play",Parent="Networking",Class=IpDrv.TcpNe
 Preferences=(Caption="Server Beacon",Parent="Networking",Class=IpDrv.UdpBeacon,Immediate=True)
 
 [TcpNetDriver]
-; EN: ClassCaption=TCP/IP Network Play
-ClassCaption=TCP / IPネットワークプレイ
+; EN: ClassCaption="TCP/IP Network Play"
+ClassCaption=""
 
 [UdpBeacon]
-; EN: ClassCaption=Server LAN Beacon
-ClassCaption=サーバーLANビーコン
+; EN: ClassCaption="Server LAN Beacon"
+ClassCaption=""
 
 [DecompressCommandlet]
-; EN: HelpCmd=decompress
-HelpCmd=解凍
-; EN: HelpOneLiner=Decompress a file compressed with ucc compress.
-HelpOneLiner=ucccompressで圧縮されたファイルを解凍します。
-; EN: HelpUsage=decompress CompressedFile
-HelpUsage=CompressedFileを解凍します
-HelpParm[0]=CompressedFile
-; EN: HelpDesc[0]=The .uz file to decompress.
-HelpDesc[0]=解凍する.uzファイル。
+HelpCmd=decompress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+; EN: HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpOneLiner=""
+; EN: HelpUsage="decompress CompressedFile"
+HelpUsage=""
+; EN: HelpParm[0]="CompressedFile"
+HelpParm[0]=""
+; EN: HelpDesc[0]="The.uz file to decompress."
+HelpDesc[0]=""
 
 [CompressCommandlet]
-; EN: HelpCmd=compress
-HelpCmd=圧縮
-; EN: HelpOneLiner=Compress an Unreal package for auto-downloading.  A file with extension .uz will be created.
-HelpOneLiner=自動ダウンロード用にUnrealパッケージを圧縮します。拡張子が.uzのファイルが作成されます。
-; EN: HelpUsage=compress File1 [File2 [File3 ...]]
-HelpUsage=圧縮File1 [File2 [File3 ...]]
-; EN: HelpParm[0]=Files
-HelpParm[0]=ファイル
-; EN: HelpDesc[0]=The wildcard or file names to compress.
-HelpDesc[0]=圧縮するワイルドカードまたはファイル名。
+HelpCmd=compress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+; EN: HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpOneLiner=""
+; EN: HelpUsage="compress File1 [File2 [File3...]]"
+HelpUsage=""
+; EN: HelpParm[0]="Files"
+HelpParm[0]=""
+; EN: HelpDesc[0]="The wildcard or file names to compress."
+HelpDesc[0]=""
 
 [MasterServerUplink]
 ; EN: MSUPropText[0]="Advertise Server"
-MSUPropText[0]="サーバーのアドバタイズ"
+MSUPropText[0]=""
 ; EN: MSUPropText[1]="Process Stats"
-MSUPropText[1]="プロセス統計"
+MSUPropText[1]=""
 ; EN: MSUPropText[2]="Ignore UTAN Bans"
-MSUPropText[2]="UTAN禁止を無視する"
-; EN: MSUPropDesc[0]="if true, your server is advertised on the internet server browser."
-MSUPropDesc[0]="trueの場合、サーバーはインターネットサーバーブラウザでアドバタイズされます。"
+MSUPropText[2]=""
+; EN: MSUPropDesc[0]="If checked, your server will be advertised on the Internet Server Browser."
+MSUPropDesc[0]=""
 ; EN: MSUPropDesc[1]="Publishes player stats from your server on the UT2004 stats website."
-MSUPropDesc[1]="サーバーからのプレーヤー統計をUT2004統計Webサイトに公開します。"
+MSUPropDesc[1]=""
 ; EN: MSUPropDesc[2]="If true, your server will ignore UTAN based bans coming from the master server."
-MSUPropDesc[2]="trueの場合、サーバーはマスターサーバーからのUTANベースの禁止を無視します。"
+MSUPropDesc[2]=""
 

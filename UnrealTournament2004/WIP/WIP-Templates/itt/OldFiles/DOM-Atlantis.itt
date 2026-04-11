@@ -1,0 +1,76 @@
+﻿[LevelInfo0]
+; EN: Title="Atlantis"
+Title="Atlantide"
+
+[LevelSummary]
+; EN: Title="Atlantis"
+Title="Atlantide"
+; EN: Description="This great, mythical metropolis may have sunk to the darkest depths of the ocean, but that doesn't necessarily mean it's off limits to the Tournament. Even though it's located 20,000 leagues under the sea, strange Atlantean powers ensure that the competitors won't get so much as a toe wet."
+Description="Questa grande e mitica metropoli potrebbe essere sprofondata nelle profondità più oscure dell'oceano, ma ciò non significa necessariamente che sia vietata al Torneo. Anche se si trova a 20.000 leghe sotto il mare, strani poteri di Atlantide assicurano che i concorrenti non si bagnino nemmeno un dito dei piedi."
+
+[Volume0]
+; EN: LocationName="DOM Point B"
+LocationName="DOM punto B"
+
+[Volume1]
+; EN: LocationName="DOM Point A"
+LocationName="DOM Punto A"
+
+[ZoneInfo0]
+; EN: LocationName="Flak Cannon"
+LocationName="Cannone Flak"
+
+[ZoneInfo1]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanciarazzi"
+
+[ZoneInfo10]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanciarazzi"
+
+[ZoneInfo11]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanciarazzi"
+
+[ZoneInfo12]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanciarazzi"
+
+[ZoneInfo2]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanciarazzi"
+
+[ZoneInfo3]
+; EN: LocationName="Flak Cannon"
+LocationName="Cannone Flak"
+
+[ZoneInfo4]
+; EN: LocationName="Flak Cannon"
+LocationName="Cannone Flak"
+
+[ZoneInfo5]
+; EN: LocationName="Central Chamber"
+LocationName="Camera Centrale"
+
+[ZoneInfo6]
+; EN: LocationName="Flak Cannon"
+LocationName="Cannone Flak"
+
+[ZoneInfo7]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanciarazzi"
+
+[ZoneInfo8]
+; EN: LocationName="Flak Cannon"
+LocationName="Cannone Flak"
+
+[ZoneInfo9]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanciarazzi"
+
+[xDomPointA0]
+ObjectiveName="DPA"
+
+[xDomPointB1]
+ObjectiveName="DPB"
+

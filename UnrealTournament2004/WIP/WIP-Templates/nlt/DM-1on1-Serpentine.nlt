@@ -1,24 +1,24 @@
 ﻿[LevelInfo0]
 ; EN: Title="Serpentine"
-Title="Serpentijn"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Serpentine"
-Title="Serpentijn"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Serpent Catwalk"
-LocationName="Slangenloopbrug"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Pit Maze"
-LocationName="Pit doolhof"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Maze Surface"
-LocationName="Doolhof oppervlak"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Ledges"
-LocationName="richels"
+LocationName=""
 

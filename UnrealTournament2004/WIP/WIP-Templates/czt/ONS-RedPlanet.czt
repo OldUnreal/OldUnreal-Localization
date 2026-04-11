@@ -1,34 +1,42 @@
 ﻿[LevelInfo0]
 ; EN: Title="Red Planet"
-Title="Rudá planeta"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Red Planet"
-Title="Rudá planeta"
+Title=""
 ; EN: Description="Deep-space exploration has revealed a phenomenon never before observed-a planetary system with NO sun. Infra-Red light reacting with carbon dioxide in the high atmosphere bathes the planet in a searing, blood-red glow. Experiments have shown that more than 18 hours on this planet will cause irreversible insanity. You won't live that long..."
-Description="Průzkum hlubokého vesmíru odhalil fenomén, který nebyl dosud pozorován – planetární systém bez Slunce. Infračervené světlo reagující s oxidem uhličitým ve vysoké atmosféře zalévá planetu spalující, krvavě rudou záři. Experimenty ukázaly, že více než 18 hodin na této planetě způsobí nevratné šílenství. Tak dlouho žít nebudeš..."
+Description=""
+
+[Volume10]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Southwest Node"
-LocationName="Jihozápadní uzel"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Northwest Node"
-LocationName="Severozápadní uzel"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Central Node"
-LocationName="Centrální uzel"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Southeast Node"
-LocationName="Jihovýchodní uzel"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Northeast Node"
-LocationName="Severovýchodní uzel"
+LocationName=""
+
+[Volume9]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 

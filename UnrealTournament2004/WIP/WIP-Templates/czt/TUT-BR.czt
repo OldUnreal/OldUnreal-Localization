@@ -1,160 +1,160 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bombing Run Tutorial"
-Title="Výuka bombardování"
+Title=""
 
 [LevelInfo6]
 ; EN: Title="Temple Of Anubis"
-Title="Chrám Anubis"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bombing Run Tutorial"
-Title="Výuka bombardování"
+Title=""
 
 [ZoneInfo0]
-; EN: LocationName="Painter sand dune"
-LocationName="Malíř písečná duna"
+; EN: LocationName="Redeemer"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Super shield sand dune"
-LocationName="Super štít písečná duna"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Blue respawn room"
-LocationName="Modrá respawnová místnost"
+; EN: LocationName="Blue South Respawn"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Blue respawn room"
-LocationName="Modrá respawnová místnost"
+; EN: LocationName="Blue South Respawn"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="Blue respawn room"
-LocationName="Modrá respawnová místnost"
+; EN: LocationName="Blue South Respawn"
+LocationName=""
 
 [ZoneInfo14]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Red North Top Entrance"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Red base"
-LocationName="Červená základna"
+; EN: LocationName="Red Base"
+LocationName=""
 
 [ZoneInfo16]
-; EN: LocationName="Red base"
-LocationName="Červená základna"
+; EN: LocationName="Red Base"
+LocationName=""
 
 [ZoneInfo17]
-; EN: LocationName="Red respawn room"
-LocationName="Červená respawnová místnost"
+; EN: LocationName="Red North Respawn"
+LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="Blue respawn room"
-LocationName="Modrá respawnová místnost"
+; EN: LocationName="Blue North Respawn"
+LocationName=""
 
 [ZoneInfo19]
-; EN: LocationName="Red respawn room"
-LocationName="Červená respawnová místnost"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo2]
-; EN: LocationName="Flakk cannon room"
-LocationName="Dělová místnost Flakk"
+; EN: LocationName="Rocket Launcher Room"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="Red respawn room"
-LocationName="Červená respawnová místnost"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo21]
-; EN: LocationName="Red respawn room"
-LocationName="Červená respawnová místnost"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo22]
-; EN: LocationName="Red respawn room"
-LocationName="Červená respawnová místnost"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo23]
-; EN: LocationName="Blue Respawn room"
-LocationName="Místnost Blue Respawn"
+; EN: LocationName="Blue North Respawn"
+LocationName=""
 
 [ZoneInfo24]
-; EN: LocationName="Blue repawn room"
-LocationName="Modrý pokoj pro obnovu"
+; EN: LocationName="Blue North Respawn"
+LocationName=""
 
 [ZoneInfo25]
-; EN: LocationName="Bomb respawn room"
-LocationName="Místnost pro oživení bomby"
+; EN: LocationName="Center"
+LocationName=""
 
 [ZoneInfo26]
-; EN: LocationName="Rocket launcher room"
-LocationName="Místnost s raketometem"
+; EN: LocationName="Flak Cannon Room"
+LocationName=""
 
 [ZoneInfo27]
-; EN: LocationName="Rocket launcher room"
-LocationName="Místnost s raketometem"
+; EN: LocationName="Flak Cannon Room"
+LocationName=""
 
 [ZoneInfo28]
-; EN: LocationName="Flakk cannon room"
-LocationName="Dělová místnost Flakk"
+; EN: LocationName="Rocket Launcher Room"
+LocationName=""
 
 [ZoneInfo29]
-; EN: LocationName="Bomb respawn room"
-LocationName="Místnost pro oživení bomby"
+; EN: LocationName="Center (Red Side)"
+LocationName=""
 
 [ZoneInfo3]
-; EN: LocationName="Red respawn room"
-LocationName="Červená respawnová místnost"
+; EN: LocationName="Red South Respawn"
+LocationName=""
 
 [ZoneInfo30]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Red Courtyard"
+LocationName=""
 
 [ZoneInfo31]
-; EN: LocationName="Bomb respawn room"
-LocationName="Místnost pro oživení bomby"
+; EN: LocationName="Center (Blue Side)"
+LocationName=""
 
 [ZoneInfo32]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Red Courtyard"
+LocationName=""
 
 [ZoneInfo33]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Red South Top Entrance"
+LocationName=""
 
 [ZoneInfo34]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Red North Top Entrance"
+LocationName=""
 
 [ZoneInfo35]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Blue North Top Entrance"
+LocationName=""
 
 [ZoneInfo36]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Red South Top Entrance"
+LocationName=""
 
 [ZoneInfo37]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Blue North Top Entrance"
+LocationName=""
 
 [ZoneInfo38]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Blue South Top Entrance"
+LocationName=""
 
 [ZoneInfo39]
-; EN: LocationName="Red court yard"
-LocationName="Červený dvůr"
+; EN: LocationName="Blue South Top Entrance"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Blue court yard"
-LocationName="Modrý dvůr"
+; EN: LocationName="Blue Courtyard"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="Blue court yard"
-LocationName="Modrý dvůr"
+; EN: LocationName="Blue Courtyard"
+LocationName=""
 
 [ZoneInfo8]
-; EN: LocationName="Blue base"
-LocationName="Modrý základ"
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="Blue base"
-LocationName="Modrý základ"
+; EN: LocationName="Blue Base"
+LocationName=""
 

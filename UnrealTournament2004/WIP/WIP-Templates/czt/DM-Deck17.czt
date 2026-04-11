@@ -1,177 +1,178 @@
 ﻿[BlockingVolume3]
 ; EN: LocationName="In the Sky"
-LocationName="Na obloze"
+LocationName=""
 
 [BlockingVolume61]
 ; EN: LocationName="In the Sky"
-LocationName="Na obloze"
+LocationName=""
 
 [LevelInfo0]
 ; EN: Title="Deck 17"
-Title="Paluba 17"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Deck 17"
-Title="Paluba 17"
+Title=""
 ; EN: Description="Enter Deck 17 - Magma Refinery... Deck 16's HOT neighbor."
-Description="Vstupte na palubu 17 – Rafinérie magmatu... Horký soused paluby 16."
+Description=""
 
 [Volume0]
 ; EN: LocationName="D17 Elevators - Lower Level (Shield Pack)"
-LocationName="Výtahy D17 – Nižší úroveň (Shield Pack)"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="D17 Main Room - West (Link Gun)"
-LocationName="Hlavní místnost D17 – Západ (Link Gun)"
+LocationName=""
 
 [Volume4]
-; EN: LocationName="Main Room - Low N. Ledge (UDamage)"
-LocationName="Hlavní pokoj – N. N. Ledge (UDage)"
+; EN: LocationName="Main Room - Low N. Ledge (Double Damage)"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="D17 Main Room - East Ledge (Shield Pack)"
-LocationName="Hlavní pokoj D17 – East Ledge (Shield Pack)"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="D17 Elevators - Lower Level (2 Health Packs)"
-LocationName="Výtahy D17 – nižší úroveň (2 balíčky zdraví)"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="D17 Main Room - Middle (Minigun)"
-LocationName="Hlavní místnost D17 – střední (Minigun)"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Giant Lava Pool (Rocket Launcher)"
-LocationName="Obří lávový bazén (raketomet)"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Deck 16 (Restricted Area)"
-LocationName="Paluba 16 (omezená oblast)"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Orange Corridor Curve"
-LocationName="Křivka oranžové chodby"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Blue Room (Rocket Launcher)"
-LocationName="Modrá místnost (raketomet)"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Upper Hallway"
-LocationName="Horní chodba"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Upper Small Lava Pool (Lightning Gun)"
-LocationName="Horní malý lávový bazén (blesk)"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Under Exhaust Fan Near Elevators"
-LocationName="Pod výfukovým ventilátorem v blízkosti výtahů"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Restricted Entrance to Deck 16"
-LocationName="Omezený vstup na palubu 16"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Entrance to D17/D16 Junction"
-LocationName="Vjezd na křižovatku D17/D16"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Deck 16 (Restricted Area)"
-LocationName="Paluba 16 (omezená oblast)"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Deck 16 (Restricted Area)"
-LocationName="Paluba 16 (omezená oblast)"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Deck 16 (Restricted Area)"
-LocationName="Paluba 16 (omezená oblast)"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="D17/D16 Junction (Bio-Rifle)"
-LocationName="D17/D16 křižovatka (Bio-puška)"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Deck 16 (Restricted Area)"
-LocationName="Paluba 16 (omezená oblast)"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Deck 16 (Restricted Area)"
-LocationName="Paluba 16 (omezená oblast)"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Near Elevators - Eastern Upper Level"
-LocationName="Blízko výtahů - východní horní úroveň"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Upper Hallway (Flak Cannon)"
-LocationName="Horní chodba (Flak Cannon)"
+LocationName=""
 
 [ZoneInfo55]
 ; EN: LocationName="T-Section of Upper Hallway"
-LocationName="T-sekce horní chodby"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="Main Entrance to Upper Hallway"
-LocationName="Hlavní vchod do horní chodby"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="Elevators - Upper Level"
-LocationName="Výtahy - horní patro"
+LocationName=""
 
 [ZoneInfo58]
 ; EN: LocationName="Above Elevators (Redeemer)"
-LocationName="Nad výtahy (Vykupitel)"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Elevators - Lower Level (Shock Rifle)"
-LocationName="Výtahy – nižší úroveň (šoková puška)"
+LocationName=""
 
 [ZoneInfo60]
 ; EN: LocationName="Elevators - Lower Level (Shock Rifle)"
-LocationName="Výtahy – nižší úroveň (šoková puška)"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="Red Elevator Corridor - East"
-LocationName="Červený koridor výtahu - východ"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Red Elevator Corridor - West"
-LocationName="Červený koridor výtahu – západ"
+LocationName=""
 
 [ZoneInfo63]
 ; EN: LocationName="Giant Lava Pool"
-LocationName="Obří lávový bazén"
+LocationName=""
 
 [ZoneInfo69]
-LocationName="Giant Lava Pit (Super Shield Pack)"
+; EN: LocationName="Giant Lava Pit (Super Shield Pack)"
+LocationName=""
 
 [ZoneInfo70]
 ; EN: LocationName="Main Room - East Ledge (Bio-Rifle)"
-LocationName="Hlavní pokoj – East Ledge (Bio-Rifle)"
+LocationName=""
 
 [ZoneInfo71]
 ; EN: LocationName="Main Room - Middle"
-LocationName="Hlavní místnost - střední"
+LocationName=""
 
 [ZoneInfo73]
 ; EN: LocationName="Main Room - Low N. Ledge (Shock Rifle)"
-LocationName="Hlavní místnost – N. N. Ledge (šoková puška)"
+LocationName=""
 
 [ZoneInfo74]
 ; EN: LocationName="Main Room - Sniper Ledge (Lightning Gun)"
-LocationName="Hlavní místnost – Sniper Ledge (blesk)"
+LocationName=""
 
 [ZoneInfo76]
 ; EN: LocationName="Tall North Corridor (2 Health Packs)"
-LocationName="Vysoký severní koridor (2 balíčky zdraví)"
+LocationName=""
 
 [ZoneInfo77]
 ; EN: LocationName="Lower Small Lava Pool (Flak Cannon)"
-LocationName="Dolní malý lávový bazén (Flak Cannon)"
+LocationName=""
 
 [ZoneInfo78]
 ; EN: LocationName="Orange Corridor Straightaway"
-LocationName="Oranžová chodba hned"
+LocationName=""
 

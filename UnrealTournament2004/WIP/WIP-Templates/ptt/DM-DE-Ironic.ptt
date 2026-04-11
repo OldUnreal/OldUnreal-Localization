@@ -1,87 +1,90 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ironic"
-Title="Irônico"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Ironic"
-Title="Irônico"
+Title=""
 ; EN: Description="In the solitude of the abandoned coastal platforms of New Argentina, the quiet hum of bird and animal life yields to the roar of rocket fire, and the blast of shock rifles. Looks like R&R has been put on hold for today, so grab some ammo and get out there. It's time for a little old fashioned deathmatch."
-Description="Na solidão das plataformas costeiras abandonadas da Nova Argentina, o zumbido silencioso dos pássaros e da vida animal cede ao rugido dos foguetes e à explosão de rifles de choque. Parece que R&R foi colocado em espera por hoje, então pegue um pouco de munição e vá lá. É hora de um pequeno deathmatch antiquado."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Shock Rifle"
-LocationName="Rifle de choque"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Bio Rifle"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Top Hallway"
-LocationName="Corredor superior"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Top Hallway"
-LocationName="Corredor superior"
+LocationName=""
 
 [ZoneInfo12]
-LocationName="Flak Cannon"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo13]
-LocationName="Flak Cannon"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo14]
-; EN: LocationName="Pulse Gun"
-LocationName="Pistola de Pulso"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Amplifier"
-LocationName="Amplificador"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Lançador de foguetes"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Shock Rifle"
-LocationName="Rifle de choque"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Lançador de foguetes"
+LocationName=""
 
 [ZoneInfo19]
-; EN: LocationName="Shock Rifle"
-LocationName="Rifle de choque"
+; EN: LocationName="Outside"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Lançador de foguetes"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Elevator"
-LocationName="Elevador"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Elevator"
-LocationName="Elevador"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="Shield Room"
-LocationName="Sala de Escudos"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="Shield Room"
-LocationName="Sala de Escudos"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Top Hallway"
-LocationName="Corredor superior"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Top Hallway"
-LocationName="Corredor superior"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Elevator"
-LocationName="Elevador"
+LocationName=""
 

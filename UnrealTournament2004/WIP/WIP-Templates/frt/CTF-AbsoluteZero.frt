@@ -1,122 +1,122 @@
 ﻿[LevelInfo0]
 ; EN: Title="Absolute Zero"
-Title="Zéro absolu"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Absolute Zero"
-Title="Zéro absolu"
+Title=""
 ; EN: Description="Absolute Zero was initially constructed as a scientific outpost to study glacial drift. Over the years, global warming and massive earth tremors nearly shook the base off of its foundation. The researchers and scientists were hastily evacuated and Liandri quickly purchased the base for the Tournament. The warm reception given to you by your team may help offset the sub-zero temperatures, but don't get too comfortable, your foes have something much colder in store for you..."
-Description="Absolute Zero a été initialement construit comme un avant-poste scientifique pour étudier la dérive glaciaire. Au fil des ans, le réchauffement climatique et les tremblements de terre massifs ont presque ébranlé la base de ses fondations. Les chercheurs et les scientifiques ont été évacués à la hâte et Liandri a rapidement acheté la base du tournoi. L'accueil chaleureux que vous réserve votre équipe peut aider à compenser les températures négatives, mais ne vous installez pas trop confortablement, vos ennemis vous réservent quelque chose de beaucoup plus froid..."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Red Lower Generator Room"
-LocationName="Salle du générateur inférieur rouge"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Lower Generator Room"
-LocationName="Chambre Génératrice Inférieure Bleue"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Blue Lower Hall"
-LocationName="Salle Inférieure Bleue"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Lower Hall"
-LocationName="Salle inférieure rouge"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Flag Room"
-LocationName="Chambre Drapeau Rouge"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Chambre Pavillon Bleu"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Upper Hall A-Side"
-LocationName="Bleu Hall Supérieur Côté A"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Blue Upper Hall B-Side"
-LocationName="Bleu Hall Supérieur Face B"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Blue Flag Stairs"
-LocationName="Escalier Pavillon Bleu"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Red Upper Hall A-Side"
-LocationName="Côté A du hall supérieur rouge"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Red Upper Hall B-Side"
-LocationName="Face B du hall supérieur rouge"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Red Flag Stairs"
-LocationName="Escalier Drapeau Rouge"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Blue Upper Generator Room"
-LocationName="Salle Génératrice Supérieure Bleue"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Red Upper Hall"
-LocationName="Salle Supérieure Rouge"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Blue Upper Hall"
-LocationName="Salle Supérieure Bleue"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Ion Painter Bridge"
-LocationName="Pont du peintre ionique"
+LocationName=""
 
 [Volume24]
 ; EN: LocationName="Redeemer Bridge"
-LocationName="Pont du Rédempteur"
+LocationName=""
 
 [Volume25]
 ; EN: LocationName="Blue Sniper Tower: Redeemer Side"
-LocationName="Tour de tireur d'élite bleue : côté Rédempteur"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Blue Sniper Tower: Painter Side"
-LocationName="Tour de tireur d'élite bleue : côté peintre"
+LocationName=""
 
 [Volume27]
 ; EN: LocationName="Red Sniper Tower: Redeemer Side"
-LocationName="Tour de tireur d'élite rouge : côté Rédempteur"
+LocationName=""
 
 [Volume28]
 ; EN: LocationName="Red Sniper Tower: Painter Side"
-LocationName="Tour de tireur d'élite rouge : côté peintre"
+LocationName=""
 
 [Volume29]
 ; EN: LocationName="Blue Outside"
-LocationName="Bleu à l'extérieur"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Upper Generator Room"
-LocationName="Salle Génératrice Supérieure Rouge"
+LocationName=""
 
 [Volume30]
 ; EN: LocationName="Red Outside"
-LocationName="Rouge à l'extérieur"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Lower Hall B-Side"
-LocationName="Face B du hall inférieur rouge"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Lower Hall A-Side"
-LocationName="Côté A du hall inférieur rouge"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Lower Hall B-Side"
-LocationName="Bleu Hall Inférieur B-Side"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Lower Hall A-Side"
-LocationName="Côté A du hall inférieur bleu"
+LocationName=""
 

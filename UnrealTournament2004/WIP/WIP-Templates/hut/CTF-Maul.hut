@@ -1,32 +1,32 @@
 ﻿[LevelInfo0]
 ; EN: Title="Maul"
-Title="Marcangol"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Maul"
-Title="Marcangol"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Blue Side"
-LocationName="Kék oldal"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red Side"
-LocationName="Vörös oldal"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Base"
-LocationName="Piros alap"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Base"
-LocationName="Kék alap"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Roof"
-LocationName="Kék tető"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Roof"
-LocationName="Piros tető"
+LocationName=""
 

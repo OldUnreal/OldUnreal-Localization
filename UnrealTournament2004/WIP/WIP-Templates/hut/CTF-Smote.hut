@@ -1,223 +1,226 @@
 ﻿[LavaVolume10]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume12]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume13]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume15]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume16]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume2]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume23]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume24]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume25]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume26]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume5]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume7]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LavaVolume9]
 ; EN: LocationName="In Lava!"
-LocationName="Lávában!"
+LocationName=""
 
 [LevelInfo0]
-Title="Smote"
+; EN: Title="Smote"
+Title=""
 
 [LevelSummary]
-Title="Smote"
+; EN: Title="Smote"
+Title=""
 ; EN: Description="The earth trembles beneath your feet, and the sky rains fire and ash down on you from above. The path to victory is as treacherous and deadly as the enemies you face on the battlefield, and less forgiving."
-Description="Remeg a föld lábad alatt, és az ég tüzet és hamut zúdít rád felülről. A győzelemhez vezető út olyan alattomos és halálos, mint az ellenség, akivel a csatatéren szembesül, és kevésbé megbocsátó."
+Description=""
 
 [Volume10]
 ; EN: LocationName="Red Base Main Paths"
-LocationName="Red Base fő útvonalak"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Higher Paths"
-LocationName="Red Base magasabb ösvények"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Base Main Paths"
-LocationName="Red Base fő útvonalak"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Base Higher Paths"
-LocationName="Kék bázis magasabb ösvények"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Base Main Paths"
-LocationName="Blue Base fő útvonalak"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Blue Base Fortifications"
-LocationName="Kék bázis erődítmények"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Blue Base Main Paths"
-LocationName="Blue Base fő útvonalak"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Side of Volcano"
-LocationName="A vulkán oldala"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Blue Base Lower Paths"
-LocationName="Kék bázis alsó utak"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="Blue Base Lower Paths"
-LocationName="Kék bázis alsó utak"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Volcano Caverns"
-LocationName="Vulkán-barlangok"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="Red Base Alsó utak"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="Red Base Alsó utak"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="Red Base Alsó utak"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Base Lower Paths"
-LocationName="Kék bázis alsó utak"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Base Fortifications"
-LocationName="Vörös bázis erődítmények"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Red Base Cellar Entrance"
-LocationName="Red Base pince bejárata"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Out of Bounds!"
-LocationName="Kötetlenül!"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Base Main Entrance"
-LocationName="Blue Base főbejárat"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Blue Base Cellar Entrance"
-LocationName="Blue Base Pince Bejárat"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Kék zászlós szoba"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Volcano Caverns"
-LocationName="Vulkán-barlangok"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Volcano Caverns"
-LocationName="Vulkán-barlangok"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Blue Base Main Entrance"
-LocationName="Blue Base főbejárat"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Base Cellar Access"
-LocationName="Blue Base Pince hozzáférés"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Base Main Entrance"
-LocationName="Red Base főbejárat"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Base Cellar Access"
-LocationName="Red Base Pince hozzáférés"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Base Cellar"
-LocationName="Red Base Pince"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Red Flag Room"
-LocationName="Vörös zászlós szoba"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Blue Base Tower"
-LocationName="Kék alaptorony"
+LocationName=""
 
 [ZoneInfo22]
-LocationName="Red Base Tower"
+; EN: LocationName="Red Base Tower"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="Kék alappince"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Base Cellar Entrance"
-LocationName="Blue Base Pince Bejárat"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="Kék alappince"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="Kék alappince"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Base Cellar"
-LocationName="Red Base Pince"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Base Cellar"
-LocationName="Red Base Pince"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Base Cellar Entrance"
-LocationName="Red Base pince bejárata"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base Main Entrance"
-LocationName="Red Base főbejárat"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Base Tower Entrance"
-LocationName="Red Base torony bejárata"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Base Tower Entrance"
-LocationName="Blue Base Tower bejárata"
+LocationName=""
 

@@ -1,24 +1,24 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tokara Forest"
-Title="Tokaraskogen"
+Title=""
 
 [LevelInfo23]
 ; EN: Title="Tokara Forest"
-Title="Tokaraskogen"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tokara Forest"
-Title="Tokaraskogen"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Ground Level"
-LocationName="Marknivå"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Crystal Plateau"
-LocationName="Kristallplatån"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Forest"
-LocationName="Skog"
+LocationName=""
 

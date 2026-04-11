@@ -1,290 +1,300 @@
 ﻿[ASCriticalObjectiveVolume1]
 ; EN: LocationName="Coolant Valve Control"
-LocationName="Controllo della valvola del liquido di raffreddamento"
+LocationName=""
 
 [ASCriticalObjectiveVolume2]
 ; EN: LocationName="Teleporter Console"
-LocationName="Console del teletrasporto"
+LocationName=""
 
 [ASCriticalObjectiveVolume3]
 ; EN: LocationName="Jump Engine A Control"
-LocationName="Controllo Jump Engine A"
+LocationName=""
 
 [ASCriticalObjectiveVolume4]
 ; EN: LocationName="Jump Engine B Control"
-LocationName="Controllo del motore di salto B"
+LocationName=""
 
 [ASCriticalObjectiveVolume5]
 ; EN: LocationName="Central Computer Console"
-LocationName="Console centrale del computer"
+LocationName=""
 
 [DestroyableObjective_SM0]
 ; EN: DestructionMessage="Coolant Valve Control Destroyed!"
-DestructionMessage="Controllo della valvola del liquido di raffreddamento distrutto!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy Thermal Control Regulator to cool Jumpship engines."
-ObjectiveDescription="Distruggi il regolatore di controllo termico per raffreddare i motori di Jumpship."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Thermal Control Regulator"
-Objective_Info_Attacker="Distruggi il regolatore di controllo termico"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect Thermal Control Regulator"
-Objective_Info_Defender="Proteggi il regolatore di controllo termico"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM1]
 ; EN: ObjectiveName="Pressure Valve"
-ObjectiveName="Valvola di pressione"
+ObjectiveName=""
 ; EN: DestructionMessage="Pressure valve destroyed!"
-DestructionMessage="Valvola di pressione distrutta!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
-ObjectiveDescription="Distruggi le valvole di pressione idraulica per liberare la nave spaziale"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
-Objective_Info_Attacker="Distruggi le valvole idrauliche"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect Hydraulic Valves"
-Objective_Info_Defender="Proteggi le valvole idrauliche"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM2]
 ; EN: ObjectiveName="Pressure Valve"
-ObjectiveName="Valvola di pressione"
+ObjectiveName=""
 ; EN: DestructionMessage="Pressure valve destroyed!"
-DestructionMessage="Valvola di pressione distrutta!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
-ObjectiveDescription="Distruggi le valvole di pressione idraulica per liberare la nave spaziale"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
-Objective_Info_Attacker="Distruggi le valvole idrauliche"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect Hydraulic Valves"
-Objective_Info_Defender="Proteggi le valvole idrauliche"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM3]
 ; EN: ObjectiveName="Pressure Valve"
-ObjectiveName="Valvola di pressione"
+ObjectiveName=""
 ; EN: DestructionMessage="Pressure valve destroyed!"
-DestructionMessage="Valvola di pressione distrutta!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
-ObjectiveDescription="Distruggi le valvole di pressione idraulica per liberare la nave spaziale"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
-Objective_Info_Attacker="Distruggi le valvole idrauliche"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect Hydraulic Valves"
-Objective_Info_Defender="Proteggi le valvole idrauliche"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM4]
 ; EN: ObjectiveName="Pressure Valve"
-ObjectiveName="Valvola di pressione"
+ObjectiveName=""
 ; EN: DestructionMessage="Pressure valve destroyed!"
-DestructionMessage="Valvola di pressione distrutta!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
-ObjectiveDescription="Distruggi le valvole di pressione idraulica per liberare la nave spaziale"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
-Objective_Info_Attacker="Distruggi le valvole idrauliche"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect Hydraulic Valves"
-Objective_Info_Defender="Proteggi le valvole idrauliche"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM5]
 ; EN: ObjectiveName="Computer Lock"
-ObjectiveName="Blocco computer"
+ObjectiveName=""
 ; EN: DestructionMessage="Computer Lock Destroyed!"
-DestructionMessage="Blocco del computer distrutto!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy the computer Routers to gain navigation control of the Jumpship."
-ObjectiveDescription="Distruggi i router del computer per ottenere il controllo di navigazione della nave spaziale."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Computer Routers"
-Objective_Info_Attacker="Distruggi i router del computer"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend Computer Routers"
-Objective_Info_Defender="Difendi i router del computer"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM6]
 ; EN: ObjectiveName="Computer Lock"
-ObjectiveName="Blocco computer"
+ObjectiveName=""
 ; EN: DestructionMessage="Computer Lock Destroyed!"
-DestructionMessage="Blocco del computer distrutto!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy the computer Routers to gain navigation control of the Jumpship."
-ObjectiveDescription="Distruggi i router del computer per ottenere il controllo di navigazione della nave spaziale."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Computer Routers"
-Objective_Info_Attacker="Distruggi i router del computer"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend Computer Routers"
-Objective_Info_Defender="Difendi i router del computer"
+Objective_Info_Defender=""
 
 [HoldObjective0]
 ; EN: DestructionMessage="Engine Activated!"
-DestructionMessage="Motore attivato!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Hold  the switch to activate the Jump Engine."
-ObjectiveDescription="Tieni premuto l'interruttore per attivare il Jump Engine."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Activate Jump Engines"
-Objective_Info_Attacker="Attiva i motori di salto"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend Jump Engines"
-Objective_Info_Defender="Difendi i motori di salto"
+Objective_Info_Defender=""
 
 [HoldObjective1]
 ; EN: DestructionMessage="Engine Activated!"
-DestructionMessage="Motore attivato!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Hold  the switch to activate the Jump Engine."
-ObjectiveDescription="Tieni premuto l'interruttore per attivare il Jump Engine."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Activate Jump Engines"
-Objective_Info_Attacker="Attiva i motori di salto"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend Jump Engines"
-Objective_Info_Defender="Difendi i motori di salto"
+Objective_Info_Defender=""
 
 [HoldObjective2]
 ; EN: ObjectiveName="Central Computer Terminal"
-ObjectiveName="Terminale centrale del computer"
+ObjectiveName=""
 ; EN: DestructionMessage="Computer Programmed!"
-DestructionMessage="Programmato al computer!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Touch and hold computer console to program jump coordinates."
-ObjectiveDescription="Toccare e tenere premuta la console del computer per programmare le coordinate di salto."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Program Jump Coordinates"
-Objective_Info_Attacker="Coordinate di salto del programma"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Prevent attackers from programming jump coordinates."
-Objective_Info_Defender="Impedisci agli aggressori di programmare le coordinate di salto."
+Objective_Info_Defender=""
 
 [LevelInfo0]
 ; EN: Title="Jumpship BP2"
-Title="Nave volante BP2"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Jumpship BP2"
-Title="Nave volante BP2"
+Title=""
 ; EN: Description="During the height of the Corporation Wars, Liandri scientists created a prototype Warship capable of making its own jumps without the need for a jumpgate.  Shortly before its maiden voyage, Izanagi spies learned of the prototype Jumpship and launched an operation to steal it.  This scenario recreates the historic battle in which Izanagi forces infiltrated the prototype Liandri Jumpship, activated its engines, and made a successful jump to Izanagi space."
-Description="Durante il culmine delle Guerre delle Corporation, gli scienziati di Liandri hanno creato un prototipo di nave da guerra in grado di effettuare i propri salti senza la necessità di un portale di salto. Poco prima del suo viaggio inaugurale, le spie Izanagi appresero del prototipo di Jumpship e lanciarono un'operazione per rubarlo. Questo scenario ricrea la storica battaglia in cui le forze di Izanagi si sono infiltrate nel prototipo Liandri Jumpship, hanno attivato i suoi motori e hanno compiuto un salto nello spazio di Izanagi."
+Description=""
 
 [ProximityObjective0]
 ; EN: ObjectiveName="Landing Bay"
-ObjectiveName="Baia di atterraggio"
+ObjectiveName=""
 ; EN: DestructionMessage="Attackers have entered the jumpship!"
-DestructionMessage="Gli assalitori sono entrati nella nave spaziale!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Fly into front bay to enter Jumpship."
-ObjectiveDescription="Vola nella baia anteriore per entrare in Jumpship."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Enter Jumpship"
-Objective_Info_Attacker="Entra nella nave spaziale"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Prevent Attackers From Entering Jumpship"
-Objective_Info_Defender="Impedisci agli aggressori di entrare in Jumpship"
+Objective_Info_Defender=""
 
 [SceneSubtitles0]
-SubTitles=("During the height of the Corporation Wars, Liandri scientists created a prototype warship capable of making its own jumps without the need for a jumpgate.","Shortly before its maiden voyage, Izanagi spies learned of the prototype jumpship and launched an operation to steal it.  Success would give the Izanagi Corporation a significant advantage during the Wars.","This scenario recreates the historic battle in which Izanagi forces infiltrated the prototype Liandri jumpship, activated its engines, and made a successful jump to Izanagi space.","The jumpship is receiving power from the construction dock.  It is moored to the dock via four docking arms. ","Destroy the hydraulic valves controlling each arm to place the jumpship under internal power and release it from the dock.","After the four valves are destroyed, enter the jumpship through the docking bay.",,"Destroy the Thermal Control Regulator to cool the jump engines.  This will allow them to be powered safely.",,"Use this console to activate the ship's internal navigation systems.",,"Use the levers to inject the engine coolant and disable the safety lock on both of the jump engines.",,"The ship's bridge is too heavily defended for a direct attack, so your team will need to access the central computer deep within the ship's core.","Once you have reached the computer, use this console to reroute power from the bridge and enter the new jump coordinates.","Finally, destroy both computer routers.  This will disable all remaining safety protocols, activate the Jumpship, and end the match.")
+; EN: SubTitles=("During the height of the Corporation Wars, Liandri scientists created a prototype warship capable of making its own jumps without the need for a jumpgate.","Shortly before its maiden voyage, Izanagi spies learned of the prototype jumpship and launched an operation to steal it.  Success would give the Izanagi Corporation a significant advantage during the Wars.","This scenario recreates the historic battle in which Izanagi forces infiltrated the prototype Liandri jumpship, activated its engines, and made a successful jump to Izanagi space.","The jumpship is receiving power from the construction dock.  It is moored to the dock via four docking arms. ","Destroy the hydraulic valves controlling each arm to place the jumpship under internal power and release it from the dock.","After the four valves are destroyed, enter the jumpship through the docking bay.",,"Destroy the Thermal Control Regulator to cool the jump engines.  This will allow them to be powered safely.",,"Use this console to activate the ship's internal navigation systems.",,"Use the levers to inject the engine coolant and disable the safety lock on both of the jump engines.",,"The ship's bridge is too heavily defended for a direct attack, so your team will need to access the central computer deep within the ship's core.","Once you have reached the computer, use this console to reroute power from the bridge and enter the new jump coordinates.","Finally, destroy both computer routers.  This will disable all remaining safety protocols, activate the Jumpship, and end the match.")
+SubTitles=("","","","","","",,"",,"",,"",,"","","")
 
 [TriggeredObjective0]
 ; EN: ObjectiveName="Teleporter Room Controls"
-ObjectiveName="Controlli della stanza del teletrasporto"
+ObjectiveName=""
 ; EN: DestructionMessage="Teleporters Activated!"
-DestructionMessage="Teletrasporto attivato!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Activate the ship's internal navigation systems."
-ObjectiveDescription="Attiva i sistemi di navigazione interni della nave."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Activate the Navigation Computer"
-Objective_Info_Attacker="Attiva il computer di navigazione"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Navigation Computer"
-Objective_Info_Defender="Difendi il computer di navigazione"
+Objective_Info_Defender=""
 
 [ZoneInfo0]
 ; EN: LocationName="In Space"
-LocationName="Nello spazio"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Landing Bay 1 Hall"
-LocationName="Baia di Approdo 1 Sala"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="Jump Engine A Hall"
+; EN: LocationName="Jump Engine A Hall"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Ship Bridge"
-LocationName="ponte della nave"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Landing Bay 1 Hall"
-LocationName="Baia di Approdo 1 Sala"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Landing Bay 2 Hall"
-LocationName="Baia di Atterraggio 2 Sala"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Landing Bay 2 Hall"
-LocationName="Baia di Atterraggio 2 Sala"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Coolant Control"
-LocationName="Controllo del liquido di raffreddamento"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Teleporter Room"
-LocationName="Stanza del teletrasporto"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Teleporter Room"
-LocationName="Stanza del teletrasporto"
+LocationName=""
 
 [ZoneInfo18]
-LocationName="Jump Engine A Hall"
+; EN: LocationName="Jump Engine A Hall"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Jump Engine B Hall"
-LocationName="Salto motore B Hall"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="Hangar"
+; EN: LocationName="Hangar"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="In Space"
-LocationName="Nello spazio"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Jump Engine B Hall"
-LocationName="Salto motore B Hall"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Jump Engine A"
-LocationName="Motore di salto A"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Jump Engine B"
-LocationName="Motore di salto B"
+LocationName=""
 
 [ZoneInfo27]
-LocationName="Hangar"
+; EN: LocationName="Hangar"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Central Computer Hall"
-LocationName="Sala computer centrale"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Central Computer Core"
-LocationName="Nucleo centrale del computer"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Hangar"
+; EN: LocationName="Hangar"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Central Computer Core"
-LocationName="Nucleo centrale del computer"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Central Computer Core"
-LocationName="Nucleo centrale del computer"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Coolant Control"
-LocationName="Controllo del liquido di raffreddamento"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Central Computer Core"
-LocationName="Nucleo centrale del computer"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Coolant Control"
-LocationName="Controllo del liquido di raffreddamento"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Landing Bay 1"
-LocationName="Baia di atterraggio 1"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="Hangar"
+; EN: LocationName="Hangar"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Hangar"
+; EN: LocationName="Hangar"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="Hangar"
+; EN: LocationName="Hangar"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Landing Bay 2"
-LocationName="Baia di atterraggio 2"
+LocationName=""
 
 [ZoneInfo9]
-LocationName="Hangar"
+; EN: LocationName="Hangar"
+LocationName=""
 

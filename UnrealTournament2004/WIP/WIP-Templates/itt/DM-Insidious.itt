@@ -1,63 +1,72 @@
 ﻿[LevelInfo0]
 ; EN: Title="Insidious"
-Title="Insidioso"
+Title=""
 ; EN: LevelEnterText="DM-Insidious"
-LevelEnterText="DM-Insidioso"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Insidious"
-Title="Insidioso"
+Title=""
 ; EN: LevelEnterText="DM-Insidious"
-LevelEnterText="DM-Insidioso"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Wall Tanks"
-LocationName="Serbatoi a parete"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Bio Hall"
-LocationName="Sala Bio"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Lower Hall"
-LocationName="Sala Inferiore"
+; EN: LocationName="Eastern Lower Halls"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="Flak Hall"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Upper Halls"
-LocationName="Sale superiori"
+; EN: LocationName="Bio Hall"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Serbatoi di clonazione"
+LocationName=""
+
+[ZoneInfo14]
+; EN: LocationName="Northern Upper Halls"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Upper Halls"
-LocationName="Sale superiori"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Serbatoi di clonazione"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Serbatoi di clonazione"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Lower hall"
-LocationName="Sala inferiore"
+; EN: LocationName="Western Lower Halls"
+LocationName=""
+
+[ZoneInfo6]
+; EN: LocationName="Southern Upper Halls"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Wall Tanks"
-LocationName="Serbatoi a parete"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Wall Tanks"
-LocationName="Serbatoi a parete"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Fan Room"
-LocationName="Stanza del ventilatore"
+LocationName=""
 

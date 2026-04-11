@@ -1,58 +1,58 @@
 ﻿[LevelInfo0]
 ; EN: Title="Squader"
-Title="escadron"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Squader"
-Title="escadron"
+Title=""
 ; EN: Description="Once a section of a hidden military research facility, this cold structure now hosts some of the premiere 1 on 1 duels from the Tournament. The pressure is on.....how will you handle the spotlight?"
-Description="Autrefois une section d'un centre de recherche militaire caché, cette structure froide accueille désormais certains des premiers duels 1 contre 1 du tournoi. La pression est forte.....comment allez-vous gérer les projecteurs ?"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Super Shield Area"
-LocationName="Super zone de bouclier"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="UDamage Halls"
-LocationName="Salles de Dégâts"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 
 [ZoneInfo11]
-; EN: LocationName="UDamage Halls"
-LocationName="Salles de Dégâts"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Super Shield Area"
-LocationName="Super zone de bouclier"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Minigun Lift"
-LocationName="Ascenseur Minigun"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Flak Hall"
-LocationName="Salle de Flak"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Flak Hall"
-LocationName="Salle de Flak"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Double Health"
-LocationName="Double Santé"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Bio Rifle Corner"
-LocationName="Coin carabine bio"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Large Window Area"
-LocationName="Grande surface de fenêtre"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Large Window Area"
-LocationName="Grande surface de fenêtre"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="UDamage Halls"
-LocationName="Salles de Dégâts"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 

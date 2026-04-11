@@ -1,104 +1,104 @@
 ﻿[LevelInfo0]
 ; EN: Title="Geothermal"
-Title="Geothermisch"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Geothermal"
-Title="Geothermisch"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Middle Walkway"
-LocationName="Middelste loopbrug"
+LocationName=""
 
 [WaterVolume5]
 ; EN: LocationName="Blue Water"
-LocationName="Blauw water"
+LocationName=""
 
 [WaterVolume7]
 ; EN: LocationName="Red Water"
-LocationName="Rood water"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="RED Flag Room"
-LocationName="RODE Vlag Kamer"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="RED Machine Room"
-LocationName="RODE machinekamer"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Machine Room"
-LocationName="BLAUWE machinekamer"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Water Room"
-LocationName="BLAUWE waterkamer"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="RED Flag Room"
-LocationName="RODE Vlag Kamer"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Middle"
-LocationName="Midden"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED High Entrance"
-LocationName="RODE hoge ingang"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="BLUE Low Entrance"
-LocationName="BLAUWE lage ingang"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLAUWE hoge ingang"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="RED Water Room"
-LocationName="RODE waterkamer"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLAUWE hoge ingang"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLAUWE hoge ingang"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="BLAUWE Vlag Kamer"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="BLAUWE Vlag Kamer"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLAUWE hoge ingang"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="RED Low Entrance"
-LocationName="RODE lage instap"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RED High Entrance"
-LocationName="RODE hoge ingang"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="RED High Entrance"
-LocationName="RODE hoge ingang"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="BLAUWE Vlag Kamer"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="RED High Entrance"
-LocationName="RODE hoge ingang"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="RED Flag Room"
-LocationName="RODE Vlag Kamer"
+LocationName=""
 

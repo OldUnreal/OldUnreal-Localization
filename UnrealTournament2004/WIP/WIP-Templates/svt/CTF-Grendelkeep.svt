@@ -1,247 +1,258 @@
 ﻿[LevelInfo0]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelInfo12]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelInfo6]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelSummary]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 ; EN: Description="Prieth Callas was a hard, cruel man, fond of torturing his enemies before sending them to their deaths. He raised creatures of great size and ferocity, setting them against his prisoners in arenas of his own creation. Grendelkeep is the last of his diabolical constructions, left to fall into ruin after Callas was dragged from the battlements by his own men and fed to the creatures he bred in the dark kennels below. The rain has washed away the blood, but the evil that bred here has left a much deeper stain."
-Description="Prieth Callas var en hård, grym man, förtjust i att tortera sina fiender innan han skickade dem till deras död. Han uppfostrade varelser av stor storlek och grymhet och ställde dem mot sina fångar på arenor av sin egen skapelse. Grendelkeep är den sista av hans djävulska konstruktioner, lämnad att falla i fördärv efter att Callas släpades från borgvärnarna av sina egna män och matades till varelserna han födde upp i de mörka kennlarna nedanför. Regnet har sköljt bort blodet, men ondskan som växte fram här har lämnat en mycket djupare fläck."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="BLUE Main Room"
-LocationName="BLÅ huvudrum"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Great Room"
-LocationName="Stort rum"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Center"
-LocationName="Centrum"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Main Hall"
-LocationName="BLÅ Stora salen"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Great Room"
-LocationName="Stort rum"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="BLUE Lower Flak Hall"
-LocationName="BLÅ Nedre Flak Hall"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="BLUE Lower Hall"
-LocationName="BLÅ Nedre Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="BLUE Base"
-LocationName="BLÅ bas"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="BLUE Spawn"
-LocationName="BLÅ Spawn"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="BLUE Spawn"
-LocationName="BLÅ Spawn"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="BLUE Main Room"
-LocationName="BLÅ huvudrum"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Great Room"
-LocationName="Stort rum"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Great Room Hall"
-LocationName="Stora salen"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Stora Amp Hall"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Övre rakethallen"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Övre rakethallen"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Övre rakethallen"
+LocationName=""
 
 [ZoneInfo37]
-LocationName="Mini Hall"
+; EN: LocationName="Mini Hall"
+LocationName=""
 
 [ZoneInfo38]
-LocationName="Mini Hall"
+; EN: LocationName="Mini Hall"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Great Tower"
-LocationName="Stora tornet"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Main Room"
-LocationName="BLÅ huvudrum"
+LocationName=""
 
 [ZoneInfo40]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Great Room Hall"
-LocationName="Stora salen"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Lower Flak Hall"
-LocationName="Nedre Flak Hall"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Great Room Hall"
-LocationName="Stora salen"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Great Room"
-LocationName="Stort rum"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="RED Lower Flak Hall"
-LocationName="RÖD Nedre Flak Hall"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Great Room"
-LocationName="Stort rum"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Great Room Hall"
-LocationName="Stora salen"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Stora Amp Hall"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="BLUE Spawn"
-LocationName="BLÅ Spawn"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="RED Main Room"
-LocationName="RÖTT huvudrum"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="RED Main Room"
-LocationName="RÖTT huvudrum"
+LocationName=""
 
 [ZoneInfo52]
-; EN: LocationName="RED BASE"
-LocationName="RÖD BAS"
+; EN: LocationName="RED Base"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="RED Spawn"
-LocationName="RÖD Spawn"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="RED Spawn"
-LocationName="RÖD Spawn"
+LocationName=""
 
 [ZoneInfo55]
 ; EN: LocationName="RED Spawn"
-LocationName="RÖD Spawn"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="RED Sniper Hall"
-LocationName="RÖD Sniper Hall"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="RED Sniper Hall"
-LocationName="RÖD Sniper Hall"
+LocationName=""
 
 [ZoneInfo58]
 ; EN: LocationName="RED round stairs"
-LocationName="RÖD rund trappa"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Center"
-LocationName="Centrum"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Sniper Hall"
-LocationName="BLÅ Sniper Hall"
+LocationName=""
 
 [ZoneInfo60]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Övre rakethallen"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="RED Main Hall"
-LocationName="RÖDA Stora salen"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Övre rakethallen"
+LocationName=""
 
 [ZoneInfo64]
 ; EN: LocationName="RED Lower Hall"
-LocationName="RÖD Nedre Hall"
+LocationName=""
 
 [ZoneInfo65]
 ; EN: LocationName="RED Main Room"
-LocationName="RÖTT huvudrum"
+LocationName=""
 
 [ZoneInfo66]
 ; EN: LocationName="Great Room"
-LocationName="Stort rum"
+LocationName=""
 
 [ZoneInfo67]
 ; EN: LocationName="Great Room"
-LocationName="Stort rum"
+LocationName=""
 
 [ZoneInfo68]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Övre rakethallen"
+LocationName=""
 
 [ZoneInfo69]
-LocationName="Mini Hall"
+; EN: LocationName="Mini Hall"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="BLUE Sniper Hall"
-LocationName="BLÅ Sniper Hall"
+LocationName=""
 
 [ZoneInfo70]
-LocationName="Mini Hall"
+; EN: LocationName="Mini Hall"
+LocationName=""
 
 [ZoneInfo72]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo73]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo74]
 ; EN: LocationName="Great Room Hall"
-LocationName="Stora salen"
+LocationName=""
 
 [ZoneInfo76]
 ; EN: LocationName="Great Room Hall"
-LocationName="Stora salen"
+LocationName=""
 
 [ZoneInfo77]
 ; EN: LocationName="Great Room"
-LocationName="Stort rum"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="BLUE Round Stairs"
-LocationName="BLÅ Runda trappor"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Center"
-LocationName="Centrum"
+LocationName=""
 

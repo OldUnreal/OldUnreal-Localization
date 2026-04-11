@@ -1,58 +1,58 @@
 ﻿[LevelInfo0]
 ; EN: Title="Squader"
-Title="スクエーダー"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Squader"
-Title="スクエーダー"
+Title=""
 ; EN: Description="Once a section of a hidden military research facility, this cold structure now hosts some of the premiere 1 on 1 duels from the Tournament. The pressure is on.....how will you handle the spotlight?"
-Description="かつては隠された軍事研究施設の一部でしたが、この冷たい構造は現在、トーナメントからのプレミア1対1の決闘のいくつかを主催しています。プレッシャーがかかっています.....スポットライトをどのように処理しますか？"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Super Shield Area"
-LocationName="スーパーシールドエリア"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="UDamage Halls"
-LocationName="UDダメージホール"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 
 [ZoneInfo11]
-; EN: LocationName="UDamage Halls"
-LocationName="UDダメージホール"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Super Shield Area"
-LocationName="スーパーシールドエリア"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Minigun Lift"
-LocationName="ミニガンリフト"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Flak Hall"
-LocationName="フラックホール"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Flak Hall"
-LocationName="フラックホール"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Double Health"
-LocationName="ダブルヘルス"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Bio Rifle Corner"
-LocationName="バイオライフルコーナー"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Large Window Area"
-LocationName="大きな窓エリア"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Large Window Area"
-LocationName="大きな窓エリア"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="UDamage Halls"
-LocationName="UDダメージホール"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 

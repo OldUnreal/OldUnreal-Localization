@@ -1,56 +1,58 @@
 ﻿[LevelInfo0]
 ; EN: Title="Mixer"
-Title="Mikser"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Mixer"
-Title="Mikser"
+Title=""
 ; EN: Description="Gunsmoke and death aren't the only things you'll smell here."
-Description="Våpenrøyk og død er ikke det eneste du vil lukte her."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Pipe"
-LocationName="Rør"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Shield Chamber"
-LocationName="Skjoldkammer"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="Minigun"
+; EN: LocationName="Minigun"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Double Damage"
-LocationName="Dobbel skade"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Lift"
-LocationName="Løfte"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Lift"
-LocationName="Løfte"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Pipes"
-LocationName="Rør"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Lightning Gun"
-LocationName="Lynpistol"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Link Gun"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Basement"
-LocationName="Kjeller"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Shock Rifle"
-LocationName="Sjokkrifle"
+LocationName=""
 

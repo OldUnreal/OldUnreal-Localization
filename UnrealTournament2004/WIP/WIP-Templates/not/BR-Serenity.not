@@ -1,50 +1,50 @@
 ﻿[LevelInfo0]
 ; EN: Title="Serenity"
-Title="Sinnsro"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Serenity"
-Title="Sinnsro"
+Title=""
 ; EN: Description="Feel the gentle breeze on your skin, hear the calming sounds of the forest, watch the fireflies dance in the clearing and surrender yourself to a growing sense of serenity.  Now ... collect your Flak Cannon and wreak havoc!"
-Description="Føl den milde brisen på huden din, hør de beroligende lydene fra skogen, se ildfluene danse i lysningen og overgi deg selv til en voksende følelse av ro. Nå ... samle Flak Cannon og skape kaos!"
+Description=""
 
 [Volume1]
 ; EN: LocationName="blue side of center field"
-LocationName="blå side av midtfeltet"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="center field"
-LocationName="midtfelt"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="red base"
-LocationName="rød base"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="red side of center field"
-LocationName="rød side av midtfeltet"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="blue base"
-LocationName="blå base"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="in a watery grave"
-LocationName="i en vannaktig grav"
+LocationName=""
 
 [WaterVolume1]
 ; EN: LocationName="in a watery grave"
-LocationName="i en vannaktig grav"
+LocationName=""
 
 [WaterVolume2]
 ; EN: LocationName="hiding in the center field waterfall"
-LocationName="gjemmer seg i midtfeltets foss"
+LocationName=""
 
 [xFallingVolume0]
 ; EN: LocationName="falling to a watery grave"
-LocationName="faller til en vannaktig grav"
+LocationName=""
 
 [xFallingVolume1]
 ; EN: LocationName="falling to a watery grave"
-LocationName="faller til en vannaktig grav"
+LocationName=""
 

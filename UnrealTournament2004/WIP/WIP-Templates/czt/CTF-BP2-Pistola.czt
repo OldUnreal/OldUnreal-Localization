@@ -1,52 +1,54 @@
 ﻿[LevelInfo0]
 ; EN: Title="Pistola Battle Grounds"
-Title="Bojiště pistole"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Pistola Battle Grounds"
-Title="Bojiště pistole"
+Title=""
 ; EN: Description="This twin complex of concrete and metal combines the beauty of nature with the harsh lines of industrial architecture to create a fierce battle arena.  Where is my Pistola?"
-Description="Tento dvojitý komplex betonu a kovu spojuje krásu přírody s drsnými liniemi průmyslové architektury a vytváří tak divokou bojovou arénu. Kde je moje pistole?"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Flagroom"
-LocationName="Modrá vlajka"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="Red Flagroom"
+; EN: LocationName="Red Flagroom"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Interials A"
-LocationName="Červené vnitřní prostory A"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Interials B"
-LocationName="Červené vnitřní části B"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Red Flak Foyer"
-LocationName="Foyer Red Flak"
+LocationName=""
 
 [ZoneInfo15]
-LocationName="Red Foyer A"
+; EN: LocationName="Red Foyer A"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Interials A"
-LocationName="Modré interiéry A"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Interials B"
-LocationName="Modré interiéry B"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Flak Foyer"
-LocationName="Foyer Blue Flak"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Foyer A"
-LocationName="Modré foyer A"
+LocationName=""
 

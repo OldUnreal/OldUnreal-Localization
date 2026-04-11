@@ -1,32 +1,32 @@
 ﻿[LevelInfo0]
 ; EN: Title="Sepukku Gorge"
-Title="Desfiladeiro Sepukku"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Sepukku Gorge"
-Title="Desfiladeiro Sepukku"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Near Point B"
-LocationName="Perto do Ponto B"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Near Point A"
-LocationName="Próximo ao Ponto A"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="On The Bridges"
-LocationName="Nas pontes"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Cave"
-LocationName="Caverna Vermelha"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Cave"
-LocationName="Caverna Azul"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Lado de fora"
+LocationName=""
 

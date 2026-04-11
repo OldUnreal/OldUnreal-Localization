@@ -1,52 +1,52 @@
 ﻿[LevelInfo0]
 ; EN: Title="Leviathan"
-Title="Leviatan"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Leviathan"
-Title="Leviatan"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="North-East Upper Hallway"
-LocationName="Severovýchodní horní chodba"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Main Room"
-LocationName="Hlavní pokoj"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="North-East Hallway"
-LocationName="Severovýchodní chodba"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="North-West Upper Hallway"
-LocationName="Severozápadní horní chodba"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="North-West Hallway"
-LocationName="Severozápadní chodba"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Western Chamber"
-LocationName="Západní komora"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="South-West Hallway"
-LocationName="Jihozápadní chodba"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="South-West Upper Hallway"
-LocationName="Jihozápadní horní chodba"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="South-East Upper Hallway"
-LocationName="Jihovýchodní horní chodba"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="South-East Hallway"
-LocationName="Jihovýchodní chodba"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Eastern Chamber"
-LocationName="východní komora"
+LocationName=""
 

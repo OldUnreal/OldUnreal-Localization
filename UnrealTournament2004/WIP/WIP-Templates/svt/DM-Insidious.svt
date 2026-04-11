@@ -1,62 +1,72 @@
 ﻿[LevelInfo0]
 ; EN: Title="Insidious"
-Title="Smygande"
+Title=""
 ; EN: LevelEnterText="DM-Insidious"
-LevelEnterText="DM-Lömsk"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Insidious"
-Title="Smygande"
+Title=""
 ; EN: LevelEnterText="DM-Insidious"
-LevelEnterText="DM-Lömsk"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Wall Tanks"
-LocationName="Väggtankar"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Bio Hall"
+; EN: LocationName="Bio Hall"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Lower Hall"
-LocationName="Nedre Hall"
+; EN: LocationName="Eastern Lower Halls"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="Flak Hall"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Upper Halls"
-LocationName="Övre salarna"
+; EN: LocationName="Bio Hall"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Kloning av tankar"
+LocationName=""
+
+[ZoneInfo14]
+; EN: LocationName="Northern Upper Halls"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Upper Halls"
-LocationName="Övre salarna"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Kloning av tankar"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Kloning av tankar"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Lower hall"
-LocationName="Nedre hallen"
+; EN: LocationName="Western Lower Halls"
+LocationName=""
+
+[ZoneInfo6]
+; EN: LocationName="Southern Upper Halls"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Wall Tanks"
-LocationName="Väggtankar"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Wall Tanks"
-LocationName="Väggtankar"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Fan Room"
-LocationName="Fläktrum"
+LocationName=""
 

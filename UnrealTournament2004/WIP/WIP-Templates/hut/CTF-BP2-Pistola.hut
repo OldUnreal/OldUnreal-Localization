@@ -1,49 +1,54 @@
 ﻿[LevelInfo0]
 ; EN: Title="Pistola Battle Grounds"
-Title="Pisztola csatatér"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Pistola Battle Grounds"
-Title="Pisztola csatatér"
+Title=""
 ; EN: Description="This twin complex of concrete and metal combines the beauty of nature with the harsh lines of industrial architecture to create a fierce battle arena.  Where is my Pistola?"
-Description="Ez a betonból és fémből álló ikerkomplexum ötvözi a természet szépségét az ipari építészet durva vonalaival, hogy kiélezett harci arénát hozzon létre. Hol van a pisztolyom?"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Flagroom"
-LocationName="Kék zászlós szoba"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Flagroom"
-LocationName="Vörös zászlós szoba"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Interials A"
-LocationName="Piros betétlapok A"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Interials B"
-LocationName="Piros betétlapok B"
+LocationName=""
 
 [ZoneInfo14]
-LocationName="Red Flak Foyer"
+; EN: LocationName="Red Flak Foyer"
+LocationName=""
 
 [ZoneInfo15]
-LocationName="Red Foyer A"
+; EN: LocationName="Red Foyer A"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Interials A"
-LocationName="Kék belső lapok A"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Blue Interials B"
+; EN: LocationName="Blue Interials B"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="Blue Flak Foyer"
+; EN: LocationName="Blue Flak Foyer"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="Blue Foyer A"
+; EN: LocationName="Blue Foyer A"
+LocationName=""
 

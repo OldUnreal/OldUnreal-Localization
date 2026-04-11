@@ -1,250 +1,250 @@
 ﻿[LevelInfo0]
 ; EN: Title="Double Dammage"
-Title="Dubbele schade"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Double Dammage"
-Title="Dubbele schade"
+Title=""
 ; EN: Description="Some people would say you'd have to be insane to play atop a water dam in the middle of winter.  Around here, we call those people "victims"."
-Description="Sommige mensen zouden zeggen dat je gek moet zijn om midden in de winter op een waterdam te spelen. Hier in de buurt noemen we die mensen "slachtoffers"."
+Description=""
 
 [PhysicsVolume1]
 ; EN: LocationName="Ice Field"
-LocationName="Ijsveld"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blauwe Vlag Kamer"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Back Room"
-LocationName="Blauwe Achterkamer"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Back Room"
-LocationName="Blauwe Achterkamer"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rode Vlag Kamer"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Back Room"
-LocationName="Rode Achterkamer"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Blauwe entreehal"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blauwe Foyer"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Blauw Links Bovenzaal"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Blauw Links Bovenzaal"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Blauw Rechts Bovenzaal"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Blauw Rechts Bovenzaal"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Red Sniper Lift"
-LocationName="Rode sluipschutterlift"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Red Back Room"
-LocationName="Rode Achterkamer"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Red Back Room"
-LocationName="Rode Achterkamer"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Rode Inkomhal"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Red Foyer"
-LocationName="Rode Foyer"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Rood Links Bovenzaal"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Back Room"
-LocationName="Blauwe Achterkamer"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Rood Links Bovenzaal"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Rood Rechts Bovenzaal"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Rood Rechts Bovenzaal"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Rood Rechts Bovenzaal"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Red Foyer"
-LocationName="Rode Foyer"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="Red Upper Foyer"
-LocationName="Rode bovenfoyer"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="Red Upper Foyer"
-LocationName="Rode bovenfoyer"
+LocationName=""
 
 [ZoneInfo58]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Rood Links Bovenzaal"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Rode gang links"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Sniper Lift"
-LocationName="Blauwe sluipschutterlift"
+LocationName=""
 
 [ZoneInfo60]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Blauw Rechts Bovenzaal"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="Red Foyer"
-LocationName="Rode Foyer"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Red Foyer"
-LocationName="Rode Foyer"
+LocationName=""
 
 [ZoneInfo63]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Rode gang links"
+LocationName=""
 
 [ZoneInfo64]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Rode gang links"
+LocationName=""
 
 [ZoneInfo65]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Rode gang links"
+LocationName=""
 
 [ZoneInfo66]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blauwe Foyer"
+LocationName=""
 
 [ZoneInfo67]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Rode Rechter Gang"
+LocationName=""
 
 [ZoneInfo68]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Rode Rechter Gang"
+LocationName=""
 
 [ZoneInfo69]
 ; EN: LocationName="Red Foyer"
-LocationName="Rode Foyer"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Outside"
-LocationName="Buiten"
+LocationName=""
 
 [ZoneInfo70]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blauwe Foyer"
+LocationName=""
 
 [ZoneInfo71]
 ; EN: LocationName="Red Storage Room"
-LocationName="Rode berging"
+LocationName=""
 
 [ZoneInfo72]
 ; EN: LocationName="Red Storage Room"
-LocationName="Rode berging"
+LocationName=""
 
 [ZoneInfo73]
 ; EN: LocationName="Red Storage Room"
-LocationName="Rode berging"
+LocationName=""
 
 [ZoneInfo74]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Rode Rechter Gang"
+LocationName=""
 
 [ZoneInfo75]
 ; EN: LocationName="Blue Upper Foyer"
-LocationName="Blauwe bovenfoyer"
+LocationName=""
 
 [ZoneInfo76]
 ; EN: LocationName="Blue Upper Foyer"
-LocationName="Blauwe bovenfoyer"
+LocationName=""
 
 [ZoneInfo77]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Blauw Links Bovenzaal"
+LocationName=""
 
 [ZoneInfo78]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Blauwe gang links"
+LocationName=""
 
 [ZoneInfo79]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blauwe Foyer"
+LocationName=""
 
 [ZoneInfo80]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blauwe Foyer"
+LocationName=""
 
 [ZoneInfo81]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Blauwe gang links"
+LocationName=""
 
 [ZoneInfo82]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Blauwe gang links"
+LocationName=""
 
 [ZoneInfo83]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Blauwe gang links"
+LocationName=""
 
 [ZoneInfo84]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Blauwe Rechter Gang"
+LocationName=""
 
 [ZoneInfo85]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Blauwe Rechter Gang"
+LocationName=""
 
 [ZoneInfo87]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Blauwe berging"
+LocationName=""
 
 [ZoneInfo88]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Blauwe berging"
+LocationName=""
 
 [ZoneInfo89]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Blauwe berging"
+LocationName=""
 
 [ZoneInfo90]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Blauwe Rechter Gang"
+LocationName=""
 

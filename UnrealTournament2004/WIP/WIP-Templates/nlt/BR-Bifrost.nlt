@@ -1,68 +1,60 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bifrost Bases"
-Title="Bifrost-bases"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bifrost Bases"
-Title="Bifrost-bases"
+Title=""
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Front Room"
-LocationName="BLAUWE Voorkamer"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="RED Front Room"
-LocationName="RODE Voorkamer"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Outside"
-LocationName="Buiten"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED Hallway"
-LocationName="RODE gang"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="RED Bomb Room"
-LocationName="RODE Bomkamer"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="BLUE Hallway"
-LocationName="BLAUWE gang"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLAUWE bomkamer"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="RED Bomb Room"
-LocationName="RODE Bomkamer"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Hallway"
-LocationName="BLAUWE gang"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RED Hallway"
-LocationName="RODE gang"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLAUWE bomkamer"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="RED Entrance"
-LocationName="RODE ingang"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="BLUE Entrance"
-LocationName="BLAUWE ingang"
-
-[xBombDelivery0]
-; EN: DestructionMessage="Red Team Scores!"
-DestructionMessage="Rode teamscores!"
-
-[xBombDelivery1]
-; EN: DestructionMessage="Blue Team Scores!"
-DestructionMessage="Blauwe teamscores!"
+LocationName=""
 

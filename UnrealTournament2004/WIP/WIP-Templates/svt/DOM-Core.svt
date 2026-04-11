@@ -1,18 +1,12 @@
 ﻿[LevelInfo0]
 ; EN: Title="Core"
-Title="Kärna"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Core"
-Title="Kärna"
+Title=""
 
 [ZoneInfo2]
 ; EN: LocationName="A entry"
-LocationName="En post"
-
-[xDomPointA0]
-ObjectiveName="DPA"
-
-[xDomPointB0]
-ObjectiveName="DPB"
+LocationName=""
 

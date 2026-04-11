@@ -1,102 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Metallurgy"
-Title="Métallurgie"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Metallurgy"
-Title="Métallurgie"
+Title=""
 ; EN: Description="Separating the fast from the slow, the strong from the weak, the skilled from the incompetent - Metallurgy will test your mettle."
-Description="Séparer le rapide du lent, le fort du faible, l'habile de l'incompétent - La métallurgie mettra votre courage à l'épreuve."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Near the fuel tanker"
-LocationName="Près du camion-citerne"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Outside the molten metal cascade"
-LocationName="En dehors de la cascade de métal en fusion"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Beneath the ducts of molten metal"
-LocationName="Sous les conduits de métal en fusion"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Between the pillars"
-LocationName="Entre les piliers"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Between the pillars"
-LocationName="Entre les piliers"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Second floor deck"
-LocationName="Pont au deuxième étage"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Second floor deck"
-LocationName="Pont au deuxième étage"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Second floor deck"
-LocationName="Pont au deuxième étage"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="First floor deck"
-LocationName="Pont du premier étage"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="First floor deck"
-LocationName="Pont du premier étage"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="First floor deck"
-LocationName="Pont du premier étage"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="On the roof"
-LocationName="Sur le toit"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southern exterior"
-LocationName="Extérieur sud"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Western exterior"
-LocationName="Extérieur occidental"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Northern exterior"
-LocationName="Extérieur nord"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Northern exterior"
-LocationName="Extérieur nord"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Northern exterior"
-LocationName="Extérieur nord"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Northern exterior"
-LocationName="Extérieur nord"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Communication tower"
-LocationName="Tour de communication"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Above the ducts of molten metal"
-LocationName="Au-dessus des conduits de métal en fusion"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Molten metal cascade"
-LocationName="Cascade de métal en fusion"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Interior atrium"
-LocationName="Atrium intérieur"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Interior ground floor"
-LocationName="Rez-de-chaussée intérieur"
+LocationName=""
 

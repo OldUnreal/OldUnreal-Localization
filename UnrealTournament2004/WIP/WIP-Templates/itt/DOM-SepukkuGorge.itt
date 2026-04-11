@@ -1,32 +1,32 @@
 ﻿[LevelInfo0]
 ; EN: Title="Sepukku Gorge"
-Title="gola di Sepukku"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Sepukku Gorge"
-Title="gola di Sepukku"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Near Point B"
-LocationName="Vicino al punto B"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Near Point A"
-LocationName="Vicino al punto A"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="On The Bridges"
-LocationName="Sui Ponti"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Cave"
-LocationName="Grotta Rossa"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Cave"
-LocationName="Grotta Azzurra"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Al di fuori"
+LocationName=""
 

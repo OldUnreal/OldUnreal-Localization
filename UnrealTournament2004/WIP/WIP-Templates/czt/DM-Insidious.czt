@@ -1,61 +1,72 @@
 ﻿[LevelInfo0]
 ; EN: Title="Insidious"
-Title="Zákeřný"
-LevelEnterText="DM-Insidious"
+Title=""
+; EN: LevelEnterText="DM-Insidious"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Insidious"
-Title="Zákeřný"
-LevelEnterText="DM-Insidious"
+Title=""
+; EN: LevelEnterText="DM-Insidious"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Wall Tanks"
-LocationName="Nástěnné nádrže"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Bio Hall"
-LocationName="Bio sál"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Lower Hall"
-LocationName="Dolní sál"
+; EN: LocationName="Eastern Lower Halls"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="Flak Hall"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Upper Halls"
-LocationName="Horní sály"
+; EN: LocationName="Bio Hall"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Klonování tanků"
+LocationName=""
+
+[ZoneInfo14]
+; EN: LocationName="Northern Upper Halls"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Upper Halls"
-LocationName="Horní sály"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Klonování tanků"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Klonování tanků"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Lower hall"
-LocationName="Dolní sál"
+; EN: LocationName="Western Lower Halls"
+LocationName=""
+
+[ZoneInfo6]
+; EN: LocationName="Southern Upper Halls"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Wall Tanks"
-LocationName="Nástěnné nádrže"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Wall Tanks"
-LocationName="Nástěnné nádrže"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Fan Room"
-LocationName="Místnost s ventilátorem"
+LocationName=""
 

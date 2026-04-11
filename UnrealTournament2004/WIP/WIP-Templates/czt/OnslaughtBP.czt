@@ -1,76 +1,77 @@
 ﻿[DamTypeArtilleryShell]
 ; EN: DeathString="%k rained on %o's parade."
-DeathString="%k pršelo na průvodu %o."
-; EN: FemaleSuicide="%o managed to kill herself with her own Artillery."
-FemaleSuicide="%o se podařilo zabít pomocí vlastního dělostřelectva."
-; EN: MaleSuicide="%o managed to kill himself with his own Artillery."
-MaleSuicide="%o se podařilo zabít pomocí vlastního dělostřelectva."
+DeathString=""
+; EN: FemaleSuicide="%o was killed by an artillery strike."
+FemaleSuicide=""
+; EN: MaleSuicide="%o was killed by an artillery strike."
+MaleSuicide=""
 
 [DamTypeONSCicadaLaser]
 ; EN: DeathString="%k's blaster stung %o."
-DeathString="%kův blaster bodl %o."
+DeathString=""
 ; EN: FemaleSuicide="%o used her blaster on herself."
-FemaleSuicide="%o použila na sebe svůj blaster."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o used his blaster on himself."
-MaleSuicide="%o použil svůj blaster na sebe."
+MaleSuicide=""
 
 [DamTypeONSCicadaRocket]
 ; EN: DeathString="%k's blew %o to bits."
-DeathString="%k vyhodil %o na bity."
+DeathString=""
 ; EN: FemaleSuicide="%o blew herself up good."
-FemaleSuicide="%o se dobře odpálila."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o blew himself up good."
-MaleSuicide="%o se dobře odpálil."
+MaleSuicide=""
 
 [DamTypeShockTankProximityExplosion]
 ; EN: DeathString="%o got too close to %k's Paladin."
-DeathString="%o se dostal příliš blízko k %k's Paladinovi."
+DeathString=""
 
 [DamTypeShockTankShockBall]
 ; EN: DeathString="%o couldn't avoid the blast from %k's Paladin."
-DeathString="%o se nemohl vyhnout výbuchu z %k's Paladina."
+DeathString=""
 
 [MutVehiclePickups]
 ; EN: FriendlyName="Vehicle Pickups"
-FriendlyName="Odběry vozidel"
+FriendlyName=""
 ; EN: Description="Vehicles will pickup items and give them to the driver"
-Description="Vozidla vyzvednou věci a dají je řidiči"
+Description=""
 
 [MutBonusVehicles]
 ; EN: FriendlyName="Bonus Vehicles"
-FriendlyName="Bonusová vozidla"
+FriendlyName=""
 ; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
-Description="Na některých oficiálních mapách nahrazuje určitá vozidla vozidly Cicada, SPMA nebo Paladin."
+Description=""
 
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
-VehiclePositionString="v SPMA"
+VehiclePositionString=""
 VehicleNameString="SPMA"
 
 [ONSArtillerySideGunPawn]
 ; EN: VehiclePositionString="in a SPMA side turret"
-VehiclePositionString="v boční věži SPMA"
+VehiclePositionString=""
 ; EN: VehicleNameString="SPMA Side Turret"
-VehicleNameString="Postranní věž SPMA"
+VehicleNameString=""
 
 [ONSDualACGatlingGunPawn]
 ; EN: LockedMsg=" INCOMING "
-LockedMsg=" PŘICHÁZEJÍCÍ "
-; EN: VehiclePositionString="in a Cicada turret"
-VehiclePositionString="ve věži cikády"
-; EN: VehicleNameString="Cicada Laser Turret"
-VehicleNameString="Laserová věžička Cicada"
+LockedMsg=""
+; EN: VehiclePositionString="in a Cicada's Laser Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Cicada's Laser Turret"
+VehicleNameString=""
 
 [ONSDualAttackCraft]
 ; EN: LockedMsg=" Locked "
-LockedMsg=" Zamčeno "
+LockedMsg=""
+; EN: CoPilotLabel="Gunner"
+CoPilotLabel=""
 ; EN: VehiclePositionString="in a Cicada"
-VehiclePositionString="v cikádě"
-; EN: VehicleNameString="Cicada"
-VehicleNameString="Cikáda"
+VehiclePositionString=""
+VehicleNameString="Cicada"
 
 [ONSShockTank]
 ; EN: VehiclePositionString="in a Paladin"
-VehiclePositionString="v Paladinovi"
+VehiclePositionString=""
 VehicleNameString="Paladin"
 

@@ -1,102 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Metallurgy"
-Title="Metallurgi"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Metallurgy"
-Title="Metallurgi"
+Title=""
 ; EN: Description="Separating the fast from the slow, the strong from the weak, the skilled from the incompetent - Metallurgy will test your mettle."
-Description="Å skille de raske fra de langsomme, de sterke fra de svake, de dyktige fra de inkompetente - Metallurgi vil teste evnen din."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Near the fuel tanker"
-LocationName="I nærheten av drivstofftankeren"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Outside the molten metal cascade"
-LocationName="Utenfor den smeltede metallkaskaden"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Beneath the ducts of molten metal"
-LocationName="Under kanalene av smeltet metall"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Between the pillars"
-LocationName="Mellom søylene"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Between the pillars"
-LocationName="Mellom søylene"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Second floor deck"
-LocationName="Andre etasje dekk"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Second floor deck"
-LocationName="Andre etasje dekk"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Second floor deck"
-LocationName="Andre etasje dekk"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="First floor deck"
-LocationName="Første etasje dekk"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="First floor deck"
-LocationName="Første etasje dekk"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="First floor deck"
-LocationName="Første etasje dekk"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="On the roof"
-LocationName="På taket"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southern exterior"
-LocationName="Sørlig eksteriør"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Western exterior"
-LocationName="Vestlig eksteriør"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Northern exterior"
-LocationName="Nordlig eksteriør"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Northern exterior"
-LocationName="Nordlig eksteriør"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Northern exterior"
-LocationName="Nordlig eksteriør"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Northern exterior"
-LocationName="Nordlig eksteriør"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Communication tower"
-LocationName="Kommunikasjonstårn"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Above the ducts of molten metal"
-LocationName="Over kanalene av smeltet metall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Molten metal cascade"
-LocationName="Kaskade av smeltet metall"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Interior atrium"
-LocationName="Innvendig atrium"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Interior ground floor"
-LocationName="Innvendig første etasje"
+LocationName=""
 

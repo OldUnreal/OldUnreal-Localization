@@ -1,122 +1,122 @@
 ﻿[LevelInfo0]
 ; EN: Title="Concentrate"
-Title="concentrato"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Concentrate"
-Title="concentrato"
+Title=""
 ; EN: Description="On this derelict outpost set deep in the Elorean Seas, there is no escape for the struggling... except through victory.  The only way out is through."
-Description="Su questo avamposto abbandonato nelle profondità dei mari di Elorean, non c'è scampo per la lotta... se non attraverso la vittoria. L'unica via d'uscita è attraverso."
+Description=""
 
 [PhysicsVolume0]
 ; EN: LocationName="Red Spike Pit"
-LocationName="Fossa Spike Rossa"
+LocationName=""
 
 [PhysicsVolume1]
-; EN: LocationName="Red Spike Pit"
-LocationName="Fossa Spike Rossa"
+; EN: LocationName="Blue Spike Pit"
+LocationName=""
 
 [PhysicsVolume2]
 ; EN: LocationName="Blue Spike Pit"
-LocationName="Pozzo della punta blu"
+LocationName=""
 
 [PhysicsVolume3]
-; EN: LocationName="Red Spike Pit"
-LocationName="Fossa Spike Rossa"
+; EN: LocationName="Blue Spike Pit"
+LocationName=""
 
 [PhysicsVolume4]
 ; EN: LocationName="Red Spike Pit"
-LocationName="Fossa Spike Rossa"
+LocationName=""
 
 [PhysicsVolume5]
 ; EN: LocationName="Red Spike Pit"
-LocationName="Fossa Spike Rossa"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Flag Pit"
-LocationName="Fossa Bandiera Blu"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Upper Area"
-LocationName="Zona Rossa Superiore"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Flag Room"
-LocationName="Sala Bandiera Rossa"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Spawn Area"
-LocationName="Area di spawn rossa"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Central Area"
-LocationName="Zona Centrale"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Upper Area"
-LocationName="Area superiore blu"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Upper Area"
-LocationName="Area superiore blu"
+LocationName=""
 
 [Volume6]
-; EN: LocationName="Red Flag Room"
-LocationName="Sala Bandiera Rossa"
+; EN: LocationName="Blue Flag Room"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Flag Pit"
-LocationName="Fossa bandiera rossa"
+LocationName=""
 
 [Volume8]
-; EN: LocationName="Red Spawn Area"
-LocationName="Area di spawn rossa"
+; EN: LocationName="Blue Spawn Area"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Upper Area"
-LocationName="Zona Rossa Superiore"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Somewhere Else"
-LocationName="Altrove"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Red Upper Corridor"
-LocationName="Corridoio Superiore Rosso"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Lower Corridor"
-LocationName="Corridoio Inferiore Rosso"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Lower Corridor"
-LocationName="Corridoio Inferiore Blu"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Upper Corridor"
-LocationName="Corridoio Superiore Blu"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Base"
-LocationName="Base Blu"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base"
-LocationName="Base Rossa"
+LocationName=""
 
 [fell_nogibs]
 ; EN: DeathString="%o was spiked."
-DeathString="%o era a spillo."
+DeathString=""
 ; EN: FemaleSuicide="%o was spiked."
-FemaleSuicide="%o era a spillo."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o was spiked."
-MaleSuicide="%o era a spillo."
+MaleSuicide=""
 
 [fell_nogibs2]
 ; EN: DeathString="%o fell off."
-DeathString="%o è caduto."
+DeathString=""
 ; EN: FemaleSuicide="%o fell off."
-FemaleSuicide="%o è caduto."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fell off."
-MaleSuicide="%o è caduto."
+MaleSuicide=""
 

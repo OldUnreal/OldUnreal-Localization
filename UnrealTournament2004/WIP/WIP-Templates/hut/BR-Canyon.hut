@@ -1,46 +1,50 @@
 ﻿[LevelInfo0]
 ; EN: Title="Canyon"
-Title="Kanyon"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Canyon"
-Title="Kanyon"
-; EN: Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river.  Swimming is NOT recommended."
-Description="Kegyetlen, véres harc és a nagy szabadban – ki kérhetne többet? Ezt a kis arénát egy gyorsan mozgó, halálos folyó választja ketté. Úszás NEM ajánlott."
+Title=""
+; EN: Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river. Swimming is NOT recommended."
+Description=""
 
 [Volume1]
 ; EN: LocationName="Blue Sniper Roost"
-LocationName="Kék Sniper Roost"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Blue Bomb Goal"
-LocationName="Kék bomba gól"
+LocationName=""
 
 [Volume3]
-LocationName="Blue South Spawn Pool"
+; EN: LocationName="Blue South Spawn Pool"
+LocationName=""
 
 [Volume4]
-LocationName="Blue North Spawn Pool"
+; EN: LocationName="Blue North Spawn Pool"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Sniper Roost"
-LocationName="Vörös Sniper Roost"
+LocationName=""
 
 [Volume7]
-LocationName="Red North Spawn Pool"
+; EN: LocationName="Red North Spawn Pool"
+LocationName=""
 
 [Volume8]
-LocationName="Red South Spawn Pool"
+; EN: LocationName="Red South Spawn Pool"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Bomb Goal"
-LocationName="Vörös bomba gól"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="With the Fishes"
-LocationName="A Halakkal"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 

@@ -1,24 +1,24 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tokara Forest"
-Title="Forêt de Tokara"
+Title=""
 
 [LevelInfo23]
 ; EN: Title="Tokara Forest"
-Title="Forêt de Tokara"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tokara Forest"
-Title="Forêt de Tokara"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Ground Level"
-LocationName="Niveau du sol"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Crystal Plateau"
-LocationName="Plateau de cristal"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Forest"
-LocationName="forêt"
+LocationName=""
 

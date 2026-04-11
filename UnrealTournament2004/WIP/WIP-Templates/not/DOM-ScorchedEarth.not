@@ -1,81 +1,80 @@
 ﻿[LevelInfo0]
 ; EN: Title="Scorched Earth"
-Title="Svidd jord"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Scorched Earth"
-Title="Svidd jord"
+Title=""
 
 [PhysicsVolume0]
 ; EN: LocationName="Blue Spawn"
-LocationName="Blå Spawn"
+LocationName=""
 
 [PhysicsVolume1]
 ; EN: LocationName="Red Spawn"
-LocationName="Rød Spawn"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Inside Center"
-LocationName="Inne i senteret"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Back Hallway B"
-LocationName="Bakgang B"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Outside"
-LocationName="Utenfor"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Inside Center"
-LocationName="Inne i senteret"
+LocationName=""
 
 [ZoneInfo16]
-LocationName="Spawn Blue"
+; EN: LocationName="Spawn Blue"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Front Hallway A"
-LocationName="Fremre gang A"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Front Hallway A"
-LocationName="Fremre gang A"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Room A"
-LocationName="Rom A"
-
-[ZoneInfo2]
-LocationName="Skybox"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Back Hallway A"
-LocationName="Bakgang A"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Inside Center"
-LocationName="Inne i senteret"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Inside Center"
-LocationName="Inne i senteret"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Inside Center"
-LocationName="Inne i senteret"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Front Hallway B"
-LocationName="Fremre gang B"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="Spawn Red"
+; EN: LocationName="Spawn Red"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Front Hallway B"
-LocationName="Fremre gang B"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Room B"
-LocationName="Rom B"
+LocationName=""
 

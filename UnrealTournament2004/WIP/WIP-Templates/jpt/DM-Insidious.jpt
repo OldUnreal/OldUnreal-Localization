@@ -1,64 +1,72 @@
 ﻿[LevelInfo0]
 ; EN: Title="Insidious"
-Title="陰湿"
+Title=""
 ; EN: LevelEnterText="DM-Insidious"
-LevelEnterText="DM-インシディアス"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Insidious"
-Title="陰湿"
+Title=""
 ; EN: LevelEnterText="DM-Insidious"
-LevelEnterText="DM-インシディアス"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Wall Tanks"
-LocationName="ウォールタンク"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Bio Hall"
-LocationName="バイオホール"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Lower Hall"
-LocationName="下ホール"
+; EN: LocationName="Eastern Lower Halls"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Flak Hall"
-LocationName="フラックホール"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Upper Halls"
-LocationName="アッパーホール"
+; EN: LocationName="Bio Hall"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Cloning Tanks"
-LocationName="クローンタンク"
+LocationName=""
+
+[ZoneInfo14]
+; EN: LocationName="Northern Upper Halls"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Upper Halls"
-LocationName="アッパーホール"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Cloning Tanks"
-LocationName="クローンタンク"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Cloning Tanks"
-LocationName="クローンタンク"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Lower hall"
-LocationName="下ホール"
+; EN: LocationName="Western Lower Halls"
+LocationName=""
+
+[ZoneInfo6]
+; EN: LocationName="Southern Upper Halls"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Wall Tanks"
-LocationName="ウォールタンク"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Wall Tanks"
-LocationName="ウォールタンク"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Fan Room"
-LocationName="ファンルーム"
+LocationName=""
 

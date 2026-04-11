@@ -1,0 +1,90 @@
+﻿[LevelInfo0]
+; EN: Title="Outrigger"
+Title="stabilizzatore"
+; EN: LocationName="Unknown"
+LocationName="Sconosciuto"
+
+[LevelSummary]
+; EN: Title="Outrigger"
+Title="stabilizzatore"
+
+[Volume0]
+; EN: LocationName="Dom A, Basement"
+LocationName="Dom A, seminterrato"
+
+[Volume1]
+; EN: LocationName="Dom B, Basement"
+LocationName="Dom B, Seminterrato"
+
+[Volume10]
+; EN: LocationName="Middle Area."
+LocationName="Zona di mezzo."
+
+[Volume11]
+; EN: LocationName="Sniping Tower"
+LocationName="Torre da cecchino"
+
+[Volume12]
+; EN: LocationName="Dom B, Platform 3"
+LocationName="Dom B, Binario 3"
+
+[Volume13]
+; EN: LocationName="Dom A, Platform 3"
+LocationName="Dom A, Binario 3"
+
+[Volume15]
+LocationName="Dom B"
+
+[Volume16]
+LocationName="Dom A"
+
+[Volume2]
+; EN: LocationName="Dom B, Platform 2"
+LocationName="Dom B, Binario 2"
+
+[Volume3]
+LocationName="Dom B, Crow's Nest"
+
+[Volume4]
+LocationName="Dom A, Crow's Nest"
+
+[Volume5]
+; EN: LocationName="Dom A, Platform 2"
+LocationName="Dom A, Binario 2"
+
+[Volume6]
+; EN: LocationName="Dom A, Platform 1"
+LocationName="Dom A, Binario 1"
+
+[Volume7]
+; EN: LocationName="Dom B, Platform 1"
+LocationName="Dom B, Binario 1"
+
+[Volume8]
+; EN: LocationName="Spawning Grounds."
+LocationName="Terreni di riproduzione."
+
+[ZoneInfo1]
+; EN: LocationName="Dom B, Basement"
+LocationName="Dom B, Seminterrato"
+
+[ZoneInfo12]
+; EN: LocationName="Dom A, Platform 1"
+LocationName="Dom A, Binario 1"
+
+[ZoneInfo15]
+; EN: LocationName="Dom A, Platform 3"
+LocationName="Dom A, Binario 3"
+
+[ZoneInfo4]
+; EN: LocationName="Dom B, Platform 1"
+LocationName="Dom B, Binario 1"
+
+[ZoneInfo7]
+; EN: LocationName="Dom B, Platform 3"
+LocationName="Dom B, Binario 3"
+
+[ZoneInfo9]
+; EN: LocationName="Dom A, Basement"
+LocationName="Dom A, seminterrato"
+

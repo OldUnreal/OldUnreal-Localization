@@ -1,83 +1,80 @@
 ﻿[LevelInfo0]
 ; EN: Title="Scorched Earth"
-Title="Terre brûlée"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Scorched Earth"
-Title="Terre brûlée"
+Title=""
 
 [PhysicsVolume0]
 ; EN: LocationName="Blue Spawn"
-LocationName="Spawn bleu"
+LocationName=""
 
 [PhysicsVolume1]
 ; EN: LocationName="Red Spawn"
-LocationName="Spawn rouge"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Inside Center"
-LocationName="Centre intérieur"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Back Hallway B"
-LocationName="Arrière Couloir B"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Outside"
-LocationName="À l'extérieur"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Inside Center"
-LocationName="Centre intérieur"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Spawn Blue"
-LocationName="Bleu d'apparition"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Front Hallway A"
-LocationName="Couloir avant A"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Front Hallway A"
-LocationName="Couloir avant A"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Room A"
-LocationName="Salle A"
-
-[ZoneInfo2]
-LocationName="Skybox"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Back Hallway A"
-LocationName="Arrière Couloir A"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Inside Center"
-LocationName="Centre intérieur"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Inside Center"
-LocationName="Centre intérieur"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Inside Center"
-LocationName="Centre intérieur"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Front Hallway B"
-LocationName="Couloir avant B"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Spawn Red"
-LocationName="spawn rouge"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Front Hallway B"
-LocationName="Couloir avant B"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Room B"
-LocationName="Salle B"
+LocationName=""
 

@@ -1,34 +1,36 @@
 ﻿[LevelInfo0]
-Title="Flux 2"
+; EN: Title="Flux 2"
+Title=""
 
 [LevelSummary]
-Title="Flux 2"
+; EN: Title="Flux 2"
+Title=""
 
 [Volume5]
 ; EN: LocationName="Back Alley"
-LocationName="Steegje"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Long Ramp Area"
-LocationName="Lang opritgebied"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Long Ramp Area"
-LocationName="Lang opritgebied"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Front Area"
-LocationName="Voorste gebied"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Walkway Area"
-LocationName="Loopbruggebied"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Inside"
-LocationName="Binnenkant"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Buiten"
+LocationName=""
 

@@ -1,392 +1,413 @@
 ﻿[Public]
 ; EN: ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutArena,Description="Replace weapons and ammo in map.")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutArena,Description="Byt ut vapen och ammunition i kartan.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutArena,Description="")
 ; EN: ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutNoSuperWeapon,Description="No Redeemer or Ion Cannon in map.")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutNoSuperWeapon,Description="Ingen återlösare eller jonkanon på kartan.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.AssaultRifle,Description="Inexpensive and easily produced, the AR770 provides a lightweight 5.56mm combat solution that is most effective against unarmored foes. With low-to-moderate armor penetration capabilities, this rifle is best suited to a role as a light support weapon. The optional M355 Grenade Launcher provides the punch that makes this weapon effective against heavily armored enemies.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutNoSuperWeapon,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.AssaultRifle,Description="Inexpensive and easily produced, the AR770 provides a lightweight 5.56mm combat solution that is most effective against unarmored foes. With low-to-moderate armor penetration capabilities, this rifle is best suited to a role as a light support weapon. The optional M355 Grenade Launcher provides the punch that makes this weapon effective against heavily armored enemies.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.AssaultRifle,Description="")
 ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BallLauncher,Description="")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BioRifle,Description="The GES BioRifle continues to be one of the most controversial weapons in the Tournament. Loved by some, loathed by others, the BioRifle has long been the subject of debate over its usefulness. Some Tournament purists argue that it is the equivalent of a cowardly minefield. Others argue that it enhances the tactical capabilities of defensive combatants. Despite the debate, the weapon provides rapid-fire wide-area coverage in primary firing mode, and a single-fire variable payload secondary firing mode. In layman's terms, this equates to being able to pepper an area with small globs of Biosludge, or launch one large glob at the target.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.FlakCannon,Description="Trident Defensive Technologies Series 7 Flechette Cannon has been taken to the next step in evolution with the production of the Mk3 �Negotiator.� The ionized flechettes are capable of delivering second and third-degree burns to organic tissue, cauterizing the wound instantly. Payload delivery is achieved via one of two methods: ionized flechettes launched in a spread pattern directly from the barrel; or via fragmentation grenades that explode on impact, radiating flechettes in all directions.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.LinkGun,Description="Riordan Dynamic Weapon Systems combines the best of weapon design in the Advanced Plasma Rifle v23, commonly known as the Link Gun. While the primary firing mode of the Link remains the same as its plasma-firing predecessor, the secondary cutting torch has been replaced with a switchable energy matrix. Upon contacting a teammate, it converts to a harmless carrier stream, offloading energy from the onboard cells to boost the output of any targeted player also using the Link. It should be noted that while players are boosting a teammate, they are unable to defend themselves from attack.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Minigun,Description="The Schultz-Metzger T23-A 23mm rotary cannon is capable of firing both high-velocity caseless ammunition and cased rounds. With an unloaded weight of only 8 kilograms, the T23 is portable and maneuverable, easily worn across the back when employing the optional carrying strap. The T23-A is the rotary cannon of choice for the discerning soldier.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Painter,Description="The Ion Painter seems innocuous enough at first glance, emitting a harmless low-power laser beam when the primary firing mode is engaged. Several seconds later a multi-gigawatt orbital ion cannon fires on the target, neutralizing any combatants in the vicinity. The Ion Painter is a remote targeting device used to orient and fire the VAPOR Ion Cannon. The Ion Painter offers increased targeting accuracy via its telescopic sight, easily activated by the secondary fire mode of the weapon. Once the Ion Painter has been used to designate a target it is highly recommended that the user put considerable distance between themselves and the weapon's area of effect.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Redeemer,Description="The first time you witness this miniature nuclear device in action, you�ll agree it is the most powerful weapon in the Tournament. Launch a slow-moving but utterly devastating missile with the primary fire; but make sure you�re out of the Redeemer�s impressive blast radius before it impacts. The secondary fire allows you to guide the nuke yourself with a rocket�s-eye view. Keep in mind, however, that you are vulnerable to attack when steering the Redeemer�s projectile. Due to the extreme bulkiness of its ammo, the Redeemer is exhausted after a single shot.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.RocketLauncher,Description="The Trident Tri-barrel Rocket Launcher is extremely popular among competitors who enjoy more bang for their buck. The rotating rearloading barrel design allows for both single- and multi-warhead launches, letting you place up to three dumbfire rockets on target. The warheads are designed to deliver maximum concussive force to the target and surrounding area upon detonation.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShieldGun,Description="The Kemphler DD280 Riot Control Device has the ability to resist and reflect incoming projectiles and energy beams. The plasma wave inflicts massive damage, rupturing tissue, pulverizing organs, and flooding the bloodstream with dangerous gas bubbles. This weapon may be intended for combat at close range, but when wielded properly should be considered as dangerous as any other armament in your arsenal.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShockRifle,Description="The ASMD Shock Rifle has changed little since its incorporation into the Tournaments. The ASMD sports two firing modes capable of acting in concert to neutralize opponents in a devastating shockwave. This combination attack is achieved when the weapon operator utilizes the secondary fire mode to deliver a charge of seeded plasma to the target. Once the slow-moving plasma charge is within range of the target, the weapon operator may fire the photon beam into the plasma core, releasing the explosive energy of the anti-photons contained within the plasma�s EM field.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.SniperRifle,Description="The Lightning Gun is a high-power energy rifle capable of ablating even the heaviest carapace armor. Acquisition of a target at long range requires a steady hand, but the anti-jitter effect of the optical system reduces the weapon�s learning curve significantly. Once the target has been acquired, the operator depresses the trigger, painting a proton �patch� on the target. Milliseconds later the rifle emits a high voltage arc of electricity, which seeks out the charge differential and annihilates the target.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.TransLauncher,Description="The Translocator was originally designed by Liandri Corporation�s R&D sector to facilitate the rapid recall of miners during tunnel collapses. However, rapid deresolution and reconstitution can have several unwelcome effects, including increases in aggression and paranoia. In order to prolong the careers of today�s contenders, limits have been placed on Translocator use in the lower-ranked leagues. The latest iteration of the Translocator features a remotely operated camera, exceptionally useful when scouting out areas of contention. It should be noted that while viewing the camera�s surveillance output, the user is effectively blind to their immediate surroundings.")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BioRifle,Description="The GES BioRifle continues to be one of the most controversial weapons in the Tournament. Loved by some, loathed by others, the Bio Rifle has long been the subject of debate over its usefulness. Some Tournament purists argue that it is the equivalent of a cowardly minefield. Others argue that it enhances the tactical capabilities of defensive combatants. Despite the debate, the weapon provides rapid-fire wide-area coverage in primary firing mode, and a single-fire variable payload secondary firing mode. In layman's terms, this equates to being able to pepper an area with small globs of Biosludge, or launch one large glob at the target.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BioRifle,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.FlakCannon,Description="Trident Defensive Technologies Series 7 Flechette Cannon has been taken to the next step in evolution with the production of the Mk3 "Negotiator". The ionized flechettes are capable of delivering second and third-degree burns to organic tissue, cauterizing the wound instantly. Payload delivery is achieved via one of two methods: ionized flechettes launched in a spread pattern directly from the barrel; or via fragmentation grenades that explode on impact, radiating flechettes in all directions.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.FlakCannon,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.LinkGun,Description="Riordan Dynamic Weapon Systems combines the best of weapon design in the Advanced Plasma Rifle v23, commonly known as the Link Gun. While the primary firing mode of the Link remains the same as its plasma-firing predecessor, the secondary cutting torch has been replaced with a switchable energy matrix. Upon contacting a teammate, it converts to a harmless carrier stream, offloading energy from the onboard cells to boost the output of any targeted player also using the Link. It should be noted that while players are boosting a teammate, they are unable to defend themselves from attack.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.LinkGun,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Minigun,Description="The Schultz-Metzger T23-A 23mm rotary cannon is capable of firing both high-velocity caseless ammunition and cased rounds. With an unloaded weight of only 8 kilograms, the T23 is portable and maneuverable, easily worn across the back when employing the optional carrying strap. The T23-A is the rotary cannon of choice for the discerning soldier.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Minigun,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Painter,Description="The Ion Painter seems innocuous enough at first glance, emitting a harmless low-power laser beam when the primary firing mode is engaged. Several seconds later a multi-gigawatt orbital ion cannon fires on the target, neutralizing any combatants in the vicinity. The Ion Painter is a remote targeting device used to orient and fire the VAPOR Ion Cannon. The Ion Painter offers increased targeting accuracy via its telescopic sight, easily activated by the secondary fire mode of the weapon. Once the Ion Painter has been used to designate a target it is highly recommended that the user put considerable distance between themselves and the weapon's area of effect.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Painter,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Redeemer,Description="The first time you witness this miniature nuclear device in action, you'll agree it is the most powerful weapon in the Tournament. Launch a slow-moving but utterly devastating missile with the primary fire; but make sure you're out of the Redeemer's impressive blast radius before it impacts. The secondary fire allows you to guide the nuke yourself with a rocket's-eye view. Keep in mind, however, that you are vulnerable to attack when steering the Redeemer's projectile. Due to the extreme bulkiness of its ammo, the Redeemer is exhausted after a single shot.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Redeemer,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.RocketLauncher,Description="The Trident Tri-barrel Rocket Launcher is extremely popular among competitors who enjoy more bang for their buck. The rotating rearloading barrel design allows for both single- and multi-warhead launches, letting you place up to three dumbfire rockets on target. The warheads are designed to deliver maximum concussive force to the target and surrounding area upon detonation.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.RocketLauncher,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShieldGun,Description="The Kemphler DD280 Riot Control Device has the ability to resist and reflect incoming projectiles and energy beams. The plasma wave inflicts massive damage, rupturing tissue, pulverizing organs, and flooding the bloodstream with dangerous gas bubbles. This weapon may be intended for combat at close range, but when wielded properly should be considered as dangerous as any other armament in your arsenal.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShieldGun,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShockRifle,Description="The ASMD Shock Rifle has changed little since its incorporation into the Tournaments. The ASMD sports two firing modes capable of acting in concert to neutralize opponents in a devastating shockwave. This combination attack is achieved when the weapon operator utilizes the secondary fire mode to deliver a charge of seeded plasma to the target. Once the slow-moving plasma charge is within range of the target, the weapon operator may fire the photon beam into the plasma core, releasing the explosive energy of the anti-photons contained within the plasma's EM field.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShockRifle,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.SniperRifle,Description="The Lightning Gun is a high-power energy rifle capable of ablating even the heaviest carapace armor. Acquisition of a target at long range requires a steady hand, but the anti-jitter effect of the optical system reduces the weapon's learning curve significantly. Once the target has been acquired, the operator depresses the trigger, painting a proton 'patch' on the target. Milliseconds later the rifle emits a high voltage arc of electricity, which seeks out the charge differential and annihilates the target.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.SniperRifle,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.TransLauncher,Description="The Translocator was originally designed by Liandri Corporation's R&D sector to facilitate the rapid recall of miners during tunnel collapses. However, rapid deresolution and reconstitution can have several unwelcome effects, including increases in aggression and paranoia. In order to prolong the careers of today's contenders, limits have been placed on Translocator use in the lower-ranked leagues. The latest iteration of the Translocator features a remotely operated camera, exceptionally useful when scouting out areas of contention. It should be noted that while viewing the camera's surveillance output, the user is effectively blind to their immediate surroundings.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.TransLauncher,Description="")
 
 [AssaultAmmo]
 ; EN: ItemName="Bullets"
-ItemName="Kulor"
+ItemName=""
 
 [AssaultAmmoPickup]
 ; EN: PickupMessage="You got a box of grenades and bullets."
-PickupMessage="Du har en låda med granater och kulor."
+PickupMessage=""
 
 [AssaultRifle]
 ; EN: Description="Inexpensive and easily produced, the AR770 provides a lightweight 5.56mm combat solution that is most effective against unarmored foes. With low-to-moderate armor penetration capabilities, this rifle is best suited to a role as a light support weapon.|The optional M355 Grenade Launcher provides the punch that makes this weapon effective against heavily armored enemies.  Pick up a second assault rifle to double your fire power."
-Description="AR770 är billig och lättproducerad och ger en lätt 5,56 mm stridslösning som är mest effektiv mot obepansrade fiender. Med låg till måttlig pansarpenetreringsförmåga är detta gevär bäst lämpat för en roll som ett lätt stödvapen.|Den valfria M355 granatkastaren ger slaget som gör det här vapnet effektivt mot tungt bepansrade fiender. Plocka upp ett andra automatgevär för att dubbla din eldkraft."
+Description=""
 ; EN: ItemName="Assault Rifle"
-ItemName="Automatkarbin"
+ItemName=""
 
 [AssaultRiflePickup]
 ; EN: PickupMessage="You got the Assault Rifle."
-PickupMessage="Du har Assault Rifle."
+PickupMessage=""
 
 [BallAmmo]
-ItemName="BallAmmo"
+; EN: ItemName="Ball Ammo"
+ItemName=""
 
 [BallLauncher]
 ; EN: ItemName="Ball Launcher"
-ItemName="Bollkastare"
+ItemName=""
 
 [BioAmmo]
-ItemName="Bio-Rifle Goop"
+; EN: ItemName="Bio-Rifle Goop"
+ItemName=""
 
 [BioAmmoPickup]
 ; EN: PickupMessage="You picked up some Bio-Rifle ammo"
-PickupMessage="Du plockade upp lite Bio-Rifle ammunition"
+PickupMessage=""
 
 [BioRifle]
-; EN: Description="The GES BioRifle continues to be one of the most controversial weapons in the Tournament. Loved by some, loathed by others, the BioRifle has long been the subject of debate over its usefulness.||Some Tournament purists argue that it is the equivalent of a cowardly minefield. Others argue that it enhances the tactical capabilities of defensive combatants.|Despite the debate, the weapon provides rapid-fire wide-area coverage in primary firing mode, and a single-fire variable payload secondary firing mode. In layman's terms, this equates to being able to pepper an area with small globs of Biosludge, or launch one large glob at the target."
-Description="GES BioRifle fortsätter att vara ett av de mest kontroversiella vapnen i turneringen. Älskad av vissa, avskydde av andra, har BioRifle länge varit föremål för debatt om dess användbarhet.||Vissa turneringspurister hävdar att det är motsvarigheten till ett fegt minfält. Andra hävdar att det förbättrar de defensiva kombattanters taktiska kapacitet.|Trots debatten ger vapnet snabbskjutande täckning över hela området i primärt skjutläge, och ett sekundärt skjutläge med variabel nyttolast med enkel avfyring. I lekmannatermer är det lika med att kunna peppra ett område med små kulor av Bioslam, eller skjuta en stor kula mot målet."
+; EN: Description="The GES BioRifle continues to be one of the most controversial weapons in the Tournament. Loved by some, loathed by others, the Bio Rifle has long been the subject of debate over its usefulness.||Some Tournament purists argue that it is the equivalent of a cowardly minefield. Others argue that it enhances the tactical capabilities of defensive combatants.|Despite the debate, the weapon provides rapid-fire wide-area coverage in primary firing mode, and a single-fire variable payload secondary firing mode. In layman's terms, this equates to being able to pepper an area with small globs of Biosludge, or launch one large glob at the target."
+Description=""
 ; EN: ItemName="Bio-Rifle"
-ItemName="Bio-gevär"
+ItemName=""
 
 [BioRiflePickup]
 ; EN: PickupMessage="You got the Bio-Rifle"
-PickupMessage="Du har biogeväret"
+PickupMessage=""
 
 [DamTypeAssaultBullet]
-; EN: DeathString="%o was ventilated by %k's assault rifle."
-DeathString="%o ventilerades av %k:s automatgevär."
+; EN: DeathString="%o was ventilated by %k's Assault Rifle."
+DeathString=""
 ; EN: FemaleSuicide="%o assaulted herself."
-FemaleSuicide="%o överföll sig själv."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o assaulted himself."
-MaleSuicide="%o överföll sig själv."
+MaleSuicide=""
 
 [DamTypeAssaultGrenade]
 ; EN: DeathString="%o tried to juggle %k's grenade."
-DeathString="%o försökte jonglera med %k:s granat."
+DeathString=""
 ; EN: FemaleSuicide="%o jumped on her own grenade."
-FemaleSuicide="%o hoppade på sin egen granat."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o jumped on his own grenade."
-MaleSuicide="%o hoppade på sin egen granat."
+MaleSuicide=""
 
 [DamTypeBioGlob]
-; EN: DeathString="%o was slimed by %k's bio-rifle."
-DeathString="%o slimmades av %k:s biogevär."
+; EN: DeathString="%o was slimed by %k's Bio Rifle."
+DeathString=""
 ; EN: FemaleSuicide="%o was slimed by her own goop."
-FemaleSuicide="%o blev slimmad av sin egen goop."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o was slimed by his own goop."
-MaleSuicide="%o blev slimmad av sin egen goop."
+MaleSuicide=""
 
 [DamTypeFlakChunk]
-; EN: DeathString="%o was shredded by %k's flak cannon."
-DeathString="%o strimlades av %k:s flakkanon."
-; EN: FemaleSuicide="%o was perforated by her own flak."
-FemaleSuicide="%o var perforerad av hennes egen flak."
-; EN: MaleSuicide="%o was perforated by his own flak."
-MaleSuicide="%o perforerades av sin egen flak."
+; EN: DeathString="%o was shredded by %k's Flak Cannon."
+DeathString=""
+; EN: FemaleSuicide="%o was perforated by her own Flak."
+FemaleSuicide=""
+; EN: MaleSuicide="%o was perforated by his own Flak."
+MaleSuicide=""
 
 [DamTypeFlakShell]
 ; EN: DeathString="%o was ripped to shreds by %k's shrapnel."
-DeathString="%o slets i bitar av %k:s splitter."
-; EN: FemaleSuicide="%o blew herself up with a flak shell."
-FemaleSuicide="%o sprängde sig själv i luften med ett flakskal."
-; EN: MaleSuicide="%o blew himself up with a flak shell."
-MaleSuicide="%o sprängde sig själv i luften med ett flakskal."
+DeathString=""
+; EN: FemaleSuicide="%o blew herself up with a Flak Shell."
+FemaleSuicide=""
+; EN: MaleSuicide="%o blew himself up with a Flak Shell."
+MaleSuicide=""
 
 [DamTypeIonBlast]
 ; EN: DeathString="%o was OBLITERATED by %k!"
-DeathString="%o utplånades av %k!"
-; EN: FemaleSuicide="%o was OBLITERATED"
-FemaleSuicide="%o utplånades"
-; EN: MaleSuicide="%o was OBLITERATED"
-MaleSuicide="%o utplånades"
+DeathString=""
+; EN: FemaleSuicide="%o was OBLITERATED""
+FemaleSuicide=""
+; EN: MaleSuicide="%o was OBLITERATED""
+MaleSuicide=""
 
 [DamTypeLinkPlasma]
 ; EN: DeathString="%o was served an extra helping of %k's plasma."
-DeathString="%o serverades en extra portion av %k:s plasma."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own plasma blast."
-FemaleSuicide="%o stekte sig med sin egen plasmablast."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own plasma blast."
-MaleSuicide="%o stekte sig själv med sin egen plasmablast."
+MaleSuicide=""
 
 [DamTypeLinkShaft]
 ; EN: DeathString="%o was carved up by %k's green shaft."
-DeathString="%o ristades upp av %k:s gröna skaft."
+DeathString=""
 ; EN: FemaleSuicide="%o shafted herself."
-FemaleSuicide="%o skaftade sig."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o shafted himself."
-MaleSuicide="%o skaftade sig."
+MaleSuicide=""
 
 [DamTypeMinigunBullet]
-; EN: DeathString="%o was mowed down by %k's minigun."
-DeathString="%o mejades ner av %k:s minigun."
-; EN: FemaleSuicide="%o turned the minigun on herself."
-FemaleSuicide="%o vände minipistolen mot sig själv."
-; EN: MaleSuicide="%o turned the minigun on himself."
-MaleSuicide="%o vände minipistolen mot sig själv."
+; EN: DeathString="%o was mowed down by %k's Minigun."
+DeathString=""
+; EN: FemaleSuicide="%o turned the Minigun on herself."
+FemaleSuicide=""
+; EN: MaleSuicide="%o turned the Minigun on himself."
+MaleSuicide=""
 
 [DamTypeRedeemer]
 ; EN: DeathString="%o was PULVERIZED by %k!"
-DeathString="%o PULVERISERADES av %k!"
+DeathString=""
 ; EN: FemaleSuicide="%o was PULVERIZED!"
-FemaleSuicide="%o var PULVERISERAD!"
+FemaleSuicide=""
 ; EN: MaleSuicide="%o was PULVERIZED!"
-MaleSuicide="%o var PULVERISERAD!"
+MaleSuicide=""
 
 [DamTypeRocket]
 ; EN: DeathString="%o rode %k's rocket into oblivion."
-DeathString="%o red %k:s raket in i glömskan."
+DeathString=""
 ; EN: FemaleSuicide="%o fired her rocket prematurely."
-FemaleSuicide="%o avfyrade hennes raket i förtid."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fired his rocket prematurely."
-MaleSuicide="%o avfyrade sin raket i förtid."
+MaleSuicide=""
 
 [DamTypeShieldImpact]
-; EN: DeathString="%o was pulverized by %k's shield gun."
-DeathString="%o pulveriserades av %k:s sköldgevär."
+; EN: DeathString="%o was pulverized by %k's Shield Gun."
+DeathString=""
 ; EN: FemaleSuicide="%o threw her weight around once too often."
-FemaleSuicide="%o kastade hennes vikt en gång för ofta."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o threw his weight around once too often."
-MaleSuicide="%o kastade sin vikt en gång för ofta."
+MaleSuicide=""
 
 [DamTypeShockBall]
-; EN: DeathString="%o was wasted by %k's shock core."
-DeathString="%o slösades bort av %k:s stötkärna."
-; EN: FemaleSuicide="%o snuffed herself with the shock core."
-FemaleSuicide="o snusade sig med chockkärnan."
-; EN: MaleSuicide="%o snuffed himself with the shock core."
-MaleSuicide="o snusade sig med chockkärnan."
+; EN: DeathString="%o was wasted by %k's Shock Core."
+DeathString=""
+; EN: FemaleSuicide="%o snuffed herself with the Shock Core."
+FemaleSuicide=""
+; EN: MaleSuicide="%o snuffed himself with the Shock Core."
+MaleSuicide=""
 
 [DamTypeShockBeam]
-; EN: DeathString="%o was fatally enlightened by %k's shock beam."
-DeathString="%o blev dödligt upplyst av %k:s stötstråle."
-; EN: FemaleSuicide="%o somehow managed to shoot herself with the shock rifle."
-FemaleSuicide="%o lyckades på något sätt skjuta sig själv med stötgeväret."
-; EN: MaleSuicide="%o somehow managed to shoot himself with the shock rifle."
-MaleSuicide="%o lyckades på något sätt skjuta sig själv med stötgeväret."
+; EN: DeathString="%o was fatally enlightened by %k's Shock Beam."
+DeathString=""
+; EN: FemaleSuicide="%o somehow managed to shoot herself with the Shock Rifle."
+FemaleSuicide=""
+; EN: MaleSuicide="%o somehow managed to shoot himself with the Shock Rifle."
+MaleSuicide=""
 
 [DamTypeShockCombo]
-; EN: DeathString="%o couldn't avoid the blast from %k's shock combo."
-DeathString="%o kunde inte undvika sprängningen från %k:s chockkombo."
-; EN: FemaleSuicide="%o made a tactical error with her shock combo."
-FemaleSuicide="%o gjorde ett taktiskt fel med sin chockkombo."
-; EN: MaleSuicide="%o made a tactical error with his shock combo."
-MaleSuicide="%o gjorde ett taktiskt fel med sin chockkombo."
+; EN: DeathString="%o couldn't avoid the blast from %k's Shock Combo."
+DeathString=""
+; EN: FemaleSuicide="%o made a tactical error with her Shock Combo."
+FemaleSuicide=""
+; EN: MaleSuicide="%o made a tactical error with his Shock Combo."
+MaleSuicide=""
 
 [DamTypeSniperHeadShot]
-; EN: DeathString="%o's cranium was made extra crispy by %k's lightning gun."
-DeathString="%os kranium gjordes extra krispigt av %k:s blixtpistol."
+; EN: DeathString="%o's cranium was made extra crispy by %k's Lightning Gun."
+DeathString=""
 ; EN: FemaleSuicide="%o violated the laws of space-time and sniped herself."
-FemaleSuicide="%o bröt mot rymdtidens lagar och prickade sig själv."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o violated the laws of space-time and sniped himself."
-MaleSuicide="%o bröt mot rymdtidens lagar och prickade sig själv."
+MaleSuicide=""
 
 [DamTypeSniperShot]
 ; EN: DeathString="%o rode %k's lightning."
-DeathString="%o red %k's blixt."
+DeathString=""
 ; EN: FemaleSuicide="%o had an electrifying experience."
-FemaleSuicide="%o hade en elektrifierande upplevelse."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o had an electrifying experience."
-MaleSuicide="%o hade en elektrifierande upplevelse."
+MaleSuicide=""
 
 [DamTypeTeleFrag]
 ; EN: DeathString="%o had their atoms scattered by %k."
-DeathString="%o hade sina atomer spridda med %k."
+DeathString=""
 ; EN: FemaleSuicide="%o tried to go where no woman has gone before."
-FemaleSuicide="%o försökte gå dit ingen kvinna har gått tidigare."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o tried to go where no man has gone before."
-MaleSuicide="%o försökte gå dit ingen människa har gått förut."
+MaleSuicide=""
 
 [FlakAmmo]
 ; EN: ItemName="Flak Shells"
-ItemName="Flakskal"
+ItemName=""
 
 [FlakAmmoPickup]
 ; EN: PickupMessage="You picked up 10 Flak Shells."
-PickupMessage="Du plockade upp 10 Flak Shells."
+PickupMessage=""
 
 [FlakCannon]
 ; EN: Description="Trident Defensive Technologies Series 7 Flechette Cannon has been taken to the next step in evolution with the production of the Mk3 "Negotiator". The ionized flechettes are capable of delivering second and third-degree burns to organic tissue, cauterizing the wound instantly.||Payload delivery is achieved via one of two methods: ionized flechettes launched in a spread pattern directly from the barrel; or via fragmentation grenades that explode on impact, radiating flechettes in all directions."
-Description="Trident Defensive Technologies Series 7 Flechette Cannon har tagits till nästa steg i utvecklingen med produktionen av Mk3 "Negotiator". De joniserade flechetterna kan avge andra och tredje gradens brännskador till organisk vävnad, vilket omedelbart bränner såret.||Nyttlastleverans uppnås via en av två metoder: joniserade flechettes som lanseras i ett spridningsmönster direkt från pipan; eller via fragmenteringsgranater som exploderar vid sammanstötning och utstrålar flechetter i alla riktningar."
+Description="||"
 ; EN: ItemName="Flak Cannon"
-ItemName="Flakkanon"
+ItemName=""
 
 [FlakCannonPickup]
 ; EN: PickupMessage="You got the Flak Cannon."
-PickupMessage="Du har Flak Cannon."
+PickupMessage=""
 
 [GrenadeAmmo]
 ; EN: ItemName="Grenades"
-ItemName="Granater"
+ItemName=""
 
 [LinkAmmo]
 ; EN: ItemName="Link Ammo"
-ItemName="Länk ammunition"
+ItemName=""
 
 [LinkAmmoPickup]
-; EN: PickupMessage="You picked up link charges."
-PickupMessage="Du tog upp länkavgifter."
+; EN: PickupMessage="You picked up Link Charges."
+PickupMessage=""
 
 [LinkGun]
 ; EN: Description="Riordan Dynamic Weapon Systems combines the best of weapon design in the Advanced Plasma Rifle v23, commonly known as the Link Gun.|While the primary firing mode of the Link remains the same as its plasma-firing predecessor, the secondary cutting torch has been replaced with a switchable energy matrix. Upon contacting a teammate, it converts to a harmless carrier stream, offloading energy from the onboard cells to boost the output of any targeted player also using the Link.|It should be noted that while players are boosting a teammate, they are unable to defend themselves from attack."
-Description="Riordan Dynamic Weapon Systems kombinerar det bästa av vapendesign i Advanced Plasma Rifle v23, allmänt känd som Link Gun.|Medan det primära avfyrningsläget för Link förblir detsamma som dess föregångare för plasmaavfyrning, har den sekundära skärbrännaren ersatts med en omkopplingsbar energimatris. När den kontaktar en lagkamrat omvandlas den till en ofarlig bärarström, som avlastar energi från cellerna ombord för att öka uteffekten från alla målspelare som också använder länken.|Det bör noteras att medan spelare ökar en lagkamrat, kan de inte försvara sig. sig från attack."
-ItemName="Link Gun"
+Description="||"
+; EN: ItemName="Link Gun"
+ItemName=""
 
 [LinkGunPickup]
 ; EN: PickupMessage="You got the Link Gun."
-PickupMessage="Du har Link Gun."
+PickupMessage=""
 
 [Minigun]
 ; EN: Description="The Schultz-Metzger T23-A 23mm rotary cannon is capable of firing both high-velocity caseless ammunition and cased rounds. With an unloaded weight of only 8 kilograms, the T23 is portable and maneuverable, easily worn across the back when employing the optional carrying strap.|The T23-A is the rotary cannon of choice for the discerning soldier."
-Description="Schultz-Metzger T23-A 23 mm roterande kanon kan avfyra både höghastighets ammunition utan fodral och patroner. Med en olastad vikt på endast 8 kg är T23 bärbar och manövrerbar, lätt att bära över ryggen när man använder den valfria bärremmen.|T23-A är den valbara roterande kanonen för den kräsna soldaten."
-ItemName="Minigun"
+Description="|"
+; EN: ItemName="Minigun"
+ItemName=""
 
 [MinigunAmmo]
 ; EN: ItemName="Bullets"
-ItemName="Kulor"
+ItemName=""
 
 [MinigunAmmoPickup]
 ; EN: PickupMessage="You picked up 50 bullets."
-PickupMessage="Du plockade upp 50 kulor."
+PickupMessage=""
 
 [MinigunPickup]
 ; EN: PickupMessage="You got the Minigun."
-PickupMessage="Du har Minigun."
+PickupMessage=""
 
 [MutArena]
 ; EN: ArenaDisplayText="Arena Weapon"
-ArenaDisplayText="Arena vapen"
+ArenaDisplayText=""
 ; EN: ArenaDescText="Determines which weapon will be used in the arena match"
-ArenaDescText="Bestämmer vilket vapen som ska användas i arenamatchen"
-FriendlyName="Arena"
+ArenaDescText=""
+; EN: FriendlyName="Arena"
+FriendlyName=""
 ; EN: Description="Replace weapons and ammo in map."
-Description="Byt ut vapen och ammunition i kartan."
+Description=""
 
 [MutNoSuperWeapon]
 ; EN: FriendlyName="No SuperWeapons"
-FriendlyName="Inga supervapen"
+FriendlyName=""
 ; EN: Description="SuperWeapon pickups are removed from the map."
-Description="SuperWeapon-upptagningar tas bort från kartan."
+Description=""
 
 [Painter]
 ; EN: Description="The Ion Painter seems innocuous enough at first glance, emitting a harmless low-power laser beam when the primary firing mode is engaged. Several seconds later a multi-gigawatt orbital ion cannon fires on the target, neutralizing any combatants in the vicinity.||The Ion Painter is a remote targeting device used to orient and fire the VAPOR Ion Cannon. The Ion Painter offers increased targeting accuracy via its telescopic sight, easily activated by the secondary fire mode of the weapon.|Once the Ion Painter has been used to designate a target it is highly recommended that the user put considerable distance between themselves and the weapon's area of effect."
-Description="Jonmålaren verkar ofarlig nog vid första anblicken och avger en ofarlig lågeffektlaserstråle när det primära avfyrningsläget är aktiverat. Flera sekunder senare skjuter en multi-gigawatt orbital jonkanon mot målet och neutraliserar alla kombattanter i närheten.||Ion Painter är en fjärrstyrd målenhet som används för att orientera och avfyra VAPOR jonkanonen. Ion Painter erbjuder ökad målnoggrannhet via sitt teleskopiska sikte, som lätt aktiveras av vapnets sekundära eldläge.|När Ion Painter har använts för att utse ett mål rekommenderas det starkt att användaren lägger ett stort avstånd mellan sig själv och vapnets effektområde."
+Description="|||"
 ; EN: ItemName="Ion Painter"
-ItemName="Jonmålare"
+ItemName=""
 
 [PainterPickup]
 ; EN: PickupMessage="You got the Ion Painter."
-PickupMessage="Du har jonmålaren."
+PickupMessage=""
 
 [Redeemer]
 ; EN: Description="The first time you witness this miniature nuclear device in action, you'll agree it is the most powerful weapon in the Tournament.|Launch a slow-moving but utterly devastating missile with the primary fire; but make sure you're out of the Redeemer's impressive blast radius before it impacts. The secondary fire allows you to guide the nuke yourself with a rocket's-eye view.||Keep in mind, however, that you are vulnerable to attack when steering the Redeemer's projectile. Due to the extreme bulkiness of its ammo, the Redeemer is exhausted after a single shot."
-Description="Första gången du bevittnar denna kärnvapen i miniatyr i aktion, kommer du att hålla med om att det är det mest kraftfulla vapnet i turneringen.|Skicka upp en långsamt rörlig men ytterst förödande missil med den primära elden; men se till att du är utanför Redeemers imponerande sprängradie innan den slår. Den sekundära elden låter dig styra kärnvapen själv med raketperspektiv.||Tänk dock på att du är sårbar för attack när du styr Redeemerens projektil. På grund av den extrema bulkigheten i dess ammunition är Redeemer utmattad efter ett enda skott."
+Description="|||"
 ; EN: ItemName="Redeemer"
-ItemName="Återlösare"
+ItemName=""
 
 [RedeemerAmmo]
 ; EN: ItemName="Redeemer Ammo"
-ItemName="Förlösare ammunition"
+ItemName=""
 
 [RedeemerPickup]
 ; EN: PickupMessage="You got the Redeemer."
-PickupMessage="Du har Återlösaren."
+PickupMessage=""
 
 [RocketAmmo]
 ; EN: ItemName="Rockets"
-ItemName="Raketer"
+ItemName=""
 
 [RocketAmmoPickup]
-; EN: PickupMessage="You picked up a rocket pack."
-PickupMessage="Du plockade upp ett raketpaket."
+; EN: PickupMessage="You picked up a Rocket Pack."
+PickupMessage=""
 
 [RocketLauncher]
 ; EN: Description="The Trident Tri-barrel Rocket Launcher is extremely popular among competitors who enjoy more bang for their buck.|The rotating rear loading barrel design allows for both single- and multi-warhead launches, letting you place up to three dumb fire rockets on target.|The warheads are designed to deliver maximum concussive force to the target and surrounding area upon detonation."
-Description="Trident Tri-barrel Rocket Launcher är extremt populär bland konkurrenter som tycker om mer valuta för pengarna.|Den roterande bakre laddningspipans design möjliggör uppskjutning av både en- och multistridsspetsar, vilket låter dig placera upp till tre dumma eldraketer på målet. Stridsspetsarna är designade för att leverera maximal hjärnskakning till målet och det omgivande området vid detonation."
+Description="|"
 ; EN: ItemName="Rocket Launcher"
-ItemName="Raketgevär"
+ItemName=""
 
 [RocketLauncherPickup]
 ; EN: PickupMessage="You got the Rocket Launcher."
-PickupMessage="Du har Rocket Launcher."
+PickupMessage=""
 
 [ShieldAmmo]
-; EN: ItemName="Shield"
-ItemName="Skydda"
+; EN: ItemName="Shield Ammo"
+ItemName=""
 
 [ShieldGun]
 ; EN: Description="The Kemphler DD280 Riot Control Device has the ability to resist and reflect incoming projectiles and energy beams. The plasma wave inflicts massive damage, rupturing tissue, pulverizing organs, and flooding the bloodstream with dangerous gas bubbles.||This weapon may be intended for combat at close range, but when wielded properly should be considered as dangerous as any other armament in your arsenal."
-Description="Kemphler DD280 Riot Control Device har förmågan att motstå och reflektera inkommande projektiler och energistrålar. Plasmavågen orsakar massiv skada, spricker vävnad, pulveriserar organ och svämmar över blodomloppet med farliga gasbubblor.||Detta vapen kan vara avsett för strid på nära håll, men när det används på rätt sätt bör det anses vara lika farligt som alla andra vapen i din arsenal."
-ItemName="Shield Gun"
+Description="||"
+; EN: ItemName="Shield Gun"
+ItemName=""
 
 [ShieldGunPickup]
 ; EN: PickupMessage="You got the Shield Gun."
-PickupMessage="Du har Shield Gun."
+PickupMessage=""
 
 [ShockAmmo]
-ItemName="Shock Core"
+; EN: ItemName="Shock Core"
+ItemName=""
 
 [ShockAmmoPickup]
 ; EN: PickupMessage="You picked up a Shock Core."
-PickupMessage="Du plockade upp en Shock Core."
+PickupMessage=""
 
 [ShockRifle]
 ; EN: Description="The ASMD Shock Rifle has changed little since its incorporation into the Tournaments. The ASMD sports two firing modes capable of acting in concert to neutralize opponents in a devastating shockwave.||This combination attack is achieved when the weapon operator utilizes the secondary fire mode to deliver a charge of seeded plasma to the target.|Once the slow-moving plasma charge is within range of the target, the weapon operator may fire the photon beam into the plasma core, releasing the explosive energy of the anti-photons contained within the plasma's EM field."
-Description="ASMD Shock Rifle har förändrats lite sedan det införlivades i turneringarna. ASMD har två skjutlägen som kan agera i samverkan för att neutralisera motståndare i en förödande stötvåg.||Denna kombinationsattack uppnås när vapenoperatören använder det sekundära skjutläget för att leverera en laddning av sådd plasma till målet.|En gång den långsamma -rörlig plasmaladdning är inom räckhåll för målet, kan vapenoperatören avfyra fotonstrålen in i plasmakärnan, vilket frigör den explosiva energin från antifotonerna som finns i plasmans EM-fält."
+Description="|||"
 ; EN: ItemName="Shock Rifle"
-ItemName="Stötgevär"
+ItemName=""
 
 [ShockRiflePickup]
 ; EN: PickupMessage="You got the Shock Rifle."
-PickupMessage="Du har Shock Rifle."
+PickupMessage=""
 
 [SniperAmmo]
 ; EN: ItemName="Lightning Charges"
-ItemName="Blixtladdningar"
+ItemName=""
 
 [SniperAmmoPickup]
-; EN: PickupMessage="You picked up lightning ammo."
-PickupMessage="Du plockade upp blixten ammunition."
+; EN: PickupMessage="You picked up Lightning Ammo."
+PickupMessage=""
 
 [SniperRifle]
 ; EN: Description="The Lightning Gun is a high-power energy rifle capable of ablating even the heaviest carapace armor. Acquisition of a target at long range requires a steady hand, but the anti-jitter effect of the optical system reduces the weapon's learning curve significantly. Once the target has been acquired, the operator depresses the trigger, painting a proton 'patch' on the target. Milliseconds later the rifle emits a high voltage arc of electricity, which seeks out the charge differential and annihilates the target."
-Description="Lightning Gun är ett kraftfullt energigevär som klarar av att ta bort även det tyngsta pansarskyddet. Förvärvning av ett mål på lång håll kräver en stadig hand, men anti-jitter-effekten av det optiska systemet minskar vapnets inlärningskurva avsevärt. När målet har uppnåtts trycker operatören ned avtryckaren och målar en proton "lapp" på målet. Millisekunder senare avger geväret en högspänningsbåge av elektricitet, som söker upp laddningsskillnaden och förintar målet."
+Description=""
 ; EN: ItemName="Lightning Gun"
-ItemName="Blixtpistol"
+ItemName=""
 
 [SniperRiflePickup]
 ; EN: PickupMessage="You got the Lightning Gun."
-PickupMessage="Du har Lightning Gun."
+PickupMessage=""
 
 [SuperShockRifle]
-ItemName="Super Shock Rifle"
+; EN: ItemName="Super Shock Rifle"
+ItemName=""
 
 [SuperShockRiflePickup]
 ; EN: PickupMessage="You got the Super Shock Rifle."
-PickupMessage="Du har Super Shock Rifle."
+PickupMessage=""
 
 [TransAmmo]
-ItemName="TransLauncher"
+; EN: ItemName="Translocator"
+ItemName=""
 
 [Translauncher]
 ; EN: Description="The Translocator was originally designed by Liandri Corporation's R&D sector to facilitate the rapid recall of miners during tunnel collapses. However, rapid deresolution and reconstitution can have several unwelcome effects, including increases in aggression and paranoia.||In order to prolong the careers of today's contenders, limits have been placed on Translocator use in the lower-ranked leagues. The latest iteration of the Translocator features a remotely operated camera, exceptionally useful when scouting out areas of contention.|It should be noted that while viewing the camera's surveillance output, the user is effectively blind to their immediate surroundings."
-Description="Translocatorn designades ursprungligen av Liandri Corporations FoU-sektor för att underlätta ett snabbt återkallande av gruvarbetare under tunnelkollapser. Snabb avlösning och rekonstitution kan dock ha flera ovälkomna effekter, inklusive ökad aggression och paranoia.||För att förlänga karriären för dagens utmanare har gränser satts för användning av Translocator i de lägre rankade ligorna. Den senaste versionen av Translocatorn har en fjärrstyrd kamera, exceptionellt användbar när man letar efter stridsområden.|Det bör noteras att när man tittar på kamerans övervakningsutdata är användaren faktiskt blind för sin omedelbara omgivning."
+Description="|||"
 ; EN: ItemName="Translocator"
-ItemName="Translokator"
+ItemName=""
 
 [Transpickup]
 ; EN: PickupMessage="You got the Translocator."
-PickupMessage="Du har Translocatorn."
+PickupMessage=""
 
 [WeaponLocker]
 ; EN: LockerString="Weapon Locker"
-LockerString="Vapenskåp"
+LockerString=""
 ; EN: PickupMessage="You loaded up at a weapon locker."
-PickupMessage="Du laddade vid ett vapenskåp."
+PickupMessage=""
 

@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 
 [LevelSummary]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 ; EN: Description="Fight in the Rrajigar mines."
-Description="Rrajigar鉱山で戦う。"
+Description=""
 
 [Volume0]
 ; EN: LocationName="Machine Area"
-LocationName="機械エリア"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="WaterFall"
-LocationName="滝"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Shield Area"
-LocationName="シールドエリア"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Shock Area"
-LocationName="ショックエリア"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="River"
-LocationName="川"
+LocationName=""
 

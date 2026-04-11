@@ -1,166 +1,166 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bridge of Fate"
-Title="Pont du destin"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bridge of Fate"
-Title="Pont du destin"
+Title=""
 ; EN: Description="Two sides, a huge cave in between, three bridges going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
-Description="Deux côtés, une immense caverne entre les deux, trois ponts allant d'un côté à l'autre, comblant le fossé entre deux équipes, comblant le fossé entre l'espoir et le désespoir."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Central Cavern"
-LocationName="Caverne centrale"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Shield Entrance"
-LocationName="Entrée du Bouclier Bleu"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Pillar Room"
-LocationName="Chambre Pilier Bleu"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Chambre Pavillon Bleu"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Blue Rear Rocket Side"
-LocationName="Côté fusée arrière bleu"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="Blue BioRifle Entrance"
-LocationName="Entrée bleue BioRifle"
+; EN: LocationName="Blue Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Red Flag Room"
-LocationName="Chambre Drapeau Rouge"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Red BioRifle Entrance"
-LocationName="Entrée du BioRifle rouge"
+; EN: LocationName="Red Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Shield Entrance"
-LocationName="Entrée du Bouclier Rouge"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Red Shield Entrance"
-LocationName="Entrée du Bouclier Rouge"
+LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="Red BioRifle Entrance"
-LocationName="Entrée du BioRifle rouge"
+; EN: LocationName="Red Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Pillar Room"
-LocationName="Chambre Pilier Rouge"
+LocationName=""
 
 [ZoneInfo2]
-; EN: LocationName="Blue BioRifle Entrance"
-LocationName="Entrée bleue BioRifle"
+; EN: LocationName="Blue Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="Red BioRifle Entrance"
-LocationName="Entrée du BioRifle rouge"
+; EN: LocationName="Red Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Flag Room"
-LocationName="Chambre Drapeau Rouge"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Forward Flak Side"
-LocationName="Côté Flak avant rouge"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red Shield Entrance"
-LocationName="Entrée du Bouclier Rouge"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Shield Entrance"
-LocationName="Entrée du Bouclier Bleu"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Shield Entrance"
-LocationName="Entrée du Bouclier Bleu"
+LocationName=""
 
 [ZoneInfo26]
-; EN: LocationName="Blue BioRifle Entrance"
-LocationName="Entrée bleue BioRifle"
+; EN: LocationName="Blue Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Chambre Pavillon Bleu"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Chambre Pavillon Bleu"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Flag Room"
-LocationName="Chambre Drapeau Rouge"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Rear Flak Side"
-LocationName="Côté Flak Arrière Bleu"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Red Rear Flak Side"
-LocationName="Côté Flak arrière rouge"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Red Rear Rocket Side"
-LocationName="Côté fusée arrière rouge"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Red Forward Flak Side"
-LocationName="Côté Flak avant rouge"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Red Forward Rocket Side"
-LocationName="Côté fusée avant rouge"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Red Forward Flak Side"
-LocationName="Côté Flak avant rouge"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Blue Forward Rocket Side"
-LocationName="Côté Fusée Avant Bleu"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Blue Forward Flak Side"
-LocationName="Côté Flak avant bleu"
+LocationName=""
 
 [ZoneInfo38]
-; EN: LocationName="Red BioRifle Entrance"
-LocationName="Entrée du BioRifle rouge"
+; EN: LocationName="Red Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Red Shield Entrance"
-LocationName="Entrée du Bouclier Rouge"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Pillar Room"
-LocationName="Chambre Pilier Bleu"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Forward Flak Side"
-LocationName="Côté Flak avant bleu"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Forward Rocket Side"
-LocationName="Côté Fusée Avant Bleu"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Red Pillar Room"
-LocationName="Chambre Pilier Rouge"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Shield Entrance"
-LocationName="Entrée du Bouclier Bleu"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="Blue BioRifle Entrance"
-LocationName="Entrée bleue BioRifle"
+; EN: LocationName="Blue Bio Rifle Entrance"
+LocationName=""
 

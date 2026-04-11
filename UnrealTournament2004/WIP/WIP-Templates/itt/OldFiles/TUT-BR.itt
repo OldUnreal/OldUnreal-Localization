@@ -1,0 +1,160 @@
+﻿[LevelInfo0]
+; EN: Title="Bombing Run Tutorial"
+Title="Esercitazione sui bombardamenti"
+
+[LevelInfo6]
+; EN: Title="Temple Of Anubis"
+Title="Tempio di Anubi"
+
+[LevelSummary]
+; EN: Title="Bombing Run Tutorial"
+Title="Esercitazione sui bombardamenti"
+
+[ZoneInfo0]
+; EN: LocationName="Painter sand dune"
+LocationName="Dune di sabbia del pittore"
+
+[ZoneInfo1]
+; EN: LocationName="Super shield sand dune"
+LocationName="Duna di sabbia super scudo"
+
+[ZoneInfo10]
+; EN: LocationName="Blue respawn room"
+LocationName="Stanza di rigenerazione blu"
+
+[ZoneInfo12]
+; EN: LocationName="Blue respawn room"
+LocationName="Stanza di rigenerazione blu"
+
+[ZoneInfo13]
+; EN: LocationName="Blue respawn room"
+LocationName="Stanza di rigenerazione blu"
+
+[ZoneInfo14]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo15]
+; EN: LocationName="Red base"
+LocationName="Base rossa"
+
+[ZoneInfo16]
+; EN: LocationName="Red base"
+LocationName="Base rossa"
+
+[ZoneInfo17]
+; EN: LocationName="Red respawn room"
+LocationName="Stanza di rigenerazione rossa"
+
+[ZoneInfo18]
+; EN: LocationName="Blue respawn room"
+LocationName="Stanza di rigenerazione blu"
+
+[ZoneInfo19]
+; EN: LocationName="Red respawn room"
+LocationName="Stanza di rigenerazione rossa"
+
+[ZoneInfo2]
+; EN: LocationName="Flakk cannon room"
+LocationName="Sala dei cannoni Flakk"
+
+[ZoneInfo20]
+; EN: LocationName="Red respawn room"
+LocationName="Stanza di rigenerazione rossa"
+
+[ZoneInfo21]
+; EN: LocationName="Red respawn room"
+LocationName="Stanza di rigenerazione rossa"
+
+[ZoneInfo22]
+; EN: LocationName="Red respawn room"
+LocationName="Stanza di rigenerazione rossa"
+
+[ZoneInfo23]
+; EN: LocationName="Blue Respawn room"
+LocationName="Sala Rigenerazione Blu"
+
+[ZoneInfo24]
+; EN: LocationName="Blue repawn room"
+LocationName="Sala di rimpatrio blu"
+
+[ZoneInfo25]
+; EN: LocationName="Bomb respawn room"
+LocationName="Stanza di rigenerazione delle bombe"
+
+[ZoneInfo26]
+; EN: LocationName="Rocket launcher room"
+LocationName="Sala lanciarazzi"
+
+[ZoneInfo27]
+; EN: LocationName="Rocket launcher room"
+LocationName="Sala lanciarazzi"
+
+[ZoneInfo28]
+; EN: LocationName="Flakk cannon room"
+LocationName="Sala dei cannoni Flakk"
+
+[ZoneInfo29]
+; EN: LocationName="Bomb respawn room"
+LocationName="Stanza di rigenerazione delle bombe"
+
+[ZoneInfo3]
+; EN: LocationName="Red respawn room"
+LocationName="Stanza di rigenerazione rossa"
+
+[ZoneInfo30]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo31]
+; EN: LocationName="Bomb respawn room"
+LocationName="Stanza di rigenerazione delle bombe"
+
+[ZoneInfo32]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo33]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo34]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo35]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo36]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo37]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo38]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo39]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo4]
+; EN: LocationName="Blue court yard"
+LocationName="Cortile blu"
+
+[ZoneInfo5]
+; EN: LocationName="Blue court yard"
+LocationName="Cortile blu"
+
+[ZoneInfo8]
+; EN: LocationName="Blue base"
+LocationName="Base blu"
+
+[ZoneInfo9]
+; EN: LocationName="Blue base"
+LocationName="Base blu"
+

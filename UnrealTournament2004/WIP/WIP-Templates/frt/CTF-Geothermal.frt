@@ -1,104 +1,104 @@
 ﻿[LevelInfo0]
 ; EN: Title="Geothermal"
-Title="Géothermie"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Geothermal"
-Title="Géothermie"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Middle Walkway"
-LocationName="Passerelle du milieu"
+LocationName=""
 
 [WaterVolume5]
 ; EN: LocationName="Blue Water"
-LocationName="L'eau bleue"
+LocationName=""
 
 [WaterVolume7]
 ; EN: LocationName="Red Water"
-LocationName="Eau Rouge"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="RED Flag Room"
-LocationName="Chambre Drapeau ROUGE"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="RED Machine Room"
-LocationName="Salle des machines ROUGE"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Machine Room"
-LocationName="BLEU Salle des Machines"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Water Room"
-LocationName="Salle d'eau BLEUE"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="RED Flag Room"
-LocationName="Chambre Drapeau ROUGE"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Middle"
-LocationName="Milieu"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED High Entrance"
-LocationName="Entrée haute ROUGE"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="BLUE Low Entrance"
-LocationName="BLEU Entrée Basse"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLEU Entrée Haute"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="RED Water Room"
-LocationName="Salle d'eau ROUGE"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLEU Entrée Haute"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLEU Entrée Haute"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="Chambre Drapeau BLEU"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="Chambre Drapeau BLEU"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="BLUE High Entrance"
-LocationName="BLEU Entrée Haute"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="RED Low Entrance"
-LocationName="ROUGE Entrée Basse"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RED High Entrance"
-LocationName="Entrée haute ROUGE"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="RED High Entrance"
-LocationName="Entrée haute ROUGE"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="BLUE Flag Room"
-LocationName="Chambre Drapeau BLEU"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="RED High Entrance"
-LocationName="Entrée haute ROUGE"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="RED Flag Room"
-LocationName="Chambre Drapeau ROUGE"
+LocationName=""
 

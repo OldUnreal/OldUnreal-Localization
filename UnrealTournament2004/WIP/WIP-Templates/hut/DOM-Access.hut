@@ -1,56 +1,62 @@
 ﻿[LevelInfo0]
 ; EN: Title="Access"
-Title="Hozzáférés"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Access"
-Title="Hozzáférés"
+Title=""
 ; EN: Description="Seal off the Domination point of your choice by controlling the Access button in the middle of the arena."
-Description="Zárd le a választott Domination pontot az aréna közepén található Access gomb megnyomásával."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Switch Room"
-LocationName="Kapcsolószoba"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Blue Spawn Halls"
+; EN: LocationName="Blue Spawn Halls"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Switch Room"
-LocationName="Kapcsolószoba"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Point A Room"
-LocationName="A pont szoba"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Point B Room"
-LocationName="B pont szoba"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="Red Spawn Halls"
+; EN: LocationName="Red Spawn Halls"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Red Spawn Halls"
+; EN: LocationName="Red Spawn Halls"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="Blue Spawn Halls"
+; EN: LocationName="Blue Spawn Halls"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="Blue Spawn Halls"
+; EN: LocationName="Blue Spawn Halls"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Red Spawn Halls"
+; EN: LocationName="Red Spawn Halls"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Switch Room"
-LocationName="Kapcsolószoba"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Switch Room"
-LocationName="Kapcsolószoba"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Switch Room"
-LocationName="Kapcsolószoba"
+LocationName=""
 

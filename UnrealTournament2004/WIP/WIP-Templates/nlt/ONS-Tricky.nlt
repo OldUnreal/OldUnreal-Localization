@@ -1,64 +1,94 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tricky"
-Title="Lastig"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tricky"
-Title="Lastig"
+Title=""
 ; EN: Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
-Description="DEZE ZATERDAG, SLECHTS ÉÉN DAG, IN DE M-M-MONSTER VALLEY ARENA, GETUIGE GETUIGE VAN HET AAAAWESOME SPECTACECLE VAN DE AANSLAGTOERNOOIEN!!! TWEE TEAMS EN 65 TON BALLEN NAAR DE MUURPISTOOL SLINGING VOERTUIG MAYHEM! BEN ER VOOR DE VLAMMENDE HOEPEN, DE MONSTERJUMPS, DE HALFPIJP VAN BLOED EN DE WAANZINNIGHEID VAN DE 150 METER HOGE TOREN OF DOOM! WEES ERBIJ!!!"
+Description=""
 
 [MessageTrigger1]
 ; EN: Message="cleared the Holy Shit Gap!"
-Message="de Holy Shit Gap gewist!"
+Message=""
 
 [MessageTrigger10]
 ; EN: Message="cleared the Ludicrous Gap!"
-Message="de belachelijke kloof gewist!"
+Message=""
 
 [MessageTrigger11]
 ; EN: Message="All Gaps cleared!"
-Message="Alle hiaten gewist!"
+Message=""
 
 [MessageTrigger12]
 ; EN: Message="clears all Gaps!"
-Message="wist alle hiaten!"
+Message=""
 
 [MessageTrigger2]
-Message="Holy Shit Gap!"
+; EN: Message="Holy Shit Gap!"
+Message=""
 
 [MessageTrigger3]
 ; EN: Message="Ben's sweet Gap"
-Message="Ben's lieve Gap"
+Message=""
 
 [MessageTrigger4]
 ; EN: Message="Cleared Ben's sweet Gap!"
-Message="Ben's zoete kloof gewist!"
+Message=""
 
 [MessageTrigger5]
 ; EN: Message="Unreal Gap!"
-Message="Onwerkelijke kloof!"
+Message=""
 
 [MessageTrigger6]
 ; EN: Message="cleared the Unreal Gap!"
-Message="de onwerkelijke kloof gewist!"
+Message=""
 
 [MessageTrigger7]
-Message="M-M-M-Monster Gap!"
+; EN: Message="M-M-M-Monster Gap!"
+Message=""
 
 [MessageTrigger8]
 ; EN: Message="cleared the M-M-M-Monster Gap!"
-Message="de M-M-M-Monster Gap gewist!"
+Message=""
 
 [MessageTrigger9]
 ; EN: Message="Ludicrous Gap!"
-Message="Belachelijke kloof!"
+Message=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Tower"
-LocationName="Toren"
+LocationName=""
+
+[Volume5]
+; EN: LocationName="Red Prime Node (3)"
+LocationName=" (3)"
+
+[Volume6]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName=" (2)"
+
+[Volume7]
+; EN: LocationName="Southwest Node (4)"
+LocationName=" (4)"
+
+[Volume8]
+; EN: LocationName="Southeast Node (5)"
+LocationName=""
+
+[Volume9]
+; EN: LocationName="Center Node (1)"
+LocationName=" (1)"
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Buiten"
+LocationName=""
 

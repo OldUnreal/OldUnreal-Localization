@@ -1,24 +1,26 @@
 ﻿[LevelInfo0]
-Title="Idoma"
+; EN: Title="Idoma"
+Title=""
 
 [LevelSummary]
-Title="Idoma"
+; EN: Title="Idoma"
+Title=""
 ; EN: Description="Small atmospheric map set in a building constructed out of lots of wood and metal."
-Description="Kis légköri térkép egy sok fából és fémből épített épületben."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Rocket Area"
-LocationName="Rakéta terület"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Shield Area"
-LocationName="Pajzs terület"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Middle"
-LocationName="Középső"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Flak Area"
-LocationName="Flak terület"
+LocationName=""
 

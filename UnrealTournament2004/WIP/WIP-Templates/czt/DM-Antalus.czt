@@ -1,52 +1,56 @@
 ﻿[LevelInfo0]
-Title="Antalus"
+; EN: Title="Antalus"
+Title=""
 
 [LevelSummary]
-Title="Antalus"
+; EN: Title="Antalus"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Shock Rifle Area"
-LocationName="Oblast šokové pušky"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Pond Area"
-LocationName="Oblast rybníka"
+LocationName=""
 
 [Volume2]
-LocationName="Flak Area"
+; EN: LocationName="Flak Area"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Rocket Link Area"
-LocationName="Oblast raketového spojení"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Shield Link Mini Area"
-LocationName="Štít Link Mini Area"
+LocationName=""
 
 [Volume5]
-LocationName="Sniper Ridge"
+; EN: LocationName="Sniper Ridge"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Adrenaline Alley"
-LocationName="Adrenalinová ulička"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Super Shield Cave"
-LocationName="Jeskyně Super Shield"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Super Shield Cave"
-LocationName="Jeskyně Super Shield"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Super Shield Cave"
-LocationName="Jeskyně Super Shield"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Super Shield Cave"
-LocationName="Jeskyně Super Shield"
+LocationName=""
 

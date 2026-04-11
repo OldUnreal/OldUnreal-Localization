@@ -1,66 +1,78 @@
 ﻿[LevelInfo0]
-Title="Ice Tomb"
+; EN: Title="Ice Tomb"
+Title=""
 
 [LevelSummary]
-Title="Ice Tomb"
+; EN: Title="Ice Tomb"
+Title=""
 ; EN: Description="Bring your mittens and hide your kittens, because it is about to get very frigid and very bloody in this tight arena."
-Description="Ta med dina vantar och göm dina kattungar, för det är på väg att bli väldigt kallt och väldigt blodigt i den här trånga arenan."
+Description=""
 
 [ZoneInfo0]
-LocationName="BioRifle Cavern"
+; EN: LocationName="Bio Rifle Cavern"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Ramp"
+; EN: LocationName="Ramp"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Four Waterfalls"
-LocationName="Fyra vattenfall"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Four Waterfalls"
-LocationName="Fyra vattenfall"
+LocationName=""
 
 [ZoneInfo12]
-LocationName="BioRifle Cavern"
+; EN: LocationName="Bio Rifle Cavern"
+LocationName=""
 
 [ZoneInfo14]
-LocationName="IceTomb"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo15]
-LocationName="IceTomb"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Lightning Gun"
-LocationName="Blixtpistol"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Lightning Gun"
-LocationName="Blixtpistol"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="IceTomb"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Dual Waterfalls"
-LocationName="Dubbla vattenfall"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Lightning Gun"
-LocationName="Blixtpistol"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="IceTomb"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="IceTomb"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="Atrium"
+; EN: LocationName="Atrium"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="Ramp"
+; EN: LocationName="Ramp"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Four Waterfalls"
-LocationName="Fyra vattenfall"
+LocationName=""
 

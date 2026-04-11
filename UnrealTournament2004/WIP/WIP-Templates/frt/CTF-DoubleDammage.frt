@@ -1,250 +1,250 @@
 ﻿[LevelInfo0]
 ; EN: Title="Double Dammage"
-Title="Dégâts doubles"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Double Dammage"
-Title="Dégâts doubles"
+Title=""
 ; EN: Description="Some people would say you'd have to be insane to play atop a water dam in the middle of winter.  Around here, we call those people "victims"."
-Description="Certaines personnes diraient qu'il faut être fou pour jouer au sommet d'un barrage en plein hiver. Ici, on appelle ces gens des "victimes"."
+Description=""
 
 [PhysicsVolume1]
 ; EN: LocationName="Ice Field"
-LocationName="Champ de glace"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Chambre Pavillon Bleu"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Back Room"
-LocationName="Chambre Arrière Bleue"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Back Room"
-LocationName="Chambre Arrière Bleue"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Red Flag Room"
-LocationName="Chambre Drapeau Rouge"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Back Room"
-LocationName="Chambre Arrière Rouge"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Hall d'entrée bleu"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Foyer"
-LocationName="Foyer bleu"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Salle supérieure gauche bleue"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Salle supérieure gauche bleue"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Salle supérieure droite bleue"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Salle supérieure droite bleue"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Red Sniper Lift"
-LocationName="Ascenseur de tireur d'élite rouge"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Red Back Room"
-LocationName="Chambre Arrière Rouge"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Red Back Room"
-LocationName="Chambre Arrière Rouge"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Hall d'entrée rouge"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Red Foyer"
-LocationName="Foyer Rouge"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Salle supérieure gauche rouge"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Back Room"
-LocationName="Chambre Arrière Bleue"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Salle supérieure gauche rouge"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Salle Supérieure Droite Rouge"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Salle Supérieure Droite Rouge"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Salle Supérieure Droite Rouge"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Red Foyer"
-LocationName="Foyer Rouge"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="Red Upper Foyer"
-LocationName="Foyer supérieur rouge"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="Red Upper Foyer"
-LocationName="Foyer supérieur rouge"
+LocationName=""
 
 [ZoneInfo58]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Salle supérieure gauche rouge"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Couloir gauche rouge"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Sniper Lift"
-LocationName="Ascenseur de tireur d'élite bleu"
+LocationName=""
 
 [ZoneInfo60]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Salle supérieure droite bleue"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="Red Foyer"
-LocationName="Foyer Rouge"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Red Foyer"
-LocationName="Foyer Rouge"
+LocationName=""
 
 [ZoneInfo63]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Couloir gauche rouge"
+LocationName=""
 
 [ZoneInfo64]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Couloir gauche rouge"
+LocationName=""
 
 [ZoneInfo65]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Couloir gauche rouge"
+LocationName=""
 
 [ZoneInfo66]
 ; EN: LocationName="Blue Foyer"
-LocationName="Foyer bleu"
+LocationName=""
 
 [ZoneInfo67]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Couloir de droite rouge"
+LocationName=""
 
 [ZoneInfo68]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Couloir de droite rouge"
+LocationName=""
 
 [ZoneInfo69]
 ; EN: LocationName="Red Foyer"
-LocationName="Foyer Rouge"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Outside"
-LocationName="À l'extérieur"
+LocationName=""
 
 [ZoneInfo70]
 ; EN: LocationName="Blue Foyer"
-LocationName="Foyer bleu"
+LocationName=""
 
 [ZoneInfo71]
 ; EN: LocationName="Red Storage Room"
-LocationName="Salle de stockage rouge"
+LocationName=""
 
 [ZoneInfo72]
 ; EN: LocationName="Red Storage Room"
-LocationName="Salle de stockage rouge"
+LocationName=""
 
 [ZoneInfo73]
 ; EN: LocationName="Red Storage Room"
-LocationName="Salle de stockage rouge"
+LocationName=""
 
 [ZoneInfo74]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Couloir de droite rouge"
+LocationName=""
 
 [ZoneInfo75]
 ; EN: LocationName="Blue Upper Foyer"
-LocationName="Foyer supérieur bleu"
+LocationName=""
 
 [ZoneInfo76]
 ; EN: LocationName="Blue Upper Foyer"
-LocationName="Foyer supérieur bleu"
+LocationName=""
 
 [ZoneInfo77]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Salle supérieure gauche bleue"
+LocationName=""
 
 [ZoneInfo78]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Couloir gauche bleu"
+LocationName=""
 
 [ZoneInfo79]
 ; EN: LocationName="Blue Foyer"
-LocationName="Foyer bleu"
+LocationName=""
 
 [ZoneInfo80]
 ; EN: LocationName="Blue Foyer"
-LocationName="Foyer bleu"
+LocationName=""
 
 [ZoneInfo81]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Couloir gauche bleu"
+LocationName=""
 
 [ZoneInfo82]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Couloir gauche bleu"
+LocationName=""
 
 [ZoneInfo83]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Couloir gauche bleu"
+LocationName=""
 
 [ZoneInfo84]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Couloir droit bleu"
+LocationName=""
 
 [ZoneInfo85]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Couloir droit bleu"
+LocationName=""
 
 [ZoneInfo87]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Salle de stockage bleue"
+LocationName=""
 
 [ZoneInfo88]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Salle de stockage bleue"
+LocationName=""
 
 [ZoneInfo89]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Salle de stockage bleue"
+LocationName=""
 
 [ZoneInfo90]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Couloir droit bleu"
+LocationName=""
 

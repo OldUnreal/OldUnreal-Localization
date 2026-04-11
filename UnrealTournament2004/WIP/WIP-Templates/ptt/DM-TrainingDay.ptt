@@ -1,18 +1,20 @@
 ﻿[LevelInfo0]
 ; EN: Title="Training Day"
-Title="Dia de treinamento"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Training Day"
-Title="Dia de treinamento"
+Title=""
 
 [ZoneInfo12]
 ; EN: LocationName="Central Hallway"
-LocationName="Corredor Central"
+LocationName=""
 
 [ZoneInfo13]
-LocationName="Rocket Loop"
+; EN: LocationName="Northeast Loop"
+LocationName=""
 
 [ZoneInfo74]
-LocationName="Sniper Loop"
+; EN: LocationName="Southwest Loop"
+LocationName=""
 

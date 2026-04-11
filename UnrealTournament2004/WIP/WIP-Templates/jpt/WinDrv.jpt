@@ -5,28 +5,29 @@ Preferences=(Caption="Windows",Parent="Joystick",Class=WinDrv.WindowsClient,Imme
 
 [Errors]
 ; EN: Failed3D="3d hardware initialization failed"
-Failed3D="3Dハードウェアの初期化に失敗しました"
+Failed3D=""
 ; EN: DDrawMode="DirectDraw was unable to set the requested video mode"
-DDrawMode="DirectDrawは要求されたビデオモードを設定できませんでした"
+DDrawMode=""
 
 [General]
 ; EN: ViewPersp="Perspective map"
-ViewPersp="透視図"
+ViewPersp=""
 ; EN: ViewXY="Overhead map"
-ViewXY="オーバーヘッドマップ"
+ViewXY=""
 ; EN: ViewXZ="XZ map"
-ViewXZ="XZマップ"
+ViewXZ=""
 ; EN: ViewYZ="YZ map"
-ViewYZ="YZマップ"
+ViewYZ=""
 ; EN: ViewOther="Viewport"
-ViewOther="ビューポート"
+ViewOther=""
 ; EN: Color16="&16-bit color"
-Color16="＆16ビットカラー"
+Color16=""
 ; EN: Color32="&32-bit color"
-Color32="＆32ビットカラー"
+Color32=""
 ; EN: AdvancedOptions="Advanced Options"
-AdvancedOptions="高度なオプション"
+AdvancedOptions=""
 
 [WindowsClient]
 ; EN: ClassCaption="Standard Windows Manager"
-ClassCaption="標準のウィンドウマネージャー"
+ClassCaption=""
+

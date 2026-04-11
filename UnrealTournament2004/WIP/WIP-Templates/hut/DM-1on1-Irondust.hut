@@ -1,43 +1,46 @@
 ﻿[LevelInfo0]
 ; EN: Title="Irondust"
-Title="Vaspor"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Irondust"
-Title="Vaspor"
+Title=""
 ; EN: Description="Piece of cake? Yeah you bet... Prepare to get dusted Ironman!"
-Description="Szelet torta? Igen, megfogad... Készülj fel, hogy beporolják az Ironmant!"
+Description=""
 
 [ZoneInfo1]
-LocationName="Super Shield Lift"
+; EN: LocationName="Super Shield Lift"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Left Lift"
-LocationName="Bal lift"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Right Lift"
-LocationName="Jobb oldali emelés"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="Minigun Arches"
+; EN: LocationName="Minigun Arches"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="Link Gun Area"
+; EN: LocationName="Link Gun Area"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Double Health"
-LocationName="Dupla egészség"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Shield Area"
-LocationName="Pajzs terület"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Circular Hall"
-LocationName="Körcsarnok"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Catwalks"
-LocationName="Kifutók"
+LocationName=""
 

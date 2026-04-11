@@ -1,76 +1,76 @@
 ﻿[LevelInfo0]
 ; EN: Title="Inferno"
-Title="Enfer"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Inferno"
-Title="Enfer"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="minigun tower"
-LocationName="tour de minigun"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="burning in hell"
-LocationName="brûlant en enfer"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="shock tower"
-LocationName="tour de choc"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="middle tower"
-LocationName="tour du milieu"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="shock tower"
-LocationName="tour de choc"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="shock tower"
-LocationName="tour de choc"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="burning in hell"
-LocationName="brûlant en enfer"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="burning in hell"
-LocationName="brûlant en enfer"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="burning in hell"
-LocationName="brûlant en enfer"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="flak tower"
-LocationName="tour anti-aérien"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="middle tower"
-LocationName="tour du milieu"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="minigun tower"
-LocationName="tour de minigun"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="minigun tower"
-LocationName="tour de minigun"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="flak tower"
-LocationName="tour anti-aérien"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="flak tower"
-LocationName="tour anti-aérien"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="middle tower"
-LocationName="tour du milieu"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="middle tower"
-LocationName="tour du milieu"
+LocationName=""
 

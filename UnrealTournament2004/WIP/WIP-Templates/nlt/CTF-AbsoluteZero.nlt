@@ -1,121 +1,122 @@
 ﻿[LevelInfo0]
 ; EN: Title="Absolute Zero"
-Title="Absolute nulpunt"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Absolute Zero"
-Title="Absolute nulpunt"
+Title=""
 ; EN: Description="Absolute Zero was initially constructed as a scientific outpost to study glacial drift. Over the years, global warming and massive earth tremors nearly shook the base off of its foundation. The researchers and scientists were hastily evacuated and Liandri quickly purchased the base for the Tournament. The warm reception given to you by your team may help offset the sub-zero temperatures, but don't get too comfortable, your foes have something much colder in store for you..."
-Description="Absolute Zero werd oorspronkelijk gebouwd als een wetenschappelijke buitenpost om ijsverschuivingen te bestuderen. Door de jaren heen hebben de opwarming van de aarde en enorme aardbevingen de basis bijna van zijn fundament geschud. De onderzoekers en wetenschappers werden haastig geëvacueerd en Liandri kocht snel de basis voor het toernooi. De warme ontvangst van je team kan helpen om de temperaturen onder het vriespunt te compenseren, maar maak het niet te comfortabel, je vijanden hebben iets veel kouders voor je in petto..."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Red Lower Generator Room"
-LocationName="Rode onderste generatorkamer"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Lower Generator Room"
-LocationName="Blauwe lagere generatorkamer"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Blue Lower Hall"
-LocationName="Blauwe Benedenhal"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Lower Hall"
-LocationName="Rode Benedenhal"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rode Vlag Kamer"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blauwe Vlag Kamer"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Upper Hall A-Side"
-LocationName="Blauwe Bovenzaal A-zijde"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Blue Upper Hall B-Side"
-LocationName="Blauwe bovenzaal B-kant"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Blue Flag Stairs"
-LocationName="Blauwe Vlag Trappen"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Red Upper Hall A-Side"
-LocationName="Rode Bovenzaal A-zijde"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Red Upper Hall B-Side"
-LocationName="Rode bovenzaal B-kant"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Red Flag Stairs"
-LocationName="Rode Vlag Trappen"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Blue Upper Generator Room"
-LocationName="Blauwe bovenste generatorkamer"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Red Upper Hall"
-LocationName="Rode Bovenzaal"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Blue Upper Hall"
-LocationName="Blauwe Bovenzaal"
+LocationName=""
 
 [Volume23]
-LocationName="Ion Painter Bridge"
+; EN: LocationName="Ion Painter Bridge"
+LocationName=""
 
 [Volume24]
 ; EN: LocationName="Redeemer Bridge"
-LocationName="Verlosserbrug"
+LocationName=""
 
 [Volume25]
 ; EN: LocationName="Blue Sniper Tower: Redeemer Side"
-LocationName="Blue Sniper Tower: Verlosserzijde"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Blue Sniper Tower: Painter Side"
-LocationName="Blue Sniper Tower: Schilderzijde"
+LocationName=""
 
 [Volume27]
 ; EN: LocationName="Red Sniper Tower: Redeemer Side"
-LocationName="Red Sniper Tower: Verlosserzijde"
+LocationName=""
 
 [Volume28]
 ; EN: LocationName="Red Sniper Tower: Painter Side"
-LocationName="Rode Sniper Tower: Schilderzijde"
+LocationName=""
 
 [Volume29]
 ; EN: LocationName="Blue Outside"
-LocationName="Blauw Buiten"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Upper Generator Room"
-LocationName="Rode bovenste generatorkamer"
+LocationName=""
 
 [Volume30]
 ; EN: LocationName="Red Outside"
-LocationName="Rood Buiten"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Lower Hall B-Side"
-LocationName="Rode lagere hal B-kant"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Lower Hall A-Side"
-LocationName="Rode benedenzaal A-zijde"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Lower Hall B-Side"
-LocationName="Blauwe lagere hal B-kant"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Lower Hall A-Side"
-LocationName="Blauwe benedenzaal A-zijde"
+LocationName=""
 

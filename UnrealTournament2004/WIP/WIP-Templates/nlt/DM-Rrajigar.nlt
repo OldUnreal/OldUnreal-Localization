@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 
 [LevelSummary]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 ; EN: Description="Fight in the Rrajigar mines."
-Description="Vecht in de Rrajigar-mijnen."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Machine Area"
-LocationName="Machinegebied"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="WaterFall"
-LocationName="Waterval"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Shield Area"
-LocationName="Schildgebied"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Shock Area"
-LocationName="Schokgebied"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="River"
-LocationName="rivier"
+LocationName=""
 

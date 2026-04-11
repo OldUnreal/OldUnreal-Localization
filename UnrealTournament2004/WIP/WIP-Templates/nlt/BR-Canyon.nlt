@@ -1,48 +1,50 @@
 ﻿[LevelInfo0]
 ; EN: Title="Canyon"
-Title="Ravijn"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Canyon"
-Title="Ravijn"
-; EN: Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river.  Swimming is NOT recommended."
-Description="Wrede, bloedige gevechten en het buitenleven - wie wil er nog meer? Deze kleine arena wordt gescheiden door een snel bewegende, dodelijke rivier. Zwemmen wordt NIET aanbevolen."
+Title=""
+; EN: Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river. Swimming is NOT recommended."
+Description=""
 
 [Volume1]
-LocationName="Blue Sniper Roost"
+; EN: LocationName="Blue Sniper Roost"
+LocationName=""
 
 [Volume2]
-LocationName="Blue Bomb Goal"
+; EN: LocationName="Blue Bomb Goal"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue South Spawn Pool"
-LocationName="Blauwe Zuid-spawnpool"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue North Spawn Pool"
-LocationName="Blauwe Noord-spawnpool"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Sniper Roost"
-LocationName="Rode Sniper Roost"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red North Spawn Pool"
-LocationName="Rode Noord-spawnpool"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Red South Spawn Pool"
-LocationName="Rode Zuid-spawnpool"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Bomb Goal"
-LocationName="Rode Bom Doel"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="With the Fishes"
-LocationName="Met de vissen"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Buiten"
+LocationName=""
 

@@ -1,159 +1,160 @@
 ﻿[LevelInfo0]
 ; EN: Title="Slaughterhouse"
-Title="Slachthuis"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="het slachthuis"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Slaughterhouse"
-Title="Slachthuis"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="het slachthuis"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Blauw Vlees Opslag"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawnroom Beta"
-LocationName="Blauwe Spawnroom-bèta"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Drain Room"
-LocationName="Blauwe afvoerkamer"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Meat Storage Entrance"
-LocationName="Blauwe ingang voor vleesopslag"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Freezer"
-LocationName="Rode vriezer"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Bomb Gate"
-LocationName="Rode Bom Poort"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Red Spawnroom Beta"
-LocationName="Rode Spawnroom-bèta"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Back Hallway"
-LocationName="Rode Achterhal"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Fountains"
-LocationName="Rode Fonteinen"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Spawnroom Alpha"
-LocationName="Blauwe Spawnroom Alpha"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Chapel"
-LocationName="Rode Kapel"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Drainage"
-LocationName="Rode afvoer"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Bomb Gate"
-LocationName="Blauwe Bom Poort"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
-LocationName="Deze man is Chuck. Ground Chuck in de blauwe kamer"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Spawnroom Alpha"
-LocationName="Rode Spawnroom Alpha"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Rode Zag Gang"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blauwe binnenplaats"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="OOoh, he's dead in the Red"
-LocationName="OOoh, hij is dood in het rood"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blauwe binnenplaats"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Main Hall"
-LocationName="Blauwe Grote Zaal"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Blauwe Zag Gang"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Blauw Vlees Opslag"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Rode Zag Gang"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Blauwe Zag Gang"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Red Main Hall"
-LocationName="Rode Grote Zaal"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Red Pipe"
-LocationName="Rode Pijp"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Red Courtyard"
-LocationName="Rode binnenplaats"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Pipe"
-LocationName="Blauwe pijp"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Red Freezer Entrance"
-LocationName="Rode Diepvriezer Entree"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Chapel"
-LocationName="Blauwe Kapel"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Fountains"
-LocationName="Blauwe Fonteinen"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Back Hallway"
-LocationName="Blauwe Achterhal"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Bomb Courtyard"
-LocationName="Bom binnenplaats"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Courtyard"
-LocationName="Rode binnenplaats"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Freezer"
-LocationName="Rode vriezer"
+LocationName=""
 
 [xBombDelivery0]
-ObjectiveName="Blue Bombgoal"
+; EN: ObjectiveName="Blue Bombgoal"
+LocationName=""
 
 [xBombDelivery2]
 ; EN: ObjectiveName="Red Bombgoal"
-ObjectiveName="Rode Bombgoal"
+LocationName=""
 

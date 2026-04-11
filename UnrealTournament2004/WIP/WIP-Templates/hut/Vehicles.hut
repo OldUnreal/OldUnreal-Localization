@@ -1,10 +1,10 @@
 ﻿[BulldogMessage]
 ; EN: GetInMessage="Press [Use] To Enter Vehicle."
-GetInMessage="Nyomja meg a [Használat] gombot a járműbe való belépéshez."
+GetInMessage=""
 ; EN: GetOutMessage="Press [Use] To Exit Vehicle."
-GetOutMessage="Nyomja meg a [Használat] gombot a járműből való kilépéshez."
+GetOutMessage=""
 ; EN: TooManyCarsMessage="Too Many Cars Already!"
-TooManyCarsMessage="Túl sok autó van már!"
+TooManyCarsMessage=""
 ; EN: FlipCarMessage="Press [Use] To Flip Vehicle."
-FlipCarMessage="Nyomja meg a [Használat] gombot a jármű megfordításához."
+FlipCarMessage=""
 

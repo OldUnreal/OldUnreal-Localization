@@ -1,74 +1,80 @@
 ﻿[DamTypeIonTankBlast]
-; EN: DeathString="%o was OBLITERATED by %k"
-DeathString="%o ble utslettet med %k"
-; EN: FemaleSuicide="%o was OBLITERATED"
-FemaleSuicide="%o ble utslettet"
-; EN: MaleSuicide="%o was OBLITERATED"
-MaleSuicide="%o ble utslettet"
+; EN: DeathString="%o was OBLITERATED by %k!"
+DeathString=""
+; EN: FemaleSuicide="%o was OBLITERATED!"
+FemaleSuicide=""
+; EN: MaleSuicide="%o was OBLITERATED!"
+MaleSuicide=""
 
 [DamTypeMASCannon]
 ; EN: DeathString="%o was VAPORIZED by %k!"
-DeathString="%o ble fordampet av %k!"
+DeathString=""
 ; EN: FemaleSuicide="%o was VAPORIZED!"
-FemaleSuicide="%o ble fordampet!"
+FemaleSuicide=""
 ; EN: MaleSuicide="%o was VAPORIZED!"
-MaleSuicide="%o ble fordampet!"
+MaleSuicide=""
 
 [DamTypeMASPlasma]
 ; EN: DeathString="%k's Leviathan turret plasmanated %o."
-DeathString="%k's Leviathan-tårn plasmaert %o."
+DeathString=""
 ; EN: FemaleSuicide="%o wasted herself."
-FemaleSuicide="%o kastet bort seg selv."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o wasted himself."
-MaleSuicide="%o kastet bort seg selv."
+MaleSuicide=""
 
 [MutVehicleArena]
 ; EN: ArenaDisplayText="Arena Vehicle"
-ArenaDisplayText="Arena kjøretøy"
+ArenaDisplayText=""
 ; EN: ArenaDescText="Determines which vehicle type will be used in the match."
-ArenaDescText="Bestemmer hvilken kjøretøytype som skal brukes i kampen."
+ArenaDescText=""
 ; EN: FriendlyName="Vehicle Arena"
-FriendlyName="Kjøretøy Arena"
+FriendlyName=""
 ; EN: Description="Replace all vehicles in map with a particular type."
-Description="Erstatt alle kjøretøy på kartet med en bestemt type."
+Description=""
 
 [ONSBomber]
 ; EN: VehiclePositionString="in a DragonFly"
-VehiclePositionString="i en DragonFly"
-VehicleNameString="DragonFly"
+VehiclePositionString=""
+; EN: VehicleNameString="DragonFly"
+VehicleNameString=""
 
 [ONSGenericSD]
 ; EN: VehiclePositionString="indisposed"
-VehiclePositionString="indisponert"
-VehicleNameString="TC-1200"
+VehiclePositionString=""
+; EN: VehicleNameString="TC-1200"
+VehicleNameString=""
 
 [ONSHoverTank_IonPlasma]
 ; EN: VehiclePositionString="in an Ion Plasma Tank"
-VehiclePositionString="i en Ion Plasma Tank"
-VehicleNameString="Ion Plasma Tank"
+VehiclePositionString=""
+; EN: VehicleNameString="Ion Plasma Tank"
+VehicleNameString=""
 
 [ONSMASSideGunPawn]
 ; EN: VehiclePositionString="in a Leviathan turret"
-VehiclePositionString="i et Leviathan-tårn"
-VehicleNameString="Leviathan Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Leviathan Turret"
+VehicleNameString=""
 
 [ONSMobileAssaultStation]
 ; EN: VehiclePositionString="in a Leviathan"
-VehiclePositionString="i en Leviathan"
-VehicleNameString="Leviathan"
+VehiclePositionString=""
+; EN: VehicleNameString="Leviathan"
+VehicleNameString=""
 
 [ONSPainter]
 ; EN: Description="The Target Painter, similar to the Ion Painter, fires a harmless, low power laser with its primary fire. Unlike the Ion Painter, however, this weapon calls in a bomber that launches a string of bombs in the direction the user is facing, centered on the painted target. The bombs will easily incinerate the target and any unfortunates that happen to be nearby."
-Description="Target Painter, som ligner på Ion Painter, avfyrer en harmløs laveffektlaser med sin primære brann. I motsetning til Ion Painter kaller imidlertid dette våpenet inn et bombefly som skyter ut en rekke bomber i retningen brukeren vender, sentrert på det malte målet. Bombene vil lett brenne målet og eventuelle uheldige som tilfeldigvis er i nærheten."
+Description=""
 ; EN: ItemName="Target Painter"
-ItemName="Målmaler"
+ItemName=""
 
 [ONSPainterPickup]
 ; EN: PickupMessage="You got the Target Painter."
-PickupMessage="Du har målmaleren."
+PickupMessage=""
 
 [ONSTankSecondaryTurretPawn_IonPlasma]
-; EN: VehiclePositionString="in an Ion Tank turret"
-VehiclePositionString="i et Ion Tank-tårn"
-VehicleNameString="Ion Tank Minigun Turret"
+; EN: VehiclePositionString="in an Ion Plasma Tank Minigun Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Ion Plasma Tank Minigun Turret"
+VehicleNameString=""
 

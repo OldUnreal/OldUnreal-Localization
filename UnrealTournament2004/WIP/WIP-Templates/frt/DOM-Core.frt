@@ -1,18 +1,12 @@
 ﻿[LevelInfo0]
 ; EN: Title="Core"
-Title="Coeur"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Core"
-Title="Coeur"
+Title=""
 
 [ZoneInfo2]
 ; EN: LocationName="A entry"
-LocationName="Une entrée"
-
-[xDomPointA0]
-ObjectiveName="DPA"
-
-[xDomPointB0]
-ObjectiveName="DPB"
+LocationName=""
 

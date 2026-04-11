@@ -1,62 +1,62 @@
 ﻿[LevelInfo0]
 ; EN: Title="Access"
-Title="Accesso"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Access"
-Title="Accesso"
+Title=""
 ; EN: Description="Seal off the Domination point of your choice by controlling the Access button in the middle of the arena."
-Description="Sigilla il punto di Dominio di tua scelta controllando il pulsante di accesso al centro dell'arena."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Switch Room"
-LocationName="Cambia stanza"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Sale di generazione blu"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Switch Room"
-LocationName="Cambia stanza"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Point A Room"
-LocationName="Punto A Stanza"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Point B Room"
-LocationName="Punto B Sala"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Sale di generazione rosse"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Sale di generazione rosse"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Sale di generazione blu"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Sale di generazione blu"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Sale di generazione rosse"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Switch Room"
-LocationName="Cambia stanza"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Switch Room"
-LocationName="Cambia stanza"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Switch Room"
-LocationName="Cambia stanza"
+LocationName=""
 

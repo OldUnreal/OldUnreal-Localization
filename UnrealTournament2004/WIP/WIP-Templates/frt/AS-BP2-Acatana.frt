@@ -1,261 +1,264 @@
 ﻿[ASCriticalObjectiveVolume1]
 ; EN: LocationName="Facility Entrance"
-LocationName="Entrée de l'installation"
+LocationName=""
 
 [ASCriticalObjectiveVolume4]
 ; EN: LocationName="Weapons Lab Control Room"
-LocationName="Salle de contrôle du laboratoire d'armes"
+LocationName=""
 
 [ASOBJ_EnergyCore_Delivery1]
 ; EN: ObjectiveName="Escape Point"
-ObjectiveName="Point de fuite"
+ObjectiveName=""
 ; EN: DestructionMessage="Blueprints stolen!"
-DestructionMessage="Plans volés !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Escape to the waiting ships with the Blueprints."
-ObjectiveDescription="Évadez-vous vers les navires en attente avec les plans."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Escape with the Blueprints."
-Objective_Info_Attacker="Évadez-vous avec les Blueprints."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend with the Blueprints."
-Objective_Info_Defender="Défendez avec les Blueprints."
+Objective_Info_Defender=""
 
 [ASOBJ_EnergyCore_Spawn0]
 ; EN: PlayerDroppedMessage=" dropped the Blueprints!"
-PlayerDroppedMessage=" abandonné les plans !"
+PlayerDroppedMessage=""
 ; EN: DroppedMessage="Blueprints dropped!"
-DroppedMessage="Les plans sont tombés !"
+DroppedMessage=""
 ; EN: EnergyCorePickedUp="Blueprints picked up!"
-EnergyCorePickedUp="Les plans sont ramassés !"
+EnergyCorePickedUp=""
 ; EN: PlayerPickedUpEnergyCore=" picked up the Blueprints!"
-PlayerPickedUpEnergyCore=" ramassé les plans !"
+PlayerPickedUpEnergyCore=""
 ; EN: PlayerCoreReset="Blueprints reset!!"
-PlayerCoreReset="Les plans sont réinitialisés !!"
+PlayerCoreReset=""
 ; EN: ObjectiveName="Weapons Data"
-ObjectiveName="Données sur les armes"
+ObjectiveName=""
 ; EN: DestructionMessage="Data Stolen!"
-DestructionMessage="Données volées !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Steal the Weapon Blueprints and escape to the ships."
-ObjectiveDescription="Volez les plans d'armes et échappez-vous aux navires."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Steal the Weapon Blueprints."
-Objective_Info_Attacker="Volez les plans d'armes."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Weapon Blueprints."
-Objective_Info_Defender="Défendez les plans d'armes."
+Objective_Info_Defender=""
 
 [Action_DISPLAYMESSAGE0]
 ; EN: Message="Ship Disabled!"
-Message="Navire désactivé !"
+Message=""
 
 [Action_DISPLAYMESSAGE2]
 ; EN: Message="Ship Disabled!"
-Message="Navire désactivé !"
+Message=""
 
 [DestroyableObjective_SM1]
 ; EN: ObjectiveName="Upper Reactor"
-ObjectiveName="Réacteur supérieur"
+ObjectiveName=""
 ; EN: DestructionMessage="Upper Reactor Destroyed!"
-DestructionMessage="Réacteur supérieur détruit !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Shoot out the Upper Reactor Core."
-ObjectiveDescription="Tirez sur le noyau du réacteur supérieur."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the Reactor Core."
-Objective_Info_Attacker="Détruisez le noyau du réacteur."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Reactor Core."
-Objective_Info_Defender="Défendez le cœur du réacteur."
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM2]
 ; EN: ObjectiveName="Ship Engine"
-ObjectiveName="Moteur de navire"
+ObjectiveName=""
 ; EN: DestructionMessage="Engine Destroyed!"
-DestructionMessage="Moteur détruit !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Disable the Battle Cruisers by destroying their engines."
-ObjectiveDescription="Désactivez les croiseurs de bataille en détruisant leurs moteurs."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the Ship Engines."
-Objective_Info_Attacker="Détruisez les moteurs du navire."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Ship Engines."
-Objective_Info_Defender="Défendez les moteurs des navires."
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM3]
 ; EN: ObjectiveName="Lower Reactor"
-ObjectiveName="Réacteur inférieur"
+ObjectiveName=""
 ; EN: DestructionMessage="Lower Reactor Destroyed!"
-DestructionMessage="Réacteur inférieur détruit !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Shoot out the Lower Reactor Core."
-ObjectiveDescription="Tirez sur le noyau du réacteur inférieur."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the Reactor Core."
-Objective_Info_Attacker="Détruisez le noyau du réacteur."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Reactor Core."
-Objective_Info_Defender="Défendez le cœur du réacteur."
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM7]
 ; EN: ObjectiveName="Ship Engine"
-ObjectiveName="Moteur de navire"
+ObjectiveName=""
 ; EN: DestructionMessage="Engine Destroyed!"
-DestructionMessage="Moteur détruit !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Disable the Battle Cruisers by destroying their engines."
-ObjectiveDescription="Désactivez les croiseurs de bataille en détruisant leurs moteurs."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the Ship Engines."
-Objective_Info_Attacker="Détruisez les moteurs du navire."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Ship Engines."
-Objective_Info_Defender="Défendez les moteurs des navires."
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM8]
 ; EN: ObjectiveName="Ship Engine"
-ObjectiveName="Moteur de navire"
+ObjectiveName=""
 ; EN: DestructionMessage="Engine Destroyed!"
-DestructionMessage="Moteur détruit !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Disable the Battle Cruisers by destroying their engines."
-ObjectiveDescription="Désactivez les croiseurs de bataille en détruisant leurs moteurs."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the Ship Engines."
-Objective_Info_Attacker="Détruisez les moteurs du navire."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Ship Engines."
-Objective_Info_Defender="Défendez les moteurs des navires."
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM9]
 ; EN: ObjectiveName="Ship Engine"
-ObjectiveName="Moteur de navire"
+ObjectiveName=""
 ; EN: DestructionMessage="Engine Destroyed!"
-DestructionMessage="Moteur détruit !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Disable the Battle Cruisers by destroying their engines."
-ObjectiveDescription="Désactivez les croiseurs de bataille en détruisant leurs moteurs."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the Ship Engines."
-Objective_Info_Attacker="Détruisez les moteurs du navire."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Ship Engines."
-Objective_Info_Defender="Défendez les moteurs des navires."
+Objective_Info_Defender=""
 
 [HoldObjective1]
 ; EN: ObjectiveName="Bunker Doors"
-ObjectiveName="Portes de soute"
+ObjectiveName=""
 ; EN: DestructionMessage="Bunker Doors Blown!"
-DestructionMessage="Portes de bunker soufflées !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Place Explosives to blow open the main doors."
-ObjectiveDescription="Placez des explosifs pour ouvrir les portes principales."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Blow up the Main Doors."
-Objective_Info_Attacker="Faites sauter les portes principales."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Main Doors."
-Objective_Info_Defender="Défendez les portes principales."
+Objective_Info_Defender=""
 
 [HoldObjective2]
 ; EN: ObjectiveName="Main Gates"
-ObjectiveName="Portes principales"
+ObjectiveName=""
 ; EN: DestructionMessage="Main Gates Opening!"
-DestructionMessage="Ouverture des portes principales !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Use the switch to open the Security Gate."
-ObjectiveDescription="Utilisez le commutateur pour ouvrir la barrière de sécurité."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Open the Security Gate."
-Objective_Info_Attacker="Ouvrez la porte de sécurité."
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the Security Gate."
-Objective_Info_Defender="Défendez la porte de sécurité."
+Objective_Info_Defender=""
 
 [InfoPod0]
 ; EN: POD_Message="Cruiser 2 Left Wing"
-POD_Message="Cruiser 2 aile gauche"
+POD_Message=""
 
 [InfoPod1]
 ; EN: POD_Message="Cruiser 2 Upper"
-POD_Message="Cruiser 2 Supérieur"
+POD_Message=""
 
 [InfoPod2]
 ; EN: POD_Message="Cruiser 2 Right Wing"
-POD_Message="Cruiser 2 aile droite"
+POD_Message=""
 
 [InfoPod3]
 ; EN: POD_Message="Cruiser 1 Left Wing"
-POD_Message="Cruiser 1 aile gauche"
+POD_Message=""
 
 [InfoPod4]
 ; EN: POD_Message="Cruiser 1 Upper"
-POD_Message="Cruiser 1 Supérieur"
+POD_Message=""
 
 [InfoPod5]
 ; EN: POD_Message="Cruiser 1 Right Wing"
-POD_Message="Cruiser 1 aile droite"
+POD_Message=""
 
 [LevelInfo0]
 ; EN: Title="Invasion of Acatana"
-Title="Invasion d'Acatana"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Invasion of Acatana"
-Title="Invasion d'Acatana"
+Title=""
 ; EN: Description="Due to the treacherous asteroid field and the advanced defense systems surrounding the Acatana research facility, no intruders had been near the planet for years.  When the Skaarj Marauders heard rumors of a highly lucrative technology hidden there, they decided to make it their own.  This scenario recreates the Skaarj attack on the Acatana research facility, and the battle to penetrate the planet's asteroid field."
-Description="En raison du champ d'astéroïdes perfide et des systèmes de défense avancés entourant le centre de recherche d'Acatana, aucun intrus n'avait été près de la planète depuis des années. Lorsque les Maraudeurs Skaarj ont entendu des rumeurs selon lesquelles une technologie très lucrative y était cachée, ils ont décidé de se l'approprier. Ce scénario recrée l'attaque de Skaarj contre le centre de recherche Acatana et la bataille pour pénétrer le champ d'astéroïdes de la planète."
+Description=""
 
 [MultiSkyZoneInfo0]
 ; EN: LocationName="Base Entrance"
-LocationName="Entrée de la base"
+LocationName=""
 
 [MultiSkyZoneInfo1]
 ; EN: LocationName="Space"
-LocationName="Espacer"
+LocationName=""
 
 [MultiSkyZoneInfo18]
 ; EN: LocationName="Space"
-LocationName="Espacer"
+LocationName=""
 
 [MultiSkyZoneInfo19]
 ; EN: LocationName="Planet Surface"
-LocationName="Surface de la planète"
+LocationName=""
 
 [MultiSkyZoneInfo2]
-LocationName="Hangar 2"
+; EN: LocationName="Hangar 2"
+LocationName=""
 
 [MultiSkyZoneInfo20]
 ; EN: LocationName="Weapons Lab Spawn Room"
-LocationName="Salle d'apparition du laboratoire d'armes"
+LocationName=""
 
 [MultiSkyZoneInfo21]
-LocationName="Hangar 1"
+; EN: LocationName="Hangar 1"
+LocationName=""
 
 [MultiSkyZoneInfo22]
 ; EN: LocationName="Defender Spawn Exit"
-LocationName="Sortie d'apparition du défenseur"
+LocationName=""
 
 [MultiSkyZoneInfo23]
 ; EN: LocationName="Defender Inside Spawn"
-LocationName="Défenseur à l'intérieur de Spawn"
+LocationName=""
 
 [MultiSkyZoneInfo24]
 ; EN: LocationName="Defender Spawn Exit"
-LocationName="Sortie d'apparition du défenseur"
+LocationName=""
 
 [MultiSkyZoneInfo25]
 ; EN: LocationName="Defender Spawn Exit"
-LocationName="Sortie d'apparition du défenseur"
+LocationName=""
 
 [MultiSkyZoneInfo27]
 ; EN: LocationName="Reactor Core Entrance"
-LocationName="Entrée du cœur du réacteur"
+LocationName=""
 
 [MultiSkyZoneInfo28]
 ; EN: LocationName="Reactor Core"
-LocationName="Noyau du réacteur"
+LocationName=""
 
 [MultiSkyZoneInfo29]
 ; EN: LocationName="Base Entrance"
-LocationName="Entrée de la base"
+LocationName=""
 
 [MultiSkyZoneInfo30]
 ; EN: LocationName="Weapons Lab Entrance"
-LocationName="Entrée du laboratoire d'armes"
+LocationName=""
 
 [MultiSkyZoneInfo31]
 ; EN: LocationName="Weapons Lab Control Room"
-LocationName="Salle de contrôle du laboratoire d'armes"
+LocationName=""
 
 [MultiSkyZoneInfo32]
 ; EN: LocationName="Weapons Lab Control Room"
-LocationName="Salle de contrôle du laboratoire d'armes"
+LocationName=""
 
 [MultiSkyZoneInfo33]
 ; EN: LocationName="Weapons Lab Spawn Room"
-LocationName="Salle d'apparition du laboratoire d'armes"
+LocationName=""
 
 [PhysicsVolume26]
 ; EN: LocationName="In Lava"
-LocationName="dans la lave"
+LocationName=""
 
 [SceneSubtitles0]
-SubTitles=("This scenario recreates the Skaarj attack on the Acatana asteroid belt.","Acatana had long been a forgotten planet, uninhabitable to most species, and known only to a secret scientific division of the NEG.","Hidden away on an asteroid orbiting the barren planet was a secret facility, created with the sole purpose of researching advanced weapons technology.","Due to the treacherous asteroid field and the advanced planetary defense systems, no other race had been near the planet for years.","In fact, the barrier had never even been challenged until the Skaarj Marauders heard rumors of the highly lucrative technology ripe for the taking.","First, you must navigate the asteroid field and attack the Battle Cruiser Blockade.  Disable the Cruisers by destroying their engines, allowing the Skaarj ships to land the asteroid's surface.","After successful deployment to the surface, make your way to the facility's entrance and use this switch to open the security gate.","Once inside the gate, place explosives to blow open the main facility doors.","Infiltrate the complex and destroy both sections of the facility's main reactor core. This will activate the evacuation protocol and release the locks on the doors to the weapons lab.","Next, make your way into the weapons lab and steal the weapon blueprints from the central computer station.","Finally, your team must transport the blueprints back to the main entrance where a squad of fighters will cover your escape.")
+; EN: SubTitles=("This scenario recreates the Skaarj attack on the Acatana asteroid belt.","Acatana had long been a forgotten planet, uninhabitable to most species, and known only to a secret scientific division of the N.E.G.","Hidden away on an asteroid orbiting the barren planet was a secret facility, created with the sole purpose of researching advanced weapons technology.","Due to the treacherous asteroid field and the advanced planetary defense systems, no other race had been near the planet for years.","In fact, the barrier had never even been challenged until the Skaarj Marauders heard rumors of the highly lucrative technology ripe for the taking.","First, you must navigate the asteroid field and attack the Battle Cruiser Blockade.  Disable the Cruisers by destroying their engines, allowing the Skaarj ships to land the asteroid's surface.","After successful deployment to the surface, make your way to the facility's entrance and use this switch to open the security gate.","Once inside the gate, place explosives to blow open the main facility doors.","Infiltrate the complex and destroy both sections of the facility's main reactor core. This will activate the evacuation protocol and release the locks on the doors to the weapons lab.","Next, make your way into the weapons lab and steal the weapon blueprints from the central computer station.","Finally, your team must transport the blueprints back to the main entrance where a squad of fighters will cover your escape.")
+SubTitles=("","","","","","","","","","","")
 
 [Volume0]
 ; EN: LocationName="Weapons Lab Access Tunnel"
-LocationName="Tunnel d'accès au laboratoire d'armes"
+LocationName=""
 

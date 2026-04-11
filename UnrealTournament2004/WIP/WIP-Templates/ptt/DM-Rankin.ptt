@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
-Title="Rankin"
+; EN: Title="Rankin"
+Title=""
 
 [LevelSummary]
-Title="Rankin"
+; EN: Title="Rankin"
+Title=""
 ; EN: Description="A medium sized map set in an old industrial building, in the middle of a heavy thunderstorm."
-Description="Um mapa de tamanho médio situado em um antigo prédio industrial, no meio de uma forte tempestade."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Factory Area 2"
-LocationName="Área de Fábrica 2"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Factory Area 1"
-LocationName="Área de Fábrica 1"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Flak Room"
-LocationName="Quarto Flak"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Amp Area"
-LocationName="Área de Amp"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Basement"
-LocationName="Porão"
+LocationName=""
 

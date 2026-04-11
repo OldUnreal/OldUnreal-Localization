@@ -1,62 +1,62 @@
 ﻿[LevelInfo0]
 ; EN: Title="Access"
-Title="Acesso"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Access"
-Title="Acesso"
+Title=""
 ; EN: Description="Seal off the Domination point of your choice by controlling the Access button in the middle of the arena."
-Description="Sele o ponto de Dominação de sua escolha controlando o botão Acesso no meio da arena."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Switch Room"
-LocationName="Sala de interruptor"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Salões de Spawn Azuis"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Switch Room"
-LocationName="Sala de interruptor"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Point A Room"
-LocationName="Sala Aponte A"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Point B Room"
-LocationName="Sala Ponto B"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Salões de Spawn Vermelhos"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Salões de Spawn Vermelhos"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Salões de Spawn Azuis"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Spawn Halls"
-LocationName="Salões de Spawn Azuis"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Spawn Halls"
-LocationName="Salões de Spawn Vermelhos"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Switch Room"
-LocationName="Sala de interruptor"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Switch Room"
-LocationName="Sala de interruptor"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Switch Room"
-LocationName="Sala de interruptor"
+LocationName=""
 

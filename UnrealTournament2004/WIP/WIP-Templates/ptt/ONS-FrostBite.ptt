@@ -1,16 +1,16 @@
 ﻿[Counter0]
 ; EN: CompleteMessage="Secret activated!"
-CompleteMessage="Segredo ativado!"
+CompleteMessage=""
 
 [LevelInfo0]
 ; EN: Title="Frostbite"
-Title="Queimadura por frio"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Frostbite"
-Title="Queimadura por frio"
+Title=""
 ; EN: Description="Don't be deceived by the apparent simplicity found in this frozen waste. Although it's among the smallest arenas for Onslaught, Frostbite is defined by frenetic pace and pitched battles."
-Description="Não se deixe enganar pela aparente simplicidade encontrada neste lixo congelado. Embora esteja entre as menores arenas para Onslaught, Frostbite é definida por ritmo frenético e batalhas campais."
+Description=""
 
 [MessageTrigger0]
 Message="Peter Respondek"
@@ -50,116 +50,193 @@ Message="Dave Hagewood"
 
 [PhysicsVolume51]
 ; EN: LocationName="Secret Underground Hiding Place"
-LocationName="Esconderijo subterrâneo secreto"
+LocationName=""
+
+[Volume0]
+; EN: LocationName="Blue Tower"
+LocationName=""
+
+[Volume1]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume10]
+; EN: LocationName="Red Power Core"
+LocationName=""
+
+[Volume11]
+; EN: LocationName="Red Power Core"
+LocationName=""
+
+[Volume12]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume13]
+; EN: LocationName="Red Entrance"
+LocationName=""
+
+[Volume14]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume15]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume16]
+; EN: LocationName="Red Tower"
+LocationName=""
+
+[Volume17]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [Volume18]
 ; EN: LocationName="Southeast Valley"
-LocationName="Vale Sudeste"
+LocationName=""
 
 [Volume19]
-LocationName="Southwest Lake"
+; EN: LocationName="Southwest Lake"
+LocationName=""
+
+[Volume2]
+; EN: LocationName="Blue Tower"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Northwest Lake"
-LocationName="Lago Noroeste"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Northeast Valley"
-LocationName="Vale do Nordeste"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="Central Lake"
-LocationName="Lago Central"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Northern Canyon"
-LocationName="Canyon do Norte"
+LocationName=""
 
 [Volume24]
 ; EN: LocationName="Southern Canyon"
-LocationName="Canyon do Sul"
+LocationName=""
 
 [Volume25]
-; EN: LocationName="Unspecified"
-LocationName="Não especificado"
+; EN: LocationName="Southeast Node (1)"
+LocationName=" (1)"
 
 [Volume26]
-; EN: LocationName="Unspecified"
-LocationName="Não especificado"
+; EN: LocationName="Northeast Node (2)"
+LocationName=" (2)"
 
 [Volume27]
 ; EN: LocationName="Central Mountain"
-LocationName="Montanha Central"
+LocationName=""
 
 [Volume29]
 ; EN: LocationName="Central Mountain"
-LocationName="Montanha Central"
+LocationName=""
+
+[Volume3]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [Volume30]
 ; EN: LocationName="North"
-LocationName="Norte"
+LocationName=""
 
 [Volume31]
 ; EN: LocationName="South"
-LocationName="Sul"
+LocationName=""
+
+[Volume4]
+; EN: LocationName="Red Tower"
+LocationName=""
+
+[Volume5]
+; EN: LocationName="Blue Base"
+LocationName=""
+
+[Volume6]
+; EN: LocationName="Blue Power Core"
+LocationName=""
+
+[Volume7]
+; EN: LocationName="Blue Power Core"
+LocationName=""
 
 [Volume8]
-; EN: LocationName="Unspecified"
-LocationName="Não especificado"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume9]
+; EN: LocationName="Blue Entrance"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Entrance"
-LocationName="Entrada Azul"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Tower"
-LocationName="Torre Azul"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Outside"
-LocationName="Lado de fora"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [ZoneInfo11]
-; EN: LocationName="Outside"
-LocationName="Lado de fora"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [ZoneInfo12]
 ; EN: LocationName="Red Tower"
-LocationName="Torre vermelha"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="Outside"
-LocationName="Lado de fora"
+; EN: LocationName="Red Base"
+LocationName=""
+
+[ZoneInfo14]
+; EN: LocationName="Secret Hideout"
+LocationName=""
+
+[ZoneInfo15]
+; EN: LocationName="Easter Egg Area"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Tower"
-LocationName="Torre vermelha"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Outside"
-LocationName="Lado de fora"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Tower"
-LocationName="Torre vermelha"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Tower"
-LocationName="Torre Azul"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="Outside"
-LocationName="Lado de fora"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [ZoneInfo7]
 ; EN: LocationName="Red Tower"
-LocationName="Torre vermelha"
+LocationName=""
 
 [ZoneInfo8]
-; EN: LocationName="Outside"
-LocationName="Lado de fora"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [ZoneInfo9]
-; EN: LocationName="Outside"
-LocationName="Lado de fora"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 

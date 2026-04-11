@@ -1,0 +1,70 @@
+﻿[LevelInfo0]
+; EN: Title="Moon Dragon"
+Title="Drago Lunare"
+
+[LevelSummary]
+; EN: Title="Moon Dragon"
+Title="Drago Lunare"
+; EN: Description="In the depths of ancient Korea, hidden high up in the Mountain of the Moon Dragon, battles rage between brave warriors."
+Description="Nelle profondità dell'antica Corea, nascoste in alto nella Montagna del Drago della Luna, le battaglie infuriano tra coraggiosi guerrieri."
+
+[Volume10]
+; EN: LocationName="Red Flag Room"
+LocationName="Sala Bandiera Rossa"
+
+[Volume11]
+; EN: LocationName="Red Base Entrances"
+LocationName="Ingressi della Base Rossa"
+
+[Volume12]
+; EN: LocationName="Central Cave"
+LocationName="Grotta Centrale"
+
+[Volume14]
+; EN: LocationName="Blue Shield Side"
+LocationName="Lato Scudo Blu"
+
+[Volume17]
+; EN: LocationName="Blue Base Entrances"
+LocationName="Ingressi Base Blu"
+
+[Volume18]
+; EN: LocationName="Blue Center"
+LocationName="Centro Blu"
+
+[Volume19]
+; EN: LocationName="Blue Fortress Area"
+LocationName="Zona della Fortezza Blu"
+
+[Volume20]
+; EN: LocationName="Red Fortress Area"
+LocationName="Zona della Fortezza Rossa"
+
+[Volume21]
+; EN: LocationName="Central Cave"
+LocationName="Grotta Centrale"
+
+[Volume3]
+; EN: LocationName="Red Center"
+LocationName="centro rosso"
+
+[Volume6]
+; EN: LocationName="Red Shield Side"
+LocationName="Lato Scudo Rosso"
+
+[Volume7]
+; EN: LocationName="Red Side Route"
+LocationName="Percorso lato rosso"
+
+[Volume8]
+; EN: LocationName="Blue Side Route"
+LocationName="Percorso laterale blu"
+
+[Volume9]
+; EN: LocationName="Blue Flag Room"
+LocationName="Sala Bandiera Blu"
+
+[xBlueFlagBase1]
+; EN: ObjectiveName="BlueFlag"
+ObjectiveName="Bandiera Blu"
+

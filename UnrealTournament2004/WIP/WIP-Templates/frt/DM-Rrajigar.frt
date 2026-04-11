@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 
 [LevelSummary]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 ; EN: Description="Fight in the Rrajigar mines."
-Description="Combattez dans les mines de Rrajigar."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Machine Area"
-LocationName="Zone des machines"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="WaterFall"
-LocationName="Cascade"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Shield Area"
-LocationName="Zone de bouclier"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Shock Area"
-LocationName="Zone de choc"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="River"
-LocationName="fleuve"
+LocationName=""
 

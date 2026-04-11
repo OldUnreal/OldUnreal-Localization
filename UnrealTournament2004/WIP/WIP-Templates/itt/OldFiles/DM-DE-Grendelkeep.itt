@@ -1,0 +1,82 @@
+﻿[LevelInfo0]
+Title="Grendelkeep"
+
+[LevelInfo6]
+Title="Grendelkeep"
+
+[LevelSummary]
+Title="Grendelkeep"
+; EN: Description="Prieth Callas was a hard, cruel man, fond of torturing his enemies before sending them to their deaths. He raised creatures of great size and ferocity, setting them against his prisoners in arenas of his own creation. Grendelkeep is the last of his diabolical constructions, left to fall into ruin after Callas was dragged from the battlements by his own men and fed to the creatures he bred in the dark kennels below. The rain has washed away the blood, but the evil that bred here has left a much deeper stain."
+Description="Prieth Callas era un uomo duro e crudele, appassionato di torturare i suoi nemici prima di mandarli alla morte. Ha allevato creature di grandi dimensioni e ferocia, mettendole contro i suoi prigionieri in arene di sua creazione. Grendelkeep è l'ultima delle sue costruzioni diaboliche, lasciata cadere in rovina dopo che Callas è stato trascinato dai bastioni dai suoi stessi uomini e dato in pasto alle creature che ha allevato negli oscuri canili sottostanti. La pioggia ha lavato via il sangue, ma il male che si è generato qui ha lasciato una macchia molto più profonda."
+
+[ZoneInfo0]
+; EN: LocationName="Great Room Hall"
+LocationName="Sala Grande Sala"
+
+[ZoneInfo1]
+; EN: LocationName="Great Room"
+LocationName="Bella stanza"
+
+[ZoneInfo10]
+; EN: LocationName="Sniper Nest"
+LocationName="Nido di cecchino"
+
+[ZoneInfo11]
+; EN: LocationName="Great Room Hall"
+LocationName="Sala Grande Sala"
+
+[ZoneInfo12]
+; EN: LocationName="Lower Flak Hall"
+LocationName="Sala Flak Inferiore"
+
+[ZoneInfo13]
+; EN: LocationName="Lower Flak Hall"
+LocationName="Sala Flak Inferiore"
+
+[ZoneInfo14]
+; EN: LocationName="Great Room Hall"
+LocationName="Sala Grande Sala"
+
+[ZoneInfo2]
+LocationName="Great Amp Hall"
+
+[ZoneInfo28]
+; EN: LocationName="Upper Rocket Hall"
+LocationName="Sala dei razzi superiore"
+
+[ZoneInfo3]
+; EN: LocationName="Upper Rocket Hall"
+LocationName="Sala dei razzi superiore"
+
+[ZoneInfo30]
+; EN: LocationName="Great Room"
+LocationName="Bella stanza"
+
+[ZoneInfo31]
+; EN: LocationName="Great Room"
+LocationName="Bella stanza"
+
+[ZoneInfo4]
+; EN: LocationName="Great Room"
+LocationName="Bella stanza"
+
+[ZoneInfo5]
+; EN: LocationName="Upper Rocket Hall"
+LocationName="Sala dei razzi superiore"
+
+[ZoneInfo6]
+; EN: LocationName="Mini Hall"
+LocationName="Mini Sala"
+
+[ZoneInfo7]
+; EN: LocationName="Mini Hall"
+LocationName="Mini Sala"
+
+[ZoneInfo8]
+; EN: LocationName="Great Tower"
+LocationName="Grande Torre"
+
+[ZoneInfo9]
+; EN: LocationName="Sniper Nest"
+LocationName="Nido di cecchino"
+

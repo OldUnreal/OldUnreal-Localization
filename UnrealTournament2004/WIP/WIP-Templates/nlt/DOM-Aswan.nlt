@@ -1,36 +1,46 @@
 ﻿[LevelInfo0]
-Title="Aswan"
+; EN: Title="Aswan"
+Title=""
 
 [LevelSummary]
-Title="Aswan"
+; EN: Title="Aswan"
+Title=""
 ; EN: Description="Deep in the heart of the Ocean of Dunes, a small oasis of civilization welcomes the weary traveler. Any who step through the gates of the Temple of Aswan are welcome, though none may leave without taking part in the trials. The Anubans have used the trials as a means to test their prospective competitors for hundreds of years. Success means fame and glory, failure means the scavengers pick the meat from your bones. Are you really that thirsty?"
-Description="Diep in het hart van de oceaan van duinen verwelkomt een kleine oase van beschaving de vermoeide reiziger. Iedereen die door de poorten van de tempel van Aswan stapt, is welkom, hoewel niemand mag vertrekken zonder deel te nemen aan de beproevingen. De Anubans gebruiken de proeven al honderden jaren om hun potentiële concurrenten te testen. Succes betekent roem en glorie, falen betekent dat de aaseters het vlees van je botten plukken. Heb je echt zo'n dorst?"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Middle"
-LocationName="Midden"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="B-BackRoom"
+; EN: LocationName="B Back Room"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="A-BackRoom"
+; EN: LocationName="A Back Room"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="A-FlakCannon"
+; EN: LocationName="A Flak Cannon"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="A-RocketLauncher"
+; EN: LocationName="A Rocket Launcher"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="B-FlakCannon"
+; EN: LocationName="B Flak Cannon"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="B-RocketLauncher"
+; EN: LocationName="B Rocket Launcher"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="BlueSpawn"
+; EN: LocationName="Blue Spawn"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="RedSpawn"
+; EN: LocationName="Red Spawn"
+LocationName=""
 

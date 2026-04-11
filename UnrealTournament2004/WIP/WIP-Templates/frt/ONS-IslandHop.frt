@@ -1,130 +1,106 @@
 ﻿[LevelInfo0]
 ; EN: Title="Island Hop"
-Title="Houblon des îles"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Island Hop"
-Title="Houblon des îles"
+Title=""
 ; EN: Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
-Description="Cet archipel volcanique a servi autrefois de porte d'entrée aux guerres humaines du XXIe siècle. Transformé pour une utilisation en tournoi, une série de ponts relie désormais les îles. Ces ponts, bien qu'excellents pour les véhicules terrestres, ne fournissent pas un chemin direct vers la bataille. Les mantas seront le premier choix pour le transport."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Southwest Island"
-LocationName="Île du Sud-Ouest"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Southwest Island"
-LocationName="Île du Sud-Ouest"
+LocationName=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="West Island"
-LocationName="Ouest de l'île"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Northwest Island"
-LocationName="Île du Nord-Ouest"
+LocationName=""
+
+[Volume13]
+; EN: LocationName="Northwest Node (1)"
+LocationName=" (1)"
 
 [Volume14]
 ; EN: LocationName="Northwest Island"
-LocationName="Île du Nord-Ouest"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Northeast Island"
-LocationName="Île du Nord-Est"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Northeast Island"
-LocationName="Île du Nord-Est"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Northeast Island"
-LocationName="Île du Nord-Est"
+LocationName=""
+
+[Volume18]
+; EN: LocationName="Blue Prime Node (4)"
+LocationName=" (4)"
 
 [Volume19]
 ; EN: LocationName="East Island"
-LocationName="Île de l'Est"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southwest Island"
-LocationName="Île du Sud-Ouest"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Small Northeast Island"
-LocationName="Petite île du nord-est"
+LocationName=""
+
+[Volume21]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="East Island"
-LocationName="Île de l'Est"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Southeast Island"
-LocationName="Île du Sud-Est"
+LocationName=""
+
+[Volume24]
+; EN: LocationName="Southeast Node (3)"
+LocationName=" (3)"
 
 [Volume25]
 ; EN: LocationName="Southeast Island"
-LocationName="Île du Sud-Est"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Volcano"
-LocationName="Volcan"
+LocationName=""
+
+[Volume3]
+; EN: LocationName="Red Prime Node (2)"
+LocationName=" (2)"
 
 [Volume5]
 ; EN: LocationName="West Island"
-LocationName="Ouest de l'île"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Small Southwest Island"
-LocationName="Petite île du sud-ouest"
-
-[WaterVolume1]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume18]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume19]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume20]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume23]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume24]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume25]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume26]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume27]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume28]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume3]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
-
-[WaterVolume31]
-; EN: LocationName="Under Water"
-LocationName="Sous-marin"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="À l'extérieur"
+LocationName=""
 

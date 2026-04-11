@@ -1,34 +1,34 @@
 ﻿[LevelInfo0]
 ; EN: Title="Primeval"
-Title="Primitif"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Primeval"
-Title="Primitif"
+Title=""
 ; EN: Description="Nestled away in the darkness of the Primeval Forest, this Onslaught arena is a favorite of loggers and treehuggers alike."
-Description="Nichée dans les ténèbres de la forêt vierge, cette arène d'Onslaught est la préférée des bûcherons et des écologistes."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Red Base"
-LocationName="Base rouge"
+LocationName=""
 
 [Volume2]
-; EN: LocationName="Red Side Base"
-LocationName="Base latérale rouge"
+; EN: LocationName="Red Side Base (1)"
+LocationName=" (1)"
 
 [Volume3]
-; EN: LocationName="Center Node"
-LocationName="Nœud central"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [Volume4]
-; EN: LocationName="Blue Side Base"
-LocationName="Base latérale bleue"
+; EN: LocationName="Blue Side Base (2)"
+LocationName=" (2)"
 
 [Volume5]
 ; EN: LocationName="Blue Base"
-LocationName="Base bleue"
+LocationName=""
 
 [ZoneInfo0]
-; EN: LocationName="Wandering in the woods"
-LocationName="Se promener dans les bois"
+; EN: LocationName="Wandering in the Woods"
+LocationName=""
 

@@ -1,102 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Metallurgy"
-Title="Hutnictví"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Metallurgy"
-Title="Hutnictví"
+Title=""
 ; EN: Description="Separating the fast from the slow, the strong from the weak, the skilled from the incompetent - Metallurgy will test your mettle."
-Description="Oddělování rychlých od pomalých, silných od slabých, zručných od neschopných – metalurgie prověří vaši odvahu."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Near the fuel tanker"
-LocationName="V blízkosti palivové cisterny"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Outside the molten metal cascade"
-LocationName="Mimo kaskádu roztaveného kovu"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Beneath the ducts of molten metal"
-LocationName="Pod kanály roztaveného kovu"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Between the pillars"
-LocationName="Mezi sloupy"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Between the pillars"
-LocationName="Mezi sloupy"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Second floor deck"
-LocationName="Paluba ve druhém patře"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Second floor deck"
-LocationName="Paluba ve druhém patře"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Second floor deck"
-LocationName="Paluba ve druhém patře"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="First floor deck"
-LocationName="Paluba v prvním patře"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="First floor deck"
-LocationName="Paluba v prvním patře"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="First floor deck"
-LocationName="Paluba v prvním patře"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="On the roof"
-LocationName="Na střeše"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southern exterior"
-LocationName="Jižní exteriér"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Western exterior"
-LocationName="Západní exteriér"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Northern exterior"
-LocationName="Severní exteriér"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Northern exterior"
-LocationName="Severní exteriér"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Northern exterior"
-LocationName="Severní exteriér"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Northern exterior"
-LocationName="Severní exteriér"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Communication tower"
-LocationName="Komunikační věž"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Above the ducts of molten metal"
-LocationName="Nad kanály roztaveného kovu"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Molten metal cascade"
-LocationName="Kaskáda roztaveného kovu"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Interior atrium"
-LocationName="Vnitřní atrium"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Interior ground floor"
-LocationName="Interiér přízemí"
+LocationName=""
 

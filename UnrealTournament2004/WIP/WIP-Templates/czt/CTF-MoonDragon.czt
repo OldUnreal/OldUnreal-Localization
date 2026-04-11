@@ -1,70 +1,66 @@
 ﻿[LevelInfo0]
 ; EN: Title="Moon Dragon"
-Title="Měsíční drak"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Moon Dragon"
-Title="Měsíční drak"
+Title=""
 ; EN: Description="In the depths of ancient Korea, hidden high up in the Mountain of the Moon Dragon, battles rage between brave warriors."
-Description="V hlubinách starověké Koreje, ukryté vysoko v Hoře Měsíčního draka, zuří bitvy mezi statečnými válečníky."
+Description=""
 
 [Volume10]
 ; EN: LocationName="Red Flag Room"
-LocationName="Místnost s červenou vlajkou"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Entrances"
-LocationName="Vstupy do červené základny"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Central Cave"
-LocationName="Centrální jeskyně"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Shield Side"
-LocationName="Modrá strana štítu"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Blue Base Entrances"
-LocationName="Modré základní vchody"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Blue Center"
-LocationName="Modrý střed"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Blue Fortress Area"
-LocationName="Oblast modré pevnosti"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Red Fortress Area"
-LocationName="Oblast Červené pevnosti"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Central Cave"
-LocationName="Centrální jeskyně"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Center"
-LocationName="Červený střed"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Shield Side"
-LocationName="Strana červeného štítu"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Side Route"
-LocationName="Červená boční trasa"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Side Route"
-LocationName="Modrá boční cesta"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Místnost s modrou vlajkou"
-
-[xBlueFlagBase1]
-; EN: ObjectiveName="BlueFlag"
-ObjectiveName="Modrá vlajka"
+LocationName=""
 

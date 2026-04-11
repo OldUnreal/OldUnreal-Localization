@@ -1,50 +1,50 @@
 ﻿[LevelInfo0]
 ; EN: Title="Serenity"
-Title="Serenidade"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Serenity"
-Title="Serenidade"
+Title=""
 ; EN: Description="Feel the gentle breeze on your skin, hear the calming sounds of the forest, watch the fireflies dance in the clearing and surrender yourself to a growing sense of serenity.  Now ... collect your Flak Cannon and wreak havoc!"
-Description="Sinta a brisa suave em sua pele, ouça os sons calmantes da floresta, observe os vaga-lumes dançando na clareira e entregue-se a uma crescente sensação de serenidade. Agora ... colete seu Canhão Flak e cause estragos!"
+Description=""
 
 [Volume1]
 ; EN: LocationName="blue side of center field"
-LocationName="lado azul do campo central"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="center field"
-LocationName="campo central"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="red base"
-LocationName="base vermelha"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="red side of center field"
-LocationName="lado vermelho do campo central"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="blue base"
-LocationName="base azul"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="in a watery grave"
-LocationName="em uma sepultura aquosa"
+LocationName=""
 
 [WaterVolume1]
 ; EN: LocationName="in a watery grave"
-LocationName="em uma sepultura aquosa"
+LocationName=""
 
 [WaterVolume2]
 ; EN: LocationName="hiding in the center field waterfall"
-LocationName="escondido na cachoeira do campo central"
+LocationName=""
 
 [xFallingVolume0]
 ; EN: LocationName="falling to a watery grave"
-LocationName="caindo em uma sepultura aquosa"
+LocationName=""
 
 [xFallingVolume1]
 ; EN: LocationName="falling to a watery grave"
-LocationName="caindo em uma sepultura aquosa"
+LocationName=""
 

@@ -1,62 +1,66 @@
 ﻿[LevelInfo0]
-Title="Hot Iron Injector"
+; EN: Title="Hot Iron Injector"
+Title=""
 
 [LevelSummary]
-Title="Hot Iron Injector"
+; EN: Title="Hot Iron Injector"
+Title=""
 ; EN: Description="A recent and complex addition to the tournament, Injector is a twisting maze of imposing architecture, duct work, and generators. Watch yourself in the tighter corridors and make sure you keep your eyes peeled when going for the super shield!"
-Description="Injector är ett nytt och komplext tillägg till turneringen och är en slingrande labyrint av imponerande arkitektur, kanalarbeten och generatorer. Se dig själv i de snävare korridorerna och se till att du håller ögonen öppna när du går efter superskölden!"
+Description=""
 
 [ZoneInfo0]
-LocationName="Supershield"
+; EN: LocationName="Supershield"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Double Damage"
-LocationName="Dubbel skada"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Hall O Death"
-LocationName="Hall O Döden"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Elbow"
-LocationName="Armbåge"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Small of Elbow"
-LocationName="Liten av armbåge"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Link Ammo"
-LocationName="Länk ammunition"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Toilet"
-LocationName="Toalett"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Lightning Gun"
-LocationName="Blixtpistol"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Electric Hall"
-LocationName="Elektrisk Hall"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Shock and BioRifle"
-LocationName="Shock och BioRifle"
+; EN: LocationName="Shock and Bio Rifle"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RL and Link"
-LocationName="RL och Link"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Closet"
-LocationName="Garderob"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="Hangar"
+; EN: LocationName="Hangar"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Double Damage"
-LocationName="Dubbel skada"
+LocationName=""
 

@@ -1,50 +1,50 @@
 ﻿[LevelInfo0]
 ; EN: Title="Canyon"
-Title="キャニオン"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Canyon"
-Title="キャニオン"
-; EN: Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river.  Swimming is NOT recommended."
-Description="凶悪で血なまぐさい戦闘と素晴らしいアウトドア-誰がもっと頼むことができますか？この小さなアリーナは、動きの速い、致命的な川によって分けられています。水泳はお勧めしません。"
+Title=""
+; EN: Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river. Swimming is NOT recommended."
+Description=""
 
 [Volume1]
 ; EN: LocationName="Blue Sniper Roost"
-LocationName="ブルースナイパールースト"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Blue Bomb Goal"
-LocationName="青い爆弾の目標"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue South Spawn Pool"
-LocationName="ブルーサウススポーンプール"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue North Spawn Pool"
-LocationName="ブルーノーススポーンプール"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Sniper Roost"
-LocationName="レッドスナイパールースト"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red North Spawn Pool"
-LocationName="レッドノーススポーンプール"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Red South Spawn Pool"
-LocationName="レッドサウススポーンプール"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Bomb Goal"
-LocationName="赤い爆弾の目標"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="With the Fishes"
-LocationName="魚と"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="外"
+LocationName=""
 

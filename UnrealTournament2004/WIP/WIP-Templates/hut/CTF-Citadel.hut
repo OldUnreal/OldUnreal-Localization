@@ -1,92 +1,96 @@
 ﻿[LevelInfo0]
 ; EN: Title="Citadel"
-Title="Fellegvár"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Citadel"
-Title="Fellegvár"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Middle Bridge"
-LocationName="Középső híd"
+LocationName=""
 
 [Volume1]
-LocationName="Red High Bridge"
+; EN: LocationName="Red High Bridge"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="Vörös lejtős bejárat"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Entrance"
-LocationName="Piros bejárat"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Blue Entrance"
-LocationName="Kék bejárat"
+LocationName=""
 
 [Volume2]
-LocationName="Red Low Bridge"
+; EN: LocationName="Red Low Bridge"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Low Bridge"
-LocationName="Kék alacsony híd"
+LocationName=""
 
 [Volume4]
-LocationName="Blue High Bridge"
+; EN: LocationName="Blue High Bridge"
+LocationName=""
 
 [Volume5]
-LocationName="Blue Mesa"
+; EN: LocationName="Blue Mesa"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Mesa"
-LocationName="Vörös Mesa"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="Kék lejtős bejárat"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Kék zászló bázis"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Flag Base"
-LocationName="Vörös zászló bázis"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="Kék lejtős bejárat"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="Vörös lejtős bejárat"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Flag Base"
-LocationName="Vörös zászló bázis"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Entrance"
-LocationName="Piros bejárat"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Entrance"
-LocationName="Piros bejárat"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Entrance"
-LocationName="Kék bejárat"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Entrance"
-LocationName="Kék bejárat"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Kék zászlós szoba"
+LocationName=""
 

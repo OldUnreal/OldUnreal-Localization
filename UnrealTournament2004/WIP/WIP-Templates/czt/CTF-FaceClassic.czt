@@ -1,93 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Face Classic"
-Title="Klasický obličej"
+Title=""
 
 [LevelInfo13]
-; EN: Title="Facing Worlds"
-Title="Tváří v tvář světům"
+; EN: Title="Face Classic"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Face Classic"
-Title="Klasický obličej"
+Title=""
 ; EN: Description="This island-asteroid and its two towers have proven to be a perfect setting for Tournament CTF matches, so face your enemy and let the games begin!"
-Description="Tento ostrovní asteroid a jeho dvě věže se ukázaly jako perfektní prostředí pro turnajové zápasy CTF, takže postavte se svému nepříteli a nechte hry začít!"
+Description=""
 
 [Volume0]
-LocationName="Blue Base Lower Sniper Loft"
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName=""
 
 [Volume1]
-LocationName="Blue Base Top Sniper Ledge"
+; EN: LocationName="Blue Base Top Sniper Ledge"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Base Top Sniper Ledge"
-LocationName="Sniper Ledge s červenou základnou"
+LocationName=""
 
 [Volume3]
-LocationName="Red Base Lower Sniper Loft"
+; EN: LocationName="Red Base Lower Sniper Loft"
+LocationName=""
 
 [Volume4]
-LocationName="Central Open Ground"
+; EN: LocationName="Central Open Ground"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Červená základna Dolní úroveň"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Red Base Top Sniper Ledge"
-LocationName="Sniper Ledge s červenou základnou"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Side Open Ground"
-LocationName="Modrá strana otevřená půda"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Modrá základna Dolní úroveň"
+LocationName=""
 
 [ZoneInfo19]
-LocationName="Blue Base Top Sniper Ledge"
+; EN: LocationName="Blue Base Top Sniper Ledge"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="Red Base Lower Sniper Loft"
+; EN: LocationName="Red Base Lower Sniper Loft"
+LocationName=""
 
 [ZoneInfo20]
-LocationName="Blue Base Lower Sniper Loft"
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="Blue Base Redeemer Loft"
+; EN: LocationName="Blue Base Redeemer Loft"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Blue Base Entrance"
-LocationName="Modrý základní vchod"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Modrá základna Dolní úroveň"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Base Lower Level"
-LocationName="Modrá základna Dolní úroveň"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Red Base Redeemer Loft"
+; EN: LocationName="Red Base Redeemer Loft"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Base Entrance"
-LocationName="Vstup do červené základny"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Červená základna Dolní úroveň"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Červená základna Dolní úroveň"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Base Lower Level"
-LocationName="Červená základna Dolní úroveň"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Side Open Ground"
-LocationName="Červená strana otevřená půda"
+LocationName=""
 

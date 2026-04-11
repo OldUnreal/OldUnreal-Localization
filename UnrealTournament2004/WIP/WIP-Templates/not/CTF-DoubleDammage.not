@@ -1,248 +1,250 @@
 ﻿[LevelInfo0]
 ; EN: Title="Double Dammage"
-Title="Dobbel skade"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Double Dammage"
-Title="Dobbel skade"
+Title=""
 ; EN: Description="Some people would say you'd have to be insane to play atop a water dam in the middle of winter.  Around here, we call those people "victims"."
-Description="Noen vil si at du må være gal for å leke på toppen av en vanndemning midt på vinteren. Her rundt kaller vi disse menneskene for "ofre"."
+Description=""
 
 [PhysicsVolume1]
 ; EN: LocationName="Ice Field"
-LocationName="Is felt"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Rom med blått flagg"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Back Room"
-LocationName="Blått bakrom"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Back Room"
-LocationName="Blått bakrom"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rom med rødt flagg"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Back Room"
-LocationName="Rødt bakrom"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Blå entré"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blå foaje"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Blå Venstre Øvre Hall"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Blå Venstre Øvre Hall"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Blå Høyre Øvre Hall"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Blå Høyre Øvre Hall"
+LocationName=""
 
 [ZoneInfo44]
-LocationName="Red Sniper Lift"
+; EN: LocationName="Red Sniper Lift"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Red Back Room"
-LocationName="Rødt bakrom"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Red Back Room"
-LocationName="Rødt bakrom"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Rød entré"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Red Foyer"
-LocationName="Rød foaje"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Rød Venstre Øvre Hall"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Back Room"
-LocationName="Blått bakrom"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Rød Venstre Øvre Hall"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Rød Høyre Øvre Hall"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Rød Høyre Øvre Hall"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Rød Høyre Øvre Hall"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Red Foyer"
-LocationName="Rød foaje"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="Red Upper Foyer"
-LocationName="Rød øvre foaje"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="Red Upper Foyer"
-LocationName="Rød øvre foaje"
+LocationName=""
 
 [ZoneInfo58]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Rød Venstre Øvre Hall"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Rød venstre gang"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Blue Sniper Lift"
+; EN: LocationName="Blue Sniper Lift"
+LocationName=""
 
 [ZoneInfo60]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Blå Høyre Øvre Hall"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="Red Foyer"
-LocationName="Rød foaje"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Red Foyer"
-LocationName="Rød foaje"
+LocationName=""
 
 [ZoneInfo63]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Rød venstre gang"
+LocationName=""
 
 [ZoneInfo64]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Rød venstre gang"
+LocationName=""
 
 [ZoneInfo65]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Rød venstre gang"
+LocationName=""
 
 [ZoneInfo66]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blå foaje"
+LocationName=""
 
 [ZoneInfo67]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Rød høyre gang"
+LocationName=""
 
 [ZoneInfo68]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Rød høyre gang"
+LocationName=""
 
 [ZoneInfo69]
 ; EN: LocationName="Red Foyer"
-LocationName="Rød foaje"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Outside"
-LocationName="Utenfor"
+LocationName=""
 
 [ZoneInfo70]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blå foaje"
+LocationName=""
 
 [ZoneInfo71]
 ; EN: LocationName="Red Storage Room"
-LocationName="Rød bod"
+LocationName=""
 
 [ZoneInfo72]
 ; EN: LocationName="Red Storage Room"
-LocationName="Rød bod"
+LocationName=""
 
 [ZoneInfo73]
 ; EN: LocationName="Red Storage Room"
-LocationName="Rød bod"
+LocationName=""
 
 [ZoneInfo74]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Rød høyre gang"
+LocationName=""
 
 [ZoneInfo75]
 ; EN: LocationName="Blue Upper Foyer"
-LocationName="Blå Øvre Foaje"
+LocationName=""
 
 [ZoneInfo76]
 ; EN: LocationName="Blue Upper Foyer"
-LocationName="Blå Øvre Foaje"
+LocationName=""
 
 [ZoneInfo77]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Blå Venstre Øvre Hall"
+LocationName=""
 
 [ZoneInfo78]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Blå venstre gang"
+LocationName=""
 
 [ZoneInfo79]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blå foaje"
+LocationName=""
 
 [ZoneInfo80]
 ; EN: LocationName="Blue Foyer"
-LocationName="Blå foaje"
+LocationName=""
 
 [ZoneInfo81]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Blå venstre gang"
+LocationName=""
 
 [ZoneInfo82]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Blå venstre gang"
+LocationName=""
 
 [ZoneInfo83]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Blå venstre gang"
+LocationName=""
 
 [ZoneInfo84]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Blå høyre gang"
+LocationName=""
 
 [ZoneInfo85]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Blå høyre gang"
+LocationName=""
 
 [ZoneInfo87]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Blå bod"
+LocationName=""
 
 [ZoneInfo88]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Blå bod"
+LocationName=""
 
 [ZoneInfo89]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Blå bod"
+LocationName=""
 
 [ZoneInfo90]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Blå høyre gang"
+LocationName=""
 

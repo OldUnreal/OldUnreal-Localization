@@ -1,96 +1,96 @@
 ﻿[LevelInfo0]
 ; EN: Title="Citadel"
-Title="シタデル"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Citadel"
-Title="シタデル"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Middle Bridge"
-LocationName="ミドルブリッジ"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red High Bridge"
-LocationName="レッドハイブリッジ"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="赤い傾斜した入り口"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Entrance"
-LocationName="赤い入り口"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Blue Entrance"
-LocationName="青い入り口"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Low Bridge"
-LocationName="レッドローブリッジ"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Low Bridge"
-LocationName="ブルーローブリッジ"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue High Bridge"
-LocationName="ブルーハイブリッジ"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Mesa"
-LocationName="ブルーメサ"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Mesa"
-LocationName="レッドメサ"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="青い傾斜した入り口"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Flag Base"
-LocationName="ブルーフラッグベース"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Flag Base"
-LocationName="レッドフラッグベース"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="青い傾斜した入り口"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="外"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="赤い傾斜した入り口"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Flag Base"
-LocationName="レッドフラッグベース"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Entrance"
-LocationName="赤い入り口"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Entrance"
-LocationName="赤い入り口"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Entrance"
-LocationName="青い入り口"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Entrance"
-LocationName="青い入り口"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="ブルーフラッグルーム"
+LocationName=""
 

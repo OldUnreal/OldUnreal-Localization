@@ -1,84 +1,88 @@
 ﻿[ASTurret_IonCannon]
 ; EN: VehiclePositionString="manning an Ion Cannon"
-VehiclePositionString="egy ionágyú legénysége"
-VehicleNameString="Ion Cannon"
+VehiclePositionString=""
+; EN: VehicleNameString="Ion Cannon"
+VehicleNameString=""
 
 [ASTurret_LinkTurret]
 ; EN: VehiclePositionString="manning a Link Turret"
-VehiclePositionString="egy Link Torony személyzete"
+VehiclePositionString=""
 ; EN: VehicleNameString="Link Turret"
-VehicleNameString="Link Torony"
+VehicleNameString=""
 
 [ASVehicle_SpaceFighter_Human]
-; EN: VehiclePositionString="in a spacefighter"
-VehiclePositionString="egy űrrepülőben"
+; EN: VehiclePositionString="in a Human Spacefighter"
+VehiclePositionString=""
 ; EN: VehicleNameString="Human Spacefighter"
-VehicleNameString="Emberi űrharcos"
+VehicleNameString=""
 
 [ASVehicle_SpaceFighter_Skaarj]
-VehicleNameString="Skaarj Spacefighter"
+; EN: VehiclePositionString="in a Skaarj Spacefighter"
+VehiclePositionString=""
+; EN: VehicleNameString="Skaarj Spacefighter"
+VehicleNameString=""
 
 [DamTypeBallTurretPlasma]
 ; EN: DeathString="%o was served an extra helping of %k's plasma."
-DeathString="%o extra adagot kapott %k plazmájából."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own plasma blast."
-FemaleSuicide="%o megsütötte magát a saját plazmarobbantásával."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own plasma blast."
-MaleSuicide="%o megsütötte magát a saját plazmarobbantásával."
+MaleSuicide=""
 
 [DamTypeIonCannonBlast]
-; EN: DeathString="%o was OBLITERATED by %k"
-DeathString="%o-t %k TÖRÖLT"
-; EN: FemaleSuicide="%o was OBLITERATED"
-FemaleSuicide="%o TÖRLÉSRE került"
-; EN: MaleSuicide="%o was OBLITERATED"
-MaleSuicide="%o TÖRLÉSRE került"
+; EN: DeathString="%o was OBLITERATED by %k!"
+DeathString=""
+; EN: FemaleSuicide="%o was OBLITERATED!"
+FemaleSuicide=""
+; EN: MaleSuicide="%o was OBLITERATED!"
+MaleSuicide=""
 
 [DamTypeLinkTurretBeam]
 ; EN: DeathString="%o was carved up by %k's green shaft."
-DeathString="%o-t %k zöld szára faragta ki."
+DeathString=""
 ; EN: FemaleSuicide="%o shafted herself."
-FemaleSuicide="%o megfejelte magát."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o shafted himself."
-MaleSuicide="%o megakasztotta magát."
+MaleSuicide=""
 
 [DamTypeLinkTurretPlasma]
 ; EN: DeathString="%o was served an extra helping of %k's plasma."
-DeathString="%o extra adagot kapott %k plazmájából."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own plasma blast."
-FemaleSuicide="%o megsütötte magát a saját plazmarobbantásával."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own plasma blast."
-MaleSuicide="%o megsütötte magát a saját plazmarobbantásával."
+MaleSuicide=""
 
 [DamTypeSpaceFighterLaser]
 ; EN: DeathString="%o was served an extra helping of %k's lasers."
-DeathString="%o extra segítséget kapott %k lézereiből."
+DeathString=""
 ; EN: FemaleSuicide="%o fried herself with her own laser blast."
-FemaleSuicide="%o megsütötte magát a saját lézerfújásával."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fried himself with his own laser blast."
-MaleSuicide="%o megsütötte magát a saját lézerfújásával."
+MaleSuicide=""
 
 [DamTypeSpaceFighterMissile]
 ; EN: DeathString="%o couldn't avoid %k's missile."
-DeathString="%o nem tudta elkerülni %k rakétáját."
+DeathString=""
 ; EN: FemaleSuicide="%o blasted herself out of space."
-FemaleSuicide="%o kirobbantotta magát az űrből."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o blasted himself out of space."
-MaleSuicide="%o kirobbantotta magát az űrből."
+MaleSuicide=""
 
 [Weapon_LinkTurret]
 ; EN: ItemName="Turret weapon"
-ItemName="Torony fegyver"
+ItemName=""
 
 [Weapon_SpaceFighter]
 ; EN: ItemName="SpaceFighter weapon"
-ItemName="SpaceFighter fegyver"
+ItemName=""
 
 [Weapon_Turret]
 ; EN: ItemName="Turret weapon"
-ItemName="Torony fegyver"
+ItemName=""
 
 [Weapon_Turret_IonCannon]
 ; EN: ItemName="Ion Cannon Turret weapon"
-ItemName="Ion Cannon Turret fegyver"
+ItemName=""
 

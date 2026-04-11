@@ -1,0 +1,46 @@
+﻿[LevelInfo0]
+; EN: Title="Dawn"
+Title="Alba"
+
+[LevelSummary]
+; EN: Title="Dawn"
+Title="Alba"
+; EN: Description="When Government prospectors happened upon this planet, Liandri knew they had found their next Onslaught arena. A primordial world still in the early stages of life, the lush landscape and rolling hills provide a serene and fitting environment for wholesale destruction."
+Description="Quando i cercatori governativi arrivarono su questo pianeta, Liandri sapeva di aver trovato la loro prossima arena del massacro. Un mondo primordiale ancora nelle prime fasi della vita, il paesaggio lussureggiante e le dolci colline forniscono un ambiente sereno e adatto per la distruzione totale."
+
+[Volume0]
+; EN: LocationName="Blue Base"
+LocationName="Base Blu"
+
+[Volume1]
+; EN: LocationName="Red Base"
+LocationName="Base Rossa"
+
+[Volume10]
+; EN: LocationName="Central West Node"
+LocationName="Nodo centro-occidentale"
+
+[Volume5]
+; EN: LocationName="Northeast Node"
+LocationName="Nodo Nordest"
+
+[Volume6]
+; EN: LocationName="Northwest Node"
+LocationName="Nodo Nord-Ovest"
+
+[Volume7]
+; EN: LocationName="Southwest Node"
+LocationName="Nodo Sud-Ovest"
+
+[Volume8]
+; EN: LocationName="Southeast Node"
+LocationName="Nodo Sud-Est"
+
+[Volume9]
+; EN: LocationName="Central East Node"
+LocationName="Nodo Centro-Orientale"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Al di fuori"
+

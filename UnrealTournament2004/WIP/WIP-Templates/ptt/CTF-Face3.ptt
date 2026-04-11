@@ -1,102 +1,108 @@
 ﻿[LevelInfo0]
 ; EN: Title="Facing Worlds 3"
-Title="Enfrentando os mundos 3"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Facing Worlds 3"
-Title="Enfrentando os mundos 3"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Red Level 3"
-LocationName="Nível Vermelho 3"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Level 3"
-LocationName="Nível Azul 3"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Shield"
-LocationName="Escudo vermelho"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Blue Shield"
-LocationName="Escudo Azul"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Backdoor"
-LocationName="Porta traseira vermelha"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Backdoor"
-LocationName="Porta traseira azul"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Blue Level 2"
-LocationName="Nível Azul 2"
+LocationName=""
 
 [Volume3]
-; EN: LocationName="Red Level2"
-LocationName="Nível 2 Vermelho"
+; EN: LocationName="Red Level 2"
+LocationName=""
 
 [Volume4]
-LocationName="Blue Flak"
+; EN: LocationName="Blue Flak"
+LocationName=""
 
 [Volume5]
-LocationName="Red Flak"
+; EN: LocationName="Red Flak"
+LocationName=""
 
 [Volume6]
-LocationName="Blue Flak"
+; EN: LocationName="Blue Flak"
+LocationName=""
 
 [Volume7]
-LocationName="Blue Flak"
+; EN: LocationName="Blue Flak"
+LocationName=""
 
 [Volume8]
-LocationName="Red Flak"
+; EN: LocationName="Red Flak"
+LocationName=""
 
 [Volume9]
-LocationName="Red Flak"
+; EN: LocationName="Red Flak"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Base"
-LocationName="Base Azul"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Red Minigun"
-LocationName="Minigun Vermelha"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Pillars"
-LocationName="Pilares Vermelhos"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Minigun"
-LocationName="Minigun Azul"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Minigun"
-LocationName="Minigun Azul"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Pillars"
-LocationName="Pilares Azuis"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Minigun"
-LocationName="Minigun Azul"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Outside"
-LocationName="Lado de fora"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Red Base"
-LocationName="Base Vermelha"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Minigun"
-LocationName="Minigun Vermelha"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Minigun"
-LocationName="Minigun Vermelha"
+LocationName=""
 

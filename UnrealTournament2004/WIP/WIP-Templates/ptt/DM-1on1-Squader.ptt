@@ -1,49 +1,58 @@
 ﻿[LevelInfo0]
-Title="Squader"
+; EN: Title="Squader"
+Title=""
 
 [LevelSummary]
-Title="Squader"
+; EN: Title="Squader"
+Title=""
 ; EN: Description="Once a section of a hidden military research facility, this cold structure now hosts some of the premiere 1 on 1 duels from the Tournament. The pressure is on.....how will you handle the spotlight?"
-Description="Outrora uma seção de uma instalação de pesquisa militar escondida, esta estrutura fria agora hospeda alguns dos primeiros duelos 1 a 1 do Torneio. A pressão está forte ... como você lidará com os holofotes?"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Super Shield Area"
-LocationName="Área de Super Shield"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="UDamage Halls"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="UDamage Halls"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Super Shield Area"
-LocationName="Área de Super Shield"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="Minigun Lift"
+; EN: LocationName="Minigun Lift"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Flak Hall"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="Flak Hall"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Double Health"
-LocationName="Saúde Dupla"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Bio Rifle Corner"
+; EN: LocationName="Bio Rifle Corner"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Large Window Area"
-LocationName="Área de janela grande"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Large Window Area"
-LocationName="Área de janela grande"
+LocationName=""
 
 [ZoneInfo9]
-LocationName="UDamage Halls"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 

@@ -1,32 +1,32 @@
 ﻿[LevelInfo0]
 ; EN: Title="Sepukku Gorge"
-Title="Sepukku-szurdok"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Sepukku Gorge"
-Title="Sepukku-szurdok"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Near Point B"
-LocationName="A B pont közelében"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Near Point A"
-LocationName="Az A pont közelében"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="On The Bridges"
-LocationName="A Hidakon"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Cave"
-LocationName="Vörös barlang"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Cave"
-LocationName="Kék barlang"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 

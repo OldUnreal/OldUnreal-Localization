@@ -1,90 +1,90 @@
 ﻿[LevelInfo0]
 ; EN: Title="Corrugation"
-Title="ondulazione"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Corrugation"
-Title="ondulazione"
+Title=""
 ; EN: Description="After many years of Tournament battles, this arena is slowly being eaten away by successive rocket and shock rifle blasts. Add your contribution to its destruction."
-Description="Dopo molti anni di battaglie nei tornei, quest'arena viene lentamente divorata dai successivi colpi di razzi e fucili d'assalto. Aggiungi il tuo contributo alla sua distruzione."
+Description=""
 
 [ZoneInfo1]
 ; EN: LocationName="Furnace Area"
-LocationName="Zona del forno"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="West Area"
-LocationName="Zona Ovest"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Sewer Entrance"
-LocationName="Ingresso della fogna"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="East Sewer Area"
-LocationName="Zona fognaria est"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="South Area"
-LocationName="Area Sud"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="East Sewer Area"
-LocationName="Zona fognaria est"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Atrium"
-LocationName="Atrio"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Furnace Area"
-LocationName="Zona del forno"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="North Stairway"
-LocationName="Scala nord"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="East Corridor"
-LocationName="Corridoio Est"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="East Area"
-LocationName="Zona est"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Central Sewer"
-LocationName="fognatura centrale"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="South Sewer Area"
-LocationName="Zona fognaria sud"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="West Elevator Shaft"
-LocationName="Vano ascensore ovest"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="South East Sewer"
-LocationName="Fognatura sud-est"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="East Curved Corridor"
-LocationName="Corridoio Curvo Est"
+; EN: LocationName="Southwest Curved Corridor"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="East Area"
-LocationName="Zona est"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Central Area"
-LocationName="Zona Centrale"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="East Curved Corridor"
-LocationName="Corridoio Curvo Est"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Pump Area"
-LocationName="Area della pompa"
+LocationName=""
 

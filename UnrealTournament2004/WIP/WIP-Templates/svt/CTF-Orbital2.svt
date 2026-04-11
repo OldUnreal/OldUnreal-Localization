@@ -1,119 +1,120 @@
 ﻿[LevelInfo0]
 ; EN: Title="Orbital2"
-Title="Orbital 2"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Orbital2"
-Title="Orbital 2"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blå Flagg Rum"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blå Flagg Rum"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Middle Room"
-LocationName="Mellersta rummet"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Minigun Halls"
-LocationName="Blå Minigun Halls"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Blue Lower Halls"
-LocationName="Blå nedre salarna"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Blue Upper Halls"
-LocationName="Blå Övre Hallar"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Blue Lower Halls"
-LocationName="Blå nedre salarna"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Linkgun Hall"
-LocationName="Röda Linkgun Hall"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Upper Halls"
-LocationName="Röda övre salarna"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Red Flag Room"
-LocationName="Röd Flagga Rum"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Upper Halls"
-LocationName="Röda övre salarna"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Flak Room"
-LocationName="Röda Flak-rummet"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blå Flagg Rum"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Red Lower Halls"
-LocationName="Röda nedre salarna"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Minigun Halls"
-LocationName="Röda minivapenhallar"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Flag Room"
-LocationName="Röd Flagga Rum"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red Flag Room"
-LocationName="Röd Flagga Rum"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Red Flag Room"
-LocationName="Röd Flagga Rum"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Red Lower Halls"
-LocationName="Röda nedre salarna"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Red Upper Halls"
-LocationName="Röda övre salarna"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Red Minigun Halls"
-LocationName="Röda minivapenhallar"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blå Flagg Rum"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Middle Room"
-LocationName="Mellersta rummet"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Upper Halls"
-LocationName="Blå Övre Hallar"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Blue Flak Room"
+; EN: LocationName="Blue Flak Room"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Minigun Halls"
-LocationName="Blå Minigun Halls"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Upper Halls"
-LocationName="Blå Övre Hallar"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Upper Halls"
-LocationName="Blå Övre Hallar"
+LocationName=""
 

@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
-Title="Rankin"
+; EN: Title="Rankin"
+Title=""
 
 [LevelSummary]
-Title="Rankin"
+; EN: Title="Rankin"
+Title=""
 ; EN: Description="A medium sized map set in an old industrial building, in the middle of a heavy thunderstorm."
-Description="Közepes méretű térkép egy régi ipari épületben, heves zivatar kellős közepén."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Factory Area 2"
-LocationName="2. gyári terület"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Factory Area 1"
-LocationName="1. gyári terület"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Flak Room"
-LocationName="Flak szoba"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Amp Area"
-LocationName="Erősítő terület"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Basement"
-LocationName="Pince"
+LocationName=""
 

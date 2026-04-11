@@ -1,92 +1,96 @@
 ﻿[LevelInfo0]
-Title="Citadel"
+; EN: Title="Citadel"
+Title=""
 
 [LevelSummary]
-Title="Citadel"
+; EN: Title="Citadel"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Middle Bridge"
-LocationName="Midtbro"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red High Bridge"
-LocationName="Rød Høybro"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="Rød skråinngang"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Entrance"
-LocationName="Rød inngang"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Blue Entrance"
-LocationName="Blå inngang"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Low Bridge"
-LocationName="Rød lavbro"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Low Bridge"
-LocationName="Blå lavbro"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue High Bridge"
-LocationName="Blå Høybro"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Mesa"
-LocationName="Blå Mesa"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Mesa"
-LocationName="Rød Mesa"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="Blå skråinngang"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Flag Base"
-LocationName="Base med blått flagg"
+LocationName=""
 
 [Volume9]
-LocationName="Red Flag Base"
+; EN: LocationName="Red Flag Base"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Sloped Entrance"
-LocationName="Blå skråinngang"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Utenfor"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Sloped Entrance"
-LocationName="Rød skråinngang"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="Red Flag Base"
+; EN: LocationName="Red Flag Base"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Entrance"
-LocationName="Rød inngang"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Entrance"
-LocationName="Rød inngang"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Entrance"
-LocationName="Blå inngang"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Entrance"
-LocationName="Blå inngang"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Rom med blått flagg"
+LocationName=""
 

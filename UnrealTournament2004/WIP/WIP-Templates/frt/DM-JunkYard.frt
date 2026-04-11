@@ -1,22 +1,22 @@
 ﻿[LevelInfo0]
 ; EN: Title="The Junkyard"
-Title="La casse"
+Title=""
 ; EN: LevelEnterText="Welcome to the Planet of Junk"
-LevelEnterText="Bienvenue sur la planète de la camelote"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="The Junkyard"
-Title="La casse"
+Title=""
 ; EN: Description="Down through eons, the refuse of civilizations has come to rest here.  You and your friends shall only add to the pile."
-Description="Au fil des éons, les déchets des civilisations se sont reposés ici. Vous et vos amis ne ferez qu'ajouter à la pile."
+Description=""
 ; EN: LevelEnterText="Welcome to the Planet of Junk"
-LevelEnterText="Bienvenue sur la planète de la camelote"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Lost in the Junk"
-LocationName="Perdu dans la jonque"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Lost in the Junk"
-LocationName="Perdu dans la jonque"
+LocationName=""
 

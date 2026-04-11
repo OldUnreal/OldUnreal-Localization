@@ -1,59 +1,70 @@
 ﻿[LevelInfo0]
-Title="Dria"
+; EN: Title="Dria"
+Title=""
 
 [LevelSummary]
-Title="Dria"
+; EN: Title="Dria"
+Title=""
 ; EN: Description="Set among the crumbling ruins of the last Nali fortress, these icefields were the final stand of the Nali against the Skaarj. Driving their Stone Giants before them, the Skaarj lay siege to the city for three weeks, at last breaking down the perimeter wall and wiping out all within for their effrontery. Now an arena of Onslaught, the vast range of this location will test the teamwork and focus of the very best."
-Description="Az utolsó Nali erőd omladozó romjai között ezek a jégmezők jelentették a Nali végső felállását a Skaarj ellen. Kőóriásaikat maguk előtt terelve a Skaarj három hétig ostrom alá vette a várost, végül lebontották a körfalat és mindent belülről kiirtottak szemtelenségük miatt. Most az Onslaught arénája, ennek a helyszínnek a hatalmas választéka próbára teszi a legjobbak csapatmunkáját és összpontosítását."
+Description=""
 
 [Volume10]
-LocationName="North Bridge Tower"
+; EN: LocationName="North Bridge Tower"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="South Bridge Tower"
-LocationName="Déli híd torony"
+LocationName=""
 
 [Volume14]
-; EN: LocationName="North Node"
-LocationName="Északi csomópont"
+; EN: LocationName="North Node (6)"
+LocationName=" (6)"
 
 [Volume15]
-; EN: LocationName="Northwest Node"
-LocationName="Északnyugati csomópont"
+; EN: LocationName="Northwest Node (5)"
+LocationName=" (5)"
+
+[Volume16]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume17]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume2]
-; EN: LocationName="Midwest Node"
-LocationName="Középnyugati csomópont"
+; EN: LocationName="Midwest Node (8)"
+LocationName=" (8)"
 
 [Volume3]
-; EN: LocationName="Southeast Node"
-LocationName="Délkeleti csomópont"
+; EN: LocationName="Southeast Node (2)"
+LocationName=" (2)"
 
 [Volume4]
-; EN: LocationName="Northeast Node"
-LocationName="Északkeleti csomópont"
+; EN: LocationName="Northeast Node (4)"
+LocationName=" (4)"
 
 [Volume5]
-; EN: LocationName="South Node"
-LocationName="Déli csomópont"
+; EN: LocationName="South Node (1)"
+LocationName=" (1)"
 
 [Volume6]
-; EN: LocationName="Southwest Node"
-LocationName="Délnyugati csomópont"
+; EN: LocationName="Southwest Node (7)"
+LocationName=" (7)"
 
 [Volume7]
-; EN: LocationName="Mideast Node"
-LocationName="Közel-keleti csomópont"
+; EN: LocationName="Mideast Node (3)"
+LocationName=" (3)"
 
 [Volume8]
 ; EN: LocationName="North Bridge"
-LocationName="északi híd"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="South Bridge"
-LocationName="Déli híd"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 

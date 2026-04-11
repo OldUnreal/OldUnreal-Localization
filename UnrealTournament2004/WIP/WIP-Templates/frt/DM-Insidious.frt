@@ -1,64 +1,72 @@
 ﻿[LevelInfo0]
 ; EN: Title="Insidious"
-Title="Insidieux"
+Title=""
 ; EN: LevelEnterText="DM-Insidious"
-LevelEnterText="DM-Insidieux"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Insidious"
-Title="Insidieux"
+Title=""
 ; EN: LevelEnterText="DM-Insidious"
-LevelEnterText="DM-Insidieux"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Wall Tanks"
-LocationName="Réservoirs muraux"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Bio Hall"
-LocationName="Salle Bio"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Lower Hall"
-LocationName="Salle inférieure"
+; EN: LocationName="Eastern Lower Halls"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Flak Hall"
-LocationName="Salle de Flak"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Upper Halls"
-LocationName="Salles Supérieures"
+; EN: LocationName="Bio Hall"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Réservoirs de clonage"
+LocationName=""
+
+[ZoneInfo14]
+; EN: LocationName="Northern Upper Halls"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Upper Halls"
-LocationName="Salles Supérieures"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Réservoirs de clonage"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Cloning Tanks"
-LocationName="Réservoirs de clonage"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="Lower hall"
-LocationName="salle basse"
+; EN: LocationName="Western Lower Halls"
+LocationName=""
+
+[ZoneInfo6]
+; EN: LocationName="Southern Upper Halls"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Wall Tanks"
-LocationName="Réservoirs muraux"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Wall Tanks"
-LocationName="Réservoirs muraux"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Fan Room"
-LocationName="Chambre Ventilateur"
+LocationName=""
 

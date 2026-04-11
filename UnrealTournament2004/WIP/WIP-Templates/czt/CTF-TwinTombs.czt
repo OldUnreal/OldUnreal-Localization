@@ -1,158 +1,158 @@
 ﻿[LevelInfo0]
 ; EN: Title="Twin Tombs"
-Title="Dvojhrobky"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Twin Tombs"
-Title="Dvojhrobky"
+Title=""
 ; EN: Description="Winter has fallen on the tombs and the dead are restless.  This elegant recreation of the twin tombs of brothers Ramses III and Rudamon has a reputation for speed, brutality, and treachery, just like the pharaohs interred within."
-Description="Zima padla na hroby a mrtví jsou neklidní. Tato elegantní podoba dvojhrobek bratrů Ramsese III. a Rudamona má pověst rychlosti, brutality a zrady, stejně jako faraoni pohřbení uvnitř."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Modrá horní chodba"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue base"
-LocationName="Modrý základ"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red base"
-LocationName="Červená základna"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red lower hallway"
-LocationName="Červená spodní chodba"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red jump pads"
-LocationName="Červené skákací podložky"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Blue jump pads"
-LocationName="Modré skákací podložky"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red upper hallway"
-LocationName="Červená horní chodba"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Red roof top"
-LocationName="Červená střecha"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Modrá spodní chodba"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Modrá horní chodba"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Outside Area"
-LocationName="Mimo oblast"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red lower hallway"
-LocationName="Červená spodní chodba"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red lower hallway"
-LocationName="Červená spodní chodba"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue rooftop"
-LocationName="Modrá střecha"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Red base"
-LocationName="Červená základna"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Modrá spodní chodba"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue foyer"
-LocationName="Modré foyer"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Blue foyer"
-LocationName="Modré foyer"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red foyer"
-LocationName="Červené foyer"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Modrá horní chodba"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Modrá horní chodba"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Modrá horní chodba"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Místnost s modrou vlajkou"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Modrá horní chodba"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Modrá spodní chodba"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Blue base"
-LocationName="Modrý základ"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Modrá spodní chodba"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Modrá horní chodba"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Red upper hallway"
-LocationName="Červená horní chodba"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red foyer"
-LocationName="Červené foyer"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Blue roof top"
-LocationName="Modrá střecha"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Red lower hallway"
-LocationName="Červená spodní chodba"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Red rooftop"
-LocationName="Červená střecha"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red upper hallway"
-LocationName="Červená horní chodba"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red upper hallway"
-LocationName="Červená horní chodba"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Flag Room"
-LocationName="Místnost s červenou vlajkou"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red upper hallway"
-LocationName="Červená horní chodba"
+LocationName=""
 

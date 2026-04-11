@@ -1,248 +1,250 @@
 ﻿[LevelInfo0]
 ; EN: Title="Double Dammage"
-Title="Dupla sérülés"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Double Dammage"
-Title="Dupla sérülés"
+Title=""
 ; EN: Description="Some people would say you'd have to be insane to play atop a water dam in the middle of winter.  Around here, we call those people "victims"."
-Description="Vannak, akik azt mondanák, hogy őrültnek kell lenni ahhoz, hogy a tél közepén egy vízlépcső tetején játszhasson. Nálunk ezeket az embereket "áldozatoknak" hívjuk."
+Description=""
 
 [PhysicsVolume1]
 ; EN: LocationName="Ice Field"
-LocationName="Jégmező"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Kék zászlós szoba"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Back Room"
-LocationName="Kék hátsó szoba"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Blue Back Room"
-LocationName="Kék hátsó szoba"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Red Flag Room"
-LocationName="Vörös zászlós szoba"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Back Room"
-LocationName="Piros hátsó szoba"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue Entrance Hall"
-LocationName="Kék bejárati csarnok"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Foyer"
-LocationName="Kék előtér"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Kék bal felső terem"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Kék bal felső terem"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Kék jobb felső terem"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Kék jobb felső terem"
+LocationName=""
 
 [ZoneInfo44]
-LocationName="Red Sniper Lift"
+; EN: LocationName="Red Sniper Lift"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Red Back Room"
-LocationName="Piros hátsó szoba"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Red Back Room"
-LocationName="Piros hátsó szoba"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Red Entrance Hall"
-LocationName="Piros bejárati csarnok"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Red Foyer"
-LocationName="Vörös előtér"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Piros bal felső terem"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Back Room"
-LocationName="Kék hátsó szoba"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Piros bal felső terem"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Piros jobb felső terem"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Piros jobb felső terem"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Red Right Upper Hall"
-LocationName="Piros jobb felső terem"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Red Foyer"
-LocationName="Vörös előtér"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="Red Upper Foyer"
-LocationName="Piros felső előcsarnok"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="Red Upper Foyer"
-LocationName="Piros felső előcsarnok"
+LocationName=""
 
 [ZoneInfo58]
 ; EN: LocationName="Red Left Upper Hall"
-LocationName="Piros bal felső terem"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Piros bal folyosó"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Blue Sniper Lift"
+; EN: LocationName="Blue Sniper Lift"
+LocationName=""
 
 [ZoneInfo60]
 ; EN: LocationName="Blue Right Upper Hall"
-LocationName="Kék jobb felső terem"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="Red Foyer"
-LocationName="Vörös előtér"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Red Foyer"
-LocationName="Vörös előtér"
+LocationName=""
 
 [ZoneInfo63]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Piros bal folyosó"
+LocationName=""
 
 [ZoneInfo64]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Piros bal folyosó"
+LocationName=""
 
 [ZoneInfo65]
 ; EN: LocationName="Red Left Hallway"
-LocationName="Piros bal folyosó"
+LocationName=""
 
 [ZoneInfo66]
 ; EN: LocationName="Blue Foyer"
-LocationName="Kék előtér"
+LocationName=""
 
 [ZoneInfo67]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Piros jobb folyosó"
+LocationName=""
 
 [ZoneInfo68]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Piros jobb folyosó"
+LocationName=""
 
 [ZoneInfo69]
 ; EN: LocationName="Red Foyer"
-LocationName="Vörös előtér"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 
 [ZoneInfo70]
 ; EN: LocationName="Blue Foyer"
-LocationName="Kék előtér"
+LocationName=""
 
 [ZoneInfo71]
 ; EN: LocationName="Red Storage Room"
-LocationName="Piros raktárhelyiség"
+LocationName=""
 
 [ZoneInfo72]
 ; EN: LocationName="Red Storage Room"
-LocationName="Piros raktárhelyiség"
+LocationName=""
 
 [ZoneInfo73]
 ; EN: LocationName="Red Storage Room"
-LocationName="Piros raktárhelyiség"
+LocationName=""
 
 [ZoneInfo74]
 ; EN: LocationName="Red Right Hallway"
-LocationName="Piros jobb folyosó"
+LocationName=""
 
 [ZoneInfo75]
 ; EN: LocationName="Blue Upper Foyer"
-LocationName="Kék felső előcsarnok"
+LocationName=""
 
 [ZoneInfo76]
 ; EN: LocationName="Blue Upper Foyer"
-LocationName="Kék felső előcsarnok"
+LocationName=""
 
 [ZoneInfo77]
 ; EN: LocationName="Blue Left Upper Hall"
-LocationName="Kék bal felső terem"
+LocationName=""
 
 [ZoneInfo78]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Kék bal folyosó"
+LocationName=""
 
 [ZoneInfo79]
 ; EN: LocationName="Blue Foyer"
-LocationName="Kék előtér"
+LocationName=""
 
 [ZoneInfo80]
 ; EN: LocationName="Blue Foyer"
-LocationName="Kék előtér"
+LocationName=""
 
 [ZoneInfo81]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Kék bal folyosó"
+LocationName=""
 
 [ZoneInfo82]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Kék bal folyosó"
+LocationName=""
 
 [ZoneInfo83]
 ; EN: LocationName="Blue Left Hallway"
-LocationName="Kék bal folyosó"
+LocationName=""
 
 [ZoneInfo84]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Kék jobb folyosó"
+LocationName=""
 
 [ZoneInfo85]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Kék jobb folyosó"
+LocationName=""
 
 [ZoneInfo87]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Kék raktárhelyiség"
+LocationName=""
 
 [ZoneInfo88]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Kék raktárhelyiség"
+LocationName=""
 
 [ZoneInfo89]
 ; EN: LocationName="Blue Storage Room"
-LocationName="Kék raktárhelyiség"
+LocationName=""
 
 [ZoneInfo90]
 ; EN: LocationName="Blue Right Hallway"
-LocationName="Kék jobb folyosó"
+LocationName=""
 

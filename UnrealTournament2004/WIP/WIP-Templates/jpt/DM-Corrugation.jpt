@@ -1,90 +1,90 @@
 ﻿[LevelInfo0]
 ; EN: Title="Corrugation"
-Title="コルゲーション"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Corrugation"
-Title="コルゲーション"
+Title=""
 ; EN: Description="After many years of Tournament battles, this arena is slowly being eaten away by successive rocket and shock rifle blasts. Add your contribution to its destruction."
-Description="長年のトーナメントバトルの後、このアリーナはロケットとショックライフルの連続爆破によってゆっくりと食い尽くされています。その破壊へのあなたの貢献を追加します。"
+Description=""
 
 [ZoneInfo1]
 ; EN: LocationName="Furnace Area"
-LocationName="炉エリア"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="West Area"
-LocationName="西エリア"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Sewer Entrance"
-LocationName="下水道入口"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="East Sewer Area"
-LocationName="東下水道エリア"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="South Area"
-LocationName="南エリア"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="East Sewer Area"
-LocationName="東下水道エリア"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Atrium"
-LocationName="アトリウム"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Furnace Area"
-LocationName="炉エリア"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="North Stairway"
-LocationName="北階段"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="East Corridor"
-LocationName="東回廊"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="East Area"
-LocationName="東エリア"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Central Sewer"
-LocationName="中央下水道"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="South Sewer Area"
-LocationName="南下水道エリア"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="West Elevator Shaft"
-LocationName="西エレベーターシャフト"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="South East Sewer"
-LocationName="南東下水道"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="East Curved Corridor"
-LocationName="東曲線回廊"
+; EN: LocationName="Southwest Curved Corridor"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="East Area"
-LocationName="東エリア"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Central Area"
-LocationName="セントラルエリア"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="East Curved Corridor"
-LocationName="東曲線回廊"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Pump Area"
-LocationName="ポンプエリア"
+LocationName=""
 

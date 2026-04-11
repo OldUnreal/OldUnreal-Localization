@@ -1,28 +1,28 @@
 ﻿[LevelInfo0]
 ; EN: Title="Lost Faith"
-Title="Foi perdue"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Lost Faith"
-Title="Foi perdue"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Blue base Flak"
-LocationName="Flak fond bleu"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue base Link"
-LocationName="Base bleue Lien"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red base Flak"
-LocationName="Flak base rouge"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red base Link"
-LocationName="Base rouge Lien"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Waterfall"
-LocationName="Cascade"
+LocationName=""
 

@@ -15,473 +15,477 @@ Message="1..."
 
 [Counter0]
 ; EN: CompleteMessage="Core Vents opened!"
-CompleteMessage="Núcleos de ventilação abertos!"
+CompleteMessage=""
 
 [Counter2]
 ; EN: CompleteMessage="Energy Shield deactivated!!!"
-CompleteMessage="Escudo de energia desativado !!!"
+CompleteMessage=""
 
 [Counter3]
 ; EN: CompleteMessage="Doors and lower force field deactivated"
-CompleteMessage="Portas e campo de força inferior desativados"
+CompleteMessage=""
 
 [Counter4]
 ; EN: CompleteMessage="Core conductors destroyed!!!"
-CompleteMessage="Condutores do núcleo destruídos !!!"
+CompleteMessage=""
 
 [Counter5]
 ; EN: CompleteMessage="Loading bay force field deactivated!"
-CompleteMessage="Campo de força da baía de carregamento desativado!"
+CompleteMessage=""
 
 [Counter6]
 ; EN: CompleteMessage="Top force fields deactivated!"
-CompleteMessage="Principais campos de força desativados!"
+CompleteMessage=""
 
 [DestroyVehicleObjective0]
 ; EN: ObjectiveName="Sentinels turrets"
-ObjectiveName="Torres sentinelas"
+ObjectiveName=""
 ; EN: DestructionMessage="Sentinel destroyed!"
-DestructionMessage="Sentinela destruída!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy sentinel turrets"
-ObjectiveDescription="Destrua torres de sentinela"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy sentinel"
-Objective_Info_Attacker="Destruir sentinela"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend sentinel"
-Objective_Info_Defender="Defender sentinela"
+Objective_Info_Defender=""
 
 [DestroyVehicleObjective1]
 ; EN: ObjectiveName="Sentinels turrets"
-ObjectiveName="Torres sentinelas"
+ObjectiveName=""
 ; EN: DestructionMessage="Sentinel destroyed!"
-DestructionMessage="Sentinela destruída!"
+DestructionMessage=""
 ; EN: LocationPrefix="lowerhull"
-LocationPrefix="casco inferior"
+LocationPrefix=""
 ; EN: ObjectiveDescription="Destroy sentinel turrets"
-ObjectiveDescription="Destrua torres de sentinela"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy sentinel"
-Objective_Info_Attacker="Destruir sentinela"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend sentinel"
-Objective_Info_Defender="Defender sentinela"
+Objective_Info_Defender=""
 
 [DestroyVehicleObjective2]
 ; EN: ObjectiveName="Sentinels turrets"
-ObjectiveName="Torres sentinelas"
+ObjectiveName=""
 ; EN: DestructionMessage="Sentinel destroyed!"
-DestructionMessage="Sentinela destruída!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy sentinel turrets"
-ObjectiveDescription="Destrua torres de sentinela"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy sentinel"
-Objective_Info_Attacker="Destruir sentinela"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend sentinel"
-Objective_Info_Defender="Defender sentinela"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM0]
 ; EN: ObjectiveName="Energy bypass"
-ObjectiveName="Bypass de energia"
+ObjectiveName=""
 ; EN: DestructionMessage="Destroyed energy bypass..."
-DestructionMessage="Bypass de energia destruída ..."
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy laser field bypass"
-ObjectiveDescription="Destrua o desvio do campo do laser"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy energy bypass"
-Objective_Info_Attacker="Destrua o desvio de energia"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend energy bypass"
-Objective_Info_Defender="Defenda o desvio de energia"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM1]
 ; EN: ObjectiveName="Upper shield generator"
-ObjectiveName="Gerador de escudo superior"
+ObjectiveName=""
 ; EN: DestructionMessage="Shield Generator Destroyed"
-DestructionMessage="Gerador de escudo destruído"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy shield generators"
-ObjectiveDescription="Destrua geradores de escudo"
-; EN: Objective_Info_Attacker="Destroy upper shield generator "
-Objective_Info_Attacker="Destrua o gerador do escudo superior "
-; EN: Objective_Info_Defender="Defend upper shield generator "
-Objective_Info_Defender="Defenda o gerador de escudo superior "
+ObjectiveDescription=""
+; EN: Objective_Info_Attacker="Destroy upper shield generator"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Defend upper shield generator"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM2]
 ; EN: ObjectiveName="Upper shield generator"
-ObjectiveName="Gerador de escudo superior"
+ObjectiveName=""
 ; EN: DestructionMessage="Shield Generator Destroyed"
-DestructionMessage="Gerador de escudo destruído"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy shield generators"
-ObjectiveDescription="Destrua geradores de escudo"
-; EN: Objective_Info_Attacker="Destroy upper shield generator "
-Objective_Info_Attacker="Destrua o gerador do escudo superior "
-; EN: Objective_Info_Defender="Defend upper shield generator "
-Objective_Info_Defender="Defenda o gerador de escudo superior "
+ObjectiveDescription=""
+; EN: Objective_Info_Attacker="Destroy upper shield generator"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Defend upper shield generator"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM3]
 ; EN: ObjectiveName="Lower shield generator"
-ObjectiveName="Gerador de escudo inferior"
+ObjectiveName=""
 ; EN: DestructionMessage="Shield Generator Destroyed"
-DestructionMessage="Gerador de escudo destruído"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy lower shield generator"
-ObjectiveDescription="Destrua o gerador de escudo inferior"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy lower shield generator"
-Objective_Info_Attacker="Destrua o gerador de escudo inferior"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend lower shield generator "
-Objective_Info_Defender="Defenda o gerador de escudo inferior "
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM4]
 ; EN: ObjectiveName="Core conductors..."
-ObjectiveName="Condutores centrais ..."
+ObjectiveName=""
 ; EN: DestructionMessage="Conductor destroyed!!!"
-DestructionMessage="Condutor destruído !!!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy core conductor"
-ObjectiveDescription="Destrua o condutor central"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the conductor"
-Objective_Info_Attacker="Destrua o condutor"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the conductor"
-Objective_Info_Defender="Defenda o maestro"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM5]
 ; EN: ObjectiveName="Energy bypass"
-ObjectiveName="Bypass de energia"
+ObjectiveName=""
 ; EN: DestructionMessage="Destroyed energy bypass..."
-DestructionMessage="Bypass de energia destruída ..."
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy laser field bypass"
-ObjectiveDescription="Destrua o desvio do campo do laser"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy energy bypass"
-Objective_Info_Attacker="Destrua o desvio de energia"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend energy bypass"
-Objective_Info_Defender="Defenda o desvio de energia"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM6]
 ; EN: ObjectiveName="Core conductors..."
-ObjectiveName="Condutores centrais ..."
+ObjectiveName=""
 ; EN: DestructionMessage="Conductor destroyed!!!"
-DestructionMessage="Condutor destruído !!!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy core conductor"
-ObjectiveDescription="Destrua o condutor central"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the conductor"
-Objective_Info_Attacker="Destrua o condutor"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the conductor"
-Objective_Info_Defender="Defenda o maestro"
+Objective_Info_Defender=""
 
 [HoldObjective0]
 ; EN: ObjectiveName="Core panels."
-ObjectiveName="Painéis principais."
+ObjectiveName=""
 ; EN: DestructionMessage="Hatch lock #1 released!"
-DestructionMessage="Hatch lock # 1 liberado!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Core panels"
-ObjectiveDescription="Painéis principais"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Use panel to unlock core hatch"
-Objective_Info_Attacker="Use o painel para desbloquear a incubação do núcleo"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Stop any usage of the core panels"
-Objective_Info_Defender="Pare de usar os painéis principais"
+Objective_Info_Defender=""
 
 [HoldObjective1]
 ; EN: ObjectiveName="Core panels."
-ObjectiveName="Painéis principais."
+ObjectiveName=""
 ; EN: DestructionMessage="Hatch lock #2 released!"
-DestructionMessage="Hatch lock # 2 liberado!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Core panels"
-ObjectiveDescription="Painéis principais"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Use panel to unlock core hatch"
-Objective_Info_Attacker="Use o painel para desbloquear a incubação do núcleo"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Stop any usage of the core panels"
-Objective_Info_Defender="Pare de usar os painéis principais"
+Objective_Info_Defender=""
 
 [InfoPod2]
 ; EN: POD_Message="Lower Inner Turrets"
-POD_Message="Torres Internas Inferiores"
+POD_Message=""
 
 [InfoPod3]
-POD_Message="Link Cannon"
+; EN: POD_Message="Link Cannon"
+POD_Message=""
 
 [InfoPod4]
-POD_Message="Landing Bay Turrets"
+; EN: POD_Message="Landing Bay Turrets"
+POD_Message=""
 
 [InfoPod5]
 ; EN: POD_Message="Top Inner Turrets"
-POD_Message="Principais torres internas"
+POD_Message=""
 
 [InfoPod6]
 ; EN: POD_Message="Top Outer Turrets"
-POD_Message="Principais torres externas"
+POD_Message=""
 
 [InfoPod7]
 ; EN: POD_Message="Lower Outer Turrets"
-POD_Message="Torres Externas Inferiores"
+POD_Message=""
 
 [InfoPod8]
-POD_Message="Link Cannon"
+; EN: POD_Message="Link Cannon"
+POD_Message=""
 
 [LevelInfo0]
 ; EN: Title="Mothership Assault"
-Title="Ataque da nave-mãe"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Mothership Assault"
-Title="Ataque da nave-mãe"
+Title=""
 ; EN: Description="First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali. Within a year the Skaarj had pushed humanity back to the brink of destruction. This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat. A Skaarj Mothership orbited the Earth, and rained death upon the planet in preparation for the final landing. In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the Mothership defenses their analysis had revealed."
-Description="O primeiro contato com o Skaarj ocorreu durante a recuperação do transportador da prisão Vortex Rikers em Na Pali. Em um ano, o Skaarj empurrou a humanidade de volta à beira da destruição. Este cenário reproduz a batalha final pela Terra e a impressionante vitória dos humanos diante de uma derrota quase certa. Uma Nave-Mãe Skaarj orbitou a Terra e fez chover mortes sobre o planeta em preparação para o pouso final. Em uma missão suicida ousada, os humanos atacaram a nave-mãe Skaarj em pequenos lutadores de um homem, na esperança de explorar uma falha nas defesas da nave-mãe que sua análise havia revelado."
+Description=""
 
 [MessageTrigger15]
 ; EN: Message="Prepare to attack!!!"
-Message="Prepare-se para atacar !!!"
+Message=""
 
 [MessageTrigger17]
 ; EN: Message="Prepare the defense!!!"
-Message="Prepare a defesa !!!"
+Message=""
 
 [ProximityObjective0]
-; EN: ObjectiveName="Landing bay"
-ObjectiveName="Baía de pouso"
+; EN: ObjectiveName="Landing Bay"
+ObjectiveName=""
 ; EN: DestructionMessage="Attackers have entered the MotherShip!"
-DestructionMessage="Os invasores entraram na Nave Mãe!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Enter Skaarj ship via landing bay"
-ObjectiveDescription="Entrar no navio Skaarj pela baía de desembarque"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Proceed to landing bay"
-Objective_Info_Attacker="Prossiga para a baía de pouso"
-; EN: Objective_Info_Defender="Stop the humans from landing "
-Objective_Info_Defender="Impeça os humanos de pousar "
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Stop the humans from landing"
+Objective_Info_Defender=""
 
 [SceneSubtitles0]
-SubTitles=("First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali.        ","Within a year the Skaarj had pushed humanity back to the brink of destruction.","This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat.","A Skaarj mother ship orbited the Earth, and rained death upon the planet in preparation for the final landing.","In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the mother ship defenses their analysis had revealed.","Take down the generator within the lower section of the Skaarj mother ship to deactivate the top force fields.","Once completed head upwards into the main body of the Skaarj mother ship. ","Destroy the top generators to deactivate the shield for the landing bay.","Proceed and land in the mother ship landing bay.","Once on foot, proceed to the next section","Two energy bypass mechanisms will need to be destroyed to proceed to the cargo hull.","Past the bridge, the core awaits.","Once in the cargo hull three sentinels await.","The destruction of the sentinels is the only way to proceed forward.","The force fields deactivate once the three sentinels have been destroyed.","Passed the bridge and the core awaits.","Trigger the panels to open the hatch locks.","Once the panels have been triggered shoot the two energy core conductors in order to destabilize the core.")
+; EN: SubTitles=("First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali.        ","Within a year the Skaarj had pushed humanity back to the brink of destruction.","This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat.","A Skaarj mother ship orbited the Earth, and rained death upon the planet in preparation for the final landing.","In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the mother ship defenses their analysis had revealed.","Take down the generator within the lower section of the Skaarj mother ship to deactivate the top force fields.","Once completed head upwards into the main body of the Skaarj mother ship. ","Destroy the top generators to deactivate the shield for the landing bay.","Proceed and land in the mother ship landing bay.","Once on foot, proceed to the next section","Two energy bypass mechanisms will need to be destroyed to proceed to the cargo hull.","Past the bridge, the core awaits.","Once in the cargo hull three sentinels await.","The destruction of the sentinels is the only way to proceed forward.","The force fields deactivate once the three sentinels have been destroyed.","Passed the bridge and the core awaits.","Trigger the panels to open the hatch locks.","Once the panels have been triggered shoot the two energy core conductors in order to destabilize the core.")
+SubTitles=("","","","","","","","","","","","","","","","","","")
 
 [Trigger_ASMessageTrigger14]
 ; EN: Message="Force field down..."
-Message="Campo de força para baixo ..."
+Message=""
 
 [Trigger_ASMessageTrigger15]
 ; EN: Message="Unlock the Core!"
-Message="Desbloqueie o núcleo!"
+Message=""
 
 [Trigger_ASMessageTrigger3]
 ; EN: Message="Core hatches have been released..."
-Message="Hachuras de núcleo foram liberadas ..."
+Message=""
 
 [Trigger_ASMessageTrigger4]
 ; EN: Message="Top force fields down..."
-Message="Campos de força superiores para baixo ..."
+Message=""
 
 [Trigger_ASMessageTrigger5]
 ; EN: Message="Attackers have landed!!!"
-Message="Os atacantes pousaram !!!"
+Message=""
 
 [Trigger_ASMessageTrigger7]
 ; EN: Message="Attackers have entered the core!!!"
-Message="Os invasores entraram no núcleo !!!"
+Message=""
 
 [Trigger_ASMessageTrigger8]
 ; EN: Message="Core has been destabilized!"
-Message="Core foi desestabilizado!"
+Message=""
 
 [Trigger_ASMessageTrigger9]
 ; EN: Message="Landing bay force field down"
-Message="Campo de força da baía de pouso para baixo"
+Message=""
 
 [ZoneInfo1]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="Corredor do motor de gravidade direito"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Energy generator #2"
-LocationName="Gerador de energia # 2"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="The core"
-LocationName="O nucleo"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Right shaft"
-LocationName="Eixo direito"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Main middle shaft"
-LocationName="Eixo central principal"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Core exterior"
-LocationName="Exterior do núcleo"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Core exterior"
-LocationName="Exterior do núcleo"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Inner top shaft"
-LocationName="Eixo superior interno"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Core exterior"
-LocationName="Exterior do núcleo"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="In space"
-LocationName="No espaço"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Lower cross path"
-LocationName="Cruzamento inferior"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Defender's bypass spawn"
-LocationName="Desova de desvio do defensor"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Defender's bypass spawn"
-LocationName="Desova de desvio do defensor"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Cargo hull"
-LocationName="Casco de carga"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Cargo hull"
-LocationName="Casco de carga"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Cargo hull"
-LocationName="Casco de carga"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Cargo hull"
-LocationName="Casco de carga"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Defender's bypass spawn"
-LocationName="Desova de desvio do defensor"
+LocationName=""
 
 [ZoneInfo28]
-; EN: LocationName="Space craft bay."
-LocationName="Baía de nave espacial."
+; EN: LocationName="Space craft bay"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Cargo hull hallway"
-LocationName="Corredor do casco de carga"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Lower section generator shaft"
-LocationName="Eixo do gerador de seção inferior"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Elevator shaft"
-LocationName="Eixo do elevador"
+LocationName=""
 
 [ZoneInfo31]
-; EN: LocationName="Elevator passage "
-LocationName="Passagem de elevador "
+; EN: LocationName="Elevator passage"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Cargo upper bridge left"
-LocationName="Ponte superior de carga à esquerda"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Cargo upper bridge right"
-LocationName="Ponte superior direita de carga"
+LocationName=""
 
 [ZoneInfo34]
-; EN: LocationName="Elevator passage "
-LocationName="Passagem de elevador "
+; EN: LocationName="Elevator passage"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Energy bypass room"
-LocationName="Sala de derivação de energia"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Left hallway"
-LocationName="Corredor esquerdo"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Attackers landing bay"
-LocationName="Baía de pouso de atacantes"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Right hallway"
-LocationName="Corredor direito"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Top energy bypass entrance"
-LocationName="Entrada de desvio de energia superior"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Defender's Landing bay"
-LocationName="Baía de pouso do defensor"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Core entrance"
-LocationName="Entrada do núcleo"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Core exterior"
-LocationName="Exterior do núcleo"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Core bridge passage left"
-LocationName="Passagem da ponte central à esquerda"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Gravity engine room #1"
-LocationName="Sala de máquinas de gravidade # 1"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Gravity engine hallway left"
-LocationName="Corredor do motor gravitacional esquerdo"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="Corredor do motor de gravidade direito"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Gravity engine room #2"
-LocationName="Sala de máquinas de gravidade # 2"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Core bridge passage right"
-LocationName="Passagem da ponte central à direita"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Core bridge passage right"
-LocationName="Passagem da ponte central à direita"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Cargo hull"
-LocationName="Casco de carga"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Energy generator #1"
-LocationName="Gerador de energia # 1"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="Cargo hull hallway"
-LocationName="Corredor do casco de carga"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="Corredor do motor de gravidade direito"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Core bridge passage left"
-LocationName="Passagem da ponte central à esquerda"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="Corredor do motor de gravidade direito"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="Corredor do motor de gravidade direito"
+LocationName=""
 
 [ZoneInfo55]
 ; EN: LocationName="Cargo hull hallway"
-LocationName="Corredor do casco de carga"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Landing bay"
-LocationName="Baía de pouso"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="landing bay"
-LocationName="baía de pouso"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Defender's Landing bay"
-LocationName="Baía de pouso do defensor"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Left shaft"
-LocationName="Eixo esquerdo"
+LocationName=""
 

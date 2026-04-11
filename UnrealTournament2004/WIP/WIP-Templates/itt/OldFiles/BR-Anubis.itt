@@ -1,0 +1,160 @@
+﻿[LevelInfo0]
+; EN: Title="Temple Of Anubis"
+Title="Tempio di Anubi"
+
+[LevelInfo6]
+; EN: Title="Temple Of Anubis"
+Title="Tempio di Anubi"
+
+[LevelSummary]
+; EN: Title="Temple Of Anubis"
+Title="Tempio di Anubi"
+
+[ZoneInfo0]
+; EN: LocationName="Redeemer"
+LocationName="Redentore"
+
+[ZoneInfo1]
+; EN: LocationName="Super shield sand dune"
+LocationName="Duna di sabbia super scudo"
+
+[ZoneInfo10]
+; EN: LocationName="Blue Respawn"
+LocationName="Rigenerazione blu"
+
+[ZoneInfo12]
+; EN: LocationName="Blue Respawn"
+LocationName="Rigenerazione blu"
+
+[ZoneInfo13]
+; EN: LocationName="Blue Respawn"
+LocationName="Rigenerazione blu"
+
+[ZoneInfo14]
+; EN: LocationName="Blue Top Entrance"
+LocationName="Ingresso superiore blu"
+
+[ZoneInfo15]
+; EN: LocationName="Red Base"
+LocationName="Base Rossa"
+
+[ZoneInfo16]
+; EN: LocationName="Red Base"
+LocationName="Base Rossa"
+
+[ZoneInfo17]
+; EN: LocationName="Red Respawn"
+LocationName="Rinascita rossa"
+
+[ZoneInfo18]
+; EN: LocationName="Blue Respawn"
+LocationName="Rigenerazione blu"
+
+[ZoneInfo19]
+; EN: LocationName="Red Respawn"
+LocationName="Rinascita rossa"
+
+[ZoneInfo2]
+; EN: LocationName="Flak Cannon"
+LocationName="Cannone Flak"
+
+[ZoneInfo20]
+; EN: LocationName="Red Respawn"
+LocationName="Rinascita rossa"
+
+[ZoneInfo21]
+; EN: LocationName="Red Respawn"
+LocationName="Rinascita rossa"
+
+[ZoneInfo22]
+; EN: LocationName="Red Respawn"
+LocationName="Rinascita rossa"
+
+[ZoneInfo23]
+; EN: LocationName="Blue Respawn"
+LocationName="Rigenerazione blu"
+
+[ZoneInfo24]
+; EN: LocationName="Blue Respawn"
+LocationName="Rigenerazione blu"
+
+[ZoneInfo25]
+; EN: LocationName="Center"
+LocationName="Centro"
+
+[ZoneInfo26]
+; EN: LocationName="Rocket launcher room"
+LocationName="Sala lanciarazzi"
+
+[ZoneInfo27]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanciarazzi"
+
+[ZoneInfo28]
+; EN: LocationName="Flak Cannon"
+LocationName="Cannone Flak"
+
+[ZoneInfo29]
+; EN: LocationName="Center"
+LocationName="Centro"
+
+[ZoneInfo3]
+; EN: LocationName="Red Respawn"
+LocationName="Rinascita rossa"
+
+[ZoneInfo30]
+; EN: LocationName="Red court yard"
+LocationName="Cortile rosso"
+
+[ZoneInfo31]
+; EN: LocationName="Center"
+LocationName="Centro"
+
+[ZoneInfo32]
+; EN: LocationName="Red Courtyard"
+LocationName="Cortile Rosso"
+
+[ZoneInfo33]
+; EN: LocationName="Blue Top Entrance"
+LocationName="Ingresso superiore blu"
+
+[ZoneInfo34]
+; EN: LocationName="Blue Top Entrance"
+LocationName="Ingresso superiore blu"
+
+[ZoneInfo35]
+; EN: LocationName="Red Top Entrance"
+LocationName="Ingresso superiore rosso"
+
+[ZoneInfo36]
+; EN: LocationName="Blue Top Entrance"
+LocationName="Ingresso superiore blu"
+
+[ZoneInfo37]
+; EN: LocationName="Red Top Entrance"
+LocationName="Ingresso superiore rosso"
+
+[ZoneInfo38]
+; EN: LocationName="Red Top Entrance"
+LocationName="Ingresso superiore rosso"
+
+[ZoneInfo39]
+; EN: LocationName="Red Top Entrance"
+LocationName="Ingresso superiore rosso"
+
+[ZoneInfo4]
+; EN: LocationName="Blue Courtyard"
+LocationName="Cortile Blu"
+
+[ZoneInfo5]
+; EN: LocationName="Blue Courtyard"
+LocationName="Cortile Blu"
+
+[ZoneInfo8]
+; EN: LocationName="Blue Base"
+LocationName="Base Blu"
+
+[ZoneInfo9]
+; EN: LocationName="Blue Base"
+LocationName="Base Blu"
+

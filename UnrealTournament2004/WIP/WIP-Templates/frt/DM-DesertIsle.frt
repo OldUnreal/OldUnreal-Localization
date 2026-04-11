@@ -1,30 +1,30 @@
 ﻿[LevelInfo0]
-; EN: Title="DesertIsle"
-Title="DésertIsle"
+; EN: Title="Desert Isle"
+Title=""
 
 [LevelSummary]
-; EN: Title="DesertIsle"
-Title="DésertIsle"
+; EN: Title="Desert Isle"
+Title=""
 ; EN: Description="Under a searing sun, one little stream means life itself to this island of green in an ocean of sand. What will be left when its waters run red?"
-Description="Sous un soleil brûlant, un petit ruisseau signifie la vie même de cette île de verdure dans un océan de sable. Que restera-t-il lorsque ses eaux seront rouges ?"
+Description=""
 
 [Volume0]
 ; EN: LocationName="River End"
-LocationName="Fin de la rivière"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="The Hill"
-LocationName="La colline"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="River Start"
-LocationName="Départ de la rivière"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="River Middle"
-LocationName="Milieu de la rivière"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="=Desert="
-LocationName="=Désert="
+LocationName=""
 

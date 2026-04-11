@@ -1,50 +1,52 @@
 ﻿[LevelInfo0]
-Title="Leviathan"
+; EN: Title="Leviathan"
+Title=""
 
 [LevelSummary]
-Title="Leviathan"
+; EN: Title="Leviathan"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="North-East Upper Hallway"
-LocationName="Noord-Oost Bovenste Gang"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Main Room"
-LocationName="Hoofdkamer"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="North-East Hallway"
-LocationName="Noordoostelijke gang"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="North-West Upper Hallway"
-LocationName="Noordwestelijke bovenste gang"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="North-West Hallway"
-LocationName="Noordwestelijke gang"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Western Chamber"
-LocationName="Westelijke Kamer"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="South-West Hallway"
-LocationName="Zuidwestelijke gang"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="South-West Upper Hallway"
-LocationName="Zuidwestelijke bovenste gang"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="South-East Upper Hallway"
-LocationName="Zuid-Oost Bovenste Gang"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="South-East Hallway"
-LocationName="Zuidoostelijke gang"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Eastern Chamber"
-LocationName="Oostelijke Kamer"
+LocationName=""
 

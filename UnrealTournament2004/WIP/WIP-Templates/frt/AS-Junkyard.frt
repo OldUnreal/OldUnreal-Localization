@@ -1,144 +1,146 @@
 ﻿[ASOBJ_EnergyCore_Delivery0]
 ; EN: DestructionMessage="Vehicle has been repaired!"
-DestructionMessage="Le véhicule a été réparé !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Deliver the Power Core to repair the vehicle."
-ObjectiveDescription="Livrez le Power Core pour réparer le véhicule."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Return the Core to the vehicle"
-Objective_Info_Attacker="Remettez le noyau dans le véhicule"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Prevent the Attackers from returning the Core"
-Objective_Info_Defender="Empêcher les attaquants de renvoyer le noyau"
+Objective_Info_Defender=""
 
 [ASOBJ_EnergyCore_Spawn0]
 ; EN: ObjectiveDescription="You need to pick up the Energy Core and return it to your vehicle in order to repair it."
-ObjectiveDescription="Vous devez récupérer l'Energy Core et le rapporter à votre véhicule afin de le réparer."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Find the Energy Core"
-Objective_Info_Attacker="Trouvez le noyau d'énergie"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the Energy Core"
-Objective_Info_Defender="Protégez le noyau énergétique"
+Objective_Info_Defender=""
 
 [HoldObjective0]
 ; EN: DestructionMessage="Checkpoint gate opened!"
-DestructionMessage="La porte du point de contrôle est ouverte !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Stand at the switch to open the gate."
-ObjectiveDescription="Tenez-vous à l'interrupteur pour ouvrir la porte."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Open the checkpoint gate"
-Objective_Info_Attacker="Ouvrez la porte du point de contrôle"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the checkpoint switch."
-Objective_Info_Defender="Protégez l'interrupteur du point de contrôle."
+Objective_Info_Defender=""
 
 [HoldObjective1]
 ; EN: DestructionMessage="Drawbridge is down!"
-DestructionMessage="Le pont-levis est en panne !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Stand at the switch to lower the bridge."
-ObjectiveDescription="Tenez-vous à l'interrupteur pour abaisser le pont."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Lower the bridge"
-Objective_Info_Attacker="Abaisser le pont"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the bridge switch"
-Objective_Info_Defender="Défendre le pont commutateur"
+Objective_Info_Defender=""
 
 [LevelInfo0]
 ; EN: Title="Junkyard Escape"
-Title="Évasion de la casse"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Junkyard Escape"
-Title="Évasion de la casse"
+Title=""
 ; EN: Description="This scenario is based on an infamous episode of a popular Holovision program. In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard. The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape. Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born."
-Description="Ce scénario est basé sur un épisode tristement célèbre d'un programme Holovision populaire. Dans l'épisode original, deux équipes de mécaniciens s'affrontaient pour rendre leur véhicule opérationnel et échapper à la casse. La tournure inattendue s'est produite lorsque l'équipe perdante a sorti des armes de fortune et a écrasé l'autre équipe dans l'oubli avant qu'elle ne puisse s'échapper. Comme il n'y avait pas de règle explicite interdisant la violence dans la compétition, ils ont été déclarés vainqueurs et un nouveau classique du tournoi est né."
+Description=""
 
 [ProximityObjective0]
 ; EN: DestructionMessage="Attackers escaped from the Junkyard!"
-DestructionMessage="Les attaquants se sont échappés de la casse !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Escape from the Junkyard."
-ObjectiveDescription="Échappez-vous de la casse."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Proceed to the main gates"
-Objective_Info_Attacker="Avancez jusqu'aux portes principales"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the main gates"
-Objective_Info_Defender="Protéger les portes principales"
+Objective_Info_Defender=""
 
 [ProximityObjective2]
 ; EN: DestructionMessage="Bridge has been crossed!"
-DestructionMessage="Le pont a été franchi !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Cross the bridge to progress."
-ObjectiveDescription="Traversez le pont pour progresser."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Cross the bridge"
-Objective_Info_Attacker="Traverse le pont"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the bridge"
-Objective_Info_Defender="Défendre le pont"
+Objective_Info_Defender=""
 
 [ProximityObjective3]
 ; EN: DestructionMessage="Checkpoint secured!"
-DestructionMessage="Point de contrôle sécurisé !"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Secure the checkpoint to progress."
-ObjectiveDescription="Sécurisez le point de contrôle pour progresser."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Secure the checkpoint"
-Objective_Info_Attacker="Sécuriser le poste de contrôle"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the checkpoint"
-Objective_Info_Defender="Protéger le poste de contrôle"
+Objective_Info_Defender=""
 
 [SceneSubtitles0]
-SubTitles=("This scenario is based on an infamous episode of a popular Holovision program.","In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard.","The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape.","Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born.","You must find and return the vehicle energy core which is in the interior of the junkyard, and return it to your vehicle.","Once your vehicle is operational, you must drive it through the junkyard and out through the main gate.","To cross the drawbridge, you must lower it by pressing this lever.","Once the bridge is crossed, you must now reach the check point.","You can do so, by following this path and opening the gates to the checkpoint.","It is also possible to use this magnet. While being a much shorter path, it is more risky and exposed.","Once the checkpoint is reached, make your way to the main gate in order to escape.")
+; EN: SubTitles=("This scenario is based on an infamous episode of a popular Holovision program.","In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard.","The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape.","Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born.","You must find and return the vehicle energy core which is in the interior of the junkyard, and return it to your vehicle.","Once your vehicle is operational, you must drive it through the junkyard and out through the main gate.","To cross the drawbridge, you must lower it by pressing this lever.","Once the bridge is crossed, you must now reach the check point.","You can do so, by following this path and opening the gates to the checkpoint.","It is also possible to use this magnet. While being a much shorter path, it is more risky and exposed.","Once the checkpoint is reached, make your way to the main gate in order to escape.")
+SubTitles=("","","","","","","","","","","")
 
 [Volume10]
 ; EN: LocationName="Magnet hill"
-LocationName="Colline d'aimant"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Magnet shortcut"
-LocationName="Raccourci magnétique"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Pipe stack"
-LocationName="Pile de tuyaux"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Junk tunnel"
-LocationName="Tunnel de déchets"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Car crusher"
-LocationName="Broyeur de voiture"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Drive-In"
-LocationName="Drive-in"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Checkpoint"
-LocationName="Point de contrôle"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Bathing"
-LocationName="Baignade"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Communication tower"
-LocationName="Tour de communication"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Main gate"
-LocationName="Porte principale"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Core tower"
-LocationName="Tour centrale"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Defense hill"
-LocationName="colline de la défense"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Bridge"
-LocationName="Pont"
+LocationName=""
 
 [Volume8]
-LocationName="Garage"
+; EN: LocationName="Garage"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Fire pit"
-LocationName="Foyer"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Junkyard"
-LocationName="Casse"
+LocationName=""
 

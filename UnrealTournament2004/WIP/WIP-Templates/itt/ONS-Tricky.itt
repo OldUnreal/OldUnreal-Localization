@@ -1,66 +1,94 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tricky"
-Title="Scaltro"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tricky"
-Title="Scaltro"
+Title=""
 ; EN: Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
-Description="QUESTO SABATO, UN SOLO GIORNO, PRESSO LA M-M-MONSTER VALLEY ARENA, SCOPRI LO SPETTACOLO DI UN TORNEO DI ASSASSINIO!!! DUE SQUADRE E 65 TONNELLATE DI PALLONI ALLA PISTOLA DA PARETE CHE SLINGANO IL CASO DI VEICOLI! SIATE PRESENTI PER I CERCHI IN FAMIGLIA, I SALTI DEI MOSTRI, IL MEZZO TUBO DI SANGUE E LA PAZZIA DELLA TORRE DI DOOM ALTA 150 METRI! ESSERE LÀ!!!"
+Description=""
 
 [MessageTrigger1]
 ; EN: Message="cleared the Holy Shit Gap!"
-Message="colmato il sacro divario di merda!"
+Message=""
 
 [MessageTrigger10]
 ; EN: Message="cleared the Ludicrous Gap!"
-Message="colmato il ridicolo divario!"
+Message=""
 
 [MessageTrigger11]
 ; EN: Message="All Gaps cleared!"
-Message="Tutti i gap eliminati!"
+Message=""
 
 [MessageTrigger12]
 ; EN: Message="clears all Gaps!"
-Message="cancella tutte le lacune!"
+Message=""
 
 [MessageTrigger2]
 ; EN: Message="Holy Shit Gap!"
-Message="Santo divario di merda!"
+Message=""
 
 [MessageTrigger3]
 ; EN: Message="Ben's sweet Gap"
-Message="Il dolce Gap di Ben"
+Message=""
 
 [MessageTrigger4]
 ; EN: Message="Cleared Ben's sweet Gap!"
-Message="Hai completato il dolce gap di Ben!"
+Message=""
 
 [MessageTrigger5]
 ; EN: Message="Unreal Gap!"
-Message="Divario irreale!"
+Message=""
 
 [MessageTrigger6]
 ; EN: Message="cleared the Unreal Gap!"
-Message="eliminato il divario irreale!"
+Message=""
 
 [MessageTrigger7]
 ; EN: Message="M-M-M-Monster Gap!"
-Message="M-M-M-Divario mostruoso!"
+Message=""
 
 [MessageTrigger8]
 ; EN: Message="cleared the M-M-M-Monster Gap!"
-Message="colmato il divario M-M-M-Monster!"
+Message=""
 
 [MessageTrigger9]
 ; EN: Message="Ludicrous Gap!"
-Message="Divario ridicolo!"
+Message=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Tower"
-LocationName="Torre"
+LocationName=""
+
+[Volume5]
+; EN: LocationName="Red Prime Node (3)"
+LocationName=" (3)"
+
+[Volume6]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName=" (2)"
+
+[Volume7]
+; EN: LocationName="Southwest Node (4)"
+LocationName=" (4)"
+
+[Volume8]
+; EN: LocationName="Southeast Node (5)"
+LocationName=""
+
+[Volume9]
+; EN: LocationName="Center Node (1)"
+LocationName=" (1)"
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Al di fuori"
+LocationName=""
 

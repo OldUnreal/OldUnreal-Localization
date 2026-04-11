@@ -1,77 +1,77 @@
 ﻿[DamTypeArtilleryShell]
 ; EN: DeathString="%k rained on %o's parade."
-DeathString="%k eső esett %o felvonulásán."
-; EN: FemaleSuicide="%o managed to kill herself with her own Artillery."
-FemaleSuicide="%o sikerült megölnie magát a saját tüzérségével."
-; EN: MaleSuicide="%o managed to kill himself with his own Artillery."
-MaleSuicide="%o sikerült megölnie magát a saját tüzérségével."
+DeathString=""
+; EN: FemaleSuicide="%o was killed by an artillery strike."
+FemaleSuicide=""
+; EN: MaleSuicide="%o was killed by an artillery strike."
+MaleSuicide=""
 
 [DamTypeONSCicadaLaser]
 ; EN: DeathString="%k's blaster stung %o."
-DeathString="%k robbantója megszúrta %o."
+DeathString=""
 ; EN: FemaleSuicide="%o used her blaster on herself."
-FemaleSuicide="%o magán használta a blastert."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o used his blaster on himself."
-MaleSuicide="%o magán használta a robbanóját."
+MaleSuicide=""
 
 [DamTypeONSCicadaRocket]
 ; EN: DeathString="%k's blew %o to bits."
-DeathString="%k bitekre fújta a %o-t."
+DeathString=""
 ; EN: FemaleSuicide="%o blew herself up good."
-FemaleSuicide="%o jól felrobbantotta magát."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o blew himself up good."
-MaleSuicide="%o jól felrobbantotta magát."
+MaleSuicide=""
 
 [DamTypeShockTankProximityExplosion]
 ; EN: DeathString="%o got too close to %k's Paladin."
-DeathString="%o túl közel került %k Paladinjához."
+DeathString=""
 
 [DamTypeShockTankShockBall]
 ; EN: DeathString="%o couldn't avoid the blast from %k's Paladin."
-DeathString="%o nem tudta elkerülni %k Paladinjának robbanását."
+DeathString=""
 
 [MutVehiclePickups]
 ; EN: FriendlyName="Vehicle Pickups"
-FriendlyName="Járműszállítók"
+FriendlyName=""
 ; EN: Description="Vehicles will pickup items and give them to the driver"
-Description="A járművek felveszik a tárgyakat és átadják a sofőrnek"
+Description=""
 
 [MutBonusVehicles]
 ; EN: FriendlyName="Bonus Vehicles"
-FriendlyName="Bónusz járművek"
+FriendlyName=""
 ; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
-Description="Bizonyos hivatalos pályákon bizonyos járműveket Cicada, SPMA vagy Paladin helyettesít."
+Description=""
 
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
-VehiclePositionString="egy SPMA-ban"
+VehiclePositionString=""
 VehicleNameString="SPMA"
 
 [ONSArtillerySideGunPawn]
 ; EN: VehiclePositionString="in a SPMA side turret"
-VehiclePositionString="SPMA oldalsó toronyban"
+VehiclePositionString=""
 ; EN: VehicleNameString="SPMA Side Turret"
-VehicleNameString="SPMA oldalsó torony"
+VehicleNameString=""
 
 [ONSDualACGatlingGunPawn]
 ; EN: LockedMsg=" INCOMING "
-LockedMsg=" BEÉRKEZŐ "
-; EN: VehiclePositionString="in a Cicada turret"
-VehiclePositionString="egy kabóca toronyban"
-; EN: VehicleNameString="Cicada Laser Turret"
-VehicleNameString="Cicada lézertorony"
+LockedMsg=""
+; EN: VehiclePositionString="in a Cicada's Laser Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Cicada's Laser Turret"
+VehicleNameString=""
 
 [ONSDualAttackCraft]
 ; EN: LockedMsg=" Locked "
-LockedMsg=" Zárt "
+LockedMsg=""
+; EN: CoPilotLabel="Gunner"
+CoPilotLabel=""
 ; EN: VehiclePositionString="in a Cicada"
-VehiclePositionString="egy kabócában"
-; EN: VehicleNameString="Cicada"
-VehicleNameString="Kabóca"
+VehiclePositionString=""
+VehicleNameString="Cicada"
 
 [ONSShockTank]
 ; EN: VehiclePositionString="in a Paladin"
-VehiclePositionString="egy Paladinban"
-; EN: VehicleNameString="Paladin"
-VehicleNameString="Levente"
+VehiclePositionString=""
+VehicleNameString="Paladin"
 

@@ -1,69 +1,70 @@
 ﻿[LevelInfo0]
-Title="Atlantis"
+; EN: Title="Atlantis"
+Title=""
 
 [LevelSummary]
-Title="Atlantis"
+; EN: Title="Atlantis"
+Title=""
 ; EN: Description="This great, mythical metropolis may have sunk to the darkest depths of the ocean, but that doesn't necessarily mean it's off limits to the Tournament. Even though it's located 20,000 leagues under the sea, strange Atlantean powers ensure that the competitors won't get so much as a toe wet."
-Description="Denne flotte, mytiske metropolen kan ha sunket til havets mørkeste dyp, men det betyr ikke nødvendigvis at det er forbudt for turneringen. Selv om det ligger 20 000 ligaer under havet, sørger merkelige atlantiske krefter for at konkurrentene ikke blir så mye som en tå våte."
+Description=""
 
 [Volume0]
 ; EN: LocationName="DOM Point B"
-LocationName="DOM punkt B"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="DOM Point A"
-LocationName="DOM punkt A"
+LocationName=""
 
 [ZoneInfo0]
-LocationName="Flak Cannon"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Flak Cannon"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="Flak Cannon"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Central Chamber"
-LocationName="Sentralkammeret"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Flak Cannon"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="Flak Cannon"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
-
-[xDomPointA0]
-ObjectiveName="DPA"
-
-[xDomPointB1]
-ObjectiveName="DPB"
+LocationName=""
 

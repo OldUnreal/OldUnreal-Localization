@@ -1,32 +1,32 @@
 ﻿[LevelInfo0]
 ; EN: Title="Skyline"
-Title="Panoráma"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Skyline"
-Title="Panoráma"
+Title=""
 
 [MessageTextureClient0]
 ; EN: ScrollingMessage="%lp IS WINNING WITH A SCORE OF %lf"
-ScrollingMessage="%lp VYHRÁVÁ SE Skóre %lf"
+ScrollingMessage=""
 
 [Volume2]
 ; EN: LocationName="Inside Blue Tower"
-LocationName="Uvnitř Modré věže"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Central Tower"
-LocationName="Centrální věž"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Inside Red Tower"
-LocationName="Uvnitř Červené věže"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Tower"
-LocationName="Červená věž"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Blue Tower"
-LocationName="Modrá věž"
+LocationName=""
 

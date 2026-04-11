@@ -1,66 +1,94 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tricky"
-Title="トリッキー"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tricky"
-Title="トリッキー"
+Title=""
 ; EN: Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
-Description="この土曜日、1日だけ、M-M-MONSTER VALLEY ARENAで、ONSLAUGHTトーナメント戦闘のAAAAWESOMEスペクタクルを目撃してください!!!ウォールガンスリングビーキュラーメイヘムに2つのチームと65トンのボール！燃えるようなフープ、モンスタージャンプ、血のハーフパイプ、そして150メートルの高さの塔の狂気のためにそこにいてください！そこにいる！！！"
+Description=""
 
 [MessageTrigger1]
 ; EN: Message="cleared the Holy Shit Gap!"
-Message="聖なるたわごとのギャップをクリアしました！"
+Message=""
 
 [MessageTrigger10]
 ; EN: Message="cleared the Ludicrous Gap!"
-Message="ばかげたギャップをクリアしました！"
+Message=""
 
 [MessageTrigger11]
 ; EN: Message="All Gaps cleared!"
-Message="すべてのギャップがクリアされました！"
+Message=""
 
 [MessageTrigger12]
 ; EN: Message="clears all Gaps!"
-Message="すべてのギャップをクリアします！"
+Message=""
 
 [MessageTrigger2]
 ; EN: Message="Holy Shit Gap!"
-Message="ホーリーシットギャップ！"
+Message=""
 
 [MessageTrigger3]
 ; EN: Message="Ben's sweet Gap"
-Message="ベンの甘いギャップ"
+Message=""
 
 [MessageTrigger4]
 ; EN: Message="Cleared Ben's sweet Gap!"
-Message="ベンの甘いギャップをクリア！"
+Message=""
 
 [MessageTrigger5]
 ; EN: Message="Unreal Gap!"
-Message="非現実的なギャップ！"
+Message=""
 
 [MessageTrigger6]
 ; EN: Message="cleared the Unreal Gap!"
-Message="Unreal Gapをクリアしました！"
+Message=""
 
 [MessageTrigger7]
 ; EN: Message="M-M-M-Monster Gap!"
-Message="M-M-M-モンスターギャップ！"
+Message=""
 
 [MessageTrigger8]
 ; EN: Message="cleared the M-M-M-Monster Gap!"
-Message="M-M-M-モンスターギャップをクリアしました！"
+Message=""
 
 [MessageTrigger9]
 ; EN: Message="Ludicrous Gap!"
-Message="ばかげたギャップ！"
+Message=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Tower"
-LocationName="タワー"
+LocationName=""
+
+[Volume5]
+; EN: LocationName="Red Prime Node (3)"
+LocationName=" (3)"
+
+[Volume6]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName=" (2)"
+
+[Volume7]
+; EN: LocationName="Southwest Node (4)"
+LocationName=" (4)"
+
+[Volume8]
+; EN: LocationName="Southeast Node (5)"
+LocationName=""
+
+[Volume9]
+; EN: LocationName="Center Node (1)"
+LocationName=" (1)"
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="外"
+LocationName=""
 

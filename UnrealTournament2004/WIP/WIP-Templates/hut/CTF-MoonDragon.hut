@@ -1,68 +1,66 @@
 ﻿[LevelInfo0]
 ; EN: Title="Moon Dragon"
-Title="Holdsárkány"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Moon Dragon"
-Title="Holdsárkány"
+Title=""
 ; EN: Description="In the depths of ancient Korea, hidden high up in the Mountain of the Moon Dragon, battles rage between brave warriors."
-Description="Az ókori Korea mélyén, magasan, a Holdsárkány hegyén elrejtve, harcok dúlnak bátor harcosok között."
+Description=""
 
 [Volume10]
 ; EN: LocationName="Red Flag Room"
-LocationName="Vörös zászlós szoba"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Entrances"
-LocationName="Piros alapbejáratok"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Central Cave"
-LocationName="Központi barlang"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Shield Side"
-LocationName="Kék pajzs oldala"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Blue Base Entrances"
-LocationName="Kék alapbejáratok"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Blue Center"
-LocationName="Kék Központ"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Blue Fortress Area"
-LocationName="Kék erőd környéke"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Red Fortress Area"
-LocationName="Vörös erőd területe"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Central Cave"
-LocationName="Központi barlang"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Center"
-LocationName="Vörös Központ"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Shield Side"
-LocationName="Vörös pajzs oldala"
+LocationName=""
 
 [Volume7]
-LocationName="Red Side Route"
+; EN: LocationName="Red Side Route"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Side Route"
-LocationName="Kék oldalút"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Kék zászlós szoba"
-
-[xBlueFlagBase1]
-ObjectiveName="BlueFlag"
+LocationName=""
 

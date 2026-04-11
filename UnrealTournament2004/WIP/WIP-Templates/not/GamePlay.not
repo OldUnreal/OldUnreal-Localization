@@ -1,177 +1,184 @@
 ﻿[ACTION_DamageActor]
 ; EN: ActionString="Damage actor"
-ActionString="Skade skuespiller"
+ActionString=""
 
 [ACTION_DestroyActor]
 ; EN: ActionString="Destroy actor"
-ActionString="Ødelegg skuespiller"
+ActionString=""
 
 [ACTION_FinishRotation]
 ; EN: ActionString="Finish rotation"
-ActionString="Fullfør rotasjonen"
+ActionString=""
 
 [ACTION_FireWeapon]
 ; EN: ActionString="fire weapon"
-ActionString="skytevåpen"
+ActionString=""
 
 [ACTION_FireWeaponAt]
-; EN: ActionString="fire weapon"
-ActionString="skytevåpen"
+; EN: ActionString="fire weapon to"
+ActionString=""
 
 [ACTION_Freeze]
 ; EN: ActionString="Freeze"
-ActionString="Fryse"
+ActionString=""
 
 [ACTION_HealActor]
 ; EN: ActionString="Heal actor"
-ActionString="Helbred skuespiller"
+ActionString=""
 
 [ACTION_Jump]
 ; EN: ActionString="Jump"
-ActionString="Hoppe"
+ActionString=""
 
 [ACTION_LocalizedMessage]
 ; EN: ActionString="Localized Message"
-ActionString="Lokalisert melding"
+ActionString=""
 
 [ACTION_PlayLIPSinc]
 ; EN: ActionString="Play LIPSinc"
-ActionString="Spill LIPSinc"
+ActionString=""
 
 [ACTION_SetPhysics]
 ; EN: ActionString="change physics to "
-ActionString="endre fysikk til "
+ActionString=""
 
 [ACTION_ShootTarget]
 ; EN: ActionString="shoot target"
-ActionString="skyte mål"
+ActionString=""
 
 [ACTION_SpawnActor]
 ; EN: ActionString="Spawn actor"
-ActionString="Spawn skuespiller"
+ActionString=""
 
 [ACTION_SubTitles]
 ; EN: ActionString="SubTitles"
-ActionString="Undertitler"
+ActionString=""
 
 [ACTION_ThrowWeapon]
 ; EN: ActionString="throw weapon"
-ActionString="kaste våpen"
+ActionString=""
 
 [ACTION_WaitForLIPSincAnimEnd]
 ; EN: ActionString="Wait for LIPSincAnimEnd"
-ActionString="Vent på LIPSincAnimEnd"
+ActionString=""
 
 [ActionMessage_BR]
-Messages[0]="Bombing Run"
+; EN: Messages[0]="Bombing Run"
+Messages[0]=""
 ; EN: Messages[1]="The ball is in the center"
-Messages[1]="Ballen er i midten"
+Messages[1]=""
 ; EN: Messages[2]="Touch the ball to pick it up"
-Messages[2]="Berør ballen for å plukke den opp"
+Messages[2]=""
 ; EN: Messages[3]="The ball carrier cannot attack"
-Messages[3]="Ballbæreren kan ikke angripe"
+Messages[3]=""
 ; EN: Messages[4]="Primary fire shoots ball"
-Messages[4]="Primærbrann skyter ball"
+Messages[4]=""
 ; EN: Messages[5]="Alternate fire targets teammates"
-Messages[5]="Alternativt skytemål lagkamerater"
+Messages[5]=""
 ; EN: Messages[6]="Pass the ball to teammates"
-Messages[6]="Gi ballen til lagkameratene"
+Messages[6]=""
 ; EN: Messages[7]="Each team has a round goal"
-Messages[7]="Hvert lag har et rundemål"
+Messages[7]=""
 ; EN: Messages[8]="Throwing the ball = 3 points"
-Messages[8]="Å kaste ballen = 3 poeng"
+Messages[8]=""
 ; EN: Messages[9]="Carrying it = 7 points"
-Messages[9]="Å bære den = 7 poeng"
+Messages[9]=""
 ; EN: Messages[10]="Good luck!"
-Messages[10]="Lykke til!"
+Messages[10]=""
 
 [ActionMessage_CTF]
 ; EN: Messages[0]="Capture the Flag"
-Messages[0]="Ta flagget"
-; EN: Messages[1]="Two bases : red and blue"
-Messages[1]="To baser: rød og blå"
+Messages[0]=""
+; EN: Messages[1]="Two bases: red and blue"
+Messages[1]=""
 ; EN: Messages[2]="Touch enemy flag to take it"
-Messages[2]="Trykk på fiendens flagg for å ta det"
+Messages[2]=""
 ; EN: Messages[3]="Return to your base"
-Messages[3]="Gå tilbake til basen din"
+Messages[3]=""
 ; EN: Messages[4]="Touch your flag to score"
-Messages[4]="Trykk på flagget ditt for å score"
+Messages[4]=""
 ; EN: Messages[5]="Translocating will drop the flag"
-Messages[5]="Translokering vil slippe flagget"
+Messages[5]=""
 ; EN: Messages[6]="Default capture limit is 3"
-Messages[6]="Standard fangstgrense er 3"
+Messages[6]=""
 ; EN: Messages[7]="Good luck!"
-Messages[7]="Lykke til!"
+Messages[7]=""
 
 [ActionMessage_DM]
-Messages[0]="Deathmatch"
+; EN: Messages[0]="Deathmatch"
+Messages[0]=""
 ; EN: Messages[1]="Press fire to spawn"
-Messages[1]="Trykk ild for å gyte"
+Messages[1]=""
 ; EN: Messages[2]="Weapons have two firing modes"
-Messages[2]="Våpen har to skytemoduser"
+Messages[2]=""
 ; EN: Messages[3]="Regular and alternate fire"
-Messages[3]="Vanlig og alternativ brann"
-Messages[4]="Assault Rifle"
+Messages[3]=""
+; EN: Messages[4]="Assault Rifle"
+Messages[4]=""
 ; EN: Messages[5]="Fires bullets and grenades"
-Messages[5]="Skyter kuler og granater"
+Messages[5]=""
 ; EN: Messages[6]="Shield Gun"
-Messages[6]="Skjoldpistol"
+Messages[6]=""
 ; EN: Messages[7]="Melee attack"
-Messages[7]="Nærkampangrep"
+Messages[7]=""
 ; EN: Messages[8]="Protective Shield"
-Messages[8]="Beskyttende skjold"
+Messages[8]=""
 ; EN: Messages[9]="Explore to find other weapons"
-Messages[9]="Utforsk for å finne andre våpen"
-Messages[10]="Flak Cannon"
+Messages[9]=""
+; EN: Messages[10]="Flak Cannon"
+Messages[10]=""
 ; EN: Messages[11]="Bio-Rifle"
-Messages[11]="Bio-rifle"
-Messages[12]="Minigun"
+Messages[11]=""
+; EN: Messages[12]="Minigun"
+Messages[12]=""
 ; EN: Messages[13]="Movement"
-Messages[13]="Bevegelse"
+Messages[13]=""
 ; EN: Messages[14]="WASD = Default movement keys"
-Messages[14]="WASD = Standard bevegelsestaster"
+Messages[14]=""
 ; EN: Messages[15]="Double tap a key to dodge"
-Messages[15]="Dobbelttrykk på en tast for å unngå"
+Messages[15]=""
 ; EN: Messages[16]="Jumping"
-Messages[16]="Hopping"
+Messages[16]=""
 ; EN: Messages[17]="Double jump"
-Messages[17]="Dobbelthopp"
-Messages[18]="Powerups"
+Messages[17]=""
+; EN: Messages[18]="Powerups"
+Messages[18]=""
 ; EN: Messages[19]="Health vials"
-Messages[19]="Helseglass"
+Messages[19]=""
 ; EN: Messages[20]="Health pack"
-Messages[20]="Helsepakke"
-Messages[21]="Big Keg O' Health"
+Messages[20]=""
+; EN: Messages[21]="Big Keg O' Health"
+Messages[21]=""
 ; EN: Messages[22]="Armor"
-Messages[22]="Rustning"
+Messages[22]=""
 ; EN: Messages[23]="Shield Pack"
-Messages[23]="Skjoldpakke"
+Messages[23]=""
 ; EN: Messages[24]="Super Shield Pack"
-Messages[24]="Super Shield-pakke"
+Messages[24]=""
 ; EN: Messages[25]="Adrenaline"
-Messages[25]="Adrenalin"
+Messages[25]=""
 ; EN: Messages[26]="Adrenaline can be used for combos"
-Messages[26]="Adrenalin kan brukes til kombinasjoner"
+Messages[26]=""
 ; EN: Messages[27]="Damage Amplifier"
-Messages[27]="Skade forsterker"
+Messages[27]=""
 ; EN: Messages[28]="Reach the frag limit first!"
-Messages[28]="Nå bruddgrensen først!"
+Messages[28]=""
 ; EN: Messages[29]="Suicides count against you"
-Messages[29]="Selvmord teller mot deg"
+Messages[29]=""
 ; EN: Messages[30]="Good luck!"
-Messages[30]="Lykke til!"
+Messages[30]=""
 
 [ActionMessage_DOM]
 ; EN: Messages[0]="Double Domination"
-Messages[0]="Dobbel dominans"
+Messages[0]=""
 ; EN: Messages[1]="Control points : A & B"
-Messages[1]="Kontrollpunkter: A & B"
+Messages[1]=""
 ; EN: Messages[2]="Hold points for 10 seconds"
-Messages[2]="Hold poeng i 10 sekunder"
+Messages[2]=""
 ; EN: Messages[3]="Touch point to take control"
-Messages[3]="Berør punktet for å ta kontroll"
+Messages[3]=""
 ; EN: Messages[4]="Good luck!"
-Messages[4]="Lykke til!"
+Messages[4]=""
 
 [ActionMessage_SubTitle]
 Delays[0]=4.000000
@@ -207,229 +214,231 @@ Delays[29]=0.000000
 Delays[30]=0.000000
 Delays[31]=0.000000
 ; EN: Messages[0]="How do I look?"
-Messages[0]="Hvordan ser jeg ut?"
+Messages[0]=""
 ; EN: Messages[1]="Not as good as me baby..."
-Messages[1]="Ikke så bra som meg baby..."
+Messages[1]=""
 ; EN: Messages[2]="Well fans here we are for another edition of the bloodiest sport in the Galaxy. A tournament where the winners become gods and the losers pay the ultimate price!"
-Messages[2]="Vel fans her er vi for nok en utgave av den blodigste sporten i Galaxy. En turnering hvor vinnerne blir guder og taperne betaler den ultimate prisen!"
+Messages[2]=""
 ; EN: Messages[3]="THERE THEY ARE! Once they were rivals, but now they're one of the fiercest teams around."
-Messages[3]="DER ER DE! En gang var de rivaler, men nå er de et av de argeste lagene som finnes."
+Messages[3]=""
 ; EN: Messages[4]="That's right. Nothing beats experience and each one of these three brings loads of it to the table."
-Messages[4]="Det er riktig. Ingenting slår erfaring, og hver av disse tre bringer massevis av det til bordet."
+Messages[4]=""
 ; EN: Messages[5]="Look at Malcolm! Now there's a guy who can really keep his cool in a fire-fight."
-Messages[5]="Se på Malcolm! Nå er det en fyr som virkelig kan holde hodet kaldt i en brannkamp."
+Messages[5]=""
 ; EN: Messages[6]="That Brock. He's as dangerous to the ladies OUT-side the ring as he is to his foes IN-side!"
-Messages[6]="Den Brocken. Han er like farlig for damene UTENFOR ringen som han er for sine fiender IN-side!"
+Messages[6]=""
 ; EN: Messages[7]="I love watching Lauren. She's such a little....bundle of energy."
-Messages[7]="Jeg elsker å se Lauren. Hun er en liten... bunt med energi."
+Messages[7]=""
 ; EN: Messages[8]="Yeah right.....you like watching Lauren for her energy."
-Messages[8]="Ja, du liker å se Lauren for energien hennes."
+Messages[8]=""
 ; EN: Messages[9]="This time he's MINE!!"
-Messages[9]="Denne gangen er han MIN!!"
-Messages[10]="AAGGGHHHHRRRR"
+Messages[9]=""
+; EN: Messages[10]="AAGGGHHHHRRRR"
+Messages[10]=""
 ; EN: Messages[11]="You d'man Gorge! You rock! Yeah baby, com'on, now, you d'man dude!"
-Messages[11]="Du d'man Gorge! Du rocker! Ja, kjære, nå, du d'mann!"
-Messages[12]="MAAAALLLCOOOOOMMM!"
+Messages[11]=""
+; EN: Messages[12]="MAAAALLLCOOOOOMMM!"
+Messages[12]=""
 ; EN: Messages[13]="Oh, man, did you see that?"
-Messages[13]="Å, mann, så du det?"
+Messages[13]=""
 ; EN: Messages[14]="I tell you Jim, that Gorge, he just has no respect for his fans."
-Messages[14]="Jeg sier deg Jim, at Gorge, han har bare ingen respekt for fansen sin."
+Messages[14]=""
 ; EN: Messages[15]="Well, I think he is still pissed about that new scar on his face, courtesy of Malcolm in their last match."
-Messages[15]="Vel, jeg tror han fortsatt er forbanna over det nye arret i ansiktet hans, takket være Malcolm i deres siste kamp."
+Messages[15]=""
 ; EN: Messages[16]="Yea, I think he is looking for a little PAYBACK."
-Messages[16]="Ja, jeg tror han er ute etter litt TILBAKEBETING."
+Messages[16]=""
 ; EN: Messages[17]="Yep, it should be a good one tonight."
-Messages[17]="Jepp, det skal bli bra i kveld."
+Messages[17]=""
 ; EN: Messages[18]="Since Malcolm's team are the reigning champs, they get to choose tonight's arena."
-Messages[18]="Siden Malcolms lag er de regjerende mesterne, får de velge kveldens arena."
+Messages[18]=""
 ; EN: Messages[19]="Looks like it's gonna be... Kalendra Icefields."
-Messages[19]="Ser ut som det kommer til å bli... Kalendra Icefields."
+Messages[19]=""
 ; EN: Messages[20]="Awww Yeah, I love this arena, Malcolm does really well here."
-Messages[20]="Awww Ja, jeg elsker denne arenaen, Malcolm gjør det veldig bra her."
+Messages[20]=""
 ; EN: Messages[21]="Tonight's match oughta be a real blood-bath."
-Messages[21]="Kveldens kamp burde vært et skikkelig blodbad."
+Messages[21]=""
 
 [Action_CHANGELEVEL]
 ; EN: ActionString="Change level"
-ActionString="Endre nivå"
+ActionString=""
 
 [Action_CHANGESCRIPT]
 ; EN: ActionString="Change script"
-ActionString="Endre script"
+ActionString=""
 
 [Action_CHANGETEAM]
 ; EN: ActionString="Change Team"
-ActionString="Bytt team"
+ActionString=""
 
 [Action_CROUCH]
 ; EN: ActionString="crouch"
-ActionString="krøke"
+ActionString=""
 
 [Action_ConsoleCommand]
 ; EN: ActionString="console command"
-ActionString="konsoll kommando"
+ActionString=""
 
 [Action_DAMAGEINSTIGATOR]
 ; EN: ActionString="Damage instigator"
-ActionString="Skadestifter"
+ActionString=""
 
 [Action_DESTROYPAWN]
 ; EN: ActionString="destroy pawn"
-ActionString="ødelegge bonde"
+ActionString=""
 
 [Action_DISPLAYMESSAGE]
 ; EN: ActionString="display message"
-ActionString="vise melding"
+ActionString=""
 
 [Action_DrawHUDMaterial]
 ; EN: ActionString="draw HUD texture"
-ActionString="tegne HUD-tekstur"
+ActionString=""
 
 [Action_ENDSECTION]
 ; EN: ActionString="end section"
-ActionString="sluttseksjon"
+ActionString=""
 
 [Action_FADEVIEW]
 ; EN: ActionString="fade view"
-ActionString="visne visningen"
+ActionString=""
 
 [Action_GOTOACTION]
 ; EN: ActionString="go to action"
-ActionString="gå til handling"
+ActionString=""
 
 [Action_IFCONDITION]
 ; EN: ActionString="If condition"
-ActionString="Hvis tilstand"
+ActionString=""
 
 [Action_KILLINSTIGATOR]
-; EN: ActionString="Damage instigator"
-ActionString="Skadestifter"
+; EN: ActionString="Kill instigator"
+ActionString=""
 
 [Action_LEAVESEQUENCE]
 ; EN: ActionString="leave sequence"
-ActionString="forlate sekvensen"
+ActionString=""
 
 [Action_MOVETOPLAYER]
 ; EN: ActionString="Move to player"
-ActionString="Flytt til spiller"
+ActionString=""
 
 [Action_MOVETOPOINT]
 ; EN: ActionString="Move to point"
-ActionString="Flytt til punkt"
+ActionString=""
 
 [Action_PLAYAMBIENTSOUND]
 ; EN: ActionString="play ambient sound"
-ActionString="spille av omgivelseslyd"
+ActionString=""
 
 [Action_PLAYANIM]
 ; EN: ActionString="play animation"
-ActionString="spille animasjon"
+ActionString=""
 
 [Action_PLAYANNOUNCEMENT]
 ; EN: ActionString="play announcement"
-ActionString="spill kunngjøring"
+ActionString=""
 
 [Action_PLAYLOCALSOUND]
-; EN: ActionString="play sound"
-ActionString="spill lyd"
+; EN: ActionString="play local sound"
+ActionString=""
 
 [Action_PLAYMUSIC]
 ; EN: ActionString="play song"
-ActionString="spille sang"
+ActionString=""
 
 [Action_PLAYSOUND]
 ; EN: ActionString="play sound"
-ActionString="spill lyd"
+ActionString=""
 
 [Action_RUN]
 ; EN: ActionString="Run"
-ActionString="Løpe"
+ActionString=""
 
 [Action_SETALERTNESS]
 ; EN: ActionString="set alertness"
-ActionString="angi årvåkenhet"
+ActionString=""
 
 [Action_SETVIEWTARGET]
 ; EN: ActionString="set viewtarget"
-ActionString="angi visningsmål"
+ActionString=""
 
 [Action_STOPANIMATION]
 ; EN: ActionString="stop animation"
-ActionString="stoppe animasjonen"
+ActionString=""
 
 [Action_TRIGGEREVENT]
 ; EN: ActionString="trigger event"
-ActionString="utløsende hendelse"
+ActionString=""
 
 [Action_TURNTOWARDPLAYER]
 ; EN: ActionString="Turn toward player"
-ActionString="Vend deg mot spilleren"
+ActionString=""
 
 [Action_WAITFORANIMEND]
 ; EN: ActionString="Wait for animend"
-ActionString="Vent på animend"
+ActionString=""
 
 [Action_WAITFOREVENT]
 ; EN: ActionString="Wait for external event"
-ActionString="Vent på ekstern hendelse"
+ActionString=""
 
 [Action_WAITFORPLAYER]
 ; EN: ActionString="Wait for player"
-ActionString="Vent på spilleren"
+ActionString=""
 
 [Action_WAITFORTIMER]
 ; EN: ActionString="Wait for timer"
-ActionString="Vent på timer"
+ActionString=""
 
 [Action_WALK]
 ; EN: ActionString="walk"
-ActionString="gå"
+ActionString=""
 
 [Burned]
 ; EN: DeathString="%o was sauteed."
-DeathString="%o ble sautert."
+DeathString=""
 
 [Corroded]
 ; EN: DeathString="%o was dissolved by %k's."
-DeathString="%o ble oppløst av %k's."
+DeathString=""
 ; EN: FemaleSuicide="%o dissolved in slime."
-FemaleSuicide="%o oppløst i slim."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o dissolved in slime."
-MaleSuicide="%o oppløst i slim."
+MaleSuicide=""
 
 [Counter]
 ; EN: CountMessage="Only %i more to go..."
-CountMessage="Bare %i mer igjen..."
+CountMessage=""
 ; EN: CompleteMessage="Completed!"
-CompleteMessage="Fullført!"
+CompleteMessage=""
 
 [Depressurized]
 ; EN: DeathString="%o was depressurized by %k."
-DeathString="%o ble redusert med %k."
+DeathString=""
 ; EN: FemaleSuicide="%o was depressurized."
-FemaleSuicide="%o ble trykkavlastet."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o was depressurized."
-MaleSuicide="%o ble trykkavlastet."
+MaleSuicide=""
 
 [Drowned]
 ; EN: DeathString="%o forgot to come up for air."
-DeathString="%o glemte å komme opp for luft."
+DeathString=""
 ; EN: FemaleSuicide="%o forgot to come up for air."
-FemaleSuicide="%o glemte å komme opp for luft."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o forgot to come up for air."
-MaleSuicide="%o glemte å komme opp for luft."
+MaleSuicide=""
 
 [MessageTextureClient]
 ; EN: HisMessage="his"
-HisMessage="hans"
+HisMessage=""
 ; EN: HerMessage="her"
-HerMessage="henne"
+HerMessage=""
 
 [ScriptedAction]
 ; EN: ActionString="unspecified action"
-ActionString="uspesifisert handling"
+ActionString=""
 
 [WaterVolume]
 ; EN: LocationName="under water"
-LocationName="under vann"
+LocationName=""
 

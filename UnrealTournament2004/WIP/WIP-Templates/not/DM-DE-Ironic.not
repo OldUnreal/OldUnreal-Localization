@@ -1,88 +1,90 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ironic"
-Title="Ironisk"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Ironic"
-Title="Ironisk"
+Title=""
 ; EN: Description="In the solitude of the abandoned coastal platforms of New Argentina, the quiet hum of bird and animal life yields to the roar of rocket fire, and the blast of shock rifles. Looks like R&R has been put on hold for today, so grab some ammo and get out there. It's time for a little old fashioned deathmatch."
-Description="I ensomheten på de forlatte kystplattformene i New Argentina gir den stille summingen av fugle- og dyreliv etter for brølet fra rakettskyting og støt fra sjokkrifler. Ser ut til at R&R har blitt satt på vent for i dag, så ta deg litt ammunisjon og kom deg ut. Det er tid for en liten gammeldags deathmatch."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Shock Rifle"
-LocationName="Sjokkrifle"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="Bio Rifle"
-LocationName="Biorifle"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Top Hallway"
-LocationName="Øverste gang"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Top Hallway"
-LocationName="Øverste gang"
+LocationName=""
 
 [ZoneInfo12]
-LocationName="Flak Cannon"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo13]
-LocationName="Flak Cannon"
+; EN: LocationName="Bio Rifle"
+LocationName=""
 
 [ZoneInfo14]
-; EN: LocationName="Pulse Gun"
-LocationName="Pulspistol"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="Amplifier"
-LocationName="Forsterker"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Shock Rifle"
-LocationName="Sjokkrifle"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo19]
-; EN: LocationName="Shock Rifle"
-LocationName="Sjokkrifle"
+; EN: LocationName="Outside"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakettkaster"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Elevator"
-LocationName="Heis"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Elevator"
-LocationName="Heis"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="Shield Room"
-LocationName="Skjoldrom"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="Shield Room"
-LocationName="Skjoldrom"
+; EN: LocationName="Super Shield Room"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Top Hallway"
-LocationName="Øverste gang"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Top Hallway"
-LocationName="Øverste gang"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Elevator"
-LocationName="Heis"
+LocationName=""
 

@@ -1,128 +1,134 @@
 ﻿[LevelInfo0]
-Title="ElecFields"
+; EN: Title="Electric Fields"
+Title=""
 
 [LevelSummary]
-Title="ElecFields"
+; EN: Title="Electric Fields"
+Title=""
 ; EN: Description="The static towers of the Marakan flow have proven to be one of the most popular venues in the Tournaments since their introduction last season. The true nature of the modern gladiator is revealed as participants butcher their way to victory. Whether competing in CTF or Bombing Run competitions, players must keep one thing in mind at all times as they do battle in the poisonous skies of Purgatory -- It's a long way down."
-Description="Statické věže Marakan flow se ukázaly být jedním z nejoblíbenějších míst na turnajích od jejich uvedení v minulé sezóně. Skutečná povaha moderního gladiátora se odhaluje, když si účastníci porazí cestu k vítězství. Ať už soutěžíte v soutěžích CTF nebo Bombing Run, hráči musí mít při bitvě na jedovatém nebi Očistce vždy na paměti jednu věc – je to dlouhá cesta dolů."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Blue Front"
-LocationName="Modrá přední strana"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Spawning Area"
-LocationName="Modrá oblast tření"
+LocationName=""
 
 [Volume10]
-; EN: LocationName="Red Base Ramp"
-LocationName="Červená základní rampa"
+; EN: LocationName="Red North Base Ramp"
+LocationName=""
 
 [Volume11]
-; EN: LocationName="Red Base Ramp"
-LocationName="Červená základní rampa"
+; EN: LocationName="Red South Base Ramp"
+LocationName=""
 
 [Volume12]
-; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Modrá přední spodní rampa"
+; EN: LocationName="Blue South Front Lower Ramp"
+LocationName=""
 
 [Volume13]
-; EN: LocationName="Red Front Lower Ramp"
-LocationName="Červená přední spodní rampa"
+; EN: LocationName="Red North Front Lower Ramp"
+LocationName=""
 
 [Volume14]
-; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Modrá přední spodní rampa"
+; EN: LocationName="Blue South Front Lower Ramp"
+LocationName=""
 
 [Volume15]
-; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Modrá přední spodní rampa"
+; EN: LocationName="Blue North Front Lower Ramp"
+LocationName=""
 
 [Volume16]
-; EN: LocationName="Red Front Lower Ramp"
-LocationName="Červená přední spodní rampa"
+; EN: LocationName="Red North Front Lower Ramp"
+LocationName=""
 
 [Volume17]
-; EN: LocationName="Red Front Lower Ramp"
-LocationName="Červená přední spodní rampa"
+; EN: LocationName="Red South Front Lower Ramp"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Top Middle Area"
-LocationName="Horní střední oblast"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Tower Area"
-LocationName="Oblast věže"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Lower Middle Area"
-LocationName="Dolní střední oblast"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Blue Front Upper Ramp"
-LocationName="Modrá přední horní rampa"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Blue Front Upper Ramp"
-LocationName="Modrá přední horní rampa"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="Blue Front Upper Ramp"
-LocationName="Modrá přední horní rampa"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Red Front Upper Ramp"
-LocationName="Červená přední horní rampa"
+LocationName=""
 
 [Volume24]
 ; EN: LocationName="Red Front Upper Ramp"
-LocationName="Červená přední horní rampa"
+LocationName=""
 
 [Volume25]
 ; EN: LocationName="Red Front Upper Ramp"
-LocationName="Červená přední horní rampa"
+LocationName=""
 
 [Volume26]
-; EN: LocationName="Red Front Lower Ramp"
-LocationName="Červená přední spodní rampa"
+; EN: LocationName="Red South Front Lower Ramp"
+LocationName=""
 
 [Volume27]
-; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Modrá přední spodní rampa"
+; EN: LocationName="Blue North Front Lower Ramp"
+LocationName=""
 
 [Volume28]
 ; EN: LocationName="Blue Base"
-LocationName="Modrá základna"
+LocationName=""
+
+[Volume29]
+; EN: LocationName="Shield Platform"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Spawning Area"
-LocationName="Červená oblast tření"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Red Front"
-LocationName="Přední strana červená"
+LocationName=""
 
 [Volume5]
-; EN: LocationName="Blue Base Ramp"
-LocationName="Modrá základní rampa"
+; EN: LocationName="Blue South Base Ramp"
+LocationName=""
 
 [Volume6]
-; EN: LocationName="Blue Base Ramp"
-LocationName="Modrá základní rampa"
+; EN: LocationName="Blue North Base Ramp"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Base"
-LocationName="Červená základna"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Red Front"
-LocationName="Přední strana červená"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Front"
-LocationName="Modrá přední strana"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 

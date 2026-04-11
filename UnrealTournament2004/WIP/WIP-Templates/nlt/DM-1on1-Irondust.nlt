@@ -1,45 +1,46 @@
 ﻿[LevelInfo0]
 ; EN: Title="Irondust"
-Title="ijzerstof"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Irondust"
-Title="ijzerstof"
+Title=""
 ; EN: Description="Piece of cake? Yeah you bet... Prepare to get dusted Ironman!"
-Description="Fluitje van een cent? Ja zeker... Bereid je voor om Ironman af te stoffen!"
+Description=""
 
 [ZoneInfo1]
 ; EN: LocationName="Super Shield Lift"
-LocationName="Super schildlift"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Left Lift"
-LocationName="Linker lift"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Right Lift"
-LocationName="Rechter lift"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Minigun Arches"
-LocationName="Minigun Bogen"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Link Gun Area"
-LocationName="Geweergebied koppelen"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Double Health"
-LocationName="Dubbele gezondheid"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Shield Area"
-LocationName="Schildgebied"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Circular Hall"
-LocationName="ronde zaal"
+LocationName=""
 
 [ZoneInfo9]
-LocationName="Catwalks"
+; EN: LocationName="Catwalks"
+LocationName=""
 

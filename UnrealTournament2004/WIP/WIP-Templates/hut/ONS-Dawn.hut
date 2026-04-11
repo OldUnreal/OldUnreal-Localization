@@ -1,46 +1,46 @@
 ﻿[LevelInfo0]
 ; EN: Title="Dawn"
-Title="Hajnal"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Dawn"
-Title="Hajnal"
+Title=""
 ; EN: Description="When Government prospectors happened upon this planet, Liandri knew they had found their next Onslaught arena. A primordial world still in the early stages of life, the lush landscape and rolling hills provide a serene and fitting environment for wholesale destruction."
-Description="Amikor kormánykutatók találkoztak ezen a bolygón, Liandri tudta, hogy megtalálták a következő Onslaught arénájukat. A még korai életszakaszban lévő ősvilág, a buja táj és a dombok derűs és megfelelő környezetet biztosítanak a nagykereskedelmi pusztuláshoz."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Blue Base"
-LocationName="Kék alap"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red Base"
-LocationName="Piros alap"
+LocationName=""
 
 [Volume10]
-; EN: LocationName="Central West Node"
-LocationName="Közép-nyugati csomópont"
+; EN: LocationName="Central West Node (1)"
+LocationName=" (1)"
 
 [Volume5]
-; EN: LocationName="Northeast Node"
-LocationName="Északkeleti csomópont"
+; EN: LocationName="Northeast Node (3)"
+LocationName=" (3)"
 
 [Volume6]
-; EN: LocationName="Northwest Node"
-LocationName="Északnyugati csomópont"
+; EN: LocationName="Northwest Node (6)"
+LocationName=" (6)"
 
 [Volume7]
-; EN: LocationName="Southwest Node"
-LocationName="Délnyugati csomópont"
+; EN: LocationName="Southwest Node (2)"
+LocationName=" (2)"
 
 [Volume8]
-; EN: LocationName="Southeast Node"
-LocationName="Délkeleti csomópont"
+; EN: LocationName="Southeast Node (5)"
+LocationName=" (5)"
 
 [Volume9]
-; EN: LocationName="Central East Node"
-LocationName="Közép-keleti csomópont"
+; EN: LocationName="Central East Node (4)"
+LocationName=" (4)"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 

@@ -1,32 +1,32 @@
 ﻿[LevelInfo0]
 ; EN: Title="Sepukku Gorge"
-Title="Sepukku-juvet"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Sepukku Gorge"
-Title="Sepukku-juvet"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Near Point B"
-LocationName="Nær punkt B"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Near Point A"
-LocationName="Nær punkt A"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="On The Bridges"
-LocationName="På Broene"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Cave"
-LocationName="Rød hule"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Cave"
-LocationName="Blå hule"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Utenfor"
+LocationName=""
 

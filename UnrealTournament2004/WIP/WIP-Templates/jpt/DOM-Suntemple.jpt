@@ -1,88 +1,88 @@
 ﻿[LevelInfo0]
 ; EN: Title="Sun Temple"
-Title="サンテンプル"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Sun Temple"
-Title="サンテンプル"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="Open Ground"
-LocationName="オープングラウンド"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Dom B Hallways"
-LocationName="ドムB廊下"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Dom B Upper Room"
-LocationName="ドムBアッパールーム"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Dom Point B"
-LocationName="ドムポイントB"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Dom A Hallways"
-LocationName="ドムA廊下"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Dom A Hallways"
-LocationName="ドムA廊下"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Dom A Entryway"
-LocationName="ドムA玄関"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Dom A Upper Room"
-LocationName="ドムアッパールーム"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Dom A Upper Room"
-LocationName="ドムアッパールーム"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Dom A Courtyard"
-LocationName="ドム中庭"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Dom B Entryway"
-LocationName="ドムB玄関"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Dom Point A"
-LocationName="ドムポイントA"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Dom B Upper Room"
-LocationName="ドムBアッパールーム"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Central Jump Room"
-LocationName="セントラルジャンプルーム"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Dom B Courtyard"
-LocationName="ドムBコートヤード"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Dom B Hallways"
-LocationName="ドムB廊下"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Dom B Hallways"
-LocationName="ドムB廊下"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Dom A Hallways"
-LocationName="ドムA廊下"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Dom A Hallways"
-LocationName="ドムA廊下"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Dom B Hallways"
-LocationName="ドムB廊下"
+LocationName=""
 

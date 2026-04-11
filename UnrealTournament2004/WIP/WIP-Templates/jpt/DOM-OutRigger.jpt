@@ -1,94 +1,92 @@
 ﻿[LevelInfo0]
 ; EN: Title="Outrigger"
-Title="アウトリガー"
-; EN: LocationName="Unknown"
-LocationName="わからない"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Outrigger"
-Title="アウトリガー"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Dom A, Basement"
-LocationName="ドムA、地下"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Dom B, Basement"
-LocationName="ドムB、地下"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Middle Area."
-LocationName="ミドルエリア。"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Sniping Tower"
-LocationName="スナイピングタワー"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Dom B, Platform 3"
-LocationName="Dom B、プラットフォーム3"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Dom A, Platform 3"
-LocationName="Dom A、プラットフォーム3"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Dom B"
-LocationName="ドムB"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Dom A"
-LocationName="ドムA"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Dom B, Platform 2"
-LocationName="Dom B、プラットフォーム2"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Dom B, Crow's Nest"
-LocationName="ドムB、カラスの巣"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Dom A, Crow's Nest"
-LocationName="ドムA、カラスの巣"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Dom A, Platform 2"
-LocationName="Dom A、プラットフォーム2"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Dom A, Platform 1"
-LocationName="Dom A、プラットフォーム1"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Dom B, Platform 1"
-LocationName="Dom B、プラットフォーム1"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Spawning Grounds."
-LocationName="産卵場。"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Dom B, Basement"
-LocationName="ドムB、地下"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Dom A, Platform 1"
-LocationName="Dom A、プラットフォーム1"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Dom A, Platform 3"
-LocationName="Dom A、プラットフォーム3"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Dom B, Platform 1"
-LocationName="Dom B、プラットフォーム1"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Dom B, Platform 3"
-LocationName="Dom B、プラットフォーム3"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Dom A, Basement"
-LocationName="ドムA、地下"
+LocationName=""
 

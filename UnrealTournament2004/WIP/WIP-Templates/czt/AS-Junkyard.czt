@@ -1,145 +1,146 @@
 ﻿[ASOBJ_EnergyCore_Delivery0]
 ; EN: DestructionMessage="Vehicle has been repaired!"
-DestructionMessage="Vozidlo bylo opraveno!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Deliver the Power Core to repair the vehicle."
-ObjectiveDescription="Dodejte Power Core k opravě vozidla."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Return the Core to the vehicle"
-Objective_Info_Attacker="Vraťte jádro do vozidla"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Prevent the Attackers from returning the Core"
-Objective_Info_Defender="Zabraňte útočníkům vrátit jádro"
+Objective_Info_Defender=""
 
 [ASOBJ_EnergyCore_Spawn0]
 ; EN: ObjectiveDescription="You need to pick up the Energy Core and return it to your vehicle in order to repair it."
-ObjectiveDescription="Musíte vyzvednout energetické jádro a vrátit jej do vozidla, abyste jej mohli opravit."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Find the Energy Core"
-Objective_Info_Attacker="Najděte energetické jádro"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the Energy Core"
-Objective_Info_Defender="Chraňte energetické jádro"
+Objective_Info_Defender=""
 
 [HoldObjective0]
 ; EN: DestructionMessage="Checkpoint gate opened!"
-DestructionMessage="Brána kontrolního bodu otevřena!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Stand at the switch to open the gate."
-ObjectiveDescription="Postavte se ke spínači a otevřete bránu."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Open the checkpoint gate"
-Objective_Info_Attacker="Otevřete bránu kontrolního bodu"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the checkpoint switch."
-Objective_Info_Defender="Chraňte spínač kontrolního bodu."
+Objective_Info_Defender=""
 
 [HoldObjective1]
 ; EN: DestructionMessage="Drawbridge is down!"
-DestructionMessage="Padací most je dole!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Stand at the switch to lower the bridge."
-ObjectiveDescription="Postavte se ke spínači a spusťte most."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Lower the bridge"
-Objective_Info_Attacker="Spusťte most"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the bridge switch"
-Objective_Info_Defender="Obraňte spínač můstku"
+Objective_Info_Defender=""
 
 [LevelInfo0]
 ; EN: Title="Junkyard Escape"
-Title="Útěk na smetiště"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Junkyard Escape"
-Title="Útěk na smetiště"
+Title=""
 ; EN: Description="This scenario is based on an infamous episode of a popular Holovision program. In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard. The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape. Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born."
-Description="Tento scénář je založen na nechvalně známé epizodě populárního holovisionského programu. V původní epizodě soutěžily dva týmy mechaniků, aby zprovoznili své vozidlo a unikli z vrakoviště. K neočekávanému zvratu došlo, když poražený tým vytáhl nějaké provizorní zbraně a zabil druhý tým do zapomnění, než se jim podařilo uprchnout. Protože v soutěži neexistovalo žádné explicitní pravidlo zakazující násilí, byli vyhlášeni vítězi a zrodila se nová turnajová klasika."
+Description=""
 
 [ProximityObjective0]
 ; EN: DestructionMessage="Attackers escaped from the Junkyard!"
-DestructionMessage="Útočníci utekli z vrakoviště!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Escape from the Junkyard."
-ObjectiveDescription="Útěk z vrakoviště."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Proceed to the main gates"
-Objective_Info_Attacker="Pokračujte k hlavním bránám"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the main gates"
-Objective_Info_Defender="Chraňte hlavní brány"
+Objective_Info_Defender=""
 
 [ProximityObjective2]
 ; EN: DestructionMessage="Bridge has been crossed!"
-DestructionMessage="Most byl překročen!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Cross the bridge to progress."
-ObjectiveDescription="Přejděte přes most k postupu."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Cross the bridge"
-Objective_Info_Attacker="Přejít most"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the bridge"
-Objective_Info_Defender="Bránit most"
+Objective_Info_Defender=""
 
 [ProximityObjective3]
 ; EN: DestructionMessage="Checkpoint secured!"
-DestructionMessage="Kontrolní bod zajištěn!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Secure the checkpoint to progress."
-ObjectiveDescription="Zajistěte kontrolní bod k postupu."
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Secure the checkpoint"
-Objective_Info_Attacker="Zajistěte kontrolní bod"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the checkpoint"
-Objective_Info_Defender="Chraňte kontrolní bod"
+Objective_Info_Defender=""
 
 [SceneSubtitles0]
-SubTitles=("This scenario is based on an infamous episode of a popular Holovision program.","In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard.","The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape.","Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born.","You must find and return the vehicle energy core which is in the interior of the junkyard, and return it to your vehicle.","Once your vehicle is operational, you must drive it through the junkyard and out through the main gate.","To cross the drawbridge, you must lower it by pressing this lever.","Once the bridge is crossed, you must now reach the check point.","You can do so, by following this path and opening the gates to the checkpoint.","It is also possible to use this magnet. While being a much shorter path, it is more risky and exposed.","Once the checkpoint is reached, make your way to the main gate in order to escape.")
+; EN: SubTitles=("This scenario is based on an infamous episode of a popular Holovision program.","In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard.","The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape.","Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born.","You must find and return the vehicle energy core which is in the interior of the junkyard, and return it to your vehicle.","Once your vehicle is operational, you must drive it through the junkyard and out through the main gate.","To cross the drawbridge, you must lower it by pressing this lever.","Once the bridge is crossed, you must now reach the check point.","You can do so, by following this path and opening the gates to the checkpoint.","It is also possible to use this magnet. While being a much shorter path, it is more risky and exposed.","Once the checkpoint is reached, make your way to the main gate in order to escape.")
+SubTitles=("","","","","","","","","","","")
 
 [Volume10]
 ; EN: LocationName="Magnet hill"
-LocationName="Magnetický kopec"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Magnet shortcut"
-LocationName="Magnetická zkratka"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Pipe stack"
-LocationName="Stoh potrubí"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Junk tunnel"
-LocationName="Nevyžádaný tunel"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Car crusher"
-LocationName="Drtič aut"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Drive-In"
-LocationName="Vjíždět"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Checkpoint"
-LocationName="Kontrolní bod"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Bathing"
-LocationName="Koupání"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Communication tower"
-LocationName="Komunikační věž"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Main gate"
-LocationName="Hlavní brána"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Core tower"
-LocationName="Věž jádra"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Defense hill"
-LocationName="Obranný kopec"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Bridge"
-LocationName="Most"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Garage"
-LocationName="Garáž"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Fire pit"
-LocationName="Ohniště"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Junkyard"
-LocationName="Skládka"
+LocationName=""
 

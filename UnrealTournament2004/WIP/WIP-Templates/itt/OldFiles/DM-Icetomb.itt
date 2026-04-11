@@ -1,0 +1,71 @@
+﻿[LevelInfo0]
+; EN: Title="Ice Tomb"
+Title="tomba di ghiaccio"
+
+[LevelSummary]
+; EN: Title="Ice Tomb"
+Title="tomba di ghiaccio"
+; EN: Description="Bring your mittens and hide your kittens, because it is about to get very frigid and very bloody in this tight arena."
+Description="Porta i tuoi guanti e nascondi i tuoi gattini, perché sta per diventare molto freddo e molto sanguinante in questa arena stretta."
+
+[ZoneInfo0]
+LocationName="BioRifle Cavern"
+
+[ZoneInfo1]
+; EN: LocationName="Ramp"
+LocationName="Rampa"
+
+[ZoneInfo10]
+; EN: LocationName="Four Waterfalls"
+LocationName="Quattro cascate"
+
+[ZoneInfo11]
+; EN: LocationName="Four Waterfalls"
+LocationName="Quattro cascate"
+
+[ZoneInfo12]
+LocationName="BioRifle Cavern"
+
+[ZoneInfo14]
+LocationName="IceTomb"
+
+[ZoneInfo15]
+LocationName="IceTomb"
+
+[ZoneInfo16]
+; EN: LocationName="Lightning Gun"
+LocationName="Pistola a fulmine"
+
+[ZoneInfo17]
+; EN: LocationName="Lightning Gun"
+LocationName="Pistola a fulmine"
+
+[ZoneInfo2]
+LocationName="IceTomb"
+
+[ZoneInfo3]
+; EN: LocationName="Dual Waterfalls"
+LocationName="Cascate doppie"
+
+[ZoneInfo4]
+; EN: LocationName="Lightning Gun"
+LocationName="Pistola a fulmine"
+
+[ZoneInfo5]
+LocationName="IceTomb"
+
+[ZoneInfo6]
+LocationName="IceTomb"
+
+[ZoneInfo7]
+; EN: LocationName="Atrium"
+LocationName="Atrio"
+
+[ZoneInfo8]
+; EN: LocationName="Ramp"
+LocationName="Rampa"
+
+[ZoneInfo9]
+; EN: LocationName="Four Waterfalls"
+LocationName="Quattro cascate"
+

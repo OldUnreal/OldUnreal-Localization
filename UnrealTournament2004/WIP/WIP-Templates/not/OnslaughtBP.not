@@ -1,74 +1,77 @@
 ﻿[DamTypeArtilleryShell]
 ; EN: DeathString="%k rained on %o's parade."
-DeathString="%k regnet på %o sin parade."
-; EN: FemaleSuicide="%o managed to kill herself with her own Artillery."
-FemaleSuicide="%o klarte å drepe seg selv med sitt eget artilleri."
-; EN: MaleSuicide="%o managed to kill himself with his own Artillery."
-MaleSuicide="%o klarte å drepe seg selv med sitt eget artilleri."
+DeathString=""
+; EN: FemaleSuicide="%o was killed by an artillery strike."
+FemaleSuicide=""
+; EN: MaleSuicide="%o was killed by an artillery strike."
+MaleSuicide=""
 
 [DamTypeONSCicadaLaser]
 ; EN: DeathString="%k's blaster stung %o."
-DeathString="%k sin blaster stakk %o."
+DeathString=""
 ; EN: FemaleSuicide="%o used her blaster on herself."
-FemaleSuicide="%o brukte blasteren på seg selv."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o used his blaster on himself."
-MaleSuicide="%o brukte blasteren sin på seg selv."
+MaleSuicide=""
 
 [DamTypeONSCicadaRocket]
 ; EN: DeathString="%k's blew %o to bits."
-DeathString="%k har blåst %o til biter."
+DeathString=""
 ; EN: FemaleSuicide="%o blew herself up good."
-FemaleSuicide="o sprengte seg selv bra."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o blew himself up good."
-MaleSuicide="o sprengte seg godt i luften."
+MaleSuicide=""
 
 [DamTypeShockTankProximityExplosion]
 ; EN: DeathString="%o got too close to %k's Paladin."
-DeathString="%o kom for nær %k sin Paladin."
+DeathString=""
 
 [DamTypeShockTankShockBall]
 ; EN: DeathString="%o couldn't avoid the blast from %k's Paladin."
-DeathString="%o kunne ikke unngå eksplosjonen fra %k sin Paladin."
+DeathString=""
 
 [MutVehiclePickups]
 ; EN: FriendlyName="Vehicle Pickups"
-FriendlyName="Kjøretøy pickuper"
+FriendlyName=""
 ; EN: Description="Vehicles will pickup items and give them to the driver"
-Description="Kjøretøy vil hente gjenstander og gi dem til sjåføren"
+Description=""
 
 [MutBonusVehicles]
 ; EN: FriendlyName="Bonus Vehicles"
-FriendlyName="Bonuskjøretøy"
+FriendlyName=""
 ; EN: Description="On certain official maps, it replaces certain vehicles with the Cicada, SPMA or Paladin"
-Description="På visse offisielle kart erstatter den visse kjøretøy med Cicada, SPMA eller Paladin."
+Description=""
 
 [ONSArtillery]
 ; EN: VehiclePositionString="in a SPMA"
-VehiclePositionString="i en SPMA"
+VehiclePositionString=""
 VehicleNameString="SPMA"
 
 [ONSArtillerySideGunPawn]
 ; EN: VehiclePositionString="in a SPMA side turret"
-VehiclePositionString="i et SPMA sidetårn"
+VehiclePositionString=""
 ; EN: VehicleNameString="SPMA Side Turret"
-VehicleNameString="SPMA sidetårn"
+VehicleNameString=""
 
 [ONSDualACGatlingGunPawn]
 ; EN: LockedMsg=" INCOMING "
-LockedMsg=" INNKOMMENDE "
-; EN: VehiclePositionString="in a Cicada turret"
-VehiclePositionString="i et Cicada-tårn"
-VehicleNameString="Cicada Laser Turret"
+LockedMsg=""
+; EN: VehiclePositionString="in a Cicada's Laser Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Cicada's Laser Turret"
+VehicleNameString=""
 
 [ONSDualAttackCraft]
 ; EN: LockedMsg=" Locked "
-LockedMsg=" Låst "
+LockedMsg=""
+; EN: CoPilotLabel="Gunner"
+CoPilotLabel=""
 ; EN: VehiclePositionString="in a Cicada"
-VehiclePositionString="i en sikade"
+VehiclePositionString=""
 VehicleNameString="Cicada"
 
 [ONSShockTank]
 ; EN: VehiclePositionString="in a Paladin"
-VehiclePositionString="i en Paladin"
+VehiclePositionString=""
 VehicleNameString="Paladin"
 

@@ -1,28 +1,28 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ruination"
-Title="Ruína"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Ruination"
-Title="Ruína"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Open Ground"
-LocationName="Terreno aberto"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="DOM Point A"
-LocationName="DOM Ponto A"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="DOM Point B"
-LocationName="DOM Ponto B"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Point B Ruins"
-LocationName="Ruínas do Ponto B"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Point A Ruins"
-LocationName="Ruínas de Point A"
+LocationName=""
 

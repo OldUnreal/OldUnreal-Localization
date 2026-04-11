@@ -1,0 +1,11 @@
+﻿[General]
+; EN: FrameWindow="Unreal Level Editor"
+FrameWindow="Editor di livelli irreale"
+; EN: Start="UnrealEd (Starting)"
+Start="UnrealEd (inizio)"
+; EN: Exit="UnrealEd (Exiting)"
+Exit="UnrealEd (Uscita)"
+; EN: Run="UnrealEd (Running)"
+Run="UnrealEd (in esecuzione)"
+Product="UnrealEd"
+Abbreviation="UEd"

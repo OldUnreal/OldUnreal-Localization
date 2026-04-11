@@ -1,0 +1,130 @@
+﻿[LevelInfo0]
+; EN: Title="Island Hop"
+Title="Isola Hop"
+
+[LevelSummary]
+; EN: Title="Island Hop"
+Title="Isola Hop"
+; EN: Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
+Description="Questo arcipelago vulcanico un tempo fungeva da porta d'ingresso nelle guerre umane del 21° secolo. Trasformato per l'uso nei tornei, una serie di ponti ora collega le isole. Questi ponti, sebbene possano essere utilizzati in modo eccellente per i veicoli a terra, non forniscono un percorso diretto per la battaglia. Le mante saranno la scelta principale per il trasporto."
+
+[Volume0]
+; EN: LocationName="Southwest Island"
+LocationName="Isola del sud-ovest"
+
+[Volume1]
+; EN: LocationName="Southwest Island"
+LocationName="Isola del sud-ovest"
+
+[Volume11]
+; EN: LocationName="West Island"
+LocationName="Isola dell'ovest"
+
+[Volume12]
+; EN: LocationName="Northwest Island"
+LocationName="Isola di nord-ovest"
+
+[Volume14]
+; EN: LocationName="Northwest Island"
+LocationName="Isola di nord-ovest"
+
+[Volume15]
+; EN: LocationName="Northeast Island"
+LocationName="Isola di nord-est"
+
+[Volume16]
+; EN: LocationName="Northeast Island"
+LocationName="Isola di nord-est"
+
+[Volume17]
+; EN: LocationName="Northeast Island"
+LocationName="Isola di nord-est"
+
+[Volume19]
+; EN: LocationName="East Island"
+LocationName="Isola dell'Est"
+
+[Volume2]
+; EN: LocationName="Southwest Island"
+LocationName="Isola del sud-ovest"
+
+[Volume20]
+; EN: LocationName="Small Northeast Island"
+LocationName="Piccola isola del nord-est"
+
+[Volume22]
+; EN: LocationName="East Island"
+LocationName="Isola dell'Est"
+
+[Volume23]
+; EN: LocationName="Southeast Island"
+LocationName="Isola del sud-est"
+
+[Volume25]
+; EN: LocationName="Southeast Island"
+LocationName="Isola del sud-est"
+
+[Volume26]
+; EN: LocationName="Volcano"
+LocationName="Vulcano"
+
+[Volume5]
+; EN: LocationName="West Island"
+LocationName="Isola dell'ovest"
+
+[Volume9]
+; EN: LocationName="Small Southwest Island"
+LocationName="Piccola isola del sud-ovest"
+
+[WaterVolume1]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume18]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume19]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume20]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume23]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume24]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume25]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume26]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume27]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume28]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume3]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[WaterVolume31]
+; EN: LocationName="Under Water"
+LocationName="sott'acqua"
+
+[ZoneInfo1]
+; EN: LocationName="Outside"
+LocationName="Al di fuori"
+

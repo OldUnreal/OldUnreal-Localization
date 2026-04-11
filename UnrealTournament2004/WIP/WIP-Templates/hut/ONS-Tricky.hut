@@ -1,63 +1,94 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tricky"
-Title="Furfangos"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tricky"
-Title="Furfangos"
+Title=""
 ; EN: Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
-Description="EZEN SZOMBATON, CSAK EGY NAP, AZ M-M-MONSTER VALLEY ARÉNÁBAN LEGYEN TANÚJA AZ ÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÍTÁSÁLÓ VERSENY VERSENYHARCÁNAK!!! KÉT CSAPAT ÉS 65 TONNA GOLYÓ A FALHOZ FELVÉTEL GÉPJÁRMŰ MAGYAR! LÉGY OTT A LÁNGÓ KARIKÁKHOZ, A SZÖRNYETEGUGRÁSOKHOZ, A VÉRFÉLSZÍVÉN ÉS A 150 MÉTER MAGAS VÉGTORONY őrületéért! OTT LENNI!!!"
+Description=""
 
 [MessageTrigger1]
 ; EN: Message="cleared the Holy Shit Gap!"
-Message="megtisztította a Szent Szar rést!"
+Message=""
 
 [MessageTrigger10]
 ; EN: Message="cleared the Ludicrous Gap!"
-Message="tisztázta a Ludicrous Gap-et!"
+Message=""
 
 [MessageTrigger11]
 ; EN: Message="All Gaps cleared!"
-Message="Minden hiányosság tisztázva!"
+Message=""
 
 [MessageTrigger12]
 ; EN: Message="clears all Gaps!"
-Message="minden rést kitisztít!"
+Message=""
 
 [MessageTrigger2]
-Message="Holy Shit Gap!"
+; EN: Message="Holy Shit Gap!"
+Message=""
 
 [MessageTrigger3]
 ; EN: Message="Ben's sweet Gap"
-Message="Ben édes Gap"
+Message=""
 
 [MessageTrigger4]
 ; EN: Message="Cleared Ben's sweet Gap!"
-Message="Megtisztította Ben édes szakadékát!"
+Message=""
 
 [MessageTrigger5]
-Message="Unreal Gap!"
+; EN: Message="Unreal Gap!"
+Message=""
 
 [MessageTrigger6]
 ; EN: Message="cleared the Unreal Gap!"
-Message="tisztázta az Unreal Gap-et!"
+Message=""
 
 [MessageTrigger7]
-Message="M-M-M-Monster Gap!"
+; EN: Message="M-M-M-Monster Gap!"
+Message=""
 
 [MessageTrigger8]
 ; EN: Message="cleared the M-M-M-Monster Gap!"
-Message="tisztázta az M-M-M-Monster Gap-et!"
+Message=""
 
 [MessageTrigger9]
 ; EN: Message="Ludicrous Gap!"
-Message="Nevetséges szakadék!"
+Message=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Tower"
-LocationName="Torony"
+LocationName=""
+
+[Volume5]
+; EN: LocationName="Red Prime Node (3)"
+LocationName=" (3)"
+
+[Volume6]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName=" (2)"
+
+[Volume7]
+; EN: LocationName="Southwest Node (4)"
+LocationName=" (4)"
+
+[Volume8]
+; EN: LocationName="Southeast Node (5)"
+LocationName=""
+
+[Volume9]
+; EN: LocationName="Center Node (1)"
+LocationName=" (1)"
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 

@@ -1,102 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bridge of Fate"
-Title="Skjebnebroen"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bridge of Fate"
-Title="Skjebnebroen"
+Title=""
 ; EN: Description="Two sides, a huge cave in between, one bridge going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
-Description="To sider, en enorm hule i mellom, én bro som går fra side til side, bygger bro mellom to lag, og bygger bro mellom håp og fortvilelse."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Cave"
-LocationName="Hule"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="BLÅ panserinngang"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Main Entrance"
-LocationName="BLÅ Hovedinngang"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLÅT bomberom"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLÅT bomberom"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="BLÅ BioRifle-inngang"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED Bomb Room"
-LocationName="RØDT bomberom"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="RØD BioRifle-inngang"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="RØD panserinngang"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="RØD panserinngang"
+LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="RØD BioRifle-inngang"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="RED Main Entrance"
-LocationName="RØD Hovedinngang"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="RØD BioRifle-inngang"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="RED Bomb Room"
-LocationName="RØDT bomberom"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="RED Bomb Room"
-LocationName="RØDT bomberom"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="RØD panserinngang"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLÅT bomberom"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Pillar Room"
-LocationName="BLÅ Søylerom"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="BLÅ BioRifle-inngang"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="BLÅ panserinngang"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="RED Pillar Room"
-LocationName="RØDE søylerom"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="BLÅ panserinngang"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="BLÅ BioRifle-inngang"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 

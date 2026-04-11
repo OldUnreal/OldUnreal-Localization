@@ -1,52 +1,52 @@
 ﻿[LevelInfo0]
 ; EN: Title="Leviathan"
-Title="Léviathan"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Leviathan"
-Title="Léviathan"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="North-East Upper Hallway"
-LocationName="Couloir supérieur nord-est"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Main Room"
-LocationName="Pièce principale"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="North-East Hallway"
-LocationName="Couloir Nord-Est"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="North-West Upper Hallway"
-LocationName="Couloir supérieur nord-ouest"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="North-West Hallway"
-LocationName="Couloir nord-ouest"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Western Chamber"
-LocationName="Chambre occidentale"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="South-West Hallway"
-LocationName="Couloir Sud-Ouest"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="South-West Upper Hallway"
-LocationName="Couloir supérieur sud-ouest"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="South-East Upper Hallway"
-LocationName="Couloir supérieur sud-est"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="South-East Hallway"
-LocationName="Couloir Sud-Est"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Eastern Chamber"
-LocationName="Chambre de l'Est"
+LocationName=""
 

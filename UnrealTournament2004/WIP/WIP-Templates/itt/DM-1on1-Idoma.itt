@@ -1,24 +1,26 @@
 ﻿[LevelInfo0]
-Title="Idoma"
+; EN: Title="Idoma"
+Title=""
 
 [LevelSummary]
-Title="Idoma"
+; EN: Title="Idoma"
+Title=""
 ; EN: Description="Small atmospheric map set in a building constructed out of lots of wood and metal."
-Description="Piccola mappa atmosferica ambientata in un edificio costruito con molto legno e metallo."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Rocket Area"
-LocationName="Area del razzo"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Shield Area"
-LocationName="Area dello scudo"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Middle"
-LocationName="Mezzo"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Flak Area"
-LocationName="Zona Flak"
+LocationName=""
 

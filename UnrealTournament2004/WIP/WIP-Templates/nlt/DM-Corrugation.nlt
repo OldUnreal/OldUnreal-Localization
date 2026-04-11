@@ -1,90 +1,90 @@
 ﻿[LevelInfo0]
 ; EN: Title="Corrugation"
-Title="golf"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Corrugation"
-Title="golf"
+Title=""
 ; EN: Description="After many years of Tournament battles, this arena is slowly being eaten away by successive rocket and shock rifle blasts. Add your contribution to its destruction."
-Description="Na vele jaren van toernooigevechten wordt deze arena langzaam weggevreten door opeenvolgende raket- en schokgeweerontploffingen. Voeg uw bijdrage toe aan de vernietiging ervan."
+Description=""
 
 [ZoneInfo1]
 ; EN: LocationName="Furnace Area"
-LocationName="Ovengebied"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="West Area"
-LocationName="Westelijk gebied"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Sewer Entrance"
-LocationName="Rioolingang"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="East Sewer Area"
-LocationName="Oost-rioolgebied"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="South Area"
-LocationName="Zuid gebied"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="East Sewer Area"
-LocationName="Oost-rioolgebied"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Atrium"
-LocationName="Binnenplaats"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Furnace Area"
-LocationName="Ovengebied"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="North Stairway"
-LocationName="noordelijke trap"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="East Corridor"
-LocationName="Oostelijke Gang"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="East Area"
-LocationName="Oostelijk gebied"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Central Sewer"
-LocationName="Centraal Riool"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="South Sewer Area"
-LocationName="Zuid Rioolgebied"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="West Elevator Shaft"
-LocationName="West Liftschacht"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="South East Sewer"
-LocationName="Zuid-Oost Riool"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="East Curved Corridor"
-LocationName="Oost gebogen gang"
+; EN: LocationName="Southwest Curved Corridor"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="East Area"
-LocationName="Oostelijk gebied"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Central Area"
-LocationName="Middelste gebied"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="East Curved Corridor"
-LocationName="Oost gebogen gang"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Pump Area"
-LocationName="Pompgebied:"
+LocationName=""
 

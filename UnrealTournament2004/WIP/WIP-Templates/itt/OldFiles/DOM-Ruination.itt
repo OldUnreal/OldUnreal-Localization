@@ -1,0 +1,28 @@
+﻿[LevelInfo0]
+; EN: Title="Ruination"
+Title="Rovina"
+
+[LevelSummary]
+; EN: Title="Ruination"
+Title="Rovina"
+
+[Volume0]
+; EN: LocationName="Open Ground"
+LocationName="terreno aperto"
+
+[Volume1]
+; EN: LocationName="DOM Point A"
+LocationName="DOM Punto A"
+
+[Volume2]
+; EN: LocationName="DOM Point B"
+LocationName="DOM punto B"
+
+[Volume3]
+; EN: LocationName="Point B Ruins"
+LocationName="Rovine del punto B"
+
+[Volume5]
+; EN: LocationName="Point A Ruins"
+LocationName="Punto A Rovine"
+

@@ -1,55 +1,58 @@
 ﻿[LevelInfo0]
 ; EN: Title="Mixer"
-Title="Keverő"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Mixer"
-Title="Keverő"
+Title=""
 ; EN: Description="Gunsmoke and death aren't the only things you'll smell here."
-Description="Nem csak a pisztolyfüst és a halál szaga lehet itt."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Pipe"
-LocationName="Pipa"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Shield Chamber"
-LocationName="Pajzskamra"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="Minigun"
+; EN: LocationName="Minigun"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Rakétavető"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Double Damage"
-LocationName="Dupla sebzés"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Lift"
-LocationName="Emel"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Lift"
-LocationName="Emel"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Pipes"
-LocationName="Csövek"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Lightning Gun"
-LocationName="Villámpisztoly"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Link Gun"
+; EN: LocationName="Link Gun"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Basement"
-LocationName="Pince"
+LocationName=""
 
 [ZoneInfo9]
-LocationName="Shock Rifle"
+; EN: LocationName="Shock Rifle"
+LocationName=""
 

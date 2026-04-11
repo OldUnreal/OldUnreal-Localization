@@ -1,28 +1,28 @@
 ﻿[LevelInfo0]
 ; EN: Title="Lost Faith"
-Title="Mistet troen"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Lost Faith"
-Title="Mistet troen"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Blue base Flak"
-LocationName="Blå base Flak"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue base Link"
-LocationName="Blå base Link"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red base Flak"
-LocationName="Rød base Flak"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red base Link"
-LocationName="Rød base Link"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Waterfall"
-LocationName="Foss"
+LocationName=""
 

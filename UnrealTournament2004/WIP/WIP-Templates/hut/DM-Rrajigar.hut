@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 
 [LevelSummary]
-Title="Rrajigar"
+; EN: Title="Rrajigar"
+Title=""
 ; EN: Description="Fight in the Rrajigar mines."
-Description="Harcolj a Rrajigar bányákban."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Machine Area"
-LocationName="Gépterület"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="WaterFall"
-LocationName="Vízesés"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Shield Area"
-LocationName="Pajzs terület"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Shock Area"
-LocationName="Shock Terület"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="River"
-LocationName="Folyó"
+LocationName=""
 

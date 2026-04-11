@@ -1,189 +1,190 @@
 ﻿[ASCriticalObjectiveVolume0]
 ; EN: LocationName="Central Office"
-LocationName="中央局"
+LocationName=""
 
 [ASCriticalObjectiveVolume1]
 ; EN: LocationName="Right Lock"
-LocationName="右ロック"
+LocationName=""
 
 [ASCriticalObjectiveVolume2]
 ; EN: LocationName="Left Lock"
-LocationName="左ロック"
+LocationName=""
 
 [ASCriticalObjectiveVolume3]
 ; EN: LocationName="Left Lock"
-LocationName="左ロック"
+LocationName=""
 
 [ASCriticalObjectiveVolume4]
 ; EN: LocationName="Right Lock"
-LocationName="右ロック"
+LocationName=""
 
 [ASCriticalObjectiveVolume5]
 ; EN: LocationName="Inside Vault"
-LocationName="Vaultの内部"
+LocationName=""
 
 [ASCriticalObjectiveVolume6]
 ; EN: LocationName="Radio Terminal"
-LocationName="ラジオターミナル"
+LocationName=""
 
 [ASOBJ_EnergyCore_Delivery0]
 ; EN: Objective_Info_Attacker="Upload Data Stick At The Computer Terminal"
-Objective_Info_Attacker="コンピュータ端末でデータスティックをアップロードする"
-; EN: Objective_Info_Defender="Protect The Computer Terminal."
-Objective_Info_Defender="コンピュータ端末を保護します。"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Protect The Computer Terminal"
+Objective_Info_Defender=""
 
 [ASOBJ_EnergyCore_Delivery1]
 ; EN: DestructionMessage="Antenna Realigned!"
-DestructionMessage="アンテナが再調整されました！"
-; EN: Objective_Info_Attacker="Realign The Antenna."
-Objective_Info_Attacker="アンテナを再調整します。"
-; EN: Objective_Info_Defender="Protect The Antenna."
-Objective_Info_Defender="アンテナを保護します。"
+DestructionMessage=""
+; EN: Objective_Info_Attacker="Realign The Antenna"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Protect The Antenna"
+Objective_Info_Defender=""
 
 [ASOBJ_EnergyCore_Spawn0]
 ; EN: PlayerDroppedMessage=" dropped the Data Stick!"
-PlayerDroppedMessage=" データスティックを落としました！"
+PlayerDroppedMessage=""
 ; EN: DroppedMessage="Data Stick dropped!"
-DroppedMessage="データスティックが落ちました！"
+DroppedMessage=""
 ; EN: EnergyCorePickedUp="Data Stick picked up!"
-EnergyCorePickedUp="データスティックを拾いました！"
+EnergyCorePickedUp=""
 ; EN: PlayerPickedUpEnergyCore=" picked up the Data Stick!"
-PlayerPickedUpEnergyCore=" データスティックを手に入れました！"
+PlayerPickedUpEnergyCore=""
 ; EN: PlayerCoreReset="Data Stick reset!"
-PlayerCoreReset="データスティックがリセットされました！"
+PlayerCoreReset=""
 ; EN: ObjectiveName="Teh Demo"
-ObjectiveName="デモ"
+ObjectiveName=""
 ; EN: DestructionMessage="The data stick has been stolen!"
-DestructionMessage="データスティックが盗まれました！"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Data Stick"
-ObjectiveDescription="データスティック"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Get the Data Stick!"
-Objective_Info_Attacker="データスティックを入手！"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the Data Stick!"
-Objective_Info_Defender="データスティックを保護してください！"
+Objective_Info_Defender=""
 
 [ASOBJ_EnergyCore_Spawn1]
 ; EN: PlayerDroppedMessage=" dropped the Data Stick!"
-PlayerDroppedMessage=" データスティックを落としました！"
+PlayerDroppedMessage=""
 ; EN: DroppedMessage="Data Stick dropped!"
-DroppedMessage="データスティックが落ちました！"
+DroppedMessage=""
 ; EN: EnergyCorePickedUp="Data Stick picked up!"
-EnergyCorePickedUp="データスティックを拾いました！"
+EnergyCorePickedUp=""
 ; EN: PlayerPickedUpEnergyCore=" picked up the Data Stick!"
-PlayerPickedUpEnergyCore=" データスティックを手に入れました！"
+PlayerPickedUpEnergyCore=""
 ; EN: ObjectiveName="Teh Demo"
-ObjectiveName="デモ"
+ObjectiveName=""
 ; EN: DestructionMessage="The data stick has been stolen!"
-DestructionMessage="データスティックが盗まれました！"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Data Stick"
-ObjectiveDescription="データスティック"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Get the Data Stick!"
-Objective_Info_Attacker="データスティックを入手！"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Protect the Data Stick!"
-Objective_Info_Defender="データスティックを保護してください！"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM0]
 ; EN: DestructionMessage="Door Lock Destroyed!"
-DestructionMessage="ドアロックが破壊されました！"
-; EN: Objective_Info_Attacker="Destroy The Front Door Controls."
-Objective_Info_Attacker="フロントドアコントロールを破壊します。"
-; EN: Objective_Info_Defender="Protect The Front Door Controls."
-Objective_Info_Defender="フロントドアコントロールを保護します。"
+DestructionMessage=""
+; EN: Objective_Info_Attacker="Destroy The Front Door Controls"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Protect The Front Door Controls"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM1]
 ; EN: ObjectiveName="Data Shield"
-ObjectiveName="データシールド"
+ObjectiveName=""
 ; EN: DestructionMessage="Data Shield Destroyed!"
-DestructionMessage="データシールドが破壊されました！"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy the data shield."
-ObjectiveDescription="データシールドを破壊します。"
-; EN: Objective_Info_Attacker="Destroy the data shield."
-Objective_Info_Attacker="データシールドを破壊します。"
-; EN: Objective_Info_Defender="Defend the data shield."
-Objective_Info_Defender="データシールドを守ります。"
+ObjectiveDescription=""
+; EN: Objective_Info_Attacker="Destroy the data shield"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Defend the data shield"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM2]
 ; EN: DestructionMessage="Door Lock Destroyed!"
-DestructionMessage="ドアロックが破壊されました！"
-; EN: Objective_Info_Attacker="Destroy The Front Door Controls."
-Objective_Info_Attacker="フロントドアコントロールを破壊します。"
-; EN: Objective_Info_Defender="Protect The Front Door Controls."
-Objective_Info_Defender="フロントドアコントロールを保護します。"
+DestructionMessage=""
+; EN: Objective_Info_Attacker="Destroy The Front Door Controls"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Protect The Front Door Controls"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM4]
 ; EN: DestructionMessage="Front Gate Destroyed!"
-DestructionMessage="正門破壊！"
-; EN: Objective_Info_Attacker="Destroy The Main Gate."
-Objective_Info_Attacker="正門を破壊する。"
-; EN: Objective_Info_Defender="Protect The Main Gate."
-Objective_Info_Defender="正門を守ってください。"
+DestructionMessage=""
+; EN: Objective_Info_Attacker="Destroy The Main Gate"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Protect The Main Gate"
+Objective_Info_Defender=""
 
 [HoldObjective1]
 ; EN: DestructionMessage="Vault Lock Opened!"
-DestructionMessage="ボールトロックが開きました！"
-; EN: Objective_Info_Attacker="Use The Keys To Open The Vault."
-Objective_Info_Attacker="キーを使用してVaultを開きます。"
-; EN: Objective_Info_Defender="Protect The Entrance To The Vault."
-Objective_Info_Defender="ボールトへの入り口を保護します。"
+DestructionMessage=""
+; EN: Objective_Info_Attacker="Use The Keys To Open The Vault"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Protect The Entrance To The Vault"
+Objective_Info_Defender=""
 
 [HoldObjective2]
 ; EN: DestructionMessage="Vault Lock Opened!"
-DestructionMessage="ボールトロックが開きました！"
-; EN: Objective_Info_Attacker="Use The Keys To Open The Vault."
-Objective_Info_Attacker="キーを使用してVaultを開きます。"
-; EN: Objective_Info_Defender="Protect The Entrance To The Vault."
-Objective_Info_Defender="ボールトへの入り口を保護します。"
+DestructionMessage=""
+; EN: Objective_Info_Attacker="Use The Keys To Open The Vault"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Protect The Entrance To The Vault"
+Objective_Info_Defender=""
 
 [HoldObjective3]
 ; EN: DestructionMessage="The Keys Have Been Stolen!"
-DestructionMessage="鍵が盗まれました！"
-; EN: Objective_Info_Attacker="Get the keys from the Central Office."
-Objective_Info_Attacker="セントラルオフィスから鍵を入手してください。"
-; EN: Objective_Info_Defender="Protect the Central Office."
-Objective_Info_Defender="セントラルオフィスを保護します。"
+DestructionMessage=""
+; EN: Objective_Info_Attacker="Get the keys from the Central Office"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Protect the Central Office"
+Objective_Info_Defender=""
 
 [LevelInfo0]
 ; EN: Title="Sub Rosa"
-Title="サブローザ"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Sub Rosa"
-Title="サブローザ"
+Title=""
 ; EN: Description="Every rose has thorns, and even the most pristine worlds can hide sinister intentions."
-Description="すべてのバラにはとげがあり、最も手付かずの世界でさえ不吉な意図を隠すことができます。"
+Description=""
 
 [SceneSubtitles0]
-SubTitles=("This scenario recreates the invasion of the Central Liandri Information compound by NEG forces.","The New Earth Government discovered that the Liandri were transferring experimental weapons data through the facility, and sent an elite squad in to retrieve the research.","The attackers must first make their way to the compound and destroy the main gate to get into the courtyard.",,"Then you must destroy the front door controls to gain access to the main building.",,"Once inside, you must make your way to the central office to get the keys to the vault.",,"Next, use the keys to open the vault doors.",,"Once inside the vault, you must destroy the protective shield around the data stick.","Then, you must deliver the data stick to the access station in order to realign the antenna.",,"Finally, you must move the updated data from the antenna to the terminal, and transmit the weapon data to the NEG.",)
+; EN: SubTitles=("This scenario recreates the invasion of the Central Liandri Information compound by N.E.G. forces.","The New Earth Government discovered that the Liandri were transferring experimental weapons data through the facility, and sent an elite squad in to retrieve the research.","The attackers must first make their way to the compound and destroy the main gate to get into the courtyard.",,"Then you must destroy the front door controls to gain access to the main building.",,"Once inside, you must make your way to the central office to get the keys to the vault.",,"Next, use the keys to open the vault doors.",,"Once inside the vault, you must destroy the protective shield around the data stick.","Then, you must deliver the data stick to the access station in order to realign the antenna.",,"Finally, you must move the updated data from the antenna to the terminal, and transmit the weapon data to the N.E.G.",)
+SubTitles=("","","",,"",,"",,"",,"","",,"",)
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="外"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Main Hall"
-LocationName="メインホール"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Office"
-LocationName="オフィス"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Vault Locks"
-LocationName="ボールトロック"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Vault Locks"
-LocationName="ボールトロック"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Vault Locks"
-LocationName="ボールトロック"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Inside Vault"
-LocationName="Vaultの内部"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Radio Terminal"
-LocationName="ラジオターミナル"
+LocationName=""
 

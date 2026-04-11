@@ -1,57 +1,80 @@
 ﻿[LevelInfo0]
-; EN: Title="Domination Tutorial"
-Title="支配チュートリアル"
+; EN: Title="Double Domination Tutorial"
+Title=""
 
 [LevelSummary]
-; EN: Title="Domination Tutorial"
-Title="支配チュートリアル"
+; EN: Title="Double Domination Tutorial"
+Title=""
+
+[PhysicsVolume0]
+; EN: LocationName="Blue Spawn"
+LocationName=""
+
+[PhysicsVolume1]
+; EN: LocationName="Red Spawn"
+LocationName=""
 
 [ZoneInfo0]
-LocationName="InsideCenter"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="BackHallway_B"
+; EN: LocationName="Back Hallway B"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Outside"
-LocationName="外"
+LocationName=""
 
 [ZoneInfo15]
-LocationName="InsideCenter"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo16]
-LocationName="SpawnBlue"
+; EN: LocationName="Spawn Blue"
+LocationName=""
 
 [ZoneInfo17]
-LocationName="FrontHallway_A"
+; EN: LocationName="Front Hallway A"
+LocationName=""
 
 [ZoneInfo18]
-LocationName="FrontHallway_A"
+; EN: LocationName="Front Hallway A"
+LocationName=""
 
 [ZoneInfo19]
-LocationName="Room_A"
+; EN: LocationName="Room A"
+LocationName=""
 
 [ZoneInfo20]
-LocationName="BackHallway_A"
+; EN: LocationName="Back Hallway A"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="InsideCenter"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="InsideCenter"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="InsideCenter"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="FrontHallway_B"
+; EN: LocationName="Front Hallway B"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="SpawnRed"
+; EN: LocationName="Spawn Red"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="FrontHallway_B"
+; EN: LocationName="Front Hallway B"
+LocationName=""
 
 [ZoneInfo9]
-LocationName="Room_B"
+; EN: LocationName="Room B"
+LocationName=""
 

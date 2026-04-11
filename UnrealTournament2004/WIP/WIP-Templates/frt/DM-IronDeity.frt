@@ -1,57 +1,58 @@
 ﻿[LevelInfo0]
 ; EN: Title="Iron Deity"
-Title="Divinité de fer"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Iron Deity"
-Title="Divinité de fer"
-; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the double damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
-Description="Cette grande et imposante arène se joue mieux avec deux équipes de combattants de taille moyenne. Essayez de ne pas vous faire surprendre en train de traverser la salle des ventilateurs étroite et assurez-vous de contrôler les doubles dégâts. Enfin, gardez les yeux ouverts pour le Rédempteur caché !"
+Title=""
+; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the Double Damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Near Lightning Gun"
-LocationName="Près de Lightning Gun"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Lower Ramp"
-LocationName="Rampe inférieure"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Low FPS room"
-LocationName="Salle à faible FPS"
+LocationName=""
 
 [ZoneInfo11]
-; EN: LocationName="Near DoubleDamage"
-LocationName="Près de DoubleDamage"
+; EN: LocationName="Near Double Damage"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Closet"
-LocationName="Toilettes"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Near Link Gun"
-LocationName="Près de Link Gun"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Minigun"
+; EN: LocationName="Minigun"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Double Damage"
-LocationName="Doubles dommages"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Flak Room"
-LocationName="Chambre Flak"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Bathroom"
-LocationName="Salle de bains"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Closet"
-LocationName="Toilettes"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Near Shock Rifle"
-LocationName="Près du fusil à choc"
+LocationName=""
 

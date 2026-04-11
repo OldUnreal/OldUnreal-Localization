@@ -1,32 +1,32 @@
 ﻿[LevelInfo0]
 ; EN: Title="Maul"
-Title="Malho"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Maul"
-Title="Malho"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Blue Side"
-LocationName="Lado azul"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red Side"
-LocationName="Lado vermelho"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Base"
-LocationName="Base Vermelha"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Base"
-LocationName="Base Azul"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Roof"
-LocationName="Telhado Azul"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Roof"
-LocationName="telhado vermelho"
+LocationName=""
 

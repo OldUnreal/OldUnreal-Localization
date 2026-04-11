@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
 ; EN: Title="Trite"
-Title="Banální"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Trite"
-Title="Banální"
+Title=""
 ; EN: Description="Watch your back and stay alert in this abandoned facility or you may end up as cold as the steel which surrounds you..."
-Description="Hlídejte si záda a buďte ve střehu v tomto opuštěném zařízení, jinak můžete skončit chladní jako ocel, která vás obklopuje..."
+Description=""
 
 [ZoneInfo0]
-LocationName="Flak Area"
+; EN: LocationName="Flak Area"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="UDamage Area"
-LocationName="Oblast poškození"
+; EN: LocationName="Double Damage Area"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Shield Room"
-LocationName="Místnost štítu"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Sniper Rifle Area"
-LocationName="Oblast odstřelovací pušky"
+LocationName="
 
 [ZoneInfo4]
-LocationName="Shock Rifle Hall"
+; EN: LocationName="Shock Rifle Hall"
+LocationName=""
 

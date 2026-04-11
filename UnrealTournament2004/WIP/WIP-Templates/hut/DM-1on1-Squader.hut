@@ -1,52 +1,58 @@
 ﻿[LevelInfo0]
 ; EN: Title="Squader"
-Title="Osztag"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Squader"
-Title="Osztag"
+Title=""
 ; EN: Description="Once a section of a hidden military research facility, this cold structure now hosts some of the premiere 1 on 1 duels from the Tournament. The pressure is on.....how will you handle the spotlight?"
-Description="Ez a hideg épület egykor egy rejtett katonai kutatási létesítmény része volt, és most a bajnokság 1 az 1 elleni párharcainak premierjének ad otthont. Nagy a nyomás… hogyan fogod kezelni a reflektorfényt?"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Super Shield Area"
-LocationName="Super Shield terület"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="UDamage Halls"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="UDamage Halls"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Super Shield Area"
-LocationName="Super Shield terület"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="Minigun Lift"
+; EN: LocationName="Minigun Lift"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Flak Hall"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="Flak Hall"
+; EN: LocationName="Flak Hall"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Double Health"
-LocationName="Dupla egészség"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Bio Rifle Corner"
-LocationName="Bio puskasarok"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Large Window Area"
-LocationName="Nagy ablakterület"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Large Window Area"
-LocationName="Nagy ablakterület"
+LocationName=""
 
 [ZoneInfo9]
-LocationName="UDamage Halls"
+; EN: LocationName="Double Damage Halls"
+LocationName=""
 

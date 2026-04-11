@@ -1,0 +1,122 @@
+﻿[LevelInfo0]
+; EN: Title="Absolute Zero"
+Title="Zero Assoluto"
+
+[LevelSummary]
+; EN: Title="Absolute Zero"
+Title="Zero Assoluto"
+; EN: Description="Absolute Zero was initially constructed as a scientific outpost to study glacial drift. Over the years, global warming and massive earth tremors nearly shook the base off of its foundation. The researchers and scientists were hastily evacuated and Liandri quickly purchased the base for the Tournament. The warm reception given to you by your team may help offset the sub-zero temperatures, but don't get too comfortable, your foes have something much colder in store for you..."
+Description="Absolute Zero è stato inizialmente costruito come avamposto scientifico per studiare la deriva glaciale. Nel corso degli anni, il riscaldamento globale e le massicce scosse della terra hanno quasi scosso la base dalle sue fondamenta. I ricercatori e gli scienziati furono evacuati frettolosamente e Liandri acquistò rapidamente la base per il Torneo. La calda accoglienza che ti viene data dalla tua squadra può aiutarti a compensare le temperature sotto lo zero, ma non metterti troppo comodo, i tuoi nemici hanno qualcosa di molto più freddo in serbo per te..."
+
+[Volume0]
+; EN: LocationName="Red Lower Generator Room"
+LocationName="Sala Generatore Inferiore Rossa"
+
+[Volume1]
+; EN: LocationName="Blue Lower Generator Room"
+LocationName="Stanza del generatore inferiore blu"
+
+[Volume10]
+; EN: LocationName="Blue Lower Hall"
+LocationName="Sala Inferiore Blu"
+
+[Volume11]
+; EN: LocationName="Red Lower Hall"
+LocationName="Sala Inferiore Rossa"
+
+[Volume12]
+; EN: LocationName="Red Flag Room"
+LocationName="Sala Bandiera Rossa"
+
+[Volume13]
+; EN: LocationName="Blue Flag Room"
+LocationName="Sala Bandiera Blu"
+
+[Volume14]
+; EN: LocationName="Blue Upper Hall A-Side"
+LocationName="Sala superiore blu Lato A"
+
+[Volume15]
+; EN: LocationName="Blue Upper Hall B-Side"
+LocationName="Blu Sala Superiore Lato B"
+
+[Volume16]
+; EN: LocationName="Blue Flag Stairs"
+LocationName="Scale Bandiera Blu"
+
+[Volume17]
+; EN: LocationName="Red Upper Hall A-Side"
+LocationName="Sala superiore rossa Lato A"
+
+[Volume18]
+; EN: LocationName="Red Upper Hall B-Side"
+LocationName="Sala superiore rossa Lato B"
+
+[Volume19]
+; EN: LocationName="Red Flag Stairs"
+LocationName="Scale con bandiera rossa"
+
+[Volume2]
+; EN: LocationName="Blue Upper Generator Room"
+LocationName="Stanza del generatore superiore blu"
+
+[Volume20]
+; EN: LocationName="Red Upper Hall"
+LocationName="Sala Superiore Rossa"
+
+[Volume21]
+; EN: LocationName="Blue Upper Hall"
+LocationName="Sala Superiore Blu"
+
+[Volume23]
+; EN: LocationName="Ion Painter Bridge"
+LocationName="Ponte del pittore di ioni"
+
+[Volume24]
+; EN: LocationName="Redeemer Bridge"
+LocationName="Ponte del Redentore"
+
+[Volume25]
+; EN: LocationName="Blue Sniper Tower: Redeemer Side"
+LocationName="Torre del Cecchino Blu: Lato Redentore"
+
+[Volume26]
+; EN: LocationName="Blue Sniper Tower: Painter Side"
+LocationName="Torre dei cecchini blu: lato pittore"
+
+[Volume27]
+; EN: LocationName="Red Sniper Tower: Redeemer Side"
+LocationName="Torre del Cecchino Rosso: Lato Redentore"
+
+[Volume28]
+; EN: LocationName="Red Sniper Tower: Painter Side"
+LocationName="Torre del cecchino rosso: lato pittore"
+
+[Volume29]
+; EN: LocationName="Blue Outside"
+LocationName="Esterno blu"
+
+[Volume3]
+; EN: LocationName="Red Upper Generator Room"
+LocationName="Sala Generatore Superiore Rossa"
+
+[Volume30]
+; EN: LocationName="Red Outside"
+LocationName="Rosso fuori"
+
+[Volume6]
+; EN: LocationName="Red Lower Hall B-Side"
+LocationName="Sala Inferiore Rossa Lato B"
+
+[Volume7]
+; EN: LocationName="Red Lower Hall A-Side"
+LocationName="Sala Inferiore Rossa Lato A"
+
+[Volume8]
+; EN: LocationName="Blue Lower Hall B-Side"
+LocationName="Blu Sala Inferiore Lato B"
+
+[Volume9]
+; EN: LocationName="Blue Lower Hall A-Side"
+LocationName="Sala Inferiore Blu Lato A"
+

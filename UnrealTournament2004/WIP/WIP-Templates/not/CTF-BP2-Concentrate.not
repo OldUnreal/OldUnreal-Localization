@@ -1,114 +1,122 @@
 ﻿[LevelInfo0]
 ; EN: Title="Concentrate"
-Title="Konsentrere"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Concentrate"
-Title="Konsentrere"
+Title=""
 ; EN: Description="On this derelict outpost set deep in the Elorean Seas, there is no escape for the struggling... except through victory.  The only way out is through."
-Description="På denne forlatte utposten som ligger dypt i Eloreanhavet, er det ingen flukt for de som sliter... bortsett fra gjennom seier. Den eneste veien ut er gjennom."
+Description=""
 
 [PhysicsVolume0]
-LocationName="Red Spike Pit"
+; EN: LocationName="Red Spike Pit"
+LocationName=""
 
 [PhysicsVolume1]
-LocationName="Red Spike Pit"
+; EN: LocationName="Blue Spike Pit"
+LocationName=""
 
 [PhysicsVolume2]
-LocationName="Blue Spike Pit"
+; EN: LocationName="Blue Spike Pit"
+LocationName=""
 
 [PhysicsVolume3]
-LocationName="Red Spike Pit"
+; EN: LocationName="Blue Spike Pit"
+LocationName=""
 
 [PhysicsVolume4]
-LocationName="Red Spike Pit"
+; EN: LocationName="Red Spike Pit"
+LocationName=""
 
 [PhysicsVolume5]
-LocationName="Red Spike Pit"
+; EN: LocationName="Red Spike Pit"
+LocationName=""
 
 [Volume1]
-LocationName="Blue Flag Pit"
+; EN: LocationName="Blue Flag Pit"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Upper Area"
-LocationName="Rødt øvre område"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rom med rødt flagg"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Spawn Area"
-LocationName="Rødt gyteområde"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Central Area"
-LocationName="Sentralområdet"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Upper Area"
-LocationName="Blått øvre område"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Upper Area"
-LocationName="Blått øvre område"
+LocationName=""
 
 [Volume6]
-; EN: LocationName="Red Flag Room"
-LocationName="Rom med rødt flagg"
+; EN: LocationName="Blue Flag Room"
+LocationName=""
 
 [Volume7]
-LocationName="Red Flag Pit"
+; EN: LocationName="Red Flag Pit"
+LocationName=""
 
 [Volume8]
-; EN: LocationName="Red Spawn Area"
-LocationName="Rødt gyteområde"
+; EN: LocationName="Blue Spawn Area"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Upper Area"
-LocationName="Rødt øvre område"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Somewhere Else"
-LocationName="Et annet sted"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Red Upper Corridor"
-LocationName="Rød øvre korridor"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Lower Corridor"
-LocationName="Rød nedre korridor"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Lower Corridor"
-LocationName="Blå nedre korridor"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Upper Corridor"
-LocationName="Blå øvre korridor"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Base"
-LocationName="Blå base"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base"
-LocationName="Rød base"
+LocationName=""
 
 [fell_nogibs]
 ; EN: DeathString="%o was spiked."
-DeathString="%o ble økt."
+DeathString=""
 ; EN: FemaleSuicide="%o was spiked."
-FemaleSuicide="%o ble økt."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o was spiked."
-MaleSuicide="%o ble økt."
+MaleSuicide=""
 
 [fell_nogibs2]
 ; EN: DeathString="%o fell off."
-DeathString="%o falt av."
+DeathString=""
 ; EN: FemaleSuicide="%o fell off."
-FemaleSuicide="%o falt av."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o fell off."
-MaleSuicide="%o falt av."
+MaleSuicide=""
 

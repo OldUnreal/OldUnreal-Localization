@@ -1,50 +1,50 @@
 ﻿[LevelInfo0]
 ; EN: Title="Serenity"
-Title="Klid"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Serenity"
-Title="Klid"
+Title=""
 ; EN: Description="Feel the gentle breeze on your skin, hear the calming sounds of the forest, watch the fireflies dance in the clearing and surrender yourself to a growing sense of serenity.  Now ... collect your Flak Cannon and wreak havoc!"
-Description="Vnímejte jemný vánek na své kůži, poslouchejte uklidňující zvuky lesa, sledujte světlušky tančící na mýtině a odevzdávejte se rostoucímu pocitu klidu. Nyní ... seberte své Flak Cannon a způsobte zkázu!"
+Description=""
 
 [Volume1]
 ; EN: LocationName="blue side of center field"
-LocationName="modrá strana středového pole"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="center field"
-LocationName="středové pole"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="red base"
-LocationName="červený základ"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="red side of center field"
-LocationName="červená strana středového pole"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="blue base"
-LocationName="modrý základ"
+LocationName=""
 
 [WaterVolume0]
 ; EN: LocationName="in a watery grave"
-LocationName="ve vodním hrobě"
+LocationName=""
 
 [WaterVolume1]
 ; EN: LocationName="in a watery grave"
-LocationName="ve vodním hrobě"
+LocationName=""
 
 [WaterVolume2]
 ; EN: LocationName="hiding in the center field waterfall"
-LocationName="skrývá ve vodopádu uprostřed pole"
+LocationName=""
 
 [xFallingVolume0]
 ; EN: LocationName="falling to a watery grave"
-LocationName="pád do vodního hrobu"
+LocationName=""
 
 [xFallingVolume1]
 ; EN: LocationName="falling to a watery grave"
-LocationName="pád do vodního hrobu"
+LocationName=""
 

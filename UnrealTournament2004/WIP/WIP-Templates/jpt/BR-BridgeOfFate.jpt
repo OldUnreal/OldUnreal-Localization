@@ -1,102 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bridge of Fate"
-Title="運命の橋"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bridge of Fate"
-Title="運命の橋"
+Title=""
 ; EN: Description="Two sides, a huge cave in between, one bridge going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
-Description="2つの側面、間にある巨大な洞窟、1つの橋が左右に行き来し、2つのチーム間のギャップを埋め、希望と絶望の間のギャップを埋めます。"
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Cave"
-LocationName="洞窟"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="ブルーアーマーエントランス"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Main Entrance"
-LocationName="ブルーメインエントランス"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="ブルーボムルーム"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="ブルーボムルーム"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="ブルーバイオライフルエントランス"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED Bomb Room"
-LocationName="REDボムルーム"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="REDBioRifleエントランス"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="REDアーマーエントランス"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="REDアーマーエントランス"
+LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="REDBioRifleエントランス"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="RED Main Entrance"
-LocationName="REDメインエントランス"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="REDBioRifleエントランス"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="RED Bomb Room"
-LocationName="REDボムルーム"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="RED Bomb Room"
-LocationName="REDボムルーム"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="REDアーマーエントランス"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="ブルーボムルーム"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Pillar Room"
-LocationName="ブルーピラールーム"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="ブルーバイオライフルエントランス"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="ブルーアーマーエントランス"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="RED Pillar Room"
-LocationName="REDピラールーム"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="ブルーアーマーエントランス"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="ブルーバイオライフルエントランス"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 

@@ -1,52 +1,52 @@
 ﻿[LevelInfo0]
 ; EN: Title="Leviathan"
-Title="Leviatano"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Leviathan"
-Title="Leviatano"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="North-East Upper Hallway"
-LocationName="Corridoio superiore nord-est"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Main Room"
-LocationName="Stanza principale"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="North-East Hallway"
-LocationName="Corridoio nord-est"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="North-West Upper Hallway"
-LocationName="Corridoio superiore nord-ovest"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="North-West Hallway"
-LocationName="Corridoio nord-ovest"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Western Chamber"
-LocationName="Camera occidentale"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="South-West Hallway"
-LocationName="Corridoio sud-ovest"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="South-West Upper Hallway"
-LocationName="Corridoio superiore sud-ovest"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="South-East Upper Hallway"
-LocationName="Corridoio superiore sud-est"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="South-East Hallway"
-LocationName="Corridoio sud-est"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Eastern Chamber"
-LocationName="Camera Orientale"
+LocationName=""
 

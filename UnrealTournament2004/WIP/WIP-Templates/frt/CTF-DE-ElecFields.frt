@@ -1,130 +1,130 @@
 ﻿[LevelInfo0]
-; EN: Title="ElecFields"
-Title="ElecChamps"
+; EN: Title="Electric Fields"
+Title=""
 
 [LevelSummary]
-; EN: Title="ElecFields"
-Title="ElecChamps"
+; EN: Title="Electric Fields"
+Title=""
 ; EN: Description="The static towers of the Marakan flow have proven to be one of the most popular venues in the Tournament since their introduction last season. The true nature of the modern gladiator is revealed as participants butcher their way to victory. Whether competing in CTF or Bombing Run competitions, players must keep one thing in mind at all times as they do battle in the poisonous skies of Purgatory -- It's a long way down."
-Description="Les tours statiques du flux Marakan se sont avérées être l'un des sites les plus populaires du tournoi depuis leur introduction la saison dernière. La vraie nature du gladiateur moderne est révélée alors que les participants se frayent un chemin vers la victoire. Qu'ils participent à des compétitions CTF ou Bombing Run, les joueurs doivent garder une chose à l'esprit à tout moment alors qu'ils se battent dans le ciel empoisonné du Purgatoire – c'est un long chemin vers le bas."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Blue Front"
-LocationName="Devant bleu"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Spawning Area"
-LocationName="Zone de frai bleue"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Base Ramp"
-LocationName="Rampe de base rouge"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Ramp"
-LocationName="Rampe de base rouge"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Rampe Inférieure Avant Bleue"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rampe inférieure avant rouge"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Rampe Inférieure Avant Bleue"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Rampe Inférieure Avant Bleue"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rampe inférieure avant rouge"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rampe inférieure avant rouge"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Top Middle Area"
-LocationName="Zone médiane supérieure"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Tower Area"
-LocationName="Zone de la tour"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Lower Middle Area"
-LocationName="Zone moyenne inférieure"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Blue Front Upper Ramp"
-LocationName="Rampe supérieure avant bleue"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Blue Front Upper Ramp"
-LocationName="Rampe supérieure avant bleue"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="Blue Front Upper Ramp"
-LocationName="Rampe supérieure avant bleue"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Red Front Upper Ramp"
-LocationName="Rampe supérieure avant rouge"
+LocationName=""
 
 [Volume24]
 ; EN: LocationName="Red Front Upper Ramp"
-LocationName="Rampe supérieure avant rouge"
+LocationName=""
 
 [Volume25]
 ; EN: LocationName="Red Front Upper Ramp"
-LocationName="Rampe supérieure avant rouge"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Red Front Lower Ramp"
-LocationName="Rampe inférieure avant rouge"
+LocationName=""
 
 [Volume27]
 ; EN: LocationName="Blue Front Lower Ramp"
-LocationName="Rampe Inférieure Avant Bleue"
+LocationName=""
 
 [Volume28]
 ; EN: LocationName="Blue Base"
-LocationName="Base bleue"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Spawning Area"
-LocationName="Zone de frai rouge"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Red Front"
-LocationName="Devant Rouge"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Blue Base Ramp"
-LocationName="Rampe de base bleue"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Blue Base Ramp"
-LocationName="Rampe de base bleue"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Base"
-LocationName="Base rouge"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Red Front"
-LocationName="Devant Rouge"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Front"
-LocationName="Devant bleu"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="À l'extérieur"
+LocationName=""
 

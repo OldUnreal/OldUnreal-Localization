@@ -4,6 +4,7 @@ Preferences=(Caption="Direct3D",Parent="Rendering",Class=D3DDrv.D3DRenderDevice,
 
 [D3DRenderDevice]
 ; EN: ClassCaption="Direct3D"
-ClassCaption="Direct3D"
+ClassCaption=""
 ; EN: AskInstalled="Do you want to use Direct3D?"
-AskInstalled="Chcete používat Direct3D?"
+AskInstalled=""
+

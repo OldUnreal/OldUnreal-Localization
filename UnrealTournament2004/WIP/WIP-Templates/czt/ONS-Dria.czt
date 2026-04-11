@@ -1,59 +1,70 @@
 ﻿[LevelInfo0]
-Title="Dria"
+; EN: Title="Dria"
+Title=""
 
 [LevelSummary]
-Title="Dria"
+; EN: Title="Dria"
+Title=""
 ; EN: Description="Set among the crumbling ruins of the last Nali fortress, these icefields were the final stand of the Nali against the Skaarj. Driving their Stone Giants before them, the Skaarj lay siege to the city for three weeks, at last breaking down the perimeter wall and wiping out all within for their effrontery. Now an arena of Onslaught, the vast range of this location will test the teamwork and focus of the very best."
-Description="Tato ledová pole, zasazená mezi rozpadající se ruiny poslední pevnosti Nali, byla posledním bojem Naliů proti Skaarjům. Skaarjové hnali své kamenné obry před sebou a obléhali město po dobu tří týdnů, nakonec prolomili obvodovou zeď a vyhladili všechny uvnitř kvůli své drzosti. Nyní je to aréna Onslaughtu a široká škála tohoto místa otestuje týmovou práci a soustředění těch nejlepších."
+Description=""
 
 [Volume10]
 ; EN: LocationName="North Bridge Tower"
-LocationName="Severní mostecká věž"
+LocationName=""
 
 [Volume11]
-LocationName="South Bridge Tower"
+; EN: LocationName="South Bridge Tower"
+LocationName=""
 
 [Volume14]
-; EN: LocationName="North Node"
-LocationName="Severní uzel"
+; EN: LocationName="North Node (6)"
+LocationName=" (6)"
 
 [Volume15]
-; EN: LocationName="Northwest Node"
-LocationName="Severozápadní uzel"
+; EN: LocationName="Northwest Node (5)"
+LocationName=" (5)"
+
+[Volume16]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume17]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume2]
-; EN: LocationName="Midwest Node"
-LocationName="Středozápadní uzel"
+; EN: LocationName="Midwest Node (8)"
+LocationName=" (8)"
 
 [Volume3]
-; EN: LocationName="Southeast Node"
-LocationName="Jihovýchodní uzel"
+; EN: LocationName="Southeast Node (2)"
+LocationName=" (2)"
 
 [Volume4]
-; EN: LocationName="Northeast Node"
-LocationName="Severovýchodní uzel"
+; EN: LocationName="Northeast Node (4)"
+LocationName=" (4)"
 
 [Volume5]
-; EN: LocationName="South Node"
-LocationName="Jižní uzel"
+; EN: LocationName="South Node (1)"
+LocationName=" (1)"
 
 [Volume6]
-; EN: LocationName="Southwest Node"
-LocationName="Jihozápadní uzel"
+; EN: LocationName="Southwest Node (7)"
+LocationName=" (7)"
 
 [Volume7]
-; EN: LocationName="Mideast Node"
-LocationName="Blízkovýchodní uzel"
+; EN: LocationName="Mideast Node (3)"
+LocationName=" (3)"
 
 [Volume8]
 ; EN: LocationName="North Bridge"
-LocationName="Severní most"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="South Bridge"
-LocationName="Jižní most"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 

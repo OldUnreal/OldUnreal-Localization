@@ -1,28 +1,28 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ruination"
-Title="Tönkretétel"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Ruination"
-Title="Tönkretétel"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Open Ground"
-LocationName="Nyílt terep"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="DOM Point A"
-LocationName="DOM pont A"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="DOM Point B"
-LocationName="DOM pont B"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Point B Ruins"
-LocationName="B pont Romok"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Point A Ruins"
-LocationName="A pont romjai"
+LocationName=""
 

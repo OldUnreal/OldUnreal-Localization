@@ -1,159 +1,160 @@
 ﻿[LevelInfo0]
 ; EN: Title="Slaughterhouse"
-Title="Macello"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="Il macello"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Slaughterhouse"
-Title="Macello"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="Il macello"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Conservazione della carne blu"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Spawnroom Beta"
-LocationName="Sala di generazione blu Beta"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Drain Room"
-LocationName="Stanza di scarico blu"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Meat Storage Entrance"
-LocationName="Ingresso al magazzino della carne blu"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Freezer"
-LocationName="Congelatore Rosso"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Bomb Gate"
-LocationName="Porta bomba rossa"
+LocationName=""
 
 [ZoneInfo14]
-LocationName="Red Spawnroom Beta"
+; EN: LocationName="Red Spawnroom Beta"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Back Hallway"
-LocationName="Corridoio sul retro rosso"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Fountains"
-LocationName="fontane rosse"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Spawnroom Alpha"
-LocationName="Sala di generazione blu alfa"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Chapel"
-LocationName="Cappella Rossa"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Drainage"
-LocationName="Drenaggio Rosso"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Bomb Gate"
-LocationName="Cancello della bomba blu"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
-LocationName="Questo ragazzo è Chuck. Mandrino a terra nella stanza blu"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Spawnroom Alpha"
-LocationName="Sala delle uova rossa alfa"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Sega Rossa Corridoio"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Cortile Blu"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="OOoh, he's dead in the Red"
-LocationName="OOoh, è morto nel Red"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Cortile Blu"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Main Hall"
-LocationName="Sala principale blu"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Corridoio della sega blu"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Conservazione della carne blu"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Sega Rossa Corridoio"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Corridoio della sega blu"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Red Main Hall"
-LocationName="Sala Principale Rossa"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Red Pipe"
-LocationName="pipa rossa"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Red Courtyard"
-LocationName="Cortile Rosso"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Pipe"
-LocationName="pipa blu"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Red Freezer Entrance"
-LocationName="Ingresso Rosso Congelatore"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Chapel"
-LocationName="Cappella Blu"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Fountains"
-LocationName="fontane blu"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Back Hallway"
-LocationName="Corridoio blu sul retro"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Bomb Courtyard"
-LocationName="Cortile delle bombe"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Courtyard"
-LocationName="Cortile Rosso"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Freezer"
-LocationName="Congelatore Rosso"
+LocationName=""
 
 [xBombDelivery0]
 ; EN: ObjectiveName="Blue Bombgoal"
-ObjectiveName="Blu Bombgoal"
+LocationName=""
 
 [xBombDelivery2]
 ; EN: ObjectiveName="Red Bombgoal"
-ObjectiveName="Bombgoal rosso"
+LocationName=""
 

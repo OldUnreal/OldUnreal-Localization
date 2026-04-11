@@ -1,24 +1,24 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tokara Forest"
-Title="Tokara erdő"
+Title=""
 
 [LevelInfo23]
 ; EN: Title="Tokara Forest"
-Title="Tokara erdő"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tokara Forest"
-Title="Tokara erdő"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Ground Level"
-LocationName="Földszint"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Crystal Plateau"
-LocationName="Kristály-fennsík"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Forest"
-LocationName="Erdő"
+LocationName=""
 

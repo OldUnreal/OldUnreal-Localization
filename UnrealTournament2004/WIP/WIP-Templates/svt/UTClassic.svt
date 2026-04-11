@@ -1,80 +1,82 @@
 ﻿[Public]
 ; EN: ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="Classic UT style weapons and configurable movement abilities (such as wall dodging).")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="Klassiska vapen i UT-stil och konfigurerbara rörelseförmågor (som att undvika väggar).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="")
 ; EN: ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="Replace Lightning Guns with classic Sniper Rifle.")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="Byt ut Lightning Guns med klassisk sniper Rifle.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="")
 ; EN: ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="Replace Sniper Rifles with Lightning Guns.")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="Byt ut prickskyttegevär mot blixtgevär.")
-;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="This high muzzle velocity sniper rifle with a 10X scope is a lethal weapon at any range, especially if you can land a head shot.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="")
+; EN: ;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="This high muzzle velocity sniper rifle with a 10X scope is a lethal weapon at any range, especially if you can land a head shot.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="")
 
 [ClassicSniperAmmo]
 ; EN: ItemName="Sniper Bullets"
-ItemName="Sniper Kulor"
+ItemName=""
 
 [ClassicSniperAmmoPickup]
-; EN: PickupMessage="You picked up sniper ammo."
-PickupMessage="Du tog prickskyttammunition."
+; EN: PickupMessage="You picked up Sniper Ammo"
+PickupMessage=""
 
 [ClassicSniperRifle]
 ; EN: Description="This high muzzle velocity sniper rifle with a 10X scope is a lethal weapon at any range, especially if you can land a head shot."
-Description="Detta prickskyttegevär med hög mynningshastighet med ett 10X kikarsikte är ett dödligt vapen på alla avstånd, speciellt om du kan landa ett huvudskott."
+Description=""
 ; EN: ItemName="Sniper Rifle"
-ItemName="Prickskyttegevär"
+ItemName=""
 
 [ClassicSniperRiflePickup]
-; EN: PickupMessage="You got the Sniper Rifle."
-PickupMessage="Du har prickskyttegeväret."
+; EN: PickupMessage="You got the Sniper Rifle"
+PickupMessage=""
 
 [DamTypeClassicHeadshot]
 ; EN: DeathString="%k put a bullet in %o's skull."
-DeathString="%k satte en kula i %os skalle."
+DeathString=""
 ; EN: FemaleSuicide="%o shot herself in the head."
-FemaleSuicide="%o sköt sig själv i huvudet."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o shot himself in the head."
-MaleSuicide="%o sköt sig själv i huvudet."
+MaleSuicide=""
 
 [DamTypeClassicSniper]
-; EN: DeathString="%k put a hole in %o"
-DeathString="%k satte ett hål i %o"
+; EN: DeathString="%k put a hole in %o."
+DeathString=""
 ; EN: FemaleSuicide="%o shot herself in the foot."
-FemaleSuicide="%o sköt sig själv i foten."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o shot himself in the foot."
-MaleSuicide="%o sköt sig själv i foten."
+MaleSuicide=""
 
 [MutUTClassic]
 ; EN: DJString="Allow Double Jumping"
-DJString="Tillåt dubbelhoppning"
+DJString=""
 ; EN: WDString="Allow Wall Dodging"
-WDString="Tillåt Wall Dodging"
+WDString=""
 ; EN: DDJString="Allow Dodge Double Jumping"
-DDJString="Tillåt Dodge Double Jumping"
+DDJString=""
 ; EN: DJHelp="If enabled, players can double jump at the peak of jumps."
-DJHelp="Om det är aktiverat kan spelare dubbelhoppa vid toppen av hopp."
+DJHelp=""
 ; EN: WDHelp="If enabled, players can dodge off walls."
-WDHelp="Om det är aktiverat kan spelare undvika väggar."
+WDHelp=""
 ; EN: DDJHelp="If enabled, players can double jump at the peak of dodge jumps."
-DDJHelp="Om det är aktiverat kan spelare dubbelhoppa vid toppen av dodge-hopp."
+DDJHelp=""
 ; EN: WeapString="Modify Weapon Damage"
-WeapString="Ändra vapenskador"
+WeapString=""
 ; EN: WeapHelp="If enabled, weapons do more damage."
-WeapHelp="Om det är aktiverat gör vapen mer skada."
+WeapHelp=""
 ; EN: TranslocString="Modify Translocator"
-TranslocString="Ändra Translocator"
-; EN: TranslocHelp="If enabled, translocator recharges faster."
-TranslocHelp="Om den är aktiverad laddas translokatorn snabbare."
-FriendlyName="UT Classic"
+TranslocString=""
+; EN: TranslocHelp="If enabled, Translocator recharges faster."
+TranslocHelp=""
+; EN: FriendlyName="UT Classic"
+FriendlyName=""
 ; EN: Description="Classic UT style weapons and movement options."
-Description="Vapen och rörelsealternativ i klassisk UT-stil."
+Description=""
 
 [MutUseLightning]
 ; EN: FriendlyName="Lightning Guns"
-FriendlyName="Blixtvapen"
+FriendlyName=""
 ; EN: Description="Replace all sniper rifles with lightning guns."
-Description="Byt ut alla prickskyttegevär med blixtgevär."
+Description=""
 
 [MutUseSniper]
 ; EN: FriendlyName="Sniper Rifles"
-FriendlyName="Prickskyttegevär"
+FriendlyName=""
 ; EN: Description="Replace all lightning guns with sniper rifles."
-Description="Byt ut alla blixtvapen mot prickskyttegevär."
+Description=""
 

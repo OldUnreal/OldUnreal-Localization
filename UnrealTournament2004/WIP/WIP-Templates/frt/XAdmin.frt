@@ -1,77 +1,80 @@
 ﻿[AdminIni]
 ; EN: Msg_FinishGameEditFirst="You must finish your Game Edit before restarting the map"
-Msg_FinishGameEditFirst="Vous devez terminer votre Game Edit avant de redémarrer la carte"
+Msg_FinishGameEditFirst=""
 ; EN: Msg_FinishGameRestart="You must finish your Game Edit before changing or restarting the map"
-Msg_FinishGameRestart="Vous devez terminer votre Game Edit avant de changer ou de redémarrer la carte"
+Msg_FinishGameRestart=""
 ; EN: Msg_MutNeedGameEdit="You must use 'Game Edit' command before 'Mutators' commands"
-Msg_MutNeedGameEdit="Vous devez utiliser la commande 'Game Edit' avant les commandes 'Mutators'"
+Msg_MutNeedGameEdit=""
 ; EN: Msg_NoMutatorInUse="No Mutators in use"
-Msg_NoMutatorInUse="Aucun mutateur en cours d'utilisation"
+Msg_NoMutatorInUse=""
 ; EN: Msg_NoUnusedMuts="Found no unused mutators"
-Msg_NoUnusedMuts="Aucun mutateur inutilisé n'a été trouvé"
+Msg_NoUnusedMuts=""
 ; EN: Msg_AddedMutator="Added '%Mutator%' to used mutator list."
-Msg_AddedMutator="Ajout de '%Mutator%' à la liste des mutateurs utilisés."
-; EN: Msg_ErrAddingMutator="Error Adding '%Mutator%'To Used Mutator List"
-Msg_ErrAddingMutator="Erreur lors de l'ajout de '%Mutator%' à la liste des mutants utilisés"
+Msg_AddedMutator=""
+; EN: Msg_ErrAddingMutator="Error Adding '%Mutator%' To Used Mutator List"
+Msg_ErrAddingMutator=""
 ; EN: Msg_RemovedMutator="Removed '%Mutator%' From Used Mutator List"
-Msg_RemovedMutator="Suppression de « %Mutator% » de la liste des mutants utilisés"
+Msg_RemovedMutator=""
 ; EN: Msg_ErrRemovingMutator="Error Removing '%Mutator%' from used mutator List"
-Msg_ErrRemovingMutator="Erreur lors de la suppression de '%Mutator%' de la liste des mutateurs utilisés"
+Msg_ErrRemovingMutator=""
 ; EN: Msg_MapListNeedGameEdit="You must use 'Game Edit' command before 'MapList' command"
-Msg_MapListNeedGameEdit="Vous devez utiliser la commande 'Game Edit' avant la commande 'MapList'"
+Msg_MapListNeedGameEdit=""
 ; EN: Msg_MustEndGameEdit="You must end your Game Edit first"
-Msg_MustEndGameEdit="Vous devez d'abord terminer votre édition de jeu"
+Msg_MustEndGameEdit=""
 ; EN: Msg_EditingClass="Editing %Class%"
-Msg_EditingClass="Modification de %Class%"
+Msg_EditingClass=""
 ; EN: Msg_EditFailed="Failed Starting To Edit"
-Msg_EditFailed="Échec du démarrage de la modification"
+Msg_EditFailed=""
 ; EN: Msg_AlreadyEdited="Game Already being edited by Someone Else"
-Msg_AlreadyEdited="Jeu déjà édité par quelqu'un d'autre"
+Msg_AlreadyEdited=""
 ; EN: Msg_NotEditing="You are not editing Game Settings, use 'Game Edit' first"
-Msg_NotEditing="Vous ne modifiez pas les paramètres du jeu, utilisez d'abord « Modification du jeu »"
+Msg_NotEditing=""
 ; EN: Msg_EditingCompleted="Editing Completed"
-Msg_EditingCompleted="Édition terminée"
+Msg_EditingCompleted=""
 ; EN: Msg_EditingCancelled="Editing Cancelled"
-Msg_EditingCancelled="Modification annulée"
+Msg_EditingCancelled=""
 ; EN: Msg_NoBotGameFull="Cannot add a bot, game is full."
-Msg_NoBotGameFull="Impossible d'ajouter un bot, le jeu est plein."
+Msg_NoBotGameFull=""
 ; EN: Msg_NoAddNamedBot="Can only add named bots once the match has started"
-Msg_NoAddNamedBot="Ne peut ajouter des bots nommés qu'une fois le match commencé"
+Msg_NoAddNamedBot=""
 ; EN: Msg_NoBotsPlaying="No bots are currently playing"
-Msg_NoBotsPlaying="Aucun bot ne joue actuellement"
+Msg_NoBotsPlaying=""
 ; EN: Msg_GameNoSupportBots="The current Game Type does not support Bots"
-Msg_GameNoSupportBots="Le type de jeu actuel ne prend pas en charge les bots"
+Msg_GameNoSupportBots=""
 ; EN: Msg_StatsNoBots="Cannot control bots when Worlds Stats are enabled"
-Msg_StatsNoBots="Impossible de contrôler les bots lorsque les statistiques du monde sont activées"
+Msg_StatsNoBots=""
 ; EN: Msg_SetBotNeedVal="This command requires a numeric value between 0 and 32"
-Msg_SetBotNeedVal="Cette commande nécessite une valeur numérique comprise entre 0 et 32"
+Msg_SetBotNeedVal=""
 
 [xExtraPrivs]
 ; EN: LoadMsg="Extra Privileges Loaded"
-LoadMsg="Privilèges supplémentaires chargés"
+LoadMsg=""
 MainPrivs="X"
 SubPrivs="Xb|Xc|Xp|Xs|Xi|Xv|Xm"
-Tags=("Miscellaneous","Set Bot Skill","Use Console","Player List","Change Webadmin Skin","Manage Access Policies","Voice Chat Management","Match Setup")
+; EN: Tags=("Miscellaneous","Set Bot Skill","Use Console","Player List","Change Webadmin Skin","Manage Access Policies","Voice Chat Management","Match Setup")
+Tags=("","","","","","","","")
 
 [xGamePrivs]
 ; EN: LoadMsg="Maps & Game Privileges Loaded"
-LoadMsg="Cartes et privilèges de jeu chargés"
+LoadMsg=""
 MainPrivs="M"
-; EN: SubPrivs="Mr|Mt|Mm|Ml|Ms|Mu|Mb|Ma"
-SubPrivs="M|Mt|Mm|Ml|Ms|Mu|Mb|Ma"
-Tags=("Maps/Game Settings","Restart Map","Change Game Type","Change Map","Manages Map Rotation","Game Settings","Select Mutators","Add/Remove Bots","Game Status")
+SubPrivs="Mr|Mt|Mm|Ml|Ms|Mu|Mb|Ma"
+; EN: Tags=("Maps/Game Settings","Restart Map","Change Game Type","Change Map","Manages Map Rotation","Game Settings","Select Mutators","Add/Remove Bots","Game Status")
+Tags=("","","","","","","","","")
 
 [xKickPrivs]
 ; EN: LoadMsg="Kick and Ban Privileges Loaded"
-LoadMsg="Privilèges Kick et Ban chargés"
+LoadMsg=""
 MainPrivs="K"
 SubPrivs="Kp|Kb|Ko"
-Tags=("Kick/Ban","Kick Players","Ban Players","Kick Bots")
+; EN: Tags=("Kick/Ban","Kick Players","Ban Players","Kick Bots")
+Tags=("","","","")
 
 [xUserGroupPrivs]
 ; EN: LoadMsg="Admins & Groups Management Loaded"
-LoadMsg="Gestion des administrateurs et des groupes chargée"
+LoadMsg=""
 MainPrivs="A|G"
 SubPrivs="Al|Aa|Ae|Ag|Am|Gl|Ga|Ge"
-Tags=("Users","List Admins","Add/Remove Admins","Edit Admins","Assign Groups","Make Managers","Groups","List Groups","Add/Remove Groups","Edit Groups")
+; EN: Tags=("Users","List Admins","Add/Remove Admins","Edit Admins","Assign Groups","Make Managers","Groups","List Groups","Add/Remove Groups","Edit Groups")
+Tags=("","","","","","","","","","")
 

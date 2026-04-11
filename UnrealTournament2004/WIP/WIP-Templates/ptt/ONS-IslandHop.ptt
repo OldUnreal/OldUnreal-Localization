@@ -1,126 +1,106 @@
 ﻿[LevelInfo0]
-Title="Island Hop"
+; EN: Title="Island Hop"
+Title=""
 
 [LevelSummary]
-Title="Island Hop"
+; EN: Title="Island Hop"
+Title=""
 ; EN: Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
-Description="Este arquipélago vulcânico já serviu como porta de entrada nas guerras humanas do século 21. Transformado para uso em torneios, uma série de pontes agora conecta as ilhas. Essas pontes, embora sejam excelentes para veículos terrestres, não fornecem um caminho direto para a batalha. Mantas será a principal escolha de transporte."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Southwest Island"
-LocationName="Ilha Sudoeste"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Southwest Island"
-LocationName="Ilha Sudoeste"
+LocationName=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [Volume11]
-LocationName="West Island"
+; EN: LocationName="West Island"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Northwest Island"
-LocationName="Ilha Noroeste"
+LocationName=""
+
+[Volume13]
+; EN: LocationName="Northwest Node (1)"
+LocationName=" (1)"
 
 [Volume14]
 ; EN: LocationName="Northwest Island"
-LocationName="Ilha Noroeste"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Northeast Island"
-LocationName="Ilha Nordeste"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Northeast Island"
-LocationName="Ilha Nordeste"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Northeast Island"
-LocationName="Ilha Nordeste"
+LocationName=""
+
+[Volume18]
+; EN: LocationName="Blue Prime Node (4)"
+LocationName=" (4)"
 
 [Volume19]
 ; EN: LocationName="East Island"
-LocationName="Ilha Leste"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southwest Island"
-LocationName="Ilha Sudoeste"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Small Northeast Island"
-LocationName="Pequena Ilha do Nordeste"
+LocationName=""
+
+[Volume21]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="East Island"
-LocationName="Ilha Leste"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Southeast Island"
-LocationName="Ilha Sudeste"
+LocationName=""
+
+[Volume24]
+; EN: LocationName="Southeast Node (3)"
+LocationName=" (3)"
 
 [Volume25]
 ; EN: LocationName="Southeast Island"
-LocationName="Ilha Sudeste"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Volcano"
-LocationName="Vulcão"
+LocationName=""
+
+[Volume3]
+; EN: LocationName="Red Prime Node (2)"
+LocationName=" (2)"
 
 [Volume5]
-LocationName="West Island"
+; EN: LocationName="West Island"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Small Southwest Island"
-LocationName="Pequena Ilha Sudoeste"
-
-[WaterVolume1]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume18]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume19]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume20]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume23]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume24]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume25]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume26]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume27]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume28]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume3]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
-
-[WaterVolume31]
-; EN: LocationName="Under Water"
-LocationName="Embaixo da agua"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Lado de fora"
+LocationName=""
 

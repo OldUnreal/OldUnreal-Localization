@@ -1,0 +1,85 @@
+﻿[ASTurret_IonCannon]
+; EN: VehiclePositionString="manning an Ion Cannon"
+VehiclePositionString="presidiare un cannone a ioni"
+; EN: VehicleNameString="Ion Cannon"
+VehicleNameString="cannone a ioni"
+
+[ASTurret_LinkTurret]
+; EN: VehiclePositionString="manning a Link Turret"
+VehiclePositionString="presidiare una Torretta Link"
+; EN: VehicleNameString="Link Turret"
+VehicleNameString="Torretta di collegamento"
+
+[ASVehicle_SpaceFighter_Human]
+; EN: VehiclePositionString="in a spacefighter"
+VehiclePositionString="in un caccia spaziale"
+; EN: VehicleNameString="Human Spacefighter"
+VehicleNameString="Combattente spaziale umano"
+
+[ASVehicle_SpaceFighter_Skaarj]
+VehicleNameString="Skaarj Spacefighter"
+
+[DamTypeBallTurretPlasma]
+; EN: DeathString="%o was served an extra helping of %k's plasma."
+DeathString="%o è stata servita una porzione extra del plasma di %k."
+; EN: FemaleSuicide="%o fried herself with her own plasma blast."
+FemaleSuicide="%o si è fritta con la sua stessa esplosione di plasma."
+; EN: MaleSuicide="%o fried himself with his own plasma blast."
+MaleSuicide="%o si è fritto con la sua stessa esplosione di plasma."
+
+[DamTypeIonCannonBlast]
+; EN: DeathString="%o was OBLITERATED by %k"
+DeathString="%o è stato OBLITERATO da %k"
+; EN: FemaleSuicide="%o was OBLITERATED"
+FemaleSuicide="%o è stato ANNULLATO"
+; EN: MaleSuicide="%o was OBLITERATED"
+MaleSuicide="%o è stato ANNULLATO"
+
+[DamTypeLinkTurretBeam]
+; EN: DeathString="%o was carved up by %k's green shaft."
+DeathString="%o è stato tagliato dall'asta verde di %k."
+; EN: FemaleSuicide="%o shafted herself."
+FemaleSuicide="%o si è fottuta."
+; EN: MaleSuicide="%o shafted himself."
+MaleSuicide="%o si è fregato."
+
+[DamTypeLinkTurretPlasma]
+; EN: DeathString="%o was served an extra helping of %k's plasma."
+DeathString="%o è stata servita una porzione extra del plasma di %k."
+; EN: FemaleSuicide="%o fried herself with her own plasma blast."
+FemaleSuicide="%o si è fritta con la sua stessa esplosione di plasma."
+; EN: MaleSuicide="%o fried himself with his own plasma blast."
+MaleSuicide="%o si è fritto con la sua stessa esplosione di plasma."
+
+[DamTypeSpaceFighterLaser]
+; EN: DeathString="%o was served an extra helping of %k's lasers."
+DeathString="%o è stato servito un aiuto extra dei laser di %k."
+; EN: FemaleSuicide="%o fried herself with her own laser blast."
+FemaleSuicide="Si è fritta con il suo stesso raggio laser."
+; EN: MaleSuicide="%o fried himself with his own laser blast."
+MaleSuicide="%o si è fritto con il suo stesso raggio laser."
+
+[DamTypeSpaceFighterMissile]
+; EN: DeathString="%o couldn't avoid %k's missile."
+DeathString="%o non ha potuto evitare il missile di %k."
+; EN: FemaleSuicide="%o blasted herself out of space."
+FemaleSuicide="%o si è lanciata nello spazio."
+; EN: MaleSuicide="%o blasted himself out of space."
+MaleSuicide="%o si è lanciato nello spazio."
+
+[Weapon_LinkTurret]
+; EN: ItemName="Turret weapon"
+ItemName="Arma della torretta"
+
+[Weapon_SpaceFighter]
+; EN: ItemName="SpaceFighter weapon"
+ItemName="Arma SpaceFighter"
+
+[Weapon_Turret]
+; EN: ItemName="Turret weapon"
+ItemName="Arma della torretta"
+
+[Weapon_Turret_IonCannon]
+; EN: ItemName="Ion Cannon Turret weapon"
+ItemName="Arma della torretta del cannone a ioni"
+

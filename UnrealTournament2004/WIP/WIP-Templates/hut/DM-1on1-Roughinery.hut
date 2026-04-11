@@ -1,21 +1,22 @@
 ﻿[LevelInfo0]
 ; EN: Title="Roughinery"
-Title="Nagyolóüzem"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Roughinery"
-Title="Nagyolóüzem"
+Title=""
 ; EN: Description="The remnant of an old refinery now serves as a location for your duels. Use its intricate layout to your advantage and don't lose track of your enemy."
-Description="Egy régi finomító maradványa most a párbajok helyszínéül szolgál. Használja ki a bonyolult elrendezést az előnyére, és ne veszítse el az ellenség nyomát."
+Description=""
 
 [ZoneInfo1]
 ; EN: LocationName="Rocket Launcher Area"
-LocationName="Rakétavető terület"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Double Health Area"
-LocationName="Dupla egészségügyi terület"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Link Gun Area"
+; EN: LocationName="Link Gun Area"
+LocationName=""
 

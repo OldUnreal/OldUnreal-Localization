@@ -1,86 +1,88 @@
 ﻿[LevelInfo0]
 ; EN: Title="Sun Temple"
-Title="Tempio del Sole"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Sun Temple"
-Title="Tempio del Sole"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="Open Ground"
-LocationName="terreno aperto"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Dom B Corridoi"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Dom B Upper Room"
-LocationName="Camera Superiore Dom B"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Dom Point B"
-LocationName="Dom punto B"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A Corridoi"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A Corridoi"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Dom A Entryway"
-LocationName="Dom A Ingresso"
+LocationName=""
 
 [ZoneInfo16]
-LocationName="Dom A Upper Room"
+; EN: LocationName="Dom A Upper Room"
+LocationName=""
 
 [ZoneInfo17]
-LocationName="Dom A Upper Room"
+; EN: LocationName="Dom A Upper Room"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Dom A Courtyard"
-LocationName="Dom A cortile"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Dom B Entryway"
-LocationName="Ingresso Dom B"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Dom Point A"
-LocationName="Dom punto A"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Dom B Upper Room"
-LocationName="Camera Superiore Dom B"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Central Jump Room"
-LocationName="Salto Centrale"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Dom B Courtyard"
-LocationName="Cortile Dom B"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Dom B Corridoi"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Dom B Corridoi"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A Corridoi"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A Corridoi"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Dom B Corridoi"
+LocationName=""
 

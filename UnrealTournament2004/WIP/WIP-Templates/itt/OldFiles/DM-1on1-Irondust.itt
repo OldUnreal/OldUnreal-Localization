@@ -1,0 +1,46 @@
+﻿[LevelInfo0]
+; EN: Title="Irondust"
+Title="polvere di ferro"
+
+[LevelSummary]
+; EN: Title="Irondust"
+Title="polvere di ferro"
+; EN: Description="Piece of cake? Yeah you bet... Prepare to get dusted Ironman!"
+Description="Pezzo di torta? Sì, puoi scommetterci... Preparati a spolverare Ironman!"
+
+[ZoneInfo1]
+; EN: LocationName="Super Shield Lift"
+LocationName="Sollevamento Super Scudo"
+
+[ZoneInfo10]
+; EN: LocationName="Left Lift"
+LocationName="Sollevamento sinistro"
+
+[ZoneInfo2]
+; EN: LocationName="Right Lift"
+LocationName="Sollevamento destro"
+
+[ZoneInfo4]
+; EN: LocationName="Minigun Arches"
+LocationName="Archi per mitragliatrici"
+
+[ZoneInfo5]
+; EN: LocationName="Link Gun Area"
+LocationName="Collega l'area della pistola"
+
+[ZoneInfo6]
+; EN: LocationName="Double Health"
+LocationName="Doppia salute"
+
+[ZoneInfo7]
+; EN: LocationName="Shield Area"
+LocationName="Area dello scudo"
+
+[ZoneInfo8]
+; EN: LocationName="Circular Hall"
+LocationName="Sala circolare"
+
+[ZoneInfo9]
+; EN: LocationName="Catwalks"
+LocationName="passerelle"
+

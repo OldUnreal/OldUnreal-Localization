@@ -1,226 +1,226 @@
 ﻿[LavaVolume10]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume12]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume13]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume15]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume16]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume2]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume23]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume24]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume25]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume26]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume5]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume7]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LavaVolume9]
 ; EN: LocationName="In Lava!"
-LocationName="溶岩で！"
+LocationName=""
 
 [LevelInfo0]
 ; EN: Title="Smote"
-Title="スモート"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Smote"
-Title="スモート"
+Title=""
 ; EN: Description="The earth trembles beneath your feet, and the sky rains fire and ash down on you from above. The path to victory is as treacherous and deadly as the enemies you face on the battlefield, and less forgiving."
-Description="地球はあなたの足の下で震え、空の雨は上からあなたに火と灰を降らせます。勝利への道は、戦場で直面する敵と同じくらい危険で致命的であり、寛容ではありません。"
+Description=""
 
 [Volume10]
 ; EN: LocationName="Red Base Main Paths"
-LocationName="レッドベースのメインパス"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Base Higher Paths"
-LocationName="レッドベースの上位パス"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Base Main Paths"
-LocationName="レッドベースのメインパス"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Base Higher Paths"
-LocationName="ブルーベースハイアーパス"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Base Main Paths"
-LocationName="ブルーベースのメインパス"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Blue Base Fortifications"
-LocationName="ブルーベース要塞"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Blue Base Main Paths"
-LocationName="ブルーベースのメインパス"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Side of Volcano"
-LocationName="火山の側面"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Blue Base Lower Paths"
-LocationName="ブルーベースロワーパス"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="Blue Base Lower Paths"
-LocationName="ブルーベースロワーパス"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Volcano Caverns"
-LocationName="ボルケーノ洞窟"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="レッドベースの下部パス"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="レッドベースの下部パス"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="レッドベースの下部パス"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Base Lower Paths"
-LocationName="ブルーベースロワーパス"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Base Fortifications"
-LocationName="レッドベース要塞"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Red Base Cellar Entrance"
-LocationName="レッドベースセラーエントランス"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Out of Bounds!"
-LocationName="立入禁止で！"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Base Main Entrance"
-LocationName="ブルーベース正面玄関"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Blue Base Cellar Entrance"
-LocationName="ブルーベースセラーエントランス"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Blue Flag Room"
-LocationName="ブルーフラッグルーム"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Volcano Caverns"
-LocationName="ボルケーノ洞窟"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Volcano Caverns"
-LocationName="ボルケーノ洞窟"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Blue Base Main Entrance"
-LocationName="ブルーベース正面玄関"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Base Cellar Access"
-LocationName="ブルーベースセラーアクセス"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Base Main Entrance"
-LocationName="レッドベースメインエントランス"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Base Cellar Access"
-LocationName="レッドベースセラーアクセス"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Base Cellar"
-LocationName="レッドベースセラー"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Red Flag Room"
-LocationName="レッドフラッグルーム"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Blue Base Tower"
-LocationName="ブルーベースタワー"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Base Tower"
-LocationName="レッドベースタワー"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="ブルーベースセラー"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Base Cellar Entrance"
-LocationName="ブルーベースセラーエントランス"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="ブルーベースセラー"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="ブルーベースセラー"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Base Cellar"
-LocationName="レッドベースセラー"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Base Cellar"
-LocationName="レッドベースセラー"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Base Cellar Entrance"
-LocationName="レッドベースセラーエントランス"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base Main Entrance"
-LocationName="レッドベースメインエントランス"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Base Tower Entrance"
-LocationName="レッドベースタワーエントランス"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Base Tower Entrance"
-LocationName="ブルーベースタワーエントランス"
+LocationName=""
 

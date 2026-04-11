@@ -1,56 +1,58 @@
 ﻿[LevelInfo0]
-Title="Osiris 2"
+; EN: Title="Osiris 2"
+Title=""
 
 [LevelSummary]
-Title="Osiris 2"
+; EN: Title="Osiris 2"
+Title=""
 ; EN: Description="The sand mixes with your sweat, forming a gritty layer on your skin that makes you itch under your armor. The air reeks of electrostatic discharge and dried blood. From the darkness of the tombs below an inhuman scream marks the death of one of your countless enemies. Your only regret is that you're not the one who got the frag. Time to fight."
-Description="A areia se mistura com o suor, formando uma camada arenosa na pele que faz você coçar sob a armadura. O ar cheira a descarga eletrostática e sangue seco. Da escuridão das tumbas abaixo, um grito desumano marca a morte de um de seus incontáveis ​​inimigos. Seu único arrependimento é que não foi você quem recebeu o frag. É hora de lutar."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Underground Temple"
-LocationName="Templo Subterrâneo"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Upper Hallways"
-LocationName="Corredores superiores"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Flak Cannon Room"
-LocationName="Sala do Canhão Flak"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Lower Hallway"
-LocationName="Corredor Inferior"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Upper Hallways"
-LocationName="Corredores superiores"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Main Courtyard"
-LocationName="Pátio Principal"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Super Shield Room"
-LocationName="Sala Super Shield"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Upper Hallways"
-LocationName="Corredores superiores"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Upper Hallways"
-LocationName="Corredores superiores"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Lower Hallway"
-LocationName="Corredor Inferior"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Shock Rifle Room"
-LocationName="Quarto Shock Rifle"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Rocket Launcher Tomb"
-LocationName="Tumba do lançador de foguetes"
+LocationName=""
 

@@ -1,60 +1,60 @@
 ﻿[LevelInfo0]
 ; EN: Title="Oceanic"
-Title="Océanique"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Oceanic"
-Title="Océanique"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="Middle Up"
-LocationName="Au milieu"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="L Hallway 1"
-LocationName="L Couloir 1"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Shock Rifle"
-LocationName="Fusil de choc"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Shock Rifle"
-LocationName="Fusil de choc"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Flak Cannon"
-LocationName="Canon anti-aérien"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Rocket Room"
-LocationName="Salle des fusées"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Middle Up"
-LocationName="Au milieu"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Middle Low"
-LocationName="Moyen Bas"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Middle Up"
-LocationName="Au milieu"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="Mini gun"
-LocationName="Mini-pistolet"
+; EN: LocationName="Minigun"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Middle Room"
-LocationName="Chambre du Milieu"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="L Hallway 2"
-LocationName="L Couloir 2"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Middle Low"
-LocationName="Moyen Bas"
+LocationName=""
 

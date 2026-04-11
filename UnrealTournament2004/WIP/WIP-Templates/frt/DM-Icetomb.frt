@@ -1,77 +1,78 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ice Tomb"
-Title="Tombe de glace"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Ice Tomb"
-Title="Tombe de glace"
+Title=""
 ; EN: Description="Bring your mittens and hide your kittens, because it is about to get very frigid and very bloody in this tight arena."
-Description="Apportez vos mitaines et cachez vos chatons, car il va faire très froid et très sanglant dans cette arène étroite."
+Description=""
 
 [ZoneInfo0]
-; EN: LocationName="BioRifle Cavern"
-LocationName="Caverne BioRifle"
+; EN: LocationName="Bio Rifle Cavern"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Ramp"
-LocationName="Rampe"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Four Waterfalls"
-LocationName="Quatre cascades"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Four Waterfalls"
-LocationName="Quatre cascades"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="BioRifle Cavern"
-LocationName="Caverne BioRifle"
+; EN: LocationName="Bio Rifle Cavern"
+LocationName=""
 
 [ZoneInfo14]
-; EN: LocationName="IceTomb"
-LocationName="Tombeau de glace"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="IceTomb"
-LocationName="Tombeau de glace"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Lightning Gun"
-LocationName="Pistolet éclair"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Lightning Gun"
-LocationName="Pistolet éclair"
+LocationName=""
 
 [ZoneInfo2]
-; EN: LocationName="IceTomb"
-LocationName="Tombeau de glace"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Dual Waterfalls"
-LocationName="Cascades doubles"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Lightning Gun"
-LocationName="Pistolet éclair"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="IceTomb"
-LocationName="Tombeau de glace"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="IceTomb"
-LocationName="Tombeau de glace"
+; EN: LocationName="Ice Tomb"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="Atrium"
+; EN: LocationName="Atrium"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Ramp"
-LocationName="Rampe"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Four Waterfalls"
-LocationName="Quatre cascades"
+LocationName=""
 

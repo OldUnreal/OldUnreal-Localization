@@ -1,156 +1,160 @@
 ﻿[LevelInfo0]
 ; EN: Title="Slaughterhouse"
-Title="Jatky"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="Jatka"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Slaughterhouse"
-Title="Jatky"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="Jatka"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Skladování modrého masa"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Blue Spawnroom Beta"
+; EN: LocationName="Blue Spawnroom Beta"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Drain Room"
-LocationName="Modrá odtoková místnost"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Meat Storage Entrance"
-LocationName="Vchod do skladu modrého masa"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Freezer"
-LocationName="Červený mrazák"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Bomb Gate"
-LocationName="Červená Bomb Gate"
+LocationName=""
 
 [ZoneInfo14]
-LocationName="Red Spawnroom Beta"
+; EN: LocationName="Red Spawnroom Beta"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Back Hallway"
-LocationName="Červená zadní chodba"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Fountains"
-LocationName="Červené fontány"
+LocationName=""
 
 [ZoneInfo17]
-LocationName="Blue Spawnroom Alpha"
+; EN: LocationName="Blue Spawnroom Alpha"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Chapel"
-LocationName="Červená kaple"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Drainage"
-LocationName="Červená drenáž"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Bomb Gate"
-LocationName="Modrá bombová brána"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
-LocationName="Ten chlap je Chuck. Ground Chuck v modré místnosti"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="Red Spawnroom Alpha"
+; EN: LocationName="Red Spawnroom Alpha"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Chodba červené pily"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Modré nádvoří"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="OOoh, he's dead in the Red"
-LocationName="Ooh, je mrtvý v Rudém"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Modré nádvoří"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Main Hall"
-LocationName="Modrý hlavní sál"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Chodba modré pily"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Skladování modrého masa"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Chodba červené pily"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Chodba modré pily"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Red Main Hall"
-LocationName="Červený hlavní sál"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Red Pipe"
-LocationName="Červená dýmka"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Red Courtyard"
-LocationName="Červené nádvoří"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Pipe"
-LocationName="Modrá trubka"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Red Freezer Entrance"
-LocationName="Červený vchod do mrazáku"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Chapel"
-LocationName="Modrá kaple"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Fountains"
-LocationName="Modré fontány"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Back Hallway"
-LocationName="Modrá zadní chodba"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Bomb Courtyard"
-LocationName="Nádvoří bomby"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Courtyard"
-LocationName="Červené nádvoří"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Freezer"
-LocationName="Červený mrazák"
+LocationName=""
 
 [xBombDelivery0]
 ; EN: ObjectiveName="Blue Bombgoal"
-ObjectiveName="Modrý bombový gól"
+LocationName=""
 
 [xBombDelivery2]
 ; EN: ObjectiveName="Red Bombgoal"
-ObjectiveName="Červený bombový gól"
+LocationName=""
 

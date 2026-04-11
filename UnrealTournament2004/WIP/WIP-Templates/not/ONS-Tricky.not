@@ -1,64 +1,94 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tricky"
-Title="Vanskelig"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tricky"
-Title="Vanskelig"
+Title=""
 ; EN: Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
-Description="DENNE LØRDAGEN, BARE EN DAG, PÅ M-M-MONSTER VALLEY ARENA, VIS DET AAAAWESOME SPEKTAKLET AV ONSLAUGHT-TURNERINGENS KAMP!!! TO LAG OG 65 TONN MED BALLER TIL VEGGEN PØJON SLINGER KJØRETØYSKAP! VÆR DER FOR DE FLAMENDE HØYLENE, MONSTERHOPPENE, HALFPIPE AV BLOD OG GANSVIKEN I DET 150 METER HØYE DOMMENSTÅRNET! VÆR DER!!!"
+Description=""
 
 [MessageTrigger1]
 ; EN: Message="cleared the Holy Shit Gap!"
-Message="tømte Holy Shit Gap!"
+Message=""
 
 [MessageTrigger10]
 ; EN: Message="cleared the Ludicrous Gap!"
-Message="ryddet det latterlige gapet!"
+Message=""
 
 [MessageTrigger11]
 ; EN: Message="All Gaps cleared!"
-Message="Alle hull fjernet!"
+Message=""
 
 [MessageTrigger12]
 ; EN: Message="clears all Gaps!"
-Message="fjerner alle hull!"
+Message=""
 
 [MessageTrigger2]
-Message="Holy Shit Gap!"
+; EN: Message="Holy Shit Gap!"
+Message=""
 
 [MessageTrigger3]
 ; EN: Message="Ben's sweet Gap"
-Message="Bens søte Gap"
+Message=""
 
 [MessageTrigger4]
 ; EN: Message="Cleared Ben's sweet Gap!"
-Message="Tømte Bens søte Gap!"
+Message=""
 
 [MessageTrigger5]
 ; EN: Message="Unreal Gap!"
-Message="Uvirkelig Gap!"
+Message=""
 
 [MessageTrigger6]
 ; EN: Message="cleared the Unreal Gap!"
-Message="ryddet det uvirkelige gapet!"
+Message=""
 
 [MessageTrigger7]
-Message="M-M-M-Monster Gap!"
+; EN: Message="M-M-M-Monster Gap!"
+Message=""
 
 [MessageTrigger8]
 ; EN: Message="cleared the M-M-M-Monster Gap!"
-Message="ryddet M-M-M-Monster Gap!"
+Message=""
 
 [MessageTrigger9]
 ; EN: Message="Ludicrous Gap!"
-Message="Latterlig gap!"
+Message=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Tower"
-LocationName="Tårn"
+LocationName=""
+
+[Volume5]
+; EN: LocationName="Red Prime Node (3)"
+LocationName=" (3)"
+
+[Volume6]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName=" (2)"
+
+[Volume7]
+; EN: LocationName="Southwest Node (4)"
+LocationName=" (4)"
+
+[Volume8]
+; EN: LocationName="Southeast Node (5)"
+LocationName=""
+
+[Volume9]
+; EN: LocationName="Center Node (1)"
+LocationName=" (1)"
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Utenfor"
+LocationName=""
 

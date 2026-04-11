@@ -1,102 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bridge of Fate"
-Title="Sorshíd"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bridge of Fate"
-Title="Sorshíd"
+Title=""
 ; EN: Description="Two sides, a huge cave in between, one bridge going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
-Description="Két oldal, egy hatalmas barlang között, egy híd, amely egyik oldalról a másikra halad, áthidalja a szakadékot két csapat között, áthidalja a szakadékot a remény és a kétségbeesés között."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Cave"
-LocationName="Barlang"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="KÉK Páncél Bejárat"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="BLUE Main Entrance"
-LocationName="KÉK főbejárat"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="KÉK bombaterem"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="KÉK bombaterem"
+LocationName=""
 
 [ZoneInfo13]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="KÉK BioRifle bejárat"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED Bomb Room"
-LocationName="VÖRÖS bombaterem"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="PIROS BioRifle bejárat"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="VÖRÖS páncélos bejárat"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="VÖRÖS páncélos bejárat"
+LocationName=""
 
 [ZoneInfo18]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="PIROS BioRifle bejárat"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="RED Main Entrance"
-LocationName="PIROS főbejárat"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="RED BioRifle Entrance"
-LocationName="PIROS BioRifle bejárat"
+; EN: LocationName="RED Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="RED Bomb Room"
-LocationName="VÖRÖS bombaterem"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="RED Bomb Room"
-LocationName="VÖRÖS bombaterem"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="RED Armor Entrance"
-LocationName="VÖRÖS páncélos bejárat"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="KÉK bombaterem"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Pillar Room"
-LocationName="KÉK Oszlopos szoba"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="KÉK BioRifle bejárat"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="KÉK Páncél Bejárat"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="RED Pillar Room"
-LocationName="VÖRÖS Oszlopos szoba"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="BLUE Armor Entrance"
-LocationName="KÉK Páncél Bejárat"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="BLUE BioRifle Entrance"
-LocationName="KÉK BioRifle bejárat"
+; EN: LocationName="BLUE Bio Rifle Entrance"
+LocationName=""
 

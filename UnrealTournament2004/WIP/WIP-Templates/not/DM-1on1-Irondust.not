@@ -1,40 +1,46 @@
 ﻿[LevelInfo0]
-Title="Irondust"
+; EN: Title="Irondust"
+Title=""
 
 [LevelSummary]
-Title="Irondust"
+; EN: Title="Irondust"
+Title=""
 ; EN: Description="Piece of cake? Yeah you bet... Prepare to get dusted Ironman!"
-Description="Lett som bare det? Ja, du vedder... Forbered deg på å få støvet Ironman!"
+Description=""
 
 [ZoneInfo1]
-LocationName="Super Shield Lift"
+; EN: LocationName="Super Shield Lift"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Left Lift"
-LocationName="Venstre heis"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Right Lift"
-LocationName="Høyre løft"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Minigun Arches"
-LocationName="Minigun buer"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="Link Gun Area"
+; EN: LocationName="Link Gun Area"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Double Health"
-LocationName="Dobbel helse"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Shield Area"
-LocationName="Skjoldområde"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="Circular Hall"
+; EN: LocationName="Circular Hall"
+LocationName=""
 
 [ZoneInfo9]
-LocationName="Catwalks"
+; EN: LocationName="Catwalks"
+LocationName=""
 

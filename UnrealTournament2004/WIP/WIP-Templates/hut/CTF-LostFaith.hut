@@ -1,28 +1,28 @@
 ﻿[LevelInfo0]
 ; EN: Title="Lost Faith"
-Title="Elveszett hit"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Lost Faith"
-Title="Elveszett hit"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Blue base Flak"
-LocationName="Kék alaplap Flak"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue base Link"
-LocationName="Kék alap link"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red base Flak"
-LocationName="Piros alap Flak"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red base Link"
-LocationName="Piros alap link"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Waterfall"
-LocationName="Vízesés"
+LocationName=""
 

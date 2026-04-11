@@ -1,45 +1,54 @@
 ﻿[LevelInfo0]
 ; EN: Title="Goliath"
-Title="Goliat"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Goliath"
-Title="Goliat"
+Title=""
 ; EN: Description="High above Calaban VII, Goliath class orbital power stations provide the thriving colonies below with both power and protection.  Virtually immune to small arms fire, the platforms have become popular staging arenas for the tournaments.  Occasional radiation leakage has resulted in arenas that are not only entertaining, but self-cleaning too."
-Description="Högt ovanför Calaban VII ger orbitalkraftverk av Goliatklass de blomstrande kolonierna under både kraft och skydd. Plattformarna är praktiskt taget immuna mot eld från handeldvapen och har blivit populära arenor för turneringarna. Enstaka strålningsläckage har resulterat i arenor som inte bara är underhållande, utan också självrengörande."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Secret Rooftop Platform"
-LocationName="Hemlig takplattform"
+LocationName=""
 
 [Volume1]
-LocationName="Sneaky Lowgrav Quadjump Spot"
+; EN: LocationName="Sneaky Lowgrav Quadjump Spot"
+LocationName=""
 
 [ZoneInfo0]
-LocationName="Shock Rifle Room"
+; EN: LocationName="Shock Rifle Room"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Udamage Spawn Hall"
+; EN: LocationName="Double Damage Spawn Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Minigun Room"
-LocationName="Minigun rum"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Health Vial Spawn Hall"
+; EN: LocationName="Health Vial Spawn Hall"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="Lightning Gun Big Room"
+; EN: LocationName="Lightning Gun Big Room"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="Super Shield Spawn Hall"
+; EN: LocationName="Super Shield Spawn Hall"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="Lightning Gun Big Room"
+; EN: LocationName="Lightning Gun Big Room"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="Lower Mid Halls"
+; EN: LocationName="Lower Mid Halls"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="Upper Mid Halls"
+; EN: LocationName="Upper Mid Halls"
+LocationName=""
 

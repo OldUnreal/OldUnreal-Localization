@@ -1,57 +1,60 @@
 ﻿[LevelInfo0]
 ; EN: Title="Oceanic"
-Title="Óceáni"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Oceanic"
-Title="Óceáni"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="Middle Up"
-LocationName="Középen felfelé"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="L Hallway 1"
-LocationName="L 1. folyosó"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="Shock Rifle"
+; EN: LocationName="Shock Rifle"
+LocationName=""
 
 [ZoneInfo11]
-LocationName="Shock Rifle"
+; EN: LocationName="Shock Rifle"
+LocationName=""
 
 [ZoneInfo12]
-LocationName="Flak Cannon"
+; EN: LocationName="Flak Cannon"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Rocket Room"
-LocationName="Rakéta szoba"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Middle Up"
-LocationName="Középen felfelé"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Middle Low"
-LocationName="Közép alacsony"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Middle Up"
-LocationName="Középen felfelé"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="Mini gun"
-LocationName="Mini fegyver"
+; EN: LocationName="Minigun"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Middle Room"
-LocationName="Középső szoba"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="L Hallway 2"
-LocationName="L 2. folyosó"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Middle Low"
-LocationName="Közép alacsony"
+LocationName=""
 

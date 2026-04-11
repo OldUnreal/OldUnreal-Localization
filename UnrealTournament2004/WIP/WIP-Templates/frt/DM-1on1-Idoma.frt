@@ -1,26 +1,26 @@
 ﻿[LevelInfo0]
 ; EN: Title="Idoma"
-Title="Idome"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Idoma"
-Title="Idome"
+Title=""
 ; EN: Description="Small atmospheric map set in a building constructed out of lots of wood and metal."
-Description="Petite carte atmosphérique située dans un bâtiment construit avec beaucoup de bois et de métal."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Rocket Area"
-LocationName="Zone de fusée"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Shield Area"
-LocationName="Zone de bouclier"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Middle"
-LocationName="Milieu"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Flak Area"
-LocationName="Zone de flak"
+LocationName=""
 

@@ -1,81 +1,86 @@
 ﻿[LevelInfo0]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelInfo6]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelSummary]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 ; EN: Description="Prieth Callas was a hard, cruel man, fond of torturing his enemies before sending them to their deaths. He raised creatures of great size and ferocity, setting them against his prisoners in arenas of his own creation. Grendelkeep is the last of his diabolical constructions, left to fall into ruin after Callas was dragged from the battlements by his own men and fed to the creatures he bred in the dark kennels below. The rain has washed away the blood, but the evil that bred here has left a much deeper stain."
-Description="Prieth Callas kemény, kegyetlen ember volt, szerette megkínozni ellenségeit, mielőtt a halálba küldte őket. Nagy méretű és vad lényeket nevelt fel, és saját alkotta arénákon állította őket foglyai ellen. Grendelkeep az utolsó ördögi építménye, amely romba dőlt, miután Callas-t saját emberei kirángatták a falakból, és megetették azokkal a lényekkel, akiket a lenti sötét kennelekben tenyésztett. Az eső elmosta a vért, de az itt szaporodó gonosz sokkal mélyebb foltot hagyott maga után."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Great Room Hall"
-LocationName="Nagyterem Hall"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo10]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Great Room Hall"
-LocationName="Nagyterem Hall"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Lower Flak Hall"
-LocationName="Alsó Flak Hall"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Lower Flak Hall"
-LocationName="Alsó Flak Hall"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Great Room Hall"
-LocationName="Nagyterem Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Nagy Amp Hall"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Felső rakétaterem"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Felső rakétaterem"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Felső rakétaterem"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini terem"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini terem"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Great Tower"
-LocationName="Nagy Torony"
+LocationName=""
 
 [ZoneInfo9]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 

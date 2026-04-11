@@ -1,68 +1,60 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bifrost Bases"
-Title="Bifrost baser"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bifrost Bases"
-Title="Bifrost baser"
+Title=""
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Front Room"
-LocationName="BLÅ främre rummet"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="RED Front Room"
-LocationName="RÖD främre rummet"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Outside"
-LocationName="Utanför"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED Hallway"
-LocationName="RÖD hall"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="RED Bomb Room"
-LocationName="RÖTT bombrum"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="BLUE Hallway"
-LocationName="BLÅ hall"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLÅT Bombrum"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="RED Bomb Room"
-LocationName="RÖTT bombrum"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Hallway"
-LocationName="BLÅ hall"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RED Hallway"
-LocationName="RÖD hall"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Bomb Room"
-LocationName="BLÅT Bombrum"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="RED Entrance"
-LocationName="RÖD Entré"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="BLUE Entrance"
-LocationName="BLÅ Entré"
-
-[xBombDelivery0]
-; EN: DestructionMessage="Red Team Scores!"
-DestructionMessage="Röda lagets poäng!"
-
-[xBombDelivery1]
-; EN: DestructionMessage="Blue Team Scores!"
-DestructionMessage="Blue Team poäng!"
+LocationName=""
 

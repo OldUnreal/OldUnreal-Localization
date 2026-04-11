@@ -1,0 +1,48 @@
+﻿[LevelInfo0]
+Title="Canyon"
+
+[LevelSummary]
+Title="Canyon"
+; EN: Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river.  Swimming is NOT recommended."
+Description="Combattimenti feroci e sanguinosi e grandi spazi aperti: chi potrebbe chiedere di più? Questa piccola arena è divisa da un fiume micidiale in rapido movimento. Il nuoto NON è raccomandato."
+
+[Volume1]
+; EN: LocationName="Blue Sniper Roost"
+LocationName="Posatoio da cecchino blu"
+
+[Volume2]
+; EN: LocationName="Blue Bomb Goal"
+LocationName="Obiettivo Bomba Blu"
+
+[Volume3]
+; EN: LocationName="Blue South Spawn Pool"
+LocationName="Piscina di progenie sud blu"
+
+[Volume4]
+; EN: LocationName="Blue North Spawn Pool"
+LocationName="Piscina di progenie nord blu"
+
+[Volume6]
+; EN: LocationName="Red Sniper Roost"
+LocationName="Posatoio da cecchino rosso"
+
+[Volume7]
+; EN: LocationName="Red North Spawn Pool"
+LocationName="Pozza di generazione nord rossa"
+
+[Volume8]
+; EN: LocationName="Red South Spawn Pool"
+LocationName="Pozza di generazione sud rossa"
+
+[Volume9]
+; EN: LocationName="Red Bomb Goal"
+LocationName="Obiettivo Bomba Rossa"
+
+[WaterVolume0]
+; EN: LocationName="With the Fishes"
+LocationName="Con i pesci"
+
+[ZoneInfo1]
+; EN: LocationName="Outside"
+LocationName="Al di fuori"
+

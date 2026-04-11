@@ -1,64 +1,60 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bifrost Bases"
-Title="Bifrost základny"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Bifrost Bases"
-Title="Bifrost základny"
+Title=""
 
 [ZoneInfo1]
 ; EN: LocationName="BLUE Front Room"
-LocationName="MODRÝ přední pokoj"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="RED Front Room"
-LocationName="ČERVENÁ přední místnost"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Outside"
-LocationName="Mimo"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="RED Hallway"
-LocationName="ČERVENÁ chodba"
+LocationName=""
 
 [ZoneInfo15]
-LocationName="RED Bomb Room"
+; EN: LocationName="RED Bomb Room"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="BLUE Hallway"
-LocationName="MODRÁ chodba"
+LocationName=""
 
 [ZoneInfo17]
-LocationName="BLUE Bomb Room"
+; EN: LocationName="BLUE Bomb Room"
+LocationName=""
 
 [ZoneInfo2]
-LocationName="RED Bomb Room"
+; EN: LocationName="RED Bomb Room"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Hallway"
-LocationName="MODRÁ chodba"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="RED Hallway"
-LocationName="ČERVENÁ chodba"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="BLUE Bomb Room"
+; EN: LocationName="BLUE Bomb Room"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="RED Entrance"
-LocationName="ČERVENÝ vchod"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="BLUE Entrance"
-LocationName="MODRÝ VSTUP"
-
-[xBombDelivery0]
-; EN: DestructionMessage="Red Team Scores!"
-DestructionMessage="Skóre červeného týmu!"
-
-[xBombDelivery1]
-; EN: DestructionMessage="Blue Team Scores!"
-DestructionMessage="Skóre modrého týmu!"
+LocationName=""
 

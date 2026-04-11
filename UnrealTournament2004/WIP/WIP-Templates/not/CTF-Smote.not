@@ -1,217 +1,226 @@
 ﻿[LavaVolume10]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume12]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume13]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume15]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume16]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume2]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume23]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume24]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume25]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume26]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume5]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume7]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LavaVolume9]
 ; EN: LocationName="In Lava!"
-LocationName="I lava!"
+LocationName=""
 
 [LevelInfo0]
-Title="Smote"
+; EN: Title="Smote"
+Title=""
 
 [LevelSummary]
-Title="Smote"
+; EN: Title="Smote"
+Title=""
 ; EN: Description="The earth trembles beneath your feet, and the sky rains fire and ash down on you from above. The path to victory is as treacherous and deadly as the enemies you face on the battlefield, and less forgiving."
-Description="Jorden skjelver under dine føtter, og himmelen regner ild og aske ned over deg ovenfra. Veien til seier er like forrædersk og dødelig som fiendene du møter på slagmarken, og mindre tilgivende."
+Description=""
 
 [Volume10]
 ; EN: LocationName="Red Base Main Paths"
-LocationName="Røde hovedveier"
+LocationName=""
 
 [Volume11]
-LocationName="Red Base Higher Paths"
+; EN: LocationName="Red Base Higher Paths"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Base Main Paths"
-LocationName="Røde hovedveier"
+LocationName=""
 
 [Volume13]
-LocationName="Blue Base Higher Paths"
+; EN: LocationName="Blue Base Higher Paths"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Base Main Paths"
-LocationName="Blue Base Hovedstier"
+LocationName=""
 
 [Volume16]
-LocationName="Blue Base Fortifications"
+; EN: LocationName="Blue Base Fortifications"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Blue Base Main Paths"
-LocationName="Blue Base Hovedstier"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Side of Volcano"
-LocationName="Siden av vulkanen"
+LocationName=""
 
 [Volume21]
-LocationName="Blue Base Lower Paths"
+; EN: LocationName="Blue Base Lower Paths"
+LocationName=""
 
 [Volume22]
-LocationName="Blue Base Lower Paths"
+; EN: LocationName="Blue Base Lower Paths"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Volcano Caverns"
-LocationName="Vulkanhuler"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="Red Base Nedre Baner"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="Red Base Nedre Baner"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Base Lower Paths"
-LocationName="Red Base Nedre Baner"
+LocationName=""
 
 [Volume8]
-LocationName="Blue Base Lower Paths"
+; EN: LocationName="Blue Base Lower Paths"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Base Fortifications"
-LocationName="Red Base Befestninger"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Red Base Cellar Entrance"
-LocationName="Red Base Kjellerinngang"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Out of Bounds!"
-LocationName="Utenfor grensene!"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Base Main Entrance"
-LocationName="Blue Base Hovedinngang"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Blue Base Cellar Entrance"
-LocationName="Blue Base Kjellerinngang"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Rom med blått flagg"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Volcano Caverns"
-LocationName="Vulkanhuler"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Volcano Caverns"
-LocationName="Vulkanhuler"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Blue Base Main Entrance"
-LocationName="Blue Base Hovedinngang"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Blue Base Cellar Access"
-LocationName="Blue Base kjellertilgang"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Base Main Entrance"
-LocationName="Rød Base Hovedinngang"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Base Cellar Access"
-LocationName="Red Base Kjellertilgang"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Red Base Cellar"
-LocationName="Rød basekjeller"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rom med rødt flagg"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="Blue Base Tower"
+; EN: LocationName="Blue Base Tower"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Base Tower"
-LocationName="Rødt basetårn"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="Blå Base Kjeller"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue Base Cellar Entrance"
-LocationName="Blue Base Kjellerinngang"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="Blå Base Kjeller"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Base Cellar"
-LocationName="Blå Base Kjeller"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red Base Cellar"
-LocationName="Rød basekjeller"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red Base Cellar"
-LocationName="Rød basekjeller"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red Base Cellar Entrance"
-LocationName="Red Base Kjellerinngang"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red Base Main Entrance"
-LocationName="Rød Base Hovedinngang"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Base Tower Entrance"
-LocationName="Red Base Tower-inngang"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Base Tower Entrance"
-LocationName="Blue Base Tower-inngang"
+LocationName=""
 

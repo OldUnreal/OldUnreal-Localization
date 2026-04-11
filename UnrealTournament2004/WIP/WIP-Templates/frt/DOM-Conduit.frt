@@ -1,30 +1,34 @@
 ﻿[LevelInfo0]
-Title="Conduit"
+; EN: Title="Conduit"
+Title=""
 
 [LevelSummary]
-Title="Conduit"
+; EN: Title="Conduit"
+Title=""
 ; EN: Description="The ebb and flow of static charge in the Conduit, harnessed to sate the requirements of an energy hungry society. The ebb and flow of a team battle in the Conduit, broadcast to sate the requirements of a depraved, bloodthirsty society."
-Description="Le flux et reflux de la charge statique dans le conduit, exploité pour satisfaire les exigences d'une société affamée d'énergie. Le flux et le reflux d'une bataille d'équipe dans le Conduit, diffusés pour satisfaire les exigences d'une société dépravée et assoiffée de sang."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Central base"
-LocationName="Base centrale"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="Blue  locker room"
-LocationName="vestiaire bleu"
+; EN: LocationName="Blue locker room"
+LocationName=""
 
 [ZoneInfo3]
-; EN: LocationName="Red  locker room"
-LocationName="Vestiaire rouge"
+; EN: LocationName="Red locker room"
+LocationName=""
 
 [ZoneInfo4]
-LocationName="DOM B"
+; EN: LocationName="DOM B"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Central conduit"
-LocationName="Conduit central"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="DOM A"
+; EN: LocationName="DOM A"
+LocationName=""
 

@@ -1,63 +1,94 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tricky"
-Title="Complicado"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Tricky"
-Title="Complicado"
+Title=""
 ; EN: Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
-Description="NESTE SÁBADO, APENAS UM DIA, NA ARENA DO VALE DO M-M-MONSTER, TESTEMUNHA O ESPETÁCULO AAAAWESOME DO COMBATE DO TORNEIO DE ENSLAUGHT !!! DUAS EQUIPES E 65 TONELADAS DE BOLAS PARA A PISTOLA DE PAREDE LINGAR VEHICULAR MAYHEM! ESTEJA LÁ PARA OS COZINHOS FLAMEJANTES, OS SALTOS DE MONSTRO, O HALFPIPE DO SANGUE E A INSANIDADE DA TORRE ALTA DE 150 METROS DA DESTRUIÇÃO! ESTAR LÁ!!!"
+Description=""
 
 [MessageTrigger1]
 ; EN: Message="cleared the Holy Shit Gap!"
-Message="limpou a lacuna de merda sagrada!"
+Message=""
 
 [MessageTrigger10]
 ; EN: Message="cleared the Ludicrous Gap!"
-Message="limpou a lacuna ridícula!"
+Message=""
 
 [MessageTrigger11]
 ; EN: Message="All Gaps cleared!"
-Message="Todas as lacunas foram eliminadas!"
+Message=""
 
 [MessageTrigger12]
 ; EN: Message="clears all Gaps!"
-Message="limpa todas as lacunas!"
+Message=""
 
 [MessageTrigger2]
-Message="Holy Shit Gap!"
+; EN: Message="Holy Shit Gap!"
+Message=""
 
 [MessageTrigger3]
 ; EN: Message="Ben's sweet Gap"
-Message="Doce Gap do Ben"
+Message=""
 
 [MessageTrigger4]
 ; EN: Message="Cleared Ben's sweet Gap!"
-Message="Limpou a doce lacuna de Ben!"
+Message=""
 
 [MessageTrigger5]
-Message="Unreal Gap!"
+; EN: Message="Unreal Gap!"
+Message=""
 
 [MessageTrigger6]
 ; EN: Message="cleared the Unreal Gap!"
-Message="limpou a lacuna irreal!"
+Message=""
 
 [MessageTrigger7]
-Message="M-M-M-Monster Gap!"
+; EN: Message="M-M-M-Monster Gap!"
+Message=""
 
 [MessageTrigger8]
 ; EN: Message="cleared the M-M-M-Monster Gap!"
-Message="limpou a lacuna M-M-M-Monster!"
+Message=""
 
 [MessageTrigger9]
 ; EN: Message="Ludicrous Gap!"
-Message="Gap ridículo!"
+Message=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Tower"
-LocationName="Torre"
+LocationName=""
+
+[Volume5]
+; EN: LocationName="Red Prime Node (3)"
+LocationName=" (3)"
+
+[Volume6]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName=" (2)"
+
+[Volume7]
+; EN: LocationName="Southwest Node (4)"
+LocationName=" (4)"
+
+[Volume8]
+; EN: LocationName="Southeast Node (5)"
+LocationName=""
+
+[Volume9]
+; EN: LocationName="Center Node (1)"
+LocationName=" (1)"
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Lado de fora"
+LocationName=""
 

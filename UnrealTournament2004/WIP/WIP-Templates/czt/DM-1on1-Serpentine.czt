@@ -1,21 +1,24 @@
 ﻿[LevelInfo0]
-Title="Serpentine"
+; EN: Title="Serpentine"
+Title=""
 
 [LevelSummary]
-Title="Serpentine"
+; EN: Title="Serpentine"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Serpent Catwalk"
-LocationName="Hadí molo"
+LocationName=""
 
 [Volume1]
-LocationName="Pit Maze"
+; EN: LocationName="Pit Maze"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Maze Surface"
-LocationName="Povrch bludiště"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Ledges"
-LocationName="římsy"
+LocationName=""
 

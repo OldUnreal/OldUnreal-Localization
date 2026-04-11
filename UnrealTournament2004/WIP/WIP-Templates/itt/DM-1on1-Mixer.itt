@@ -1,56 +1,58 @@
 ﻿[LevelInfo0]
-Title="Mixer"
+; EN: Title="Mixer"
+Title=""
 
 [LevelSummary]
-Title="Mixer"
+; EN: Title="Mixer"
+Title=""
 ; EN: Description="Gunsmoke and death aren't the only things you'll smell here."
-Description="Fumo d'armi e morte non saranno le uniche cose che annuserai qui."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Pipe"
-LocationName="Tubo"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Shield Chamber"
-LocationName="Camera dello scudo"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Minigun"
-LocationName="Mitragliatrice"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Rocket Launcher"
-LocationName="Lanciarazzi"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Double Damage"
-LocationName="Doppio danno"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Lift"
-LocationName="Sollevamento"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Lift"
-LocationName="Sollevamento"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Pipes"
-LocationName="tubi"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Lightning Gun"
-LocationName="Pistola a fulmine"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Link Gun"
-LocationName="Collegamento pistola"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Basement"
-LocationName="Seminterrato"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Shock Rifle"
-LocationName="Fucile d'urto"
+LocationName=""
 

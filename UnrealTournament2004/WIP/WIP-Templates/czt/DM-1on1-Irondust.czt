@@ -1,45 +1,46 @@
 ﻿[LevelInfo0]
 ; EN: Title="Irondust"
-Title="Železný prach"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Irondust"
-Title="Železný prach"
+Title=""
 ; EN: Description="Piece of cake? Yeah you bet... Prepare to get dusted Ironman!"
-Description="Kus dortu? Jo, vsaďte se... Připravte se na oprášení Ironmana!"
+Description=""
 
 [ZoneInfo1]
-LocationName="Super Shield Lift"
+; EN: LocationName="Super Shield Lift"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Left Lift"
-LocationName="Levý výtah"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Right Lift"
-LocationName="Pravý výtah"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Minigun Arches"
-LocationName="Oblouky minigun"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Link Gun Area"
-LocationName="Propojit oblast zbraně"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Double Health"
-LocationName="Dvojité zdraví"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Shield Area"
-LocationName="Oblast štítu"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Circular Hall"
-LocationName="Kruhový sál"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Catwalks"
-LocationName="Přehlídková mola"
+LocationName=""
 

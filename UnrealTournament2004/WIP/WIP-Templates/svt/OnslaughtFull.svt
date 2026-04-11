@@ -1,75 +1,80 @@
 ﻿[DamTypeIonTankBlast]
-; EN: DeathString="%o was OBLITERATED by %k"
-DeathString="%o utplånades med %k"
-; EN: FemaleSuicide="%o was OBLITERATED"
-FemaleSuicide="%o utplånades"
-; EN: MaleSuicide="%o was OBLITERATED"
-MaleSuicide="%o utplånades"
+; EN: DeathString="%o was OBLITERATED by %k!"
+DeathString=""
+; EN: FemaleSuicide="%o was OBLITERATED!"
+FemaleSuicide=""
+; EN: MaleSuicide="%o was OBLITERATED!"
+MaleSuicide=""
 
 [DamTypeMASCannon]
 ; EN: DeathString="%o was VAPORIZED by %k!"
-DeathString="%o förångades av %k!"
+DeathString=""
 ; EN: FemaleSuicide="%o was VAPORIZED!"
-FemaleSuicide="%o förångades!"
+FemaleSuicide=""
 ; EN: MaleSuicide="%o was VAPORIZED!"
-MaleSuicide="%o förångades!"
+MaleSuicide=""
 
 [DamTypeMASPlasma]
 ; EN: DeathString="%k's Leviathan turret plasmanated %o."
-DeathString="%k:s Leviathan-torn plasmanerade %o."
+DeathString=""
 ; EN: FemaleSuicide="%o wasted herself."
-FemaleSuicide="%o slösade bort sig själv."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o wasted himself."
-MaleSuicide="%o slösade bort sig själv."
+MaleSuicide=""
 
 [MutVehicleArena]
 ; EN: ArenaDisplayText="Arena Vehicle"
-ArenaDisplayText="Arena fordon"
+ArenaDisplayText=""
 ; EN: ArenaDescText="Determines which vehicle type will be used in the match."
-ArenaDescText="Bestämmer vilken fordonstyp som kommer att användas i matchen."
+ArenaDescText=""
 ; EN: FriendlyName="Vehicle Arena"
-FriendlyName="Fordon Arena"
+FriendlyName=""
 ; EN: Description="Replace all vehicles in map with a particular type."
-Description="Ersätt alla fordon på kartan med en viss typ."
+Description=""
 
 [ONSBomber]
 ; EN: VehiclePositionString="in a DragonFly"
-VehiclePositionString="i en DragonFly"
+VehiclePositionString=""
 ; EN: VehicleNameString="DragonFly"
-VehicleNameString="Trollslända"
+VehicleNameString=""
 
 [ONSGenericSD]
 ; EN: VehiclePositionString="indisposed"
-VehiclePositionString="indisponerad"
-VehicleNameString="TC-1200"
+VehiclePositionString=""
+; EN: VehicleNameString="TC-1200"
+VehicleNameString=""
 
 [ONSHoverTank_IonPlasma]
 ; EN: VehiclePositionString="in an Ion Plasma Tank"
-VehiclePositionString="i en jonplasmatank"
-VehicleNameString="Ion Plasma Tank"
+VehiclePositionString=""
+; EN: VehicleNameString="Ion Plasma Tank"
+VehicleNameString=""
 
 [ONSMASSideGunPawn]
 ; EN: VehiclePositionString="in a Leviathan turret"
-VehiclePositionString="i ett Leviathan-torn"
-VehicleNameString="Leviathan Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Leviathan Turret"
+VehicleNameString=""
 
 [ONSMobileAssaultStation]
 ; EN: VehiclePositionString="in a Leviathan"
-VehiclePositionString="i en Leviathan"
-VehicleNameString="Leviathan"
+VehiclePositionString=""
+; EN: VehicleNameString="Leviathan"
+VehicleNameString=""
 
 [ONSPainter]
 ; EN: Description="The Target Painter, similar to the Ion Painter, fires a harmless, low power laser with its primary fire. Unlike the Ion Painter, however, this weapon calls in a bomber that launches a string of bombs in the direction the user is facing, centered on the painted target. The bombs will easily incinerate the target and any unfortunates that happen to be nearby."
-Description="Target Painter, som liknar Ion Painter, avfyrar en ofarlig lågeffektlaser med sin primära eld. Till skillnad från Ion Painter anropar dock detta vapen en bombplan som avfyrar en sträng av bomber i den riktning användaren är vänd mot, centrerad på det målade målet. Bomberna kommer lätt att förbränna målet och alla olyckor som råkar vara i närheten."
+Description=""
 ; EN: ItemName="Target Painter"
-ItemName="Målare"
+ItemName=""
 
 [ONSPainterPickup]
 ; EN: PickupMessage="You got the Target Painter."
-PickupMessage="Du har målmålaren."
+PickupMessage=""
 
 [ONSTankSecondaryTurretPawn_IonPlasma]
-; EN: VehiclePositionString="in an Ion Tank turret"
-VehiclePositionString="i ett jontanktorn"
-VehicleNameString="Ion Tank Minigun Turret"
+; EN: VehiclePositionString="in an Ion Plasma Tank Minigun Turret"
+VehiclePositionString=""
+; EN: VehicleNameString="Ion Plasma Tank Minigun Turret"
+VehicleNameString=""
 

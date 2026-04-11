@@ -1,181 +1,184 @@
 ﻿[ACTION_DamageActor]
 ; EN: ActionString="Damage actor"
-ActionString="Poškozený herec"
+ActionString=""
 
 [ACTION_DestroyActor]
 ; EN: ActionString="Destroy actor"
-ActionString="Zničit herce"
+ActionString=""
 
 [ACTION_FinishRotation]
 ; EN: ActionString="Finish rotation"
-ActionString="Dokončete rotaci"
+ActionString=""
 
 [ACTION_FireWeapon]
 ; EN: ActionString="fire weapon"
-ActionString="střelná zbraň"
+ActionString=""
 
 [ACTION_FireWeaponAt]
-; EN: ActionString="fire weapon"
-ActionString="střelná zbraň"
+; EN: ActionString="fire weapon to"
+ActionString=""
 
 [ACTION_Freeze]
 ; EN: ActionString="Freeze"
-ActionString="Zmrazit"
+ActionString=""
 
 [ACTION_HealActor]
 ; EN: ActionString="Heal actor"
-ActionString="Heal herec"
+ActionString=""
 
 [ACTION_Jump]
 ; EN: ActionString="Jump"
-ActionString="Skok"
+ActionString=""
 
 [ACTION_LocalizedMessage]
 ; EN: ActionString="Localized Message"
-ActionString="Lokalizovaná zpráva"
+ActionString=""
 
 [ACTION_PlayLIPSinc]
 ; EN: ActionString="Play LIPSinc"
-ActionString="Zahrajte si LIPSinc"
+ActionString=""
 
 [ACTION_SetPhysics]
 ; EN: ActionString="change physics to "
-ActionString="změnit fyziku na "
+ActionString=""
 
 [ACTION_ShootTarget]
 ; EN: ActionString="shoot target"
-ActionString="střílet na cíl"
+ActionString=""
 
 [ACTION_SpawnActor]
 ; EN: ActionString="Spawn actor"
-ActionString="Potěrový herec"
+ActionString=""
 
 [ACTION_SubTitles]
 ; EN: ActionString="SubTitles"
-ActionString="Titulky"
+ActionString=""
 
 [ACTION_ThrowWeapon]
 ; EN: ActionString="throw weapon"
-ActionString="házet zbraň"
+ActionString=""
 
 [ACTION_WaitForLIPSincAnimEnd]
 ; EN: ActionString="Wait for LIPSincAnimEnd"
-ActionString="Počkejte na LIPSincAnimEnd"
+ActionString=""
 
 [ActionMessage_BR]
 ; EN: Messages[0]="Bombing Run"
-Messages[0]="Bombardování Run"
+Messages[0]=""
 ; EN: Messages[1]="The ball is in the center"
-Messages[1]="Míč je uprostřed"
+Messages[1]=""
 ; EN: Messages[2]="Touch the ball to pick it up"
-Messages[2]="Dotkněte se míče a zvedněte ho"
+Messages[2]=""
 ; EN: Messages[3]="The ball carrier cannot attack"
-Messages[3]="Nosič míče nemůže zaútočit"
+Messages[3]=""
 ; EN: Messages[4]="Primary fire shoots ball"
-Messages[4]="Primární oheň střílí míč"
+Messages[4]=""
 ; EN: Messages[5]="Alternate fire targets teammates"
-Messages[5]="Střídejte cíle střelby na spoluhráče"
+Messages[5]=""
 ; EN: Messages[6]="Pass the ball to teammates"
-Messages[6]="Přihrávejte míč spoluhráčům"
+Messages[6]=""
 ; EN: Messages[7]="Each team has a round goal"
-Messages[7]="Každý tým má cíl kola"
+Messages[7]=""
 ; EN: Messages[8]="Throwing the ball = 3 points"
-Messages[8]="Hod míčkem = 3 body"
+Messages[8]=""
 ; EN: Messages[9]="Carrying it = 7 points"
-Messages[9]="Přenášení = 7 bodů"
+Messages[9]=""
 ; EN: Messages[10]="Good luck!"
-Messages[10]="Hodně štěstí!"
+Messages[10]=""
 
 [ActionMessage_CTF]
 ; EN: Messages[0]="Capture the Flag"
-Messages[0]="Zmocni se vlajky"
-; EN: Messages[1]="Two bases : red and blue"
-Messages[1]="Dvě základny: červená a modrá"
+Messages[0]=""
+; EN: Messages[1]="Two bases: red and blue"
+Messages[1]=""
 ; EN: Messages[2]="Touch enemy flag to take it"
-Messages[2]="Dotkněte se nepřátelské vlajky, abyste ji vzali"
+Messages[2]=""
 ; EN: Messages[3]="Return to your base"
-Messages[3]="Vraťte se na základnu"
+Messages[3]=""
 ; EN: Messages[4]="Touch your flag to score"
-Messages[4]="Dotkněte se své vlajky a skórujte"
+Messages[4]=""
 ; EN: Messages[5]="Translocating will drop the flag"
-Messages[5]="Přemístěním se vlajka shodí"
+Messages[5]=""
 ; EN: Messages[6]="Default capture limit is 3"
-Messages[6]="Výchozí limit zachycení je 3"
+Messages[6]=""
 ; EN: Messages[7]="Good luck!"
-Messages[7]="Hodně štěstí!"
+Messages[7]=""
 
 [ActionMessage_DM]
 ; EN: Messages[0]="Deathmatch"
-Messages[0]="Zápas na život a na smrt"
+Messages[0]=""
 ; EN: Messages[1]="Press fire to spawn"
-Messages[1]="Stisknutím ohně se spustíte"
+Messages[1]=""
 ; EN: Messages[2]="Weapons have two firing modes"
-Messages[2]="Zbraně mají dva režimy střelby"
+Messages[2]=""
 ; EN: Messages[3]="Regular and alternate fire"
-Messages[3]="Pravidelný a střídavý oheň"
+Messages[3]=""
 ; EN: Messages[4]="Assault Rifle"
-Messages[4]="Útočná puška"
+Messages[4]=""
 ; EN: Messages[5]="Fires bullets and grenades"
-Messages[5]="Střílí kulky a granáty"
+Messages[5]=""
 ; EN: Messages[6]="Shield Gun"
-Messages[6]="Štítová zbraň"
+Messages[6]=""
 ; EN: Messages[7]="Melee attack"
-Messages[7]="Útok nablízko"
+Messages[7]=""
 ; EN: Messages[8]="Protective Shield"
-Messages[8]="Ochranný štít"
+Messages[8]=""
 ; EN: Messages[9]="Explore to find other weapons"
-Messages[9]="Prozkoumejte a najděte další zbraně"
-Messages[10]="Flak Cannon"
+Messages[9]=""
+; EN: Messages[10]="Flak Cannon"
+Messages[10]=""
 ; EN: Messages[11]="Bio-Rifle"
-Messages[11]="Bio-puška"
-Messages[12]="Minigun"
+Messages[11]=""
+; EN: Messages[12]="Minigun"
+Messages[12]=""
 ; EN: Messages[13]="Movement"
-Messages[13]="Hnutí"
+Messages[13]=""
 ; EN: Messages[14]="WASD = Default movement keys"
-Messages[14]="WASD = Výchozí pohybové klávesy"
+Messages[14]=""
 ; EN: Messages[15]="Double tap a key to dodge"
-Messages[15]="Dvojitým klepnutím na klávesu se vyhnete"
+Messages[15]=""
 ; EN: Messages[16]="Jumping"
-Messages[16]="Skákání"
+Messages[16]=""
 ; EN: Messages[17]="Double jump"
-Messages[17]="Dvojitý skok"
+Messages[17]=""
 ; EN: Messages[18]="Powerups"
-Messages[18]="Vylepšení"
+Messages[18]=""
 ; EN: Messages[19]="Health vials"
-Messages[19]="Zdravotní lahvičky"
+Messages[19]=""
 ; EN: Messages[20]="Health pack"
-Messages[20]="Zdravotní balíček"
+Messages[20]=""
 ; EN: Messages[21]="Big Keg O' Health"
-Messages[21]="Velký soudek O' Health"
+Messages[21]=""
 ; EN: Messages[22]="Armor"
-Messages[22]="Zbroj"
-Messages[23]="Shield Pack"
+Messages[22]=""
+; EN: Messages[23]="Shield Pack"
+Messages[23]=""
 ; EN: Messages[24]="Super Shield Pack"
-Messages[24]="Balíček Super Shield Pack"
+Messages[24]=""
 ; EN: Messages[25]="Adrenaline"
-Messages[25]="Adrenalin"
+Messages[25]=""
 ; EN: Messages[26]="Adrenaline can be used for combos"
-Messages[26]="Adrenalin lze použít pro komba"
+Messages[26]=""
 ; EN: Messages[27]="Damage Amplifier"
-Messages[27]="Poškození zesilovače"
+Messages[27]=""
 ; EN: Messages[28]="Reach the frag limit first!"
-Messages[28]="Nejprve dosáhněte limitu fragmentů!"
+Messages[28]=""
 ; EN: Messages[29]="Suicides count against you"
-Messages[29]="Sebevraždy jsou proti vám"
+Messages[29]=""
 ; EN: Messages[30]="Good luck!"
-Messages[30]="Hodně štěstí!"
+Messages[30]=""
 
 [ActionMessage_DOM]
 ; EN: Messages[0]="Double Domination"
-Messages[0]="Dvojitá nadvláda"
+Messages[0]=""
 ; EN: Messages[1]="Control points : A & B"
-Messages[1]="Kontrolní body: A a B"
+Messages[1]=""
 ; EN: Messages[2]="Hold points for 10 seconds"
-Messages[2]="Držte body po dobu 10 sekund"
+Messages[2]=""
 ; EN: Messages[3]="Touch point to take control"
-Messages[3]="Dotykový bod pro převzetí kontroly"
+Messages[3]=""
 ; EN: Messages[4]="Good luck!"
-Messages[4]="Hodně štěstí!"
+Messages[4]=""
 
 [ActionMessage_SubTitle]
 Delays[0]=4.000000
@@ -211,230 +214,231 @@ Delays[29]=0.000000
 Delays[30]=0.000000
 Delays[31]=0.000000
 ; EN: Messages[0]="How do I look?"
-Messages[0]="Jak vypadám?"
+Messages[0]=""
 ; EN: Messages[1]="Not as good as me baby..."
-Messages[1]="Ne tak dobrý jako já, zlato..."
+Messages[1]=""
 ; EN: Messages[2]="Well fans here we are for another edition of the bloodiest sport in the Galaxy. A tournament where the winners become gods and the losers pay the ultimate price!"
-Messages[2]="Fanoušci, tady jsme u dalšího vydání nejkrvavějšího sportu v Galaxii. Turnaj, kde se vítězové stanou bohy a poražení zaplatí nejvyšší cenu!"
+Messages[2]=""
 ; EN: Messages[3]="THERE THEY ARE! Once they were rivals, but now they're one of the fiercest teams around."
-Messages[3]="TAM JSOU! Kdysi byli rivalové, ale nyní jsou jedním z nejdivočejších týmů."
+Messages[3]=""
 ; EN: Messages[4]="That's right. Nothing beats experience and each one of these three brings loads of it to the table."
-Messages[4]="To je správně. Nic se nevyrovná zkušenostem a každý z těchto tří jich přináší na stůl spoustu."
+Messages[4]=""
 ; EN: Messages[5]="Look at Malcolm! Now there's a guy who can really keep his cool in a fire-fight."
-Messages[5]="Podívejte se na Malcolma! Teď je tu chlápek, který se v přestřelce dokáže pořádně chovat."
+Messages[5]=""
 ; EN: Messages[6]="That Brock. He's as dangerous to the ladies OUT-side the ring as he is to his foes IN-side!"
-Messages[6]="Ten Brock. Je stejně nebezpečný pro dámy MIMO ring, jako je nebezpečný pro své nepřátele uvnitř!"
+Messages[6]=""
 ; EN: Messages[7]="I love watching Lauren. She's such a little....bundle of energy."
-Messages[7]="Rád se dívám na Lauren. Je to takový malý....uzlíček energie."
+Messages[7]=""
 ; EN: Messages[8]="Yeah right.....you like watching Lauren for her energy."
-Messages[8]="Jo jasně...rád se díváš na Lauren kvůli její energii."
+Messages[8]=""
 ; EN: Messages[9]="This time he's MINE!!"
-Messages[9]="Tentokrát je MŮJ!!"
+Messages[9]=""
 ; EN: Messages[10]="AAGGGHHHHRRRR"
-Messages[10]="AAGGGHHHHRRRRR"
+Messages[10]=""
 ; EN: Messages[11]="You d'man Gorge! You rock! Yeah baby, com'on, now, you d'man dude!"
-Messages[11]="Ty bože Gorge! Válíš! Jo, zlato, no tak, ty vole!"
-Messages[12]="MAAAALLLCOOOOOMMM!"
+Messages[11]=""
+; EN: Messages[12]="MAAAALLLCOOOOOMMM!"
+Messages[12]=""
 ; EN: Messages[13]="Oh, man, did you see that?"
-Messages[13]="Oh, člověče, viděl jsi to?"
+Messages[13]=""
 ; EN: Messages[14]="I tell you Jim, that Gorge, he just has no respect for his fans."
-Messages[14]="Říkám ti Jime, ten Gorge, on prostě nemá úctu ke svým fanouškům."
+Messages[14]=""
 ; EN: Messages[15]="Well, I think he is still pissed about that new scar on his face, courtesy of Malcolm in their last match."
-Messages[15]="No, myslím, že je pořád naštvaný kvůli té nové jizvě na obličeji, s laskavým svolením Malcolma v jejich posledním zápase."
+Messages[15]=""
 ; EN: Messages[16]="Yea, I think he is looking for a little PAYBACK."
-Messages[16]="Ano, myslím, že hledá trochu ODPLATNOSTI."
+Messages[16]=""
 ; EN: Messages[17]="Yep, it should be a good one tonight."
-Messages[17]="Jo, dnes večer by to mělo být dobré."
+Messages[17]=""
 ; EN: Messages[18]="Since Malcolm's team are the reigning champs, they get to choose tonight's arena."
-Messages[18]="Vzhledem k tomu, že Malcolmův tým jsou vládnoucí šampioni, mohou si dnes večer vybrat arénu."
+Messages[18]=""
 ; EN: Messages[19]="Looks like it's gonna be... Kalendra Icefields."
-Messages[19]="Vypadá to, že to bude... Kalendra Icefields."
+Messages[19]=""
 ; EN: Messages[20]="Awww Yeah, I love this arena, Malcolm does really well here."
-Messages[20]="Awww Jo, miluju tuhle arénu, Malcolmovi se tu opravdu daří."
+Messages[20]=""
 ; EN: Messages[21]="Tonight's match oughta be a real blood-bath."
-Messages[21]="Dnešní zápas by měl být opravdovou krvavou lázní."
+Messages[21]=""
 
 [Action_CHANGELEVEL]
 ; EN: ActionString="Change level"
-ActionString="Změňte úroveň"
+ActionString=""
 
 [Action_CHANGESCRIPT]
 ; EN: ActionString="Change script"
-ActionString="Změnit skript"
+ActionString=""
 
 [Action_CHANGETEAM]
 ; EN: ActionString="Change Team"
-ActionString="Změnit tým"
+ActionString=""
 
 [Action_CROUCH]
 ; EN: ActionString="crouch"
-ActionString="přikrčit se"
+ActionString=""
 
 [Action_ConsoleCommand]
 ; EN: ActionString="console command"
-ActionString="konzolový příkaz"
+ActionString=""
 
 [Action_DAMAGEINSTIGATOR]
 ; EN: ActionString="Damage instigator"
-ActionString="Podněcovatel poškození"
+ActionString=""
 
 [Action_DESTROYPAWN]
 ; EN: ActionString="destroy pawn"
-ActionString="zničit pěšce"
+ActionString=""
 
 [Action_DISPLAYMESSAGE]
 ; EN: ActionString="display message"
-ActionString="zobrazit zprávu"
+ActionString=""
 
 [Action_DrawHUDMaterial]
 ; EN: ActionString="draw HUD texture"
-ActionString="nakreslete texturu HUD"
+ActionString=""
 
 [Action_ENDSECTION]
 ; EN: ActionString="end section"
-ActionString="koncový úsek"
+ActionString=""
 
 [Action_FADEVIEW]
 ; EN: ActionString="fade view"
-ActionString="slábnout pohled"
+ActionString=""
 
 [Action_GOTOACTION]
 ; EN: ActionString="go to action"
-ActionString="jít do akce"
+ActionString=""
 
 [Action_IFCONDITION]
 ; EN: ActionString="If condition"
-ActionString="Pokud podmínka"
+ActionString=""
 
 [Action_KILLINSTIGATOR]
-; EN: ActionString="Damage instigator"
-ActionString="Podněcovatel poškození"
+; EN: ActionString="Kill instigator"
+ActionString=""
 
 [Action_LEAVESEQUENCE]
 ; EN: ActionString="leave sequence"
-ActionString="opustit sekvenci"
+ActionString=""
 
 [Action_MOVETOPLAYER]
 ; EN: ActionString="Move to player"
-ActionString="Přesunout do přehrávače"
+ActionString=""
 
 [Action_MOVETOPOINT]
 ; EN: ActionString="Move to point"
-ActionString="Přesuňte se k bodu"
+ActionString=""
 
 [Action_PLAYAMBIENTSOUND]
 ; EN: ActionString="play ambient sound"
-ActionString="přehrávat okolní zvuk"
+ActionString=""
 
 [Action_PLAYANIM]
 ; EN: ActionString="play animation"
-ActionString="přehrát animaci"
+ActionString=""
 
 [Action_PLAYANNOUNCEMENT]
 ; EN: ActionString="play announcement"
-ActionString="hrát oznámení"
+ActionString=""
 
 [Action_PLAYLOCALSOUND]
-; EN: ActionString="play sound"
-ActionString="přehrát zvuk"
+; EN: ActionString="play local sound"
+ActionString=""
 
 [Action_PLAYMUSIC]
 ; EN: ActionString="play song"
-ActionString="hrát píseň"
+ActionString=""
 
 [Action_PLAYSOUND]
 ; EN: ActionString="play sound"
-ActionString="přehrát zvuk"
+ActionString=""
 
 [Action_RUN]
 ; EN: ActionString="Run"
-ActionString="Běh"
+ActionString=""
 
 [Action_SETALERTNESS]
 ; EN: ActionString="set alertness"
-ActionString="nastavit bdělost"
+ActionString=""
 
 [Action_SETVIEWTARGET]
 ; EN: ActionString="set viewtarget"
-ActionString="nastavit cíl zobrazení"
+ActionString=""
 
 [Action_STOPANIMATION]
 ; EN: ActionString="stop animation"
-ActionString="zastavit animaci"
+ActionString=""
 
 [Action_TRIGGEREVENT]
 ; EN: ActionString="trigger event"
-ActionString="spouštěcí událost"
+ActionString=""
 
 [Action_TURNTOWARDPLAYER]
 ; EN: ActionString="Turn toward player"
-ActionString="Otočte se směrem k hráči"
+ActionString=""
 
 [Action_WAITFORANIMEND]
 ; EN: ActionString="Wait for animend"
-ActionString="Počkejte na animend"
+ActionString=""
 
 [Action_WAITFOREVENT]
 ; EN: ActionString="Wait for external event"
-ActionString="Počkejte na externí událost"
+ActionString=""
 
 [Action_WAITFORPLAYER]
 ; EN: ActionString="Wait for player"
-ActionString="Počkejte na hráče"
+ActionString=""
 
 [Action_WAITFORTIMER]
 ; EN: ActionString="Wait for timer"
-ActionString="Počkejte na časovač"
+ActionString=""
 
 [Action_WALK]
 ; EN: ActionString="walk"
-ActionString="Procházka"
+ActionString=""
 
 [Burned]
 ; EN: DeathString="%o was sauteed."
-DeathString="%o bylo orestováno."
+DeathString=""
 
 [Corroded]
 ; EN: DeathString="%o was dissolved by %k's."
-DeathString="%o bylo rozpuštěno %k's."
+DeathString=""
 ; EN: FemaleSuicide="%o dissolved in slime."
-FemaleSuicide="%o rozpuštěno ve slizu."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o dissolved in slime."
-MaleSuicide="%o rozpuštěno ve slizu."
+MaleSuicide=""
 
 [Counter]
 ; EN: CountMessage="Only %i more to go..."
-CountMessage="Zbývá už jen %i..."
+CountMessage=""
 ; EN: CompleteMessage="Completed!"
-CompleteMessage="Hotovo!"
+CompleteMessage=""
 
 [Depressurized]
 ; EN: DeathString="%o was depressurized by %k."
-DeathString="%o bylo odtlakováno pomocí %k."
+DeathString=""
 ; EN: FemaleSuicide="%o was depressurized."
-FemaleSuicide="%o byl odtlakován."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o was depressurized."
-MaleSuicide="%o byl odtlakován."
+MaleSuicide=""
 
 [Drowned]
 ; EN: DeathString="%o forgot to come up for air."
-DeathString="%o zapomněl přijít na vzduch."
+DeathString=""
 ; EN: FemaleSuicide="%o forgot to come up for air."
-FemaleSuicide="%o zapomněl přijít na vzduch."
+FemaleSuicide=""
 ; EN: MaleSuicide="%o forgot to come up for air."
-MaleSuicide="%o zapomněl přijít na vzduch."
+MaleSuicide=""
 
 [MessageTextureClient]
 ; EN: HisMessage="his"
-HisMessage="jeho"
+HisMessage=""
 ; EN: HerMessage="her"
-HerMessage="její"
+HerMessage=""
 
 [ScriptedAction]
 ; EN: ActionString="unspecified action"
-ActionString="nespecifikovaná akce"
+ActionString=""
 
 [WaterVolume]
 ; EN: LocationName="under water"
-LocationName="pod vodou"
+LocationName=""
 

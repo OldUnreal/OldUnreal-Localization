@@ -4,4 +4,4 @@ Preferences=(Caption="OpenAL 3D",Parent="Audio",Class=ALAudio.ALAudioSubsystem,I
 
 [ALAudioSubsystem]
 ; EN: ClassCaption="OpenAL 3D"
-ClassCaption="OpenAL 3D"
+ClassCaption=""

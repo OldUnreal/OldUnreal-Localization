@@ -1,34 +1,34 @@
 ﻿[LevelInfo0]
 ; EN: Title="Primeval"
-Title="Urtida"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Primeval"
-Title="Urtida"
+Title=""
 ; EN: Description="Nestled away in the darkness of the Primeval Forest, this Onslaught arena is a favorite of loggers and treehuggers alike."
-Description="Inbäddat i mörkret i Urskogen är denna Onslaught-arena en favorit bland både skogshuggare och trädkramare."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Red Base"
-LocationName="Röd bas"
+LocationName=""
 
 [Volume2]
-; EN: LocationName="Red Side Base"
-LocationName="Röd sidobas"
+; EN: LocationName="Red Side Base (1)"
+LocationName=" (1)"
 
 [Volume3]
-; EN: LocationName="Center Node"
-LocationName="Centernod"
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
 
 [Volume4]
-; EN: LocationName="Blue Side Base"
-LocationName="Blå sidobas"
+; EN: LocationName="Blue Side Base (2)"
+LocationName=" (2)"
 
 [Volume5]
 ; EN: LocationName="Blue Base"
-LocationName="Blå bas"
+LocationName=""
 
 [ZoneInfo0]
-; EN: LocationName="Wandering in the woods"
-LocationName="Vandrar i skogen"
+; EN: LocationName="Wandering in the Woods"
+LocationName=""
 

@@ -1,28 +1,30 @@
 ﻿[LevelInfo0]
-Title="Rankin"
+; EN: Title="Rankin"
+Title=""
 
 [LevelSummary]
-Title="Rankin"
+; EN: Title="Rankin"
+Title=""
 ; EN: Description="A medium sized map set in an old industrial building, in the middle of a heavy thunderstorm."
-Description="Středně velká mapa zasazená do staré průmyslové budovy uprostřed silné bouřky."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Factory Area 2"
-LocationName="Oblast továrny 2"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Factory Area 1"
-LocationName="Oblast továrny 1"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Flak Room"
-LocationName="Pokoj Flak"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Amp Area"
-LocationName="Oblast zesilovače"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Basement"
-LocationName="Suterén"
+LocationName=""
 

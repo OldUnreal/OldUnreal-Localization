@@ -3,4 +3,5 @@ Object=(Name=ALAudio.ALAudioSubsystem,Class=Class,MetaClass=Engine.AudioSubsyste
 Preferences=(Caption="OpenAL 3D",Parent="Audio",Class=ALAudio.ALAudioSubsystem,Immediate=True)
 
 [ALAudioSubsystem]
-ClassCaption="OpenAL 3D"
+; EN: ClassCaption="OpenAL 3D"
+ClassCaption=""

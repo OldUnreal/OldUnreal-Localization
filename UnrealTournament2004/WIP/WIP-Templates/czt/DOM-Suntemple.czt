@@ -1,84 +1,88 @@
 ﻿[LevelInfo0]
 ; EN: Title="Sun Temple"
-Title="Chrám Slunce"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Sun Temple"
-Title="Chrám Slunce"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="Open Ground"
-LocationName="Otevřená půda"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Chodby domu B"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Dom B Upper Room"
-LocationName="Horní pokoj Dom B"
+LocationName=""
 
 [ZoneInfo12]
-LocationName="Dom Point B"
+; EN: LocationName="Dom Point B"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A chodby"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A chodby"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Dom A Entryway"
-LocationName="Vstup Dom A"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Dom A Upper Room"
-LocationName="Dom A Horní Místnost"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Dom A Upper Room"
-LocationName="Dom A Horní Místnost"
+LocationName=""
 
 [ZoneInfo18]
-LocationName="Dom A Courtyard"
+; EN: LocationName="Dom A Courtyard"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Dom B Entryway"
-LocationName="Vstup do domu B"
+LocationName=""
 
 [ZoneInfo23]
-LocationName="Dom Point A"
+; EN: LocationName="Dom Point A"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Dom B Upper Room"
-LocationName="Horní pokoj Dom B"
+LocationName=""
 
 [ZoneInfo3]
-LocationName="Central Jump Room"
+; EN: LocationName="Central Jump Room"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Dom B Courtyard"
-LocationName="Nádvoří domu B"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Chodby domu B"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Chodby domu B"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A chodby"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Dom A Hallways"
-LocationName="Dom A chodby"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Dom B Hallways"
-LocationName="Chodby domu B"
+LocationName=""
 

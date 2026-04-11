@@ -1,116 +1,122 @@
 ﻿[LevelInfo0]
 ; EN: Title="Absolute Zero"
-Title="Absolutt null"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Absolute Zero"
-Title="Absolutt null"
+Title=""
 ; EN: Description="Absolute Zero was initially constructed as a scientific outpost to study glacial drift. Over the years, global warming and massive earth tremors nearly shook the base off of its foundation. The researchers and scientists were hastily evacuated and Liandri quickly purchased the base for the Tournament. The warm reception given to you by your team may help offset the sub-zero temperatures, but don't get too comfortable, your foes have something much colder in store for you..."
-Description="Absolute Zero ble opprinnelig konstruert som en vitenskapelig utpost for å studere bredrift. Gjennom årene har global oppvarming og massive jordskjelv nesten ristet bunnen av grunnlaget. Forskerne og forskerne ble raskt evakuert og Liandri kjøpte raskt basen for turneringen. Den varme mottakelsen du får av teamet ditt kan hjelpe deg med å oppveie minusgrader, men ikke bli for komfortabel, fiendene dine har noe mye kaldere i vente for deg..."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Red Lower Generator Room"
-LocationName="Rødt nedre generatorrom"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Lower Generator Room"
-LocationName="Blå nedre generatorrom"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Blue Lower Hall"
-LocationName="Blå nedre hall"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Red Lower Hall"
-LocationName="Rød nedre hall"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rom med rødt flagg"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Rom med blått flagg"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Blue Upper Hall A-Side"
-LocationName="Blå Øvre Hall A-Side"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Blue Upper Hall B-Side"
-LocationName="Blå øvre hall B-side"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Blue Flag Stairs"
-LocationName="Blått Flagg Trapper"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Red Upper Hall A-Side"
-LocationName="Rød øvre hall A-side"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="Red Upper Hall B-Side"
-LocationName="Rød øvre hall B-side"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="Red Flag Stairs"
-LocationName="Red Flag Trapper"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Blue Upper Generator Room"
-LocationName="Blå øvre generatorrom"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Red Upper Hall"
-LocationName="Rød øvre hall"
+LocationName=""
 
 [Volume21]
 ; EN: LocationName="Blue Upper Hall"
-LocationName="Blå Øvre Hall"
+LocationName=""
 
 [Volume23]
-LocationName="Ion Painter Bridge"
+; EN: LocationName="Ion Painter Bridge"
+LocationName=""
 
 [Volume24]
-LocationName="Redeemer Bridge"
+; EN: LocationName="Redeemer Bridge"
+LocationName=""
 
 [Volume25]
-LocationName="Blue Sniper Tower: Redeemer Side"
+; EN: LocationName="Blue Sniper Tower: Redeemer Side"
+LocationName=""
 
 [Volume26]
-LocationName="Blue Sniper Tower: Painter Side"
+; EN: LocationName="Blue Sniper Tower: Painter Side"
+LocationName=""
 
 [Volume27]
-LocationName="Red Sniper Tower: Redeemer Side"
+; EN: LocationName="Red Sniper Tower: Redeemer Side"
+LocationName=""
 
 [Volume28]
-LocationName="Red Sniper Tower: Painter Side"
+; EN: LocationName="Red Sniper Tower: Painter Side"
+LocationName=""
 
 [Volume29]
 ; EN: LocationName="Blue Outside"
-LocationName="Blå utside"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Red Upper Generator Room"
-LocationName="Rød øvre generatorrom"
+LocationName=""
 
 [Volume30]
 ; EN: LocationName="Red Outside"
-LocationName="Rød utenfor"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Red Lower Hall B-Side"
-LocationName="Rød nedre hall B-side"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Red Lower Hall A-Side"
-LocationName="Rød nedre hall A-side"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Blue Lower Hall B-Side"
-LocationName="Blå nedre hall B-side"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Blue Lower Hall A-Side"
-LocationName="Blå Nedre Hall A-Side"
+LocationName=""
 

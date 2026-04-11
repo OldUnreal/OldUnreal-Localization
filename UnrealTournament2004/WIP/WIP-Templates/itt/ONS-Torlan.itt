@@ -1,51 +1,66 @@
 ﻿[LevelInfo0]
-Title="Torlan"
+; EN: Title="Torlan"
+Title=""
 
 [LevelSummary]
-Title="Torlan"
+; EN: Title="Torlan"
+Title=""
 ; EN: Description="Set on the dried outskirts of a lush jungle continent, two factions clash in fierce combat for control of a major communications tower and its adjacent power supply. With the dam holding back the waters from the nearby jungle, the dried out riverbed running across the battlefield allows for an easy attack route into enemy territory and could provide a decisive victor with ownership of the enormous Comm-tower as the reward."
-Description="Ambientato nella periferia arida di una lussureggiante giungla continentale, due fazioni si scontrano in aspri combattimenti per il controllo di un'importante torre di comunicazione e della sua vicina fonte di energia. Con la diga che trattiene le acque dalla vicina giungla, il letto del fiume prosciugato che attraversa il campo di battaglia consente un facile percorso di attacco nel territorio nemico e potrebbe fornire a un vincitore decisivo la proprietà dell'enorme torre di comunicazione come ricompensa."
+Description=""
+
+[Volume0]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Central Canyon"
-LocationName="Canyon centrale"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Central Canyon"
-LocationName="Canyon centrale"
+LocationName=""
 
 [Volume12]
-; EN: LocationName="Unspecified"
-LocationName="Non specificato"
+; EN: LocationName="Red Prime Node (2)"
+LocationName=" (2)"
 
 [Volume13]
-LocationName="Tower Bridge"
+; EN: LocationName="Tower Bridge"
+LocationName=""
+
+[Volume14]
+; EN: LocationName="Center Node (3)"
+LocationName=" (3)"
+
+[Volume2]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Tower"
-LocationName="Torre Blu"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Red Tower"
-LocationName="Torre Rossa"
+LocationName=""
 
 [Volume6]
-; EN: LocationName="Unspecified"
-LocationName="Non specificato"
+; EN: LocationName="Red Goliath Node (1)"
+LocationName=" (1)"
 
 [Volume7]
-; EN: LocationName="Unspecified"
-LocationName="Non specificato"
+; EN: LocationName="Blue Goliath Node (5)"
+LocationName=" (5)"
 
 [Volume8]
-; EN: LocationName="Unspecified"
-LocationName="Non specificato"
+; EN: LocationName="Blue Prime Node (4)"
+LocationName=" (4)"
 
 [Volume9]
 ; EN: LocationName="Central Tower"
-LocationName="Torre Centrale"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Al di fuori"
+LocationName=""
 

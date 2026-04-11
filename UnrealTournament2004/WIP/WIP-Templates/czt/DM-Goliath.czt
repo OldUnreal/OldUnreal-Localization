@@ -1,52 +1,54 @@
 ﻿[LevelInfo0]
 ; EN: Title="Goliath"
-Title="Goliáš"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Goliath"
-Title="Goliáš"
+Title=""
 ; EN: Description="High above Calaban VII, Goliath class orbital power stations provide the thriving colonies below with both power and protection.  Virtually immune to small arms fire, the platforms have become popular staging arenas for the tournaments.  Occasional radiation leakage has resulted in arenas that are not only entertaining, but self-cleaning too."
-Description="Vysoko nad Calabanem VII poskytují orbitální elektrárny třídy Goliath prosperujícím koloniím pod nimi jak sílu, tak ochranu. Platformy, které jsou prakticky imunní vůči palbě z ručních zbraní, se staly oblíbenými arénami pro pořádání turnajů. Občasný únik radiace vyústil v arény, které jsou nejen zábavné, ale také samočisticí."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Secret Rooftop Platform"
-LocationName="Tajná střešní platforma"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Sneaky Lowgrav Quadjump Spot"
-LocationName="Záludný Lowgrav Quadjump Spot"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Shock Rifle Room"
-LocationName="Místnost pro šokovou pušku"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Udamage Spawn Hall"
+; EN: LocationName="Double Damage Spawn Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Minigun Room"
-LocationName="Místnost pro minigun"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Health Vial Spawn Hall"
-LocationName="Potěrová hala zdravotní lahvičky"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Lightning Gun Big Room"
-LocationName="Lightning Gun Velký pokoj"
+LocationName=""
 
 [ZoneInfo5]
-LocationName="Super Shield Spawn Hall"
+; EN: LocationName="Super Shield Spawn Hall"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Lightning Gun Big Room"
-LocationName="Lightning Gun Velký pokoj"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Lower Mid Halls"
-LocationName="Dolní střední haly"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Upper Mid Halls"
-LocationName="Horní střední haly"
+LocationName=""
 

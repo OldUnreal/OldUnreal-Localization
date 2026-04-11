@@ -1,248 +1,258 @@
 ﻿[LevelInfo0]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelInfo12]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelInfo6]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 
 [LevelSummary]
-Title="Grendelkeep"
+; EN: Title="Grendelkeep"
+Title=""
 ; EN: Description="Prieth Callas was a hard, cruel man, fond of torturing his enemies before sending them to their deaths. He raised creatures of great size and ferocity, setting them against his prisoners in arenas of his own creation. Grendelkeep is the last of his diabolical constructions, left to fall into ruin after Callas was dragged from the battlements by his own men and fed to the creatures he bred in the dark kennels below. The rain has washed away the blood, but the evil that bred here has left a much deeper stain."
-Description="Prieth Callas kemény, kegyetlen ember volt, szerette megkínozni ellenségeit, mielőtt a halálba küldte őket. Nagy méretű és vad lényeket nevelt fel, és saját alkotta arénákon állította őket foglyai ellen. Grendelkeep az utolsó ördögi építménye, amely romba dőlt, miután Callas-t saját emberei kirángatták a falakból, és megetették azokkal a lényekkel, akiket a lenti sötét kennelekben tenyésztett. Az eső elmosta a vért, de az itt szaporodó gonosz sokkal mélyebb foltot hagyott maga után."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="BLUE Main Room"
-LocationName="KÉK Főterem"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Center"
-LocationName="Központ"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="BLUE Main Hall"
-LocationName="KÉK Főcsarnok"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="BLUE Lower Flak Hall"
-LocationName="KÉK Alsó Flak Csarnok"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="BLUE Lower Hall"
-LocationName="KÉK Alsó terem"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="BLUE Base"
-LocationName="KÉK alap"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="BLUE Spawn"
-LocationName="KÉK Spawn"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="BLUE Spawn"
-LocationName="KÉK Spawn"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="BLUE Main Room"
-LocationName="KÉK Főterem"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Great Room Hall"
-LocationName="Nagyterem Hall"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Nagy Amp Hall"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Felső rakétaterem"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Felső rakétaterem"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Felső rakétaterem"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini terem"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini terem"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Great Tower"
-LocationName="Nagy Torony"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="BLUE Main Room"
-LocationName="KÉK Főterem"
+LocationName=""
 
 [ZoneInfo40]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Great Room Hall"
-LocationName="Nagyterem Hall"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Lower Flak Hall"
-LocationName="Alsó Flak Hall"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Great Room Hall"
-LocationName="Nagyterem Hall"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="RED Lower Flak Hall"
-LocationName="RED Alsó Flak Hall"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Great Room Hall"
-LocationName="Nagyterem Hall"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Great Amp Hall"
-LocationName="Nagy Amp Hall"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="BLUE Spawn"
-LocationName="KÉK Spawn"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="RED Main Room"
-LocationName="PIROS főszoba"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="RED Main Room"
-LocationName="PIROS főszoba"
+LocationName=""
 
 [ZoneInfo52]
-; EN: LocationName="RED BASE"
-LocationName="PIROS ALAP"
+; EN: LocationName="RED Base"
+LocationName=""
 
 [ZoneInfo53]
-LocationName="RED Spawn"
+; EN: LocationName="RED Spawn"
+LocationName=""
 
 [ZoneInfo54]
-LocationName="RED Spawn"
+; EN: LocationName="RED Spawn"
+LocationName=""
 
 [ZoneInfo55]
-LocationName="RED Spawn"
+; EN: LocationName="RED Spawn"
+LocationName=""
 
 [ZoneInfo56]
 ; EN: LocationName="RED Sniper Hall"
-LocationName="VÖRÖS Sniper Csarnok"
+LocationName=""
 
 [ZoneInfo57]
 ; EN: LocationName="RED Sniper Hall"
-LocationName="VÖRÖS Sniper Csarnok"
+LocationName=""
 
 [ZoneInfo58]
 ; EN: LocationName="RED round stairs"
-LocationName="PIROS kerek lépcsők"
+LocationName=""
 
 [ZoneInfo59]
 ; EN: LocationName="Center"
-LocationName="Központ"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="BLUE Sniper Hall"
-LocationName="KÉK Sniper Csarnok"
+LocationName=""
 
 [ZoneInfo60]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Felső rakétaterem"
+LocationName=""
 
 [ZoneInfo61]
 ; EN: LocationName="RED Main Hall"
-LocationName="VÖRÖS Főterem"
+LocationName=""
 
 [ZoneInfo62]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Felső rakétaterem"
+LocationName=""
 
 [ZoneInfo64]
 ; EN: LocationName="RED Lower Hall"
-LocationName="VÖRÖS alsó terem"
+LocationName=""
 
 [ZoneInfo65]
 ; EN: LocationName="RED Main Room"
-LocationName="PIROS főszoba"
+LocationName=""
 
 [ZoneInfo66]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo67]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo68]
 ; EN: LocationName="Upper Rocket Hall"
-LocationName="Felső rakétaterem"
+LocationName=""
 
 [ZoneInfo69]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini terem"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="BLUE Sniper Hall"
-LocationName="KÉK Sniper Csarnok"
+LocationName=""
 
 [ZoneInfo70]
 ; EN: LocationName="Mini Hall"
-LocationName="Mini terem"
+LocationName=""
 
 [ZoneInfo72]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo73]
-LocationName="Sniper Nest"
+; EN: LocationName="Sniper Nest"
+LocationName=""
 
 [ZoneInfo74]
 ; EN: LocationName="Great Room Hall"
-LocationName="Nagyterem Hall"
+LocationName=""
 
 [ZoneInfo76]
 ; EN: LocationName="Great Room Hall"
-LocationName="Nagyterem Hall"
+LocationName=""
 
 [ZoneInfo77]
 ; EN: LocationName="Great Room"
-LocationName="Nagy szoba"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="BLUE Round Stairs"
-LocationName="KÉK Kerek lépcsők"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Center"
-LocationName="Központ"
+LocationName=""
 

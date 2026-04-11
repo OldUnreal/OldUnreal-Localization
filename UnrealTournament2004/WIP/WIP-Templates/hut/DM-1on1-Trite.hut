@@ -1,29 +1,30 @@
 ﻿[LevelInfo0]
 ; EN: Title="Trite"
-Title="Elcsépelt"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Trite"
-Title="Elcsépelt"
+Title=""
 ; EN: Description="Watch your back and stay alert in this abandoned facility or you may end up as cold as the steel which surrounds you..."
-Description="Vigyázzon a hátára, és legyen éber ebben az elhagyott létesítményben, különben olyan hideg lesz, mint az acél, amely körülvesz..."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Flak Area"
-LocationName="Flak terület"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="UDamage Area"
-LocationName="UDamage terület"
+; EN: LocationName="Double Damage Area"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Shield Room"
-LocationName="Pajzs szoba"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Sniper Rifle Area"
-LocationName="Mesterlövész puska terület"
+LocationName="
 
 [ZoneInfo4]
-LocationName="Shock Rifle Hall"
+; EN: LocationName="Shock Rifle Hall"
+LocationName=""
 

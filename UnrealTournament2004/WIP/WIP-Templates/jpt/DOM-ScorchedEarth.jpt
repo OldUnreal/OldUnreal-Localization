@@ -1,84 +1,80 @@
 ﻿[LevelInfo0]
 ; EN: Title="Scorched Earth"
-Title="焦土作戦"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Scorched Earth"
-Title="焦土作戦"
+Title=""
 
 [PhysicsVolume0]
 ; EN: LocationName="Blue Spawn"
-LocationName="ブルースポーン"
+LocationName=""
 
 [PhysicsVolume1]
 ; EN: LocationName="Red Spawn"
-LocationName="レッドスポーン"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Inside Center"
-LocationName="インサイドセンター"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Back Hallway B"
-LocationName="裏廊下B"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Outside"
-LocationName="外"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Inside Center"
-LocationName="インサイドセンター"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Spawn Blue"
-LocationName="スポーンブルー"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Front Hallway A"
-LocationName="正面廊下A"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Front Hallway A"
-LocationName="正面廊下A"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Room A"
-LocationName="部屋A"
-
-[ZoneInfo2]
-; EN: LocationName="Skybox"
-LocationName="スカイボックス"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Back Hallway A"
-LocationName="裏廊下A"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Inside Center"
-LocationName="インサイドセンター"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Inside Center"
-LocationName="インサイドセンター"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Inside Center"
-LocationName="インサイドセンター"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Front Hallway B"
-LocationName="フロント廊下B"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Spawn Red"
-LocationName="スポーンレッド"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Front Hallway B"
-LocationName="フロント廊下B"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Room B"
-LocationName="ルームB"
+LocationName=""
 

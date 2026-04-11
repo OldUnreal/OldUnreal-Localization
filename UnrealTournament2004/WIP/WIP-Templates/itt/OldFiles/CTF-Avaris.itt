@@ -1,0 +1,228 @@
+﻿[LevelInfo0]
+Title="Avaris"
+
+[LevelSummary]
+Title="Avaris"
+; EN: Description="Once the capital of a mighty empire, Avaris now lies empty, abandoned to the relentless elements of the desert.  Those who die here in the Tournament share the same fate."
+Description="Un tempo capitale di un potente impero, Avaris ora giace vuota, abbandonata agli elementi implacabili del deserto. Coloro che muoiono qui nel Torneo condividono la stessa sorte."
+
+[ZoneInfo0]
+; EN: LocationName="Blue Left Antechamber"
+LocationName="Anticamera Sinistra Blu"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Courtyard"
+LocationName="Cortile Blu"
+
+[ZoneInfo10]
+; EN: LocationName="Blue Main Hall"
+LocationName="Sala principale blu"
+
+[ZoneInfo11]
+; EN: LocationName="Red Right Antechamber"
+LocationName="Anticamera Destra Rossa"
+
+[ZoneInfo12]
+; EN: LocationName="Red Left Antechamber (Destroyed)"
+LocationName="Anticamera sinistra rossa (distrutta)"
+
+[ZoneInfo13]
+; EN: LocationName="Red Flag Base"
+LocationName="Base bandiera rossa"
+
+[ZoneInfo15]
+; EN: LocationName="Courtyard Building"
+LocationName="Edificio del cortile"
+
+[ZoneInfo16]
+; EN: LocationName="Red Right Entrance"
+LocationName="Entrata Destra Rossa"
+
+[ZoneInfo17]
+; EN: LocationName="Courtyard Building"
+LocationName="Edificio del cortile"
+
+[ZoneInfo18]
+; EN: LocationName="Red Left Entrance"
+LocationName="Ingresso Rosso Sinistro"
+
+[ZoneInfo19]
+; EN: LocationName="Red Main Hall"
+LocationName="Sala Principale Rossa"
+
+[ZoneInfo2]
+; EN: LocationName="Blue Flag Base"
+LocationName="Base Bandiera Blu"
+
+[ZoneInfo20]
+; EN: LocationName="Blue Left Entrance"
+LocationName="Entrata Sinistra Blu"
+
+[ZoneInfo21]
+; EN: LocationName="Red Right Passages"
+LocationName="Passaggi a destra rossi"
+
+[ZoneInfo22]
+; EN: LocationName="Red Right Courtyard"
+LocationName="Cortile destro rosso"
+
+[ZoneInfo23]
+; EN: LocationName="Blue Flag Base"
+LocationName="Base Bandiera Blu"
+
+[ZoneInfo24]
+; EN: LocationName="Blue Flag Base"
+LocationName="Base Bandiera Blu"
+
+[ZoneInfo27]
+; EN: LocationName="Blue Left Side"
+LocationName="Lato sinistro blu"
+
+[ZoneInfo28]
+; EN: LocationName="Courtyard Building"
+LocationName="Edificio del cortile"
+
+[ZoneInfo29]
+; EN: LocationName="Central Courtyard"
+LocationName="Cortile Centrale"
+
+[ZoneInfo3]
+; EN: LocationName="Central Area"
+LocationName="Zona Centrale"
+
+[ZoneInfo30]
+; EN: LocationName="Blue Right Entrance"
+LocationName="Entrata destra blu"
+
+[ZoneInfo31]
+; EN: LocationName="Central Area"
+LocationName="Zona Centrale"
+
+[ZoneInfo32]
+; EN: LocationName="Blue Left Staircase"
+LocationName="Scala sinistra blu"
+
+[ZoneInfo33]
+; EN: LocationName="Blue Right Antechamber"
+LocationName="Anticamera destra blu"
+
+[ZoneInfo34]
+; EN: LocationName="Red Left Staircase"
+LocationName="Scala rossa sinistra"
+
+[ZoneInfo35]
+; EN: LocationName="Central Area"
+LocationName="Zona Centrale"
+
+[ZoneInfo36]
+; EN: LocationName="Red Right Staircase"
+LocationName="Scala destra rossa"
+
+[ZoneInfo37]
+; EN: LocationName="Blue Flag Base"
+LocationName="Base Bandiera Blu"
+
+[ZoneInfo38]
+; EN: LocationName="Red Flag Base"
+LocationName="Base bandiera rossa"
+
+[ZoneInfo39]
+; EN: LocationName="Red Flag Base"
+LocationName="Base bandiera rossa"
+
+[ZoneInfo42]
+; EN: LocationName="Red Courtyard"
+LocationName="Cortile Rosso"
+
+[ZoneInfo43]
+; EN: LocationName="Courtyard Building"
+LocationName="Edificio del cortile"
+
+[ZoneInfo44]
+; EN: LocationName="Blue Left Side"
+LocationName="Lato sinistro blu"
+
+[ZoneInfo45]
+; EN: LocationName="Blue Right Antechamber"
+LocationName="Anticamera destra blu"
+
+[ZoneInfo46]
+; EN: LocationName="Blue Right Antechamber"
+LocationName="Anticamera destra blu"
+
+[ZoneInfo47]
+; EN: LocationName="Blue Flag Base"
+LocationName="Base Bandiera Blu"
+
+[ZoneInfo48]
+; EN: LocationName="Blue Right Antechamber"
+LocationName="Anticamera destra blu"
+
+[ZoneInfo49]
+; EN: LocationName="Red Right Side"
+LocationName="Rosso Lato Destro"
+
+[ZoneInfo5]
+; EN: LocationName="Red Left Courtyard"
+LocationName="Cortile sinistro rosso"
+
+[ZoneInfo50]
+; EN: LocationName="Blue Right Side"
+LocationName="Lato destro blu"
+
+[ZoneInfo51]
+; EN: LocationName="Blue Flag Base"
+LocationName="Base Bandiera Blu"
+
+[ZoneInfo52]
+; EN: LocationName="Blue Flag Base"
+LocationName="Base Bandiera Blu"
+
+[ZoneInfo53]
+; EN: LocationName="Red Flag Base"
+LocationName="Base bandiera rossa"
+
+[ZoneInfo54]
+; EN: LocationName="Red Flag Base"
+LocationName="Base bandiera rossa"
+
+[ZoneInfo55]
+; EN: LocationName="Blue Right Side"
+LocationName="Lato destro blu"
+
+[ZoneInfo56]
+; EN: LocationName="Central Area"
+LocationName="Zona Centrale"
+
+[ZoneInfo57]
+; EN: LocationName="Central Area"
+LocationName="Zona Centrale"
+
+[ZoneInfo59]
+; EN: LocationName="Red Right Side"
+LocationName="Rosso Lato Destro"
+
+[ZoneInfo6]
+; EN: LocationName="Blue Right Staircase"
+LocationName="Scala destra blu"
+
+[ZoneInfo61]
+; EN: LocationName="Red Left Side"
+LocationName="Lato sinistro rosso"
+
+[ZoneInfo62]
+; EN: LocationName="Red Left Side"
+LocationName="Lato sinistro rosso"
+
+[ZoneInfo7]
+; EN: LocationName="Blue Left Antechamber"
+LocationName="Anticamera Sinistra Blu"
+
+[ZoneInfo8]
+; EN: LocationName="Blue Left Antechamber"
+LocationName="Anticamera Sinistra Blu"
+
+[ZoneInfo9]
+; EN: LocationName="Central Courtyard"
+LocationName="Cortile Centrale"
+

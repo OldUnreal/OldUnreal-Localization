@@ -1,102 +1,102 @@
 ﻿[LevelInfo0]
 ; EN: Title="Metallurgy"
-Title="冶金"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Metallurgy"
-Title="冶金"
+Title=""
 ; EN: Description="Separating the fast from the slow, the strong from the weak, the skilled from the incompetent - Metallurgy will test your mettle."
-Description="速いものを遅いものから、強いものを弱いものから、熟練したものを無能なものから分離する-冶金学はあなたの気力をテストします。"
+Description=""
 
 [Volume0]
 ; EN: LocationName="Near the fuel tanker"
-LocationName="燃料タンカーの近く"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Outside the molten metal cascade"
-LocationName="溶融金属カスケードの外側"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Beneath the ducts of molten metal"
-LocationName="溶融金属のダクトの下"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Between the pillars"
-LocationName="柱の間"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Between the pillars"
-LocationName="柱の間"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Second floor deck"
-LocationName="2階デッキ"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Second floor deck"
-LocationName="2階デッキ"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Second floor deck"
-LocationName="2階デッキ"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="First floor deck"
-LocationName="1階デッキ"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="First floor deck"
-LocationName="1階デッキ"
+LocationName=""
 
 [Volume18]
 ; EN: LocationName="First floor deck"
-LocationName="1階デッキ"
+LocationName=""
 
 [Volume19]
 ; EN: LocationName="On the roof"
-LocationName="屋上"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southern exterior"
-LocationName="南部の外観"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Western exterior"
-LocationName="ウエスタンエクステリア"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Northern exterior"
-LocationName="北の外観"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Northern exterior"
-LocationName="北の外観"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Northern exterior"
-LocationName="北の外観"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Northern exterior"
-LocationName="北の外観"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Communication tower"
-LocationName="通信塔"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Above the ducts of molten metal"
-LocationName="溶融金属のダクトの上"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Molten metal cascade"
-LocationName="溶融金属カスケード"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Interior atrium"
-LocationName="インテリアアトリウム"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Interior ground floor"
-LocationName="インテリア1階"
+LocationName=""
 

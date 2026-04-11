@@ -1,53 +1,54 @@
 ﻿[LevelInfo0]
 ; EN: Title="Goliath"
-Title="Golia"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Goliath"
-Title="Golia"
+Title=""
 ; EN: Description="High above Calaban VII, Goliath class orbital power stations provide the thriving colonies below with both power and protection.  Virtually immune to small arms fire, the platforms have become popular staging arenas for the tournaments.  Occasional radiation leakage has resulted in arenas that are not only entertaining, but self-cleaning too."
-Description="Al di sopra di Calaban VII, le centrali elettriche orbitali di classe Goliath forniscono energia e protezione alle fiorenti colonie sottostanti. Praticamente immuni al fuoco delle armi di piccolo calibro, le piattaforme sono diventate popolari arene per i tornei. La fuoriuscita occasionale di radiazioni ha prodotto arene che non sono solo divertenti, ma anche autopulenti."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Secret Rooftop Platform"
-LocationName="Piattaforma segreta sul tetto"
+LocationName=""
 
 [Volume1]
-LocationName="Sneaky Lowgrav Quadjump Spot"
+; EN: LocationName="Sneaky Lowgrav Quadjump Spot"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Shock Rifle Room"
-LocationName="Stanza del fucile d'assalto"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="Udamage Spawn Hall"
-LocationName="Sala di generazione di Udamage"
+; EN: LocationName="Double Damage Spawn Hall"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Minigun Room"
-LocationName="Stanza mitragliatrice"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Health Vial Spawn Hall"
-LocationName="Sala di generazione delle fiale della salute"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Lightning Gun Big Room"
-LocationName="Sala grande della pistola a fulmine"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Super Shield Spawn Hall"
-LocationName="Sala di generazione del Super Scudo"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Lightning Gun Big Room"
-LocationName="Sala grande della pistola a fulmine"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Lower Mid Halls"
-LocationName="Sale medio-basse"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Upper Mid Halls"
-LocationName="Sale medio alte"
+LocationName=""
 

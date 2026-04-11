@@ -1,32 +1,32 @@
 ﻿[LevelInfo0]
 ; EN: Title="Maul"
-Title="モール"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Maul"
-Title="モール"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Blue Side"
-LocationName="ブルーサイド"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red Side"
-LocationName="レッドサイド"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Red Base"
-LocationName="レッドベース"
+LocationName=""
 
 [Volume3]
 ; EN: LocationName="Blue Base"
-LocationName="ブルーベース"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Roof"
-LocationName="青い屋根"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Roof"
-LocationName="赤い屋根"
+LocationName=""
 

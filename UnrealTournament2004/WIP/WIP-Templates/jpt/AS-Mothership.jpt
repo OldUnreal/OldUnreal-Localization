@@ -15,476 +15,477 @@ Message="1..."
 
 [Counter0]
 ; EN: CompleteMessage="Core Vents opened!"
-CompleteMessage="コアベントがオープンしました！"
+CompleteMessage=""
 
 [Counter2]
 ; EN: CompleteMessage="Energy Shield deactivated!!!"
-CompleteMessage="エネルギーシールドが無効になりました!!!"
+CompleteMessage=""
 
 [Counter3]
 ; EN: CompleteMessage="Doors and lower force field deactivated"
-CompleteMessage="ドアと下部力場が非アクティブ化"
+CompleteMessage=""
 
 [Counter4]
 ; EN: CompleteMessage="Core conductors destroyed!!!"
-CompleteMessage="コア導体が破壊されました!!!"
+CompleteMessage=""
 
 [Counter5]
 ; EN: CompleteMessage="Loading bay force field deactivated!"
-CompleteMessage="ローディングベイフォースフィールドが非アクティブ化されました！"
+CompleteMessage=""
 
 [Counter6]
 ; EN: CompleteMessage="Top force fields deactivated!"
-CompleteMessage="トップフォースフィールドが非アクティブ化されました！"
+CompleteMessage=""
 
 [DestroyVehicleObjective0]
 ; EN: ObjectiveName="Sentinels turrets"
-ObjectiveName="センチネルタレット"
+ObjectiveName=""
 ; EN: DestructionMessage="Sentinel destroyed!"
-DestructionMessage="センチネルが破壊されました！"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy sentinel turrets"
-ObjectiveDescription="歩哨砲塔を破壊する"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy sentinel"
-Objective_Info_Attacker="歩哨を破壊する"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend sentinel"
-Objective_Info_Defender="番兵を守る"
+Objective_Info_Defender=""
 
 [DestroyVehicleObjective1]
 ; EN: ObjectiveName="Sentinels turrets"
-ObjectiveName="センチネルタレット"
+ObjectiveName=""
 ; EN: DestructionMessage="Sentinel destroyed!"
-DestructionMessage="センチネルが破壊されました！"
+DestructionMessage=""
 ; EN: LocationPrefix="lowerhull"
-LocationPrefix="下部船体"
+LocationPrefix=""
 ; EN: ObjectiveDescription="Destroy sentinel turrets"
-ObjectiveDescription="歩哨砲塔を破壊する"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy sentinel"
-Objective_Info_Attacker="歩哨を破壊する"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend sentinel"
-Objective_Info_Defender="番兵を守る"
+Objective_Info_Defender=""
 
 [DestroyVehicleObjective2]
 ; EN: ObjectiveName="Sentinels turrets"
-ObjectiveName="センチネルタレット"
+ObjectiveName=""
 ; EN: DestructionMessage="Sentinel destroyed!"
-DestructionMessage="センチネルが破壊されました！"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy sentinel turrets"
-ObjectiveDescription="歩哨砲塔を破壊する"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy sentinel"
-Objective_Info_Attacker="歩哨を破壊する"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend sentinel"
-Objective_Info_Defender="番兵を守る"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM0]
 ; EN: ObjectiveName="Energy bypass"
-ObjectiveName="エネルギーバイパス"
+ObjectiveName=""
 ; EN: DestructionMessage="Destroyed energy bypass..."
-DestructionMessage="破壊されたエネルギーバイパス..."
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy laser field bypass"
-ObjectiveDescription="レーザーフィールドバイパスを破壊する"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy energy bypass"
-Objective_Info_Attacker="エネルギーバイパスを破壊する"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend energy bypass"
-Objective_Info_Defender="エネルギーバイパスを守る"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM1]
 ; EN: ObjectiveName="Upper shield generator"
-ObjectiveName="上部シールドジェネレータ"
+ObjectiveName=""
 ; EN: DestructionMessage="Shield Generator Destroyed"
-DestructionMessage="シールドジェネレーターが破壊されました"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy shield generators"
-ObjectiveDescription="シールドジェネレーターを破壊する"
-; EN: Objective_Info_Attacker="Destroy upper shield generator "
-Objective_Info_Attacker="上部シールドジェネレーターを破壊する "
-; EN: Objective_Info_Defender="Defend upper shield generator "
-Objective_Info_Defender="上部シールドジェネレーターを守る "
+ObjectiveDescription=""
+; EN: Objective_Info_Attacker="Destroy upper shield generator"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Defend upper shield generator"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM2]
 ; EN: ObjectiveName="Upper shield generator"
-ObjectiveName="上部シールドジェネレータ"
+ObjectiveName=""
 ; EN: DestructionMessage="Shield Generator Destroyed"
-DestructionMessage="シールドジェネレーターが破壊されました"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy shield generators"
-ObjectiveDescription="シールドジェネレーターを破壊する"
-; EN: Objective_Info_Attacker="Destroy upper shield generator "
-Objective_Info_Attacker="上部シールドジェネレーターを破壊する "
-; EN: Objective_Info_Defender="Defend upper shield generator "
-Objective_Info_Defender="上部シールドジェネレーターを守る "
+ObjectiveDescription=""
+; EN: Objective_Info_Attacker="Destroy upper shield generator"
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Defend upper shield generator"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM3]
 ; EN: ObjectiveName="Lower shield generator"
-ObjectiveName="下部シールドジェネレータ"
+ObjectiveName=""
 ; EN: DestructionMessage="Shield Generator Destroyed"
-DestructionMessage="シールドジェネレーターが破壊されました"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy lower shield generator"
-ObjectiveDescription="下部シールドジェネレーターを破壊する"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy lower shield generator"
-Objective_Info_Attacker="下部シールドジェネレーターを破壊する"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend lower shield generator "
-Objective_Info_Defender="下部シールドジェネレーターを守る "
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM4]
 ; EN: ObjectiveName="Core conductors..."
-ObjectiveName="コアコンダクター..."
+ObjectiveName=""
 ; EN: DestructionMessage="Conductor destroyed!!!"
-DestructionMessage="導体が破壊されました!!!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy core conductor"
-ObjectiveDescription="コア導体を破壊する"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the conductor"
-Objective_Info_Attacker="導体を破壊する"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the conductor"
-Objective_Info_Defender="指揮者を守る"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM5]
 ; EN: ObjectiveName="Energy bypass"
-ObjectiveName="エネルギーバイパス"
+ObjectiveName=""
 ; EN: DestructionMessage="Destroyed energy bypass..."
-DestructionMessage="破壊されたエネルギーバイパス..."
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy laser field bypass"
-ObjectiveDescription="レーザーフィールドバイパスを破壊する"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy energy bypass"
-Objective_Info_Attacker="エネルギーバイパスを破壊する"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend energy bypass"
-Objective_Info_Defender="エネルギーバイパスを守る"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM6]
 ; EN: ObjectiveName="Core conductors..."
-ObjectiveName="コアコンダクター..."
+ObjectiveName=""
 ; EN: DestructionMessage="Conductor destroyed!!!"
-DestructionMessage="導体が破壊されました!!!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy core conductor"
-ObjectiveDescription="コア導体を破壊する"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy the conductor"
-Objective_Info_Attacker="導体を破壊する"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend the conductor"
-Objective_Info_Defender="指揮者を守る"
+Objective_Info_Defender=""
 
 [HoldObjective0]
 ; EN: ObjectiveName="Core panels."
-ObjectiveName="コアパネル。"
+ObjectiveName=""
 ; EN: DestructionMessage="Hatch lock #1 released!"
-DestructionMessage="ハッチロック＃1がリリースされました！"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Core panels"
-ObjectiveDescription="コアパネル"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Use panel to unlock core hatch"
-Objective_Info_Attacker="パネルを使用してコアハッチのロックを解除します"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Stop any usage of the core panels"
-Objective_Info_Defender="コアパネルの使用を停止します"
+Objective_Info_Defender=""
 
 [HoldObjective1]
 ; EN: ObjectiveName="Core panels."
-ObjectiveName="コアパネル。"
+ObjectiveName=""
 ; EN: DestructionMessage="Hatch lock #2 released!"
-DestructionMessage="ハッチロック＃2がリリースされました！"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Core panels"
-ObjectiveDescription="コアパネル"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Use panel to unlock core hatch"
-Objective_Info_Attacker="パネルを使用してコアハッチのロックを解除します"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Stop any usage of the core panels"
-Objective_Info_Defender="コアパネルの使用を停止します"
+Objective_Info_Defender=""
 
 [InfoPod2]
 ; EN: POD_Message="Lower Inner Turrets"
-POD_Message="下部インナータレット"
+POD_Message=""
 
 [InfoPod3]
 ; EN: POD_Message="Link Cannon"
-POD_Message="リンクキャノン"
+POD_Message=""
 
 [InfoPod4]
 ; EN: POD_Message="Landing Bay Turrets"
-POD_Message="ランディングベイタレット"
+POD_Message=""
 
 [InfoPod5]
 ; EN: POD_Message="Top Inner Turrets"
-POD_Message="トップインナータレット"
+POD_Message=""
 
 [InfoPod6]
 ; EN: POD_Message="Top Outer Turrets"
-POD_Message="トップアウタータレット"
+POD_Message=""
 
 [InfoPod7]
 ; EN: POD_Message="Lower Outer Turrets"
-POD_Message="下部アウタータレット"
+POD_Message=""
 
 [InfoPod8]
 ; EN: POD_Message="Link Cannon"
-POD_Message="リンクキャノン"
+POD_Message=""
 
 [LevelInfo0]
 ; EN: Title="Mothership Assault"
-Title="母性暴行"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Mothership Assault"
-Title="母性暴行"
+Title=""
 ; EN: Description="First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali. Within a year the Skaarj had pushed humanity back to the brink of destruction. This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat. A Skaarj Mothership orbited the Earth, and rained death upon the planet in preparation for the final landing. In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the Mothership defenses their analysis had revealed."
-Description="Skaarjとの最初の接触は、ナパリの刑務所輸送業者VortexRikersの回復中に起こりました。 1年以内にSkaarjは人類を破壊の瀬戸際に押し戻しました。このシナリオは、地球のための最後の戦いと、ほぼ確実な敗北に直面した人間による見事な勝利を再現しています。 Skaarj母船は地球を周回し、最終的な着陸の準備のために惑星に死を降らせました。大胆な自殺任務で、人間は彼らの分析が明らかにした母船の防御の欠陥を利用することを望んで、小さな一人の戦闘機でスカージ母船を攻撃しました。"
+Description=""
 
 [MessageTrigger15]
 ; EN: Message="Prepare to attack!!!"
-Message="攻撃する準備をしてください!!!"
+Message=""
 
 [MessageTrigger17]
 ; EN: Message="Prepare the defense!!!"
-Message="防御を準備してください!!!"
+Message=""
 
 [ProximityObjective0]
-; EN: ObjectiveName="Landing bay"
-ObjectiveName="ランディングベイ"
+; EN: ObjectiveName="Landing Bay"
+ObjectiveName=""
 ; EN: DestructionMessage="Attackers have entered the MotherShip!"
-DestructionMessage="攻撃者がMotherShipに入りました！"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Enter Skaarj ship via landing bay"
-ObjectiveDescription="着陸湾からSkaarj船に入る"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Proceed to landing bay"
-Objective_Info_Attacker="着陸ベイに進みます"
-; EN: Objective_Info_Defender="Stop the humans from landing "
-Objective_Info_Defender="人間が着陸するのを止めます "
+Objective_Info_Attacker=""
+; EN: Objective_Info_Defender="Stop the humans from landing"
+Objective_Info_Defender=""
 
 [SceneSubtitles0]
-SubTitles=("First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali.        ","Within a year the Skaarj had pushed humanity back to the brink of destruction.","This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat.","A Skaarj mother ship orbited the Earth, and rained death upon the planet in preparation for the final landing.","In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the mother ship defenses their analysis had revealed.","Take down the generator within the lower section of the Skaarj mother ship to deactivate the top force fields.","Once completed head upwards into the main body of the Skaarj mother ship. ","Destroy the top generators to deactivate the shield for the landing bay.","Proceed and land in the mother ship landing bay.","Once on foot, proceed to the next section","Two energy bypass mechanisms will need to be destroyed to proceed to the cargo hull.","Past the bridge, the core awaits.","Once in the cargo hull three sentinels await.","The destruction of the sentinels is the only way to proceed forward.","The force fields deactivate once the three sentinels have been destroyed.","Passed the bridge and the core awaits.","Trigger the panels to open the hatch locks.","Once the panels have been triggered shoot the two energy core conductors in order to destabilize the core.")
+; EN: SubTitles=("First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali.        ","Within a year the Skaarj had pushed humanity back to the brink of destruction.","This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat.","A Skaarj mother ship orbited the Earth, and rained death upon the planet in preparation for the final landing.","In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the mother ship defenses their analysis had revealed.","Take down the generator within the lower section of the Skaarj mother ship to deactivate the top force fields.","Once completed head upwards into the main body of the Skaarj mother ship. ","Destroy the top generators to deactivate the shield for the landing bay.","Proceed and land in the mother ship landing bay.","Once on foot, proceed to the next section","Two energy bypass mechanisms will need to be destroyed to proceed to the cargo hull.","Past the bridge, the core awaits.","Once in the cargo hull three sentinels await.","The destruction of the sentinels is the only way to proceed forward.","The force fields deactivate once the three sentinels have been destroyed.","Passed the bridge and the core awaits.","Trigger the panels to open the hatch locks.","Once the panels have been triggered shoot the two energy core conductors in order to destabilize the core.")
+SubTitles=("","","","","","","","","","","","","","","","","","")
 
 [Trigger_ASMessageTrigger14]
 ; EN: Message="Force field down..."
-Message="フィールドを強制的に下げます..."
+Message=""
 
 [Trigger_ASMessageTrigger15]
 ; EN: Message="Unlock the Core!"
-Message="コアのロックを解除してください！"
+Message=""
 
 [Trigger_ASMessageTrigger3]
 ; EN: Message="Core hatches have been released..."
-Message="コアハッチがリリースされました..."
+Message=""
 
 [Trigger_ASMessageTrigger4]
 ; EN: Message="Top force fields down..."
-Message="トップフォースフィールドダウン..."
+Message=""
 
 [Trigger_ASMessageTrigger5]
 ; EN: Message="Attackers have landed!!!"
-Message="攻撃者が上陸しました!!!"
+Message=""
 
 [Trigger_ASMessageTrigger7]
 ; EN: Message="Attackers have entered the core!!!"
-Message="攻撃者がコアに入った!!!"
+Message=""
 
 [Trigger_ASMessageTrigger8]
 ; EN: Message="Core has been destabilized!"
-Message="コアが不安定になりました！"
+Message=""
 
 [Trigger_ASMessageTrigger9]
 ; EN: Message="Landing bay force field down"
-Message="ランディングベイフォースフィールドダウン"
+Message=""
 
 [ZoneInfo1]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="重力エンジン廊下右"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Energy generator #2"
-LocationName="エネルギー発生器＃2"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="The core"
-LocationName="コア"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Right shaft"
-LocationName="右シャフト"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Main middle shaft"
-LocationName="メインミドルシャフト"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Core exterior"
-LocationName="コアエクステリア"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Core exterior"
-LocationName="コアエクステリア"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Inner top shaft"
-LocationName="インナートップシャフト"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Core exterior"
-LocationName="コアエクステリア"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="In space"
-LocationName="宇宙で"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Lower cross path"
-LocationName="下のクロスパス"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Defender's bypass spawn"
-LocationName="ディフェンダーのバイパススポーン"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Defender's bypass spawn"
-LocationName="ディフェンダーのバイパススポーン"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Cargo hull"
-LocationName="貨物船体"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Cargo hull"
-LocationName="貨物船体"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Cargo hull"
-LocationName="貨物船体"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Cargo hull"
-LocationName="貨物船体"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Defender's bypass spawn"
-LocationName="ディフェンダーのバイパススポーン"
+LocationName=""
 
 [ZoneInfo28]
-; EN: LocationName="Space craft bay."
-LocationName="宇宙船ベイ。"
+; EN: LocationName="Space craft bay"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Cargo hull hallway"
-LocationName="貨物船体の廊下"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Lower section generator shaft"
-LocationName="下部発電機シャフト"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Elevator shaft"
-LocationName="エレベーターシャフト"
+LocationName=""
 
 [ZoneInfo31]
-; EN: LocationName="Elevator passage "
-LocationName="エレベーター通路 "
+; EN: LocationName="Elevator passage"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Cargo upper bridge left"
-LocationName="左の貨物上部橋"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Cargo upper bridge right"
-LocationName="右の貨物上部橋"
+LocationName=""
 
 [ZoneInfo34]
-; EN: LocationName="Elevator passage "
-LocationName="エレベーター通路 "
+; EN: LocationName="Elevator passage"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Energy bypass room"
-LocationName="エネルギーバイパス室"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Left hallway"
-LocationName="左の廊下"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Attackers landing bay"
-LocationName="攻撃者の着陸湾"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Right hallway"
-LocationName="右の廊下"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Top energy bypass entrance"
-LocationName="トップエネルギーバイパス入口"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Defender's Landing bay"
-LocationName="ディフェンダーズランディングベイ"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Core entrance"
-LocationName="コアエントランス"
+LocationName=""
 
 [ZoneInfo41]
 ; EN: LocationName="Core exterior"
-LocationName="コアエクステリア"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Core bridge passage left"
-LocationName="コアブリッジ通路左"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Gravity engine room #1"
-LocationName="重力エンジンルーム＃1"
+LocationName=""
 
 [ZoneInfo44]
 ; EN: LocationName="Gravity engine hallway left"
-LocationName="重力エンジンの廊下が左"
+LocationName=""
 
 [ZoneInfo45]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="重力エンジン廊下右"
+LocationName=""
 
 [ZoneInfo46]
 ; EN: LocationName="Gravity engine room #2"
-LocationName="重力エンジンルーム＃2"
+LocationName=""
 
 [ZoneInfo47]
 ; EN: LocationName="Core bridge passage right"
-LocationName="コアブリッジ通路右"
+LocationName=""
 
 [ZoneInfo48]
 ; EN: LocationName="Core bridge passage right"
-LocationName="コアブリッジ通路右"
+LocationName=""
 
 [ZoneInfo49]
 ; EN: LocationName="Cargo hull"
-LocationName="貨物船体"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Energy generator #1"
-LocationName="エネルギー発生器＃1"
+LocationName=""
 
 [ZoneInfo50]
 ; EN: LocationName="Cargo hull hallway"
-LocationName="貨物船体の廊下"
+LocationName=""
 
 [ZoneInfo51]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="重力エンジン廊下右"
+LocationName=""
 
 [ZoneInfo52]
 ; EN: LocationName="Core bridge passage left"
-LocationName="コアブリッジ通路左"
+LocationName=""
 
 [ZoneInfo53]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="重力エンジン廊下右"
+LocationName=""
 
 [ZoneInfo54]
 ; EN: LocationName="Gravity engine hallway right"
-LocationName="重力エンジン廊下右"
+LocationName=""
 
 [ZoneInfo55]
 ; EN: LocationName="Cargo hull hallway"
-LocationName="貨物船体の廊下"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Landing bay"
-LocationName="ランディングベイ"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="landing bay"
-LocationName="ランディングベイ"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Defender's Landing bay"
-LocationName="ディフェンダーズランディングベイ"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Left shaft"
-LocationName="左シャフト"
+LocationName=""
 

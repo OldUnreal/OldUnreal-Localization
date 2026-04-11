@@ -1,108 +1,108 @@
 ﻿[LevelInfo0]
 ; EN: Title="Facing Worlds 3"
-Title="Att möta världar 3"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Facing Worlds 3"
-Title="Att möta världar 3"
+Title=""
 
 [Volume0]
 ; EN: LocationName="Red Level 3"
-LocationName="Röd nivå 3"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Blue Level 3"
-LocationName="Blå nivå 3"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Red Shield"
-LocationName="Röd sköld"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Blue Shield"
-LocationName="Blå sköld"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Red Backdoor"
-LocationName="Röd bakdörr"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Blue Backdoor"
-LocationName="Blå bakdörr"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Blue Level 2"
-LocationName="Blå nivå 2"
+LocationName=""
 
 [Volume3]
-; EN: LocationName="Red Level2"
-LocationName="Röd nivå 2"
+; EN: LocationName="Red Level 2"
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Blue Flak"
-LocationName="Blå Flak"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Red Flak"
-LocationName="Röd Flak"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Blue Flak"
-LocationName="Blå Flak"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Blue Flak"
-LocationName="Blå Flak"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Red Flak"
-LocationName="Röd Flak"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Red Flak"
-LocationName="Röd Flak"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Base"
-LocationName="Blå bas"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Red Minigun"
-LocationName="Röd Minigun"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red Pillars"
-LocationName="Röda pelare"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Minigun"
-LocationName="Blå Minigun"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Minigun"
-LocationName="Blå Minigun"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Pillars"
-LocationName="Blå pelare"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Minigun"
-LocationName="Blå Minigun"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Outside"
-LocationName="Utanför"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Red Base"
-LocationName="Röd bas"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Minigun"
-LocationName="Röd Minigun"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Minigun"
-LocationName="Röd Minigun"
+LocationName=""
 

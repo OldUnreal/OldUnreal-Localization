@@ -1,14 +1,14 @@
 ﻿[ASCriticalObjectiveVolume2]
 ; EN: LocationName="Subway station entrance"
-LocationName="Ingång till tunnelbanestation"
+LocationName=""
 
 [ASCriticalObjectiveVolume3]
 ; EN: LocationName="Subway train"
-LocationName="Tunnelbanetåg"
+LocationName=""
 
 [ASCriticalObjectiveVolume4]
 ; EN: LocationName="Boarding station"
-LocationName="Ombordstigningsstation"
+LocationName=""
 
 [Action_DISPLAYMESSAGE0]
 Message="5..."
@@ -27,165 +27,167 @@ Message="1..."
 
 [DestroyableObjective_SM0]
 ; EN: ObjectiveName="Gate Lock"
-ObjectiveName="Portlås"
+ObjectiveName=""
 ; EN: DestructionMessage="Gate Lock Destroyed!"
-DestructionMessage="Portlås förstört!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy the gate Lock"
-ObjectiveDescription="Förstör grindlåset"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Gate Lock"
-Objective_Info_Attacker="Förstör grindlås"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend Gate Lock"
-Objective_Info_Defender="Försvara grindlås"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM1]
 ; EN: ObjectiveName="barricade"
-ObjectiveName="barrikad"
+ObjectiveName=""
 ; EN: DestructionMessage="barricade destroyed!"
-DestructionMessage="barrikaden förstörd!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy the barricade"
-ObjectiveDescription="Förstör barrikaden"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy barricade"
-Objective_Info_Attacker="Förstör barrikaden"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend barricade"
-Objective_Info_Defender="Försvara barrikaden"
+Objective_Info_Defender=""
 
 [DestroyableObjective_SM2]
 ; EN: ObjectiveName="Gate Lock"
-ObjectiveName="Portlås"
+ObjectiveName=""
 ; EN: DestructionMessage="Gate Lock Destroyed!"
-DestructionMessage="Portlås förstört!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Destroy the gate Lock"
-ObjectiveDescription="Förstör grindlåset"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Gate Lock"
-Objective_Info_Attacker="Förstör grindlås"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend Gate Lock"
-Objective_Info_Defender="Försvara grindlås"
+Objective_Info_Defender=""
 
 [HoldObjective0]
 ; EN: ObjectiveName="Explosive #2"
-ObjectiveName="Sprängämne #2"
+ObjectiveName=""
 ; EN: DestructionMessage="The explosives are in place!"
-DestructionMessage="Sprängämnena är på plats!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Plant an explosive"
-ObjectiveDescription="Plantera ett sprängämne"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Command Center"
-Objective_Info_Attacker="Förstör kommandocenter"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend Command Center"
-Objective_Info_Defender="Försvara kommandocenter"
+Objective_Info_Defender=""
 
 [HoldObjective1]
 ; EN: ObjectiveName="Forward outpost"
-ObjectiveName="Framåt utpost"
+ObjectiveName=""
 ; EN: DestructionMessage="Forward outpost taken!"
-DestructionMessage="Framåt utpost tagen!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Take the forward outpost "
-ObjectiveDescription="Ta den främre utposten "
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Secure forward outpost"
-Objective_Info_Attacker="Säker främre utpost"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend forward outpost"
-Objective_Info_Defender="Försvara den främre utposten"
+Objective_Info_Defender=""
 
 [HoldObjective2]
 ; EN: ObjectiveName="Explosive #1"
-ObjectiveName="Sprängämne #1"
+ObjectiveName=""
 ; EN: DestructionMessage="The explosives are in place!"
-DestructionMessage="Sprängämnena är på plats!"
+DestructionMessage=""
 ; EN: ObjectiveDescription="Plant an explosive"
-ObjectiveDescription="Plantera ett sprängämne"
+ObjectiveDescription=""
 ; EN: Objective_Info_Attacker="Destroy Command Center"
-Objective_Info_Attacker="Förstör kommandocenter"
+Objective_Info_Attacker=""
 ; EN: Objective_Info_Defender="Defend Command Center"
-Objective_Info_Defender="Försvara kommandocenter"
+Objective_Info_Defender=""
 
 [LevelInfo0]
 ; EN: Title="The Fallen City"
-Title="Den fallna staden"
+Title=""
 
 [LevelSummary]
 ; EN: Title="The Fallen City"
-Title="Den fallna staden"
-; EN: Description="Following the human/Skaarj war, many of Earth's cities lay in ruins.  When the New Earth Government attempted to assert its authority over these areas, they were confronted by many rebel groups, often covertly financed by the great corporations, which had established bases in the destroyed cities. This scenario recreates the destruction of a rebel command center by NEG forces. In keeping with the historical battle, the attacker's insertion point is a distance away from the command center, because of the heavy anti-aircraft protection around the bunker."
-Description="Efter kriget mellan människor och Skaarj låg många av jordens städer i ruiner. När New Earth-regeringen försökte hävda sin auktoritet över dessa områden, konfronterades de av många rebellgrupper, ofta i hemlighet finansierade av de stora företagen, som hade etablerat baser i de förstörda städerna. Detta scenario återskapar förstörelsen av en rebellledningscentral av NEG-styrkor. I enlighet med den historiska striden är angriparens instickspunkt ett avstånd från ledningscentralen på grund av det tunga luftvärnsskyddet runt bunkern."
+Title=""
+; EN: Description="Following the human/Skaarj war, many of Earth's cities lay in ruins.  When the New Earth Government attempted to assert its authority over these areas, they were confronted by many rebel groups, often covertly financed by the great corporations, which had established bases in the destroyed cities. This scenario recreates the destruction of a rebel command center by N.E.G. forces. In keeping with the historical battle, the attacker's insertion point is a distance away from the command center, because of the heavy anti-aircraft protection around the bunker."
+Description=""
 
 [SceneSubtitles1]
-SubTitles=("Following the human/Skaarj war, many of Earth's cities lay in ruins.  When the New Earth Government attempted to assert its authority over these areas,","they were confronted by many rebel groups, often covertly financed by the great corporations, which had established bases in the destroyed cities.","This scenario recreates the destruction of a rebel command center by NEG forces. ","In keeping with the historical battle, the attackers' insertion point is a distance away from the command center, because of the heavy anti-aircraft protection around the bunker. ","The attackers must first make their way through the streets on foot and clear out any resistance they find. They must destroy the barricade in order to proceed to the next objective.","Next, they must take out the forward outpost. When the area is clear, a shipment of heavier cargo will be dropped in to help you proceed.","The defenders are nestled deep within this hardened bunker. You will have to bypass the defenses and infiltrate the bunker to reach their command center.","Reach the underground command center and place explosives to destroy the entire base. This should bring the resistance to its knees.")
+; EN: SubTitles=("Following the human/Skaarj war, many of Earth's cities lay in ruins.  When the New Earth Government attempted to assert its authority over these areas,","they were confronted by many rebel groups, often covertly financed by the great corporations, which had established bases in the destroyed cities.","This scenario recreates the destruction of a rebel command center by N.E.G. forces. ","In keeping with the historical battle, the attackers' insertion point is a distance away from the command center, because of the heavy anti-aircraft protection around the bunker. ","The attackers must first make their way through the streets on foot and clear out any resistance they find. They must destroy the barricade in order to proceed to the next objective.","Next, they must take out the forward outpost. When the area is clear, a shipment of heavier cargo will be dropped in to help you proceed.","The defenders are nestled deep within this hardened bunker. You will have to bypass the defenses and infiltrate the bunker to reach their command center.","Reach the underground command center and place explosives to destroy the entire base. This should bring the resistance to its knees.")
+SubTitles=("","","","","","","","")
 
 [Trigger_ASMessageTrigger0]
 ; EN: Message="Bunker infiltrated!"
-Message="Bunker infiltrerade!"
+Message=""
 
 [Trigger_ASMessageTrigger2]
 ; EN: Message="Command center destroyed!"
-Message="Kommandocentralen förstörd!"
+Message=""
 
 [Trigger_ASMessageTrigger3]
 ; EN: Message="Explosives Set!!!"
-Message="Sprängämnen Set!!!"
+Message=""
 
 [Volume0]
 ; EN: LocationName="Forward outpost"
-LocationName="Framåt utpost"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Attackers drop zone"
-LocationName="Angripare fallområde"
+LocationName=""
 
 [Volume10]
 ; EN: LocationName="Stairs"
-LocationName="Trappa"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="Subway station lobby"
-LocationName="Tunnelbanestationens lobby"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Station roof"
-LocationName="Stationstak"
+LocationName=""
 
 [Volume13]
 ; EN: LocationName="Vents"
-LocationName="Ventiler"
+LocationName=""
 
 [Volume14]
 ; EN: LocationName="Subway train"
-LocationName="Tunnelbanetåg"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Subway tracks"
-LocationName="Tunnelbanespår"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Rebel look out"
-LocationName="Rebell titta ut"
+LocationName=""
 
 [Volume3]
-LocationName="Caudle Ave."
+; EN: LocationName="Caudle Ave."
+LocationName=""
 
 [Volume4]
 ; EN: LocationName="Attackers drop zone"
-LocationName="Angripare fallområde"
+LocationName=""
 
 [Volume5]
 ; EN: LocationName="Boarding station"
-LocationName="Ombordstigningsstation"
+LocationName=""
 
 [Volume6]
 ; EN: LocationName="Statue pass"
-LocationName="Staty pass"
+LocationName=""
 
 [Volume7]
 ; EN: LocationName="Statue pass"
-LocationName="Staty pass"
+LocationName=""
 
 [Volume8]
 ; EN: LocationName="Roman path way"
-LocationName="romersk väg väg"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Subway ticket stand"
-LocationName="Tunnelbanebiljettställ"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Destroyed city"
-LocationName="Förstörd stad"
+LocationName=""
 

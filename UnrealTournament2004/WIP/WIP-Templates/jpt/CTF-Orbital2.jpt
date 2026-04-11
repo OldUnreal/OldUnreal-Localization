@@ -1,118 +1,120 @@
 ﻿[LevelInfo0]
-Title="Orbital2"
+; EN: Title="Orbital2"
+Title=""
 
 [LevelSummary]
-Title="Orbital2"
+; EN: Title="Orbital2"
+Title=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Flag Room"
-LocationName="ブルーフラッグルーム"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue Flag Room"
-LocationName="ブルーフラッグルーム"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Middle Room"
-LocationName="ミドルルーム"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Minigun Halls"
-LocationName="ブルーミニガンホール"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Blue Lower Halls"
-LocationName="ブルーロワーホール"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Blue Upper Halls"
-LocationName="ブルーアッパーホール"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Blue Lower Halls"
-LocationName="ブルーロワーホール"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Linkgun Hall"
-LocationName="レッドリンクガンホール"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Upper Halls"
-LocationName="赤いアッパーホール"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Red Flag Room"
-LocationName="レッドフラッグルーム"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Upper Halls"
-LocationName="赤いアッパーホール"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Flak Room"
-LocationName="レッドフラックルーム"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Flag Room"
-LocationName="ブルーフラッグルーム"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Red Lower Halls"
-LocationName="赤い下のホール"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red Minigun Halls"
-LocationName="赤いミニガンホール"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Flag Room"
-LocationName="レッドフラッグルーム"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red Flag Room"
-LocationName="レッドフラッグルーム"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Red Flag Room"
-LocationName="レッドフラッグルーム"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Red Lower Halls"
-LocationName="赤い下のホール"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Red Upper Halls"
-LocationName="赤いアッパーホール"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Red Minigun Halls"
-LocationName="赤いミニガンホール"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Flag Room"
-LocationName="ブルーフラッグルーム"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Middle Room"
-LocationName="ミドルルーム"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Upper Halls"
-LocationName="ブルーアッパーホール"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Flak Room"
-LocationName="ブルーフラックルーム"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Blue Minigun Halls"
-LocationName="ブルーミニガンホール"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Blue Upper Halls"
-LocationName="ブルーアッパーホール"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Blue Upper Halls"
-LocationName="ブルーアッパーホール"
+LocationName=""
 

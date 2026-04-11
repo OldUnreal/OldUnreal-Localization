@@ -1,64 +1,66 @@
 ﻿[LevelInfo0]
-Title="HyperBlast2"
+; EN: Title="HyperBlast2"
+Title=""
 
 [LevelSummary]
-Title="HyperBlast2"
+; EN: Title="HyperBlast2"
+Title=""
 ; EN: Description="Thanks to Magnetic Anti-Vacuum Resonance technology, combatants are able to battle outside of Xan's 'HyperBlast' arena ship for an extended period of time. Use extreme caution though, one mistake and you'll find yourself floating in space."
-Description="Tack vare Magnetic Anti-Vacuum Resonance-teknik kan kombattanter slåss utanför Xans "HyperBlast" arenaskepp under en längre tid. Var dock extrem försiktig, ett misstag och du kommer att sväva i rymden."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="lower ventricle "
-LocationName="nedre ventrikeln "
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="port side ramp"
-LocationName="babords sidoramp"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="upper atrium"
-LocationName="övre förmak"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="port side interior"
-LocationName="babords insida"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="exterior"
-LocationName="exteriör"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="starboard moon hallway"
-LocationName="styrbords månehall"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="aft room"
-LocationName="akterrummet"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="starboard side ramp"
-LocationName="styrbords sidoramp"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="upper ventricle "
-LocationName="övre ventrikeln "
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="lower atrium"
-LocationName="nedre förmak"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="starboard side interior"
-LocationName="styrbords interiör"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="port moon hallway"
-LocationName="port moon hall"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="starboard side wing"
-LocationName="styrbords sidovinge"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="port side wing"
-LocationName="babords sidovinge"
+LocationName=""
 

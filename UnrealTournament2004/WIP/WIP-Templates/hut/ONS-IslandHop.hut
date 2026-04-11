@@ -1,130 +1,106 @@
 ﻿[LevelInfo0]
 ; EN: Title="Island Hop"
-Title="Sziget Hop"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Island Hop"
-Title="Sziget Hop"
+Title=""
 ; EN: Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
-Description="Ez a vulkáni szigetcsoport egykor átjáróként szolgált a 21. század emberi háborúiban. A versenyeken való használatra átalakítva egy sor híd köti össze a szigeteket. Ezek a hidak, bár kiválóan használhatók földi járművekhez, nem biztosítanak közvetlen utat a csatához. A Mantas lesz az elsődleges választás a szállításhoz."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Southwest Island"
-LocationName="Délnyugati sziget"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Southwest Island"
-LocationName="Délnyugati sziget"
+LocationName=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="West Island"
-LocationName="Nyugati sziget"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Northwest Island"
-LocationName="Északnyugati sziget"
+LocationName=""
+
+[Volume13]
+; EN: LocationName="Northwest Node (1)"
+LocationName=" (1)"
 
 [Volume14]
 ; EN: LocationName="Northwest Island"
-LocationName="Északnyugati sziget"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Northeast Island"
-LocationName="Északkeleti sziget"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Northeast Island"
-LocationName="Északkeleti sziget"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Northeast Island"
-LocationName="Északkeleti sziget"
+LocationName=""
+
+[Volume18]
+; EN: LocationName="Blue Prime Node (4)"
+LocationName=" (4)"
 
 [Volume19]
 ; EN: LocationName="East Island"
-LocationName="Keleti-sziget"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southwest Island"
-LocationName="Délnyugati sziget"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Small Northeast Island"
-LocationName="Kis északkeleti sziget"
+LocationName=""
+
+[Volume21]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="East Island"
-LocationName="Keleti-sziget"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Southeast Island"
-LocationName="Délkeleti sziget"
+LocationName=""
+
+[Volume24]
+; EN: LocationName="Southeast Node (3)"
+LocationName=" (3)"
 
 [Volume25]
 ; EN: LocationName="Southeast Island"
-LocationName="Délkeleti sziget"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Volcano"
-LocationName="Vulkán"
+LocationName=""
+
+[Volume3]
+; EN: LocationName="Red Prime Node (2)"
+LocationName=" (2)"
 
 [Volume5]
 ; EN: LocationName="West Island"
-LocationName="Nyugati sziget"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Small Southwest Island"
-LocationName="Kis délnyugati sziget"
-
-[WaterVolume1]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume18]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume19]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume20]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume23]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume24]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume25]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume26]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume27]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume28]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume3]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
-
-[WaterVolume31]
-; EN: LocationName="Under Water"
-LocationName="Viz alatti"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Kívül"
+LocationName=""
 

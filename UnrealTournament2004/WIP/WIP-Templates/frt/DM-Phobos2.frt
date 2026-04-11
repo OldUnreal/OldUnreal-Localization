@@ -1,120 +1,124 @@
 ﻿[LevelInfo0]
 ; EN: Title="Phobos Moon 2"
-Title="Phobos Lune 2"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Phobos Moon 2"
-Title="Phobos Lune 2"
+Title=""
 
 [Volume1]
-; EN: LocationName="LinkGun Room"
-LocationName="Salle LinkGun"
+; EN: LocationName="Link Gun Room"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Tower"
-LocationName="La tour"
+LocationName=""
 
 [ZoneInfo0]
 ; EN: LocationName="Space"
-LocationName="Espacer"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Minigun Corridor"
-LocationName="Couloir Minigun"
+LocationName=""
 
 [ZoneInfo10]
-; EN: LocationName="Minigun Room"
-LocationName="Chambre Minigun"
+; EN: LocationName="Rocket Launcher Room"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Minigun Corridor"
-LocationName="Couloir Minigun"
+LocationName=""
 
 [ZoneInfo12]
-; EN: LocationName="Rocket Corridor"
-LocationName="Couloir des fusées"
+; EN: LocationName="Bio Rifle Corridor"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Minigun Corridor"
-LocationName="Couloir Minigun"
+LocationName=""
 
 [ZoneInfo14]
-; EN: LocationName="ShockRifle Corridor"
-LocationName="Couloir ShockRifle"
+; EN: LocationName="Shock Rifle Corridor"
+LocationName=""
 
 [ZoneInfo15]
-LocationName="Central"
+; EN: LocationName="Central"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Sniper Room"
-LocationName="Salle de tireur d'élite"
+LocationName=""
 
 [ZoneInfo17]
-; EN: LocationName="SuperHealth Room"
-LocationName="Salle SuperSanté"
+; EN: LocationName="Super Health Room"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Sniper Corridor"
-LocationName="Couloir des tireurs d'élite"
+LocationName=""
 
 [ZoneInfo19]
-LocationName="Central"
+; EN: LocationName="Central"
+LocationName=""
 
 [ZoneInfo2]
-; EN: LocationName="SuperHealth Room"
-LocationName="Salle SuperSanté"
+; EN: LocationName="Super Health Room"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="Flak Corridor"
-LocationName="Couloir de la Flak"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Flak Corridor"
-LocationName="Couloir de la Flak"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Flak Corridor"
-LocationName="Couloir de la Flak"
+LocationName=""
 
 [ZoneInfo23]
-; EN: LocationName="ShockRifle Corridor"
-LocationName="Couloir ShockRifle"
+; EN: LocationName="Shock Rifle Corridor"
+LocationName=""
 
 [ZoneInfo24]
-LocationName="Central"
+; EN: LocationName="Central"
+LocationName=""
 
 [ZoneInfo25]
-; EN: LocationName="SuperShield Corridor"
-LocationName="Couloir SuperShield"
+; EN: LocationName="Shield Corridor"
+LocationName=""
 
 [ZoneInfo26]
-; EN: LocationName="Rocket Corridor"
-LocationName="Couloir des fusées"
+; EN: LocationName="Bio Rifle Corridor"
+LocationName=""
 
 [ZoneInfo3]
-; EN: LocationName="SuperHealth Room"
-LocationName="Salle SuperSanté"
+; EN: LocationName="Super Health Room"
+LocationName=""
 
-[ZoneInfo4]
-; EN: LocationName="SuperHealth Room"
-LocationName="Salle SuperSanté"
+[ZoneInfo4
+; EN: LocationName="Super Health Room"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="Rocket Corridor"
-LocationName="Couloir des fusées"
+; EN: LocationName="Bio Rifle Corridor"
+LocationName=""
 
 [ZoneInfo6]
-; EN: LocationName="LinkGun Room"
-LocationName="Salle LinkGun"
+; EN: LocationName="Link Gun Room"
+LocationName=""
 
 [ZoneInfo7]
-LocationName="Central"
+; EN: LocationName="Central"
+LocationName=""
 
 [ZoneInfo8]
-; EN: LocationName="ShockRifle Corridor"
-LocationName="Couloir ShockRifle"
+; EN: LocationName="Shock Rifle Corridor"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Flak Corridor"
-LocationName="Couloir de la Flak"
+LocationName=""
 

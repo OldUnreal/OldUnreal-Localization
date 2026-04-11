@@ -1,0 +1,126 @@
+﻿[LevelInfo0]
+; EN: Title="Curse4"
+Title="Maledizione4"
+
+[LevelSummary]
+; EN: Title="Curse4"
+Title="Maledizione4"
+; EN: Description="Feel the walls closing in on you? A little claustrophobia maybe? When the flak starts flying and the shock combos fill the air, as you find yourself backed into a corner by a relentless pursuer you'll come to learn the meaning of the word cursed."
+Description="Senti i muri chiudersi su di te? Forse un po' di claustrofobia? Quando la contraerea inizia a volare e le combo shock riempiono l'aria, mentre ti ritrovi messo all'angolo da un inseguitore implacabile, imparerai il significato della parola maledetto."
+
+[ZoneInfo0]
+; EN: LocationName="U- Damage Room"
+LocationName="U- Stanza dei danni"
+
+[ZoneInfo1]
+; EN: LocationName="Basement Hallway"
+LocationName="Corridoio del seminterrato"
+
+[ZoneInfo10]
+; EN: LocationName="Upper Atrium"
+LocationName="Atrio Superiore"
+
+[ZoneInfo11]
+; EN: LocationName="Flak Cannon Room"
+LocationName="Stanza del cannone antiproiettile"
+
+[ZoneInfo13]
+; EN: LocationName="Upper Atrium"
+LocationName="Atrio Superiore"
+
+[ZoneInfo14]
+; EN: LocationName="Upper Atrium"
+LocationName="Atrio Superiore"
+
+[ZoneInfo15]
+; EN: LocationName="Upper Atrium"
+LocationName="Atrio Superiore"
+
+[ZoneInfo16]
+; EN: LocationName="Minigun Room"
+LocationName="Stanza mitragliatrice"
+
+[ZoneInfo17]
+; EN: LocationName="Minigun Room"
+LocationName="Stanza mitragliatrice"
+
+[ZoneInfo18]
+; EN: LocationName="Upper Atrium"
+LocationName="Atrio Superiore"
+
+[ZoneInfo19]
+; EN: LocationName="Rocket Launcher Loft"
+LocationName="Loft lanciarazzi"
+
+[ZoneInfo2]
+; EN: LocationName="Basement Hallway"
+LocationName="Corridoio del seminterrato"
+
+[ZoneInfo20]
+; EN: LocationName="Upper Atrium"
+LocationName="Atrio Superiore"
+
+[ZoneInfo21]
+; EN: LocationName="Flak Cannon Room"
+LocationName="Stanza del cannone antiproiettile"
+
+[ZoneInfo22]
+; EN: LocationName="Flak Cannon Room"
+LocationName="Stanza del cannone antiproiettile"
+
+[ZoneInfo23]
+; EN: LocationName="U- Damage Room"
+LocationName="U- Stanza dei danni"
+
+[ZoneInfo24]
+; EN: LocationName="U- Damage Room"
+LocationName="U- Stanza dei danni"
+
+[ZoneInfo25]
+; EN: LocationName="Lightning Gun Hallway"
+LocationName="Corridoio della pistola a fulmine"
+
+[ZoneInfo26]
+; EN: LocationName="Lightning Gun Hallway"
+LocationName="Corridoio della pistola a fulmine"
+
+[ZoneInfo27]
+; EN: LocationName="Lightning Gun Hallway"
+LocationName="Corridoio della pistola a fulmine"
+
+[ZoneInfo28]
+; EN: LocationName="Lightning Gun Hallway"
+LocationName="Corridoio della pistola a fulmine"
+
+[ZoneInfo29]
+; EN: LocationName="U - Damage Room"
+LocationName="U - Stanza dei danni"
+
+[ZoneInfo3]
+; EN: LocationName="Dragon Heads Area"
+LocationName="Area delle teste di drago"
+
+[ZoneInfo4]
+; EN: LocationName="Lightning Gun Hallway"
+LocationName="Corridoio della pistola a fulmine"
+
+[ZoneInfo5]
+; EN: LocationName="Side Hallway"
+LocationName="Corridoio laterale"
+
+[ZoneInfo6]
+; EN: LocationName="Lightning Gun Hallway"
+LocationName="Corridoio della pistola a fulmine"
+
+[ZoneInfo7]
+; EN: LocationName="Flak Cannon Room"
+LocationName="Stanza del cannone antiproiettile"
+
+[ZoneInfo8]
+; EN: LocationName="Lightning Gun Hallway"
+LocationName="Corridoio della pistola a fulmine"
+
+[ZoneInfo9]
+; EN: LocationName="Middle Room"
+LocationName="Stanza di mezzo"
+

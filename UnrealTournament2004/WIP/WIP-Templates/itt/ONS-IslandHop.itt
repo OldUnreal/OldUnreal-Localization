@@ -1,130 +1,106 @@
 ﻿[LevelInfo0]
 ; EN: Title="Island Hop"
-Title="Isola Hop"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Island Hop"
-Title="Isola Hop"
+Title=""
 ; EN: Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
-Description="Questo arcipelago vulcanico un tempo fungeva da porta d'ingresso nelle guerre umane del 21° secolo. Trasformato per l'uso nei tornei, una serie di ponti ora collega le isole. Questi ponti, sebbene possano essere utilizzati in modo eccellente per i veicoli a terra, non forniscono un percorso diretto per la battaglia. Le mante saranno la scelta principale per il trasporto."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Southwest Island"
-LocationName="Isola del sud-ovest"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Southwest Island"
-LocationName="Isola del sud-ovest"
+LocationName=""
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName=""
 
 [Volume11]
 ; EN: LocationName="West Island"
-LocationName="Isola dell'ovest"
+LocationName=""
 
 [Volume12]
 ; EN: LocationName="Northwest Island"
-LocationName="Isola di nord-ovest"
+LocationName=""
+
+[Volume13]
+; EN: LocationName="Northwest Node (1)"
+LocationName=" (1)"
 
 [Volume14]
 ; EN: LocationName="Northwest Island"
-LocationName="Isola di nord-ovest"
+LocationName=""
 
 [Volume15]
 ; EN: LocationName="Northeast Island"
-LocationName="Isola di nord-est"
+LocationName=""
 
 [Volume16]
 ; EN: LocationName="Northeast Island"
-LocationName="Isola di nord-est"
+LocationName=""
 
 [Volume17]
 ; EN: LocationName="Northeast Island"
-LocationName="Isola di nord-est"
+LocationName=""
+
+[Volume18]
+; EN: LocationName="Blue Prime Node (4)"
+LocationName=" (4)"
 
 [Volume19]
 ; EN: LocationName="East Island"
-LocationName="Isola dell'Est"
+LocationName=""
 
 [Volume2]
 ; EN: LocationName="Southwest Island"
-LocationName="Isola del sud-ovest"
+LocationName=""
 
 [Volume20]
 ; EN: LocationName="Small Northeast Island"
-LocationName="Piccola isola del nord-est"
+LocationName=""
+
+[Volume21]
+; EN: LocationName="Blue Base"
+LocationName=""
 
 [Volume22]
 ; EN: LocationName="East Island"
-LocationName="Isola dell'Est"
+LocationName=""
 
 [Volume23]
 ; EN: LocationName="Southeast Island"
-LocationName="Isola del sud-est"
+LocationName=""
+
+[Volume24]
+; EN: LocationName="Southeast Node (3)"
+LocationName=" (3)"
 
 [Volume25]
 ; EN: LocationName="Southeast Island"
-LocationName="Isola del sud-est"
+LocationName=""
 
 [Volume26]
 ; EN: LocationName="Volcano"
-LocationName="Vulcano"
+LocationName=""
+
+[Volume3]
+; EN: LocationName="Red Prime Node (2)"
+LocationName=" (2)"
 
 [Volume5]
 ; EN: LocationName="West Island"
-LocationName="Isola dell'ovest"
+LocationName=""
 
 [Volume9]
 ; EN: LocationName="Small Southwest Island"
-LocationName="Piccola isola del sud-ovest"
-
-[WaterVolume1]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume18]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume19]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume20]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume23]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume24]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume25]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume26]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume27]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume28]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume3]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
-
-[WaterVolume31]
-; EN: LocationName="Under Water"
-LocationName="sott'acqua"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Outside"
-LocationName="Al di fuori"
+LocationName=""
 

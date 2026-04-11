@@ -1,68 +1,80 @@
 ﻿[LevelInfo0]
-; EN: Title="Domination Tutorial"
-Title="Tutoriel de domination"
+; EN: Title="Double Domination Tutorial"
+Title=""
 
 [LevelSummary]
-; EN: Title="Domination Tutorial"
-Title="Tutoriel de domination"
+; EN: Title="Double Domination Tutorial"
+Title=""
+
+[PhysicsVolume0]
+; EN: LocationName="Blue Spawn"
+LocationName=""
+
+[PhysicsVolume1]
+; EN: LocationName="Red Spawn"
+LocationName=""
 
 [ZoneInfo0]
-; EN: LocationName="InsideCenter"
-LocationName="Centre de l'intérieur"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo1]
-; EN: LocationName="BackHallway_B"
-LocationName="RetourHallway_B"
+; EN: LocationName="Back Hallway B"
+LocationName=""
 
 [ZoneInfo14]
 ; EN: LocationName="Outside"
-LocationName="À l'extérieur"
+LocationName=""
 
 [ZoneInfo15]
-; EN: LocationName="InsideCenter"
-LocationName="Centre de l'intérieur"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo16]
-; EN: LocationName="SpawnBlue"
-LocationName="SpawnBleu"
+; EN: LocationName="Spawn Blue"
+LocationName=""
 
 [ZoneInfo17]
-LocationName="FrontHallway_A"
+; EN: LocationName="Front Hallway A"
+LocationName=""
 
 [ZoneInfo18]
-LocationName="FrontHallway_A"
+; EN: LocationName="Front Hallway A"
+LocationName=""
 
 [ZoneInfo19]
-; EN: LocationName="Room_A"
-LocationName="Salle_A"
+; EN: LocationName="Room A"
+LocationName=""
 
 [ZoneInfo20]
-; EN: LocationName="BackHallway_A"
-LocationName="RetourHallway_A"
+; EN: LocationName="Back Hallway A"
+LocationName=""
 
 [ZoneInfo3]
-; EN: LocationName="InsideCenter"
-LocationName="Centre de l'intérieur"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo4]
-; EN: LocationName="InsideCenter"
-LocationName="Centre de l'intérieur"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo5]
-; EN: LocationName="InsideCenter"
-LocationName="Centre de l'intérieur"
+; EN: LocationName="Inside Center"
+LocationName=""
 
 [ZoneInfo6]
-LocationName="FrontHallway_B"
+; EN: LocationName="Front Hallway B"
+LocationName=""
 
 [ZoneInfo7]
-; EN: LocationName="SpawnRed"
-LocationName="SpawnRouge"
+; EN: LocationName="Spawn Red"
+LocationName=""
 
 [ZoneInfo8]
-LocationName="FrontHallway_B"
+; EN: LocationName="Front Hallway B"
+LocationName=""
 
 [ZoneInfo9]
-; EN: LocationName="Room_B"
-LocationName="Salle_B"
+; EN: LocationName="Room B"
+LocationName=""
 

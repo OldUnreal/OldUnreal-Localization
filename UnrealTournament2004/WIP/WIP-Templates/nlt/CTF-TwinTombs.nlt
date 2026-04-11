@@ -1,158 +1,158 @@
 ﻿[LevelInfo0]
 ; EN: Title="Twin Tombs"
-Title="Tweelinggraven"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Twin Tombs"
-Title="Tweelinggraven"
+Title=""
 ; EN: Description="Winter has fallen on the tombs and the dead are restless.  This elegant recreation of the twin tombs of brothers Ramses III and Rudamon has a reputation for speed, brutality, and treachery, just like the pharaohs interred within."
-Description="De winter is gevallen op de graven en de doden zijn rusteloos. Deze elegante recreatie van de tweelinggraven van de broers Ramses III en Rudamon staat bekend om zijn snelheid, brutaliteit en verraad, net als de farao's die erin begraven zijn."
+Description=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blauwe bovenste gang"
+LocationName=""
 
 [ZoneInfo1]
 ; EN: LocationName="Blue base"
-LocationName="Blauwe basis"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Red base"
-LocationName="Rode basis"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red lower hallway"
-LocationName="Rode onderste gang"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red jump pads"
-LocationName="Rode springkussens"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Blue jump pads"
-LocationName="Blauwe springkussens"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red upper hallway"
-LocationName="Rode bovenste gang"
+LocationName=""
 
 [ZoneInfo17]
 ; EN: LocationName="Red roof top"
-LocationName="Rood dak"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Blauwe lagere gang"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blauwe bovenste gang"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Outside Area"
-LocationName="Buitengebied"
+LocationName=""
 
 [ZoneInfo21]
 ; EN: LocationName="Red lower hallway"
-LocationName="Rode onderste gang"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Red lower hallway"
-LocationName="Rode onderste gang"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="Blue rooftop"
-LocationName="Blauw dak"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Red base"
-LocationName="Rode basis"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Blauwe lagere gang"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue foyer"
-LocationName="Blauwe foyer"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Blue foyer"
-LocationName="Blauwe foyer"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Red foyer"
-LocationName="Rode foyer"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blauwe bovenste gang"
+LocationName=""
 
 [ZoneInfo31]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blauwe bovenste gang"
+LocationName=""
 
 [ZoneInfo32]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blauwe bovenste gang"
+LocationName=""
 
 [ZoneInfo33]
 ; EN: LocationName="Blue Flag Room"
-LocationName="Blauwe Vlag Kamer"
+LocationName=""
 
 [ZoneInfo34]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blauwe bovenste gang"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Blauwe lagere gang"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Blue base"
-LocationName="Blauwe basis"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue lower hallway"
-LocationName="Blauwe lagere gang"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Blue upper hallway"
-LocationName="Blauwe bovenste gang"
+LocationName=""
 
 [ZoneInfo39]
 ; EN: LocationName="Red upper hallway"
-LocationName="Rode bovenste gang"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Red foyer"
-LocationName="Rode foyer"
+LocationName=""
 
 [ZoneInfo40]
 ; EN: LocationName="Blue roof top"
-LocationName="Blauw dak"
+LocationName=""
 
 [ZoneInfo42]
 ; EN: LocationName="Red lower hallway"
-LocationName="Rode onderste gang"
+LocationName=""
 
 [ZoneInfo43]
 ; EN: LocationName="Red rooftop"
-LocationName="Rood dak"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Red upper hallway"
-LocationName="Rode bovenste gang"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Red upper hallway"
-LocationName="Rode bovenste gang"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Flag Room"
-LocationName="Rode Vlag Kamer"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red upper hallway"
-LocationName="Rode bovenste gang"
+LocationName=""
 

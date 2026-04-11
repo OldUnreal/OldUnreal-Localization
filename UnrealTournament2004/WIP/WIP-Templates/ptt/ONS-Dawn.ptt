@@ -1,46 +1,46 @@
 ﻿[LevelInfo0]
 ; EN: Title="Dawn"
-Title="Alvorecer"
+Title=""
 
 [LevelSummary]
 ; EN: Title="Dawn"
-Title="Alvorecer"
+Title=""
 ; EN: Description="When Government prospectors happened upon this planet, Liandri knew they had found their next Onslaught arena. A primordial world still in the early stages of life, the lush landscape and rolling hills provide a serene and fitting environment for wholesale destruction."
-Description="Quando os garimpeiros do governo apareceram neste planeta, Liandri soube que eles haviam encontrado sua próxima arena de Onslaught. Um mundo primordial ainda nos primeiros estágios da vida, a paisagem exuberante e as colinas fornecem um ambiente sereno e adequado para a destruição em massa."
+Description=""
 
 [Volume0]
 ; EN: LocationName="Blue Base"
-LocationName="Base Azul"
+LocationName=""
 
 [Volume1]
 ; EN: LocationName="Red Base"
-LocationName="Base Vermelha"
+LocationName=""
 
 [Volume10]
-; EN: LocationName="Central West Node"
-LocationName="Nodo Centro-Oeste"
+; EN: LocationName="Central West Node (1)"
+LocationName=" (1)"
 
 [Volume5]
-; EN: LocationName="Northeast Node"
-LocationName="Nodo Nordeste"
+; EN: LocationName="Northeast Node (3)"
+LocationName=" (3)"
 
 [Volume6]
-; EN: LocationName="Northwest Node"
-LocationName="Nó Noroeste"
+; EN: LocationName="Northwest Node (6)"
+LocationName=" (6)"
 
 [Volume7]
-; EN: LocationName="Southwest Node"
-LocationName="Nó Sudoeste"
+; EN: LocationName="Southwest Node (2)"
+LocationName=" (2)"
 
 [Volume8]
-; EN: LocationName="Southeast Node"
-LocationName="Nodo Sudeste"
+; EN: LocationName="Southeast Node (5)"
+LocationName=" (5)"
 
 [Volume9]
-; EN: LocationName="Central East Node"
-LocationName="Nodo Centro-Leste"
+; EN: LocationName="Central East Node (4)"
+LocationName=" (4)"
 
 [ZoneInfo0]
 ; EN: LocationName="Outside"
-LocationName="Lado de fora"
+LocationName=""
 

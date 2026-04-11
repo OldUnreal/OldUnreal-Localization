@@ -1,0 +1,64 @@
+﻿[LevelInfo0]
+Title="HyperBlast2"
+
+[LevelSummary]
+Title="HyperBlast2"
+; EN: Description="Thanks to Magnetic Anti-Vacuum Resonance technology, combatants are able to battle outside of Xan's 'HyperBlast' arena ship for an extended period of time. Use extreme caution though, one mistake and you'll find yourself floating in space."
+Description="Grazie alla tecnologia Magnetic Anti-Vacuum Resonance, i combattenti sono in grado di combattere al di fuori della nave arena "HyperBlast" di Xan per un lungo periodo di tempo. Usa la massima cautela, un errore e ti ritroverai a fluttuare nello spazio."
+
+[ZoneInfo0]
+; EN: LocationName="lower ventricle "
+LocationName="ventricolo inferiore "
+
+[ZoneInfo1]
+; EN: LocationName="port side ramp"
+LocationName="rampa di babordo"
+
+[ZoneInfo10]
+; EN: LocationName="upper atrium"
+LocationName="atrio superiore"
+
+[ZoneInfo11]
+; EN: LocationName="port side interior"
+LocationName="interni a babordo"
+
+[ZoneInfo12]
+; EN: LocationName="exterior"
+LocationName="esterno"
+
+[ZoneInfo13]
+; EN: LocationName="starboard moon hallway"
+LocationName="corridoio lunare di dritta"
+
+[ZoneInfo14]
+; EN: LocationName="aft room"
+LocationName="stanza di poppa"
+
+[ZoneInfo2]
+; EN: LocationName="starboard side ramp"
+LocationName="rampa laterale di dritta"
+
+[ZoneInfo4]
+; EN: LocationName="upper ventricle "
+LocationName="ventricolo superiore "
+
+[ZoneInfo5]
+; EN: LocationName="lower atrium"
+LocationName="atrio inferiore"
+
+[ZoneInfo6]
+; EN: LocationName="starboard side interior"
+LocationName="interni lato dritta"
+
+[ZoneInfo7]
+; EN: LocationName="port moon hallway"
+LocationName="porto luna corridoio"
+
+[ZoneInfo8]
+; EN: LocationName="starboard side wing"
+LocationName="ala laterale di dritta"
+
+[ZoneInfo9]
+; EN: LocationName="port side wing"
+LocationName="ala di babordo"
+

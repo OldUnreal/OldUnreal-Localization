@@ -1,156 +1,160 @@
 ﻿[LevelInfo0]
 ; EN: Title="Slaughterhouse"
-Title="Slakteri"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="Slakteriet"
+LevelEnterText=""
 
 [LevelSummary]
 ; EN: Title="Slaughterhouse"
-Title="Slakteri"
+Title=""
 ; EN: LevelEnterText="The Slaughterhouse"
-LevelEnterText="Slakteriet"
+LevelEnterText=""
 
 [ZoneInfo0]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Oppbevaring av blått kjøtt"
+LocationName=""
 
 [ZoneInfo1]
-LocationName="Blue Spawnroom Beta"
+; EN: LocationName="Blue Spawnroom Beta"
+LocationName=""
 
 [ZoneInfo10]
 ; EN: LocationName="Blue Drain Room"
-LocationName="Blått avløpsrom"
+LocationName=""
 
 [ZoneInfo11]
 ; EN: LocationName="Blue Meat Storage Entrance"
-LocationName="Inngang til oppbevaring av blått kjøtt"
+LocationName=""
 
 [ZoneInfo12]
 ; EN: LocationName="Red Freezer"
-LocationName="Rød fryser"
+LocationName=""
 
 [ZoneInfo13]
 ; EN: LocationName="Red Bomb Gate"
-LocationName="Rød bombeport"
+LocationName=""
 
 [ZoneInfo14]
-LocationName="Red Spawnroom Beta"
+; EN: LocationName="Red Spawnroom Beta"
+LocationName=""
 
 [ZoneInfo15]
 ; EN: LocationName="Red Back Hallway"
-LocationName="Rød bakgang"
+LocationName=""
 
 [ZoneInfo16]
 ; EN: LocationName="Red Fountains"
-LocationName="Røde fontener"
+LocationName=""
 
 [ZoneInfo17]
-LocationName="Blue Spawnroom Alpha"
+; EN: LocationName="Blue Spawnroom Alpha"
+LocationName=""
 
 [ZoneInfo18]
 ; EN: LocationName="Red Chapel"
-LocationName="Røde kapell"
+LocationName=""
 
 [ZoneInfo19]
 ; EN: LocationName="Red Drainage"
-LocationName="Rød drenering"
+LocationName=""
 
 [ZoneInfo2]
 ; EN: LocationName="Blue Bomb Gate"
-LocationName="Blå bombeport"
+LocationName=""
 
 [ZoneInfo20]
 ; EN: LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
-LocationName="Denne fyren er Chuck. Ground Chuck i det blå rommet"
+LocationName=""
 
 [ZoneInfo21]
-LocationName="Red Spawnroom Alpha"
+; EN: LocationName="Red Spawnroom Alpha"
+LocationName=""
 
 [ZoneInfo22]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Rød saggang"
+LocationName=""
 
 [ZoneInfo23]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blå gårdsplass"
+LocationName=""
 
 [ZoneInfo24]
 ; EN: LocationName="OOoh, he's dead in the Red"
-LocationName="Ååh, han er død i rødt"
+LocationName=""
 
 [ZoneInfo25]
 ; EN: LocationName="Blue Courtyard"
-LocationName="Blå gårdsplass"
+LocationName=""
 
 [ZoneInfo26]
 ; EN: LocationName="Blue Main Hall"
-LocationName="Blå hovedsalen"
+LocationName=""
 
 [ZoneInfo27]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Blå saggang"
+LocationName=""
 
 [ZoneInfo28]
 ; EN: LocationName="Blue Meat Storage"
-LocationName="Oppbevaring av blått kjøtt"
+LocationName=""
 
 [ZoneInfo29]
 ; EN: LocationName="Red Saw Hallway"
-LocationName="Rød saggang"
+LocationName=""
 
 [ZoneInfo3]
 ; EN: LocationName="Blue Saw Hallway"
-LocationName="Blå saggang"
+LocationName=""
 
 [ZoneInfo30]
 ; EN: LocationName="Red Main Hall"
-LocationName="Rød hovedsal"
+LocationName=""
 
 [ZoneInfo35]
 ; EN: LocationName="Red Pipe"
-LocationName="Rødt rør"
+LocationName=""
 
 [ZoneInfo36]
 ; EN: LocationName="Red Courtyard"
-LocationName="Rød gårdsplass"
+LocationName=""
 
 [ZoneInfo37]
 ; EN: LocationName="Blue Pipe"
-LocationName="Blå rør"
+LocationName=""
 
 [ZoneInfo38]
 ; EN: LocationName="Red Freezer Entrance"
-LocationName="Rød fryseinngang"
+LocationName=""
 
 [ZoneInfo4]
 ; EN: LocationName="Blue Chapel"
-LocationName="Blå kapell"
+LocationName=""
 
 [ZoneInfo5]
 ; EN: LocationName="Blue Fountains"
-LocationName="Blå fontener"
+LocationName=""
 
 [ZoneInfo6]
 ; EN: LocationName="Blue Back Hallway"
-LocationName="Blå bakgang"
+LocationName=""
 
 [ZoneInfo7]
 ; EN: LocationName="Bomb Courtyard"
-LocationName="Bombegårdsplassen"
+LocationName=""
 
 [ZoneInfo8]
 ; EN: LocationName="Red Courtyard"
-LocationName="Rød gårdsplass"
+LocationName=""
 
 [ZoneInfo9]
 ; EN: LocationName="Red Freezer"
-LocationName="Rød fryser"
+LocationName=""
 
 [xBombDelivery0]
 ; EN: ObjectiveName="Blue Bombgoal"
-ObjectiveName="Blått bombemål"
+LocationName=""
 
 [xBombDelivery2]
 ; EN: ObjectiveName="Red Bombgoal"
-ObjectiveName="Rødt bombemål"
+LocationName=""
 
