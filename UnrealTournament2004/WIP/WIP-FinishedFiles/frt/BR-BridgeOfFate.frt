@@ -29,7 +29,7 @@ LocationName="Salle bombe BLEUE"
 LocationName="Salle bombe BLEUE"
 
 [ZoneInfo13]
-; EN: LocationName="BLUE BioRifle Entrance"
+; EN: LocationName="BLUE Bio Rifle Entrance"
 LocationName="Entrée fusil bio BLEUE"
 
 [ZoneInfo14]
@@ -37,7 +37,7 @@ LocationName="Entrée fusil bio BLEUE"
 LocationName="Salle bombe ROUGE"
 
 [ZoneInfo15]
-; EN: LocationName="RED BioRifle Entrance"
+; EN: LocationName="RED Bio Rifle Entrance"
 LocationName="Entrée fusil bio ROUGE"
 
 [ZoneInfo16]
@@ -49,7 +49,7 @@ LocationName="Entrée armure ROUGE"
 LocationName="Entrée armure ROUGE"
 
 [ZoneInfo18]
-; EN: LocationName="RED BioRifle Entrance"
+; EN: LocationName="RED Bio Rifle Entrance"
 LocationName="Entrée fusil bio ROUGE"
 
 [ZoneInfo19]
@@ -57,7 +57,7 @@ LocationName="Entrée fusil bio ROUGE"
 LocationName="Entrée principale ROUGE"
 
 [ZoneInfo20]
-; EN: LocationName="RED BioRifle Entrance"
+; EN: LocationName="RED Bio Rifle Entrance"
 LocationName="Entrée fusil bio ROUGE"
 
 [ZoneInfo21]
@@ -81,7 +81,7 @@ LocationName="Salle bombe BLEUE"
 LocationName="Salle colonne BLEUE"
 
 [ZoneInfo5]
-; EN: LocationName="BLUE BioRifle Entrance"
+; EN: LocationName="BLUE Bio Rifle Entrance"
 LocationName="Entrée fusil bio BLEUE"
 
 [ZoneInfo6]
@@ -97,6 +97,6 @@ LocationName="Salle colonne ROUGE"
 LocationName="Entrée armure BLEUE"
 
 [ZoneInfo9]
-; EN: LocationName="BLUE BioRifle Entrance"
+; EN: LocationName="BLUE Bio Rifle Entrance"
 LocationName="Entrée fusil bio BLEUE"
 

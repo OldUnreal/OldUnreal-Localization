@@ -1,10 +1,12 @@
 ﻿[Public]
+; EN: ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xMutantGame,Description="DM|Mutant|BonusPack.Tab_IAMutant|BonusPack.MapListMutant|false")
 ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xMutantGame,Description="DM|Mutant|BonusPack.Tab_IAMutant|BonusPack.MapListMutant|false")
-;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xLastManStandingGame,Description="DM|Last Man Standing|BonusPack.Tab_IALastManStanding|BonusPack.MapListLastManStanding|false")
+; EN: ;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xLastManStandingGame,Description="DM|Last Man Standing|BonusPack.Tab_IALastManStanding|BonusPack.MapListLastManStanding|false")
+;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xLastManStandingGame,Description="DM|Dernier survivant|BonusPack.Tab_IALastManStanding|BonusPack.MapListLastManStanding|false")
 ; EN: ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="Adds the Camouflage combo (RRRR).")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="Ajoute le combo Camouflage (RRRR).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="Ajoute le combo camouflage (RRRR).")
 ; EN: ;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutPintSizeCombo,Description="Adds the Pint-sized combo (LLLL).")
-;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutPintSizeCombo,Description="Ajoute le combo Pint-sized (LLLL).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutPintSizeCombo,Description="Ajoute le combo minuscule (LLLL).")
 
 [ComboCrate]
 ; EN: ExecMessage="Camouflaged!"
@@ -31,14 +33,15 @@ PlayersRemainString="Joueurs restent -"
 [HudMutant]
 ; EN: BottomFeederText="BOTTOM FEEDER"
 BottomFeederText="REMONTEE"
-; N_K: DO NOT TRANSLATE THIS!
-MutantRangeFontName="UT2003Fonts.FontMono"
+; N_K: BEWARE WHEN MODIFYING THIS LINE. This only accepts "package.texture" keys. Make sure you enter the right one.
+; At any doubt, ask in the forums or Discord.
+MutantRangeFontName=UT2003Fonts.FontMono
 
 [LMSMessage]
 ; EN: YouAreCamperMessage="You Are Camping!"
 YouAreCamperMessage="Vous campez !"
-SomeoneIsCamperMessage=" "
 ; EN: SomeoneIsCamperMessageTrailer="Is Camping!"
+SomeoneIsCamperMessage=" "
 SomeoneIsCamperMessageTrailer="campe !"
 
 [MutCrateCombo]
@@ -58,8 +61,8 @@ Description="Ajoute le combo minuscule (LLLL) et le combo camouflage (RRRR)."
 [MutantMessage]
 ; EN: YouAreMutantMessage="You Have Mutated!"
 YouAreMutantMessage="Vous avez muté !"
-SomeoneIsMutantMessage=" "
 ; EN: SomeoneIsMutantMessageTrailer="Has Mutated!"
+SomeoneIsMutantMessage=" "
 SomeoneIsMutantMessageTrailer="a muté !"
 ; EN: FFAMessage="First Blood Mutates!"
 FFAMessage="Premier sang mute !"
@@ -143,10 +146,10 @@ Description="Chaque joueur commence avec un nombre limité de vies et doit tente
 [xMutantGame]
 ; EN: MutPropText="Enable Bottom Feeder"
 MutPropText="Activer remontée"
-; EN: MutDescText="If enabled, the player with the lowest score is the BottomFeeder, and can kill other players."
+; EN: MutDescText="If enabled, the player with the lowest score is the Bottom Feeder, and can kill other players."
 MutDescText="Si activé, le joueur au plus mauvais score peut remonter et tuer d'autres joueurs."
 ; EN: GameName="Mutant"
 GameName="Mutant"
-; EN: Description="The first player to score a frag becomes the Mutant.  Everyone else hunts the Mutant, as by killing the mutant, a player becomes the mutant, with superhuman powers.  The player with the lowest score is the Bottom Feeder.  He can also kill other players."
+; EN: Description="The first player to score a frag becomes the Mutant. Everyone else hunts the Mutant, as by killing the mutant, a player becomes the mutant, with superhuman powers. The player with the lowest score is the Bottom Feeder. He can also kill other players."
 Description="Le premier joueur à obtenir un frag devient le mutant. Tous les autres chassent le mutant. Celui qui tue le mutant devient à son tour le mutant, avec des pouvoirs surhumains. Le joueur ayant le score le plus bas est le loser. Il peut aussi tuer les autres joueurs."
 

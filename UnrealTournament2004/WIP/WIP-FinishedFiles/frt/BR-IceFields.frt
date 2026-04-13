@@ -44,5 +44,5 @@ LocationName="Sous la Base Bleue"
 
 [Volume9]
 ; EN: LocationName="Super Shield Area"
-LocationName="Espace Recharge Bouclier +100"
+LocationName="Espace recharge Bouclier +100"
 

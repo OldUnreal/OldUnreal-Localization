@@ -92,7 +92,7 @@ LocationName="Couloir de but rouge"
 
 [ZoneInfo49]
 ; EN: LocationName="Red bomb goal room"
-LocationName="Salle de but de bombe rouge"
+LocationName="Salle de but rouge"
 
 [ZoneInfo5]
 ; EN: LocationName="Blue respawn hall"
