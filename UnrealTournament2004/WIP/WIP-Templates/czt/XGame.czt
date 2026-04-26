@@ -639,7 +639,7 @@ TeamName="Thunder Crash"
 ; N_K: Proper name, don't translate.
 TeamName="Venom"
 
-[TeamWarCry
+[TeamWarCry]
 ; N_K: Proper name, don't translate.
 TeamName="War Cry"
 

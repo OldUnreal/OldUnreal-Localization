@@ -98,7 +98,7 @@ LocationName=""
 ; EN: LocationName="Super Health Room"
 LocationName=""
 
-[ZoneInfo4
+[ZoneInfo4]
 ; EN: LocationName="Super Health Room"
 LocationName=""
 
