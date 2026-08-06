@@ -1,4 +1,4 @@
-## _Unreal_ and _Unreal Tournament_ credits
+## _Unreal_, _Unreal Tournament_ and _Unreal Tournament 2004_ localization credits
 
 ### General
 * **Epic Games/Digital Extremes/Legend Entertainment:** Original English/German/French/Spanish/Italian localizations
