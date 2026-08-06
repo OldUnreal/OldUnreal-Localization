@@ -15,19 +15,23 @@ ClassCaption=TCP/IP Network Play
 [UdpBeacon]
 ClassCaption=Balise serv. LAN
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
 HelpCmd=decompress
-HelpOneLiner=Décompresser un fichier compressé avec ucc.
-HelpUsage=decompress Fichcompr
-HelpParm[0]=fichcompr
-HelpDesc[0]=Fichier .uz à décompresser.
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The.uz file to decompress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
 HelpCmd=compress
-HelpOneLiner=Compresser ensemble Unreal pour téléchargement auto. Un fichier d'extension .uz sera créé.
-HelpUsage=compress Fich1 [Fich2 [Fich3 ...]]
-HelpParm[0]=Fichiers
-HelpDesc[0]=Wildcard ou noms de fich. à compresser.
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpUsage="compress File1 [File2 [File3...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
 [MasterServerUplink]
 MSUPropText[0]="Publicité serveur"

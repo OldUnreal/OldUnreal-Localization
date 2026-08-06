@@ -16,29 +16,23 @@ ClassCaption=Reproducció en xarxa TCP/IP
 ; EN: ClassCaption=Server LAN Beacon
 ClassCaption=Balisa de LAN del servidor
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
-; EN: HelpCmd=decompress
-HelpCmd=descomprimir
-; EN: HelpOneLiner=Decompress a file compressed with ucc compress.
-HelpOneLiner=Descomprimiu un fitxer comprimit amb ucc compress.
-; EN: HelpUsage=decompress CompressedFile
-HelpUsage=descomprimiu CompressedFile
-; EN: HelpParm[0]=CompressedFile
-HelpParm[0]=Fitxer comprimit
-; EN: HelpDesc[0]=The .uz file to decompress.
-HelpDesc[0]=El fitxer .uz per descomprimir.
+HelpCmd=decompress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The.uz file to decompress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
-; EN: HelpCmd=compress
-HelpCmd=comprimir
-; EN: HelpOneLiner=Compress an Unreal package for auto-downloading.  A file with extension .uz will be created.
-HelpOneLiner=Comprimiu un paquet Unreal per a la baixada automàtica. Es crearà un fitxer amb extensió .uz.
-; EN: HelpUsage=compress File1 [File2 [File3 ...]]
-HelpUsage=comprimir Fitxer1 [Fitxer2 [Fitxer3 ...]]
-; EN: HelpParm[0]=Files
-HelpParm[0]=Fitxers
-; EN: HelpDesc[0]=The wildcard or file names to compress.
-HelpDesc[0]=El comodí o els noms dels fitxers a comprimir.
+HelpCmd=compress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpUsage="compress File1 [File2 [File3...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
 [MasterServerUplink]
 ; EN: MSUPropText[0]="Advertise Server"

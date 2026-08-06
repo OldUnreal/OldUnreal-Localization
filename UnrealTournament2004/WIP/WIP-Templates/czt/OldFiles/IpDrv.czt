@@ -14,28 +14,23 @@ ClassCaption=TCP/IP Network Play
 [UdpBeacon]
 ClassCaption=Server LAN Beacon
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
-; EN: HelpCmd=decompress
-HelpCmd=dekomprimovat
-; EN: HelpOneLiner=Decompress a file compressed with ucc compress.
-HelpOneLiner=Dekomprimujte soubor komprimovaný pomocí komprimace ucc.
-; EN: HelpUsage=decompress CompressedFile
-HelpUsage=dekomprimovat CompressedFile
-HelpParm[0]=CompressedFile
-; EN: HelpDesc[0]=The .uz file to decompress.
-HelpDesc[0]=Soubor .uz k dekomprimaci.
+HelpCmd=decompress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The.uz file to decompress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
-; EN: HelpCmd=compress
-HelpCmd=komprimovat
-; EN: HelpOneLiner=Compress an Unreal package for auto-downloading.  A file with extension .uz will be created.
-HelpOneLiner=Zkomprimujte balíček Unreal pro automatické stahování. Vytvoří se soubor s příponou .uz.
-; EN: HelpUsage=compress File1 [File2 [File3 ...]]
-HelpUsage=komprimovat Soubor1 [Soubor2 [Soubor3 ...]]
-; EN: HelpParm[0]=Files
-HelpParm[0]=Soubory
-; EN: HelpDesc[0]=The wildcard or file names to compress.
-HelpDesc[0]=Zástupný znak nebo názvy souborů ke komprimaci.
+HelpCmd=compress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpUsage="compress File1 [File2 [File3...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
 [MasterServerUplink]
 ; EN: MSUPropText[0]="Advertise Server"

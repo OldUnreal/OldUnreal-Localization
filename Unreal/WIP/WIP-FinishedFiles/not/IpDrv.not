@@ -8,51 +8,41 @@ Object=(Name=IpDrv.UdpBeacon,Class=Class,MetaClass=Engine.Actor)
 Preferences=(Caption="TCP/IP Network Play",Parent="Networking",Class=IpDrv.TcpNetDriver)
 Preferences=(Caption="Server Beacon",Parent="Networking",Class=IpDrv.UdpBeacon,Immediate=True)
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [UpdateServerCommandlet]
 HelpCmd=updateserver
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
-; EN: HelpOneLiner="Service Unreal Engine auto update requests."
-HelpOneLiner="Service Unreal Engine forespørsler om automatisk oppdatering."
-; EN: HelpUsage="updateserver [-option...] [parm=value]"
-HelpUsage="updateserver [-alternativ...] [parm=verdi]"
+HelpOneLiner="Service Unreal Engine auto update requests."
+HelpUsage="updateserver [-option...] [parm=value]"
 HelpParm[0]="ConfigFile"
-; EN: HelpDesc[0]="Configuration file to use. Default: UpdateServer.ini."
-HelpDesc[0]="Konfigurasjonsfil å bruke. Standard: UpdateServer.ini."
+HelpDesc[0]="Configuration file to use. Default: UpdateServer.ini."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [MasterServerCommandlet]
 HelpCmd=masterserver
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
-; EN: HelpOneLiner="Maintain master list of servers."
-HelpOneLiner="Oppretthold hovedliste over servere."
-; EN: HelpUsage="masterserver [-option...] [parm=value]"
-HelpUsage="masterserver [-alternativ...] [parm=verdi]"
+HelpOneLiner="Maintain master list of servers."
+HelpUsage="masterserver [-option...] [parm=value]"
 HelpParm[0]="ConfigFile"
-; EN: HelpDesc[0]="Configuration file to use. Default: MasterServer.ini."
-HelpDesc[0]="Konfigurasjonsfil å bruke. Standard: MasterServer.ini."
+HelpDesc[0]="Configuration file to use. Default: MasterServer.ini."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
 HelpCmd=compress
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
-; EN: HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension .uz will be created."
-HelpOneLiner="Komprimer en uvirkelig pakke for automatisk nedlasting. Det opprettes en fil med filtypen .uz."
-; EN: HelpUsage="compress File1 [File2 [File3 ...]]"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension .uz will be created."
 HelpUsage="compress File1 [File2 [File3 ...]]"
-; EN: HelpParm[0]="Files"
-HelpParm[0]="Filer"
-; EN: HelpDesc[0]="The wildcard or file names to compress."
-HelpDesc[0]="Jokertegnet eller filnavnene du skal komprimere."
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
 HelpCmd=decompress
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
-; EN: HelpOneLiner="Decompress a file compressed with ucc compress."
-HelpOneLiner="Komprimere en fil komprimert med ucc-komprimering."
-; EN: HelpUsage="decompress CompressedFile"
+HelpOneLiner="Decompress a file compressed with ucc compress."
 HelpUsage="decompress CompressedFile"
-; EN: HelpParm[0]="CompressedFile"
 HelpParm[0]="CompressedFile"
-; EN: HelpDesc[0]="The .uz file to decompress."
-HelpDesc[0]=".Uz-filen for å dekomprimere."
+HelpDesc[0]="The .uz file to decompress."
 
 [TcpNetDriver]
 ; EN: ClassCaption="TCP/IP Network Play"

@@ -9,33 +9,41 @@ Preferences=(Caption="Networking",Parent="Advanced Options")
 Preferences=(Caption="TCP/IP Network Play",Parent="Networking",Class=IpDrv.TcpNetDriver)
 Preferences=(Caption="Server Beacon",Parent="Networking",Class=IpDrv.UdpBeacon,Immediate=True)
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [UpdateServerCommandlet]
 HelpCmd=updateserver
-HelpOneLiner="Répondre aux demandes de mise à jour auto. d'Unreal Engine."
-HelpUsage=updateserver [-option...] [parm=value]
-HelpParm[0]=ConfigFile
-HelpDesc[0]="Fichier de configuration à employer. Par défaut : UpdateServer.ini"
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Service Unreal Engine auto update requests."
+HelpUsage="updateserver [-option...] [parm=value]"
+HelpParm[0]="ConfigFile"
+HelpDesc[0]="Configuration file to use. Default: UpdateServer.ini."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [MasterServerCommandlet]
 HelpCmd=masterserver
-HelpOneLiner="Entretenir la liste maîtresse des serveurs."
-HelpUsage=masterserver [-option...] [parm=value]
-HelpParm[0]=ConfigFile
-HelpDesc[0]="Fichier de configuration à employer. Par défaut : MasterServer.ini"
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Maintain master list of servers."
+HelpUsage="masterserver [-option...] [parm=value]"
+HelpParm[0]="ConfigFile"
+HelpDesc[0]="Configuration file to use. Default: MasterServer.ini."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
 HelpCmd=compress
-HelpOneLiner="Compresser un ensemble Unreal pour téléchargement auto. Un fichier d'extension .uz sera créé."
-HelpUsage=compress File1 [File2 [File3 ...]]
-HelpParm[0]=Files
-HelpDesc[0]="Le wildcard ou les noms de fichier à compresser."
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension .uz will be created."
+HelpUsage="compress File1 [File2 [File3 ...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
 HelpCmd=decompress
-HelpOneLiner="Décompresser un fichier compressé avec ucc."
-HelpUsage=decompress CompressedFile
-HelpParm[0]=CompressedFile
-HelpDesc[0]="Fichier .uz à décompresser."
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The .uz file to decompress."
 
 [TcpNetDriver]
 ClassCaption="TCP/IP Network Play"

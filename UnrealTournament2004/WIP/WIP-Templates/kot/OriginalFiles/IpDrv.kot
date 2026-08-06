@@ -15,19 +15,23 @@ ClassCaption="TCP/IP 네트워크 플레이"
 [UdpBeacon]
 ClassCaption="Server LAN Beacon"
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
 HelpCmd=decompress
-HelpOneLiner="ucc compress로 압축된 파일 압축 풀기." 
-HelpUsage=decompress CompressedFile
-HelpParm[0]=CompressedFile
-HelpDesc[0]="압축 풀기를 할 .uz 파일"
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The.uz file to decompress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
 HelpCmd=compress
-HelpOneLiner="자동 다운로드를 위해 언리얼 패키지를 압축합니다. 만들어질 파일의 확장자는 .uz입니다."
-HelpUsage=compress File1 [File2 [File3 ...]]
-HelpParm[0]=Files
-HelpDesc[0]="압축 할 와일드카드나 파일 이름" 
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpUsage="compress File1 [File2 [File3...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
 [MasterServerUplink]
 MSUPropText[0]="서버리스트에 공개"

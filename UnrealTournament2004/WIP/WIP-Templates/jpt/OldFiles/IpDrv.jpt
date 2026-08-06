@@ -16,28 +16,23 @@ ClassCaption=TCP / IPネットワークプレイ
 ; EN: ClassCaption=Server LAN Beacon
 ClassCaption=サーバーLANビーコン
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
-; EN: HelpCmd=decompress
-HelpCmd=解凍
-; EN: HelpOneLiner=Decompress a file compressed with ucc compress.
-HelpOneLiner=ucccompressで圧縮されたファイルを解凍します。
-; EN: HelpUsage=decompress CompressedFile
-HelpUsage=CompressedFileを解凍します
-HelpParm[0]=CompressedFile
-; EN: HelpDesc[0]=The .uz file to decompress.
-HelpDesc[0]=解凍する.uzファイル。
+HelpCmd=decompress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The.uz file to decompress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
-; EN: HelpCmd=compress
-HelpCmd=圧縮
-; EN: HelpOneLiner=Compress an Unreal package for auto-downloading.  A file with extension .uz will be created.
-HelpOneLiner=自動ダウンロード用にUnrealパッケージを圧縮します。拡張子が.uzのファイルが作成されます。
-; EN: HelpUsage=compress File1 [File2 [File3 ...]]
-HelpUsage=圧縮File1 [File2 [File3 ...]]
-; EN: HelpParm[0]=Files
-HelpParm[0]=ファイル
-; EN: HelpDesc[0]=The wildcard or file names to compress.
-HelpDesc[0]=圧縮するワイルドカードまたはファイル名。
+HelpCmd=compress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpUsage="compress File1 [File2 [File3...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
 [MasterServerUplink]
 ; EN: MSUPropText[0]="Advertise Server"

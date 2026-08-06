@@ -16,29 +16,23 @@ ClassCaption=TCP/IP-netwerk afspelen
 ; EN: ClassCaption=Server LAN Beacon
 ClassCaption=Server LAN-baken
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
-; EN: HelpCmd=decompress
-HelpCmd=decomprimeren
-; EN: HelpOneLiner=Decompress a file compressed with ucc compress.
-HelpOneLiner=Decomprimeer een bestand dat is gecomprimeerd met ucc compress.
-; EN: HelpUsage=decompress CompressedFile
-HelpUsage=decomprimeer CompressedFile
-; EN: HelpParm[0]=CompressedFile
-HelpParm[0]=Gecomprimeerd Bestand
-; EN: HelpDesc[0]=The .uz file to decompress.
-HelpDesc[0]=Het te decomprimeren .uz-bestand.
+HelpCmd=decompress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The.uz file to decompress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
-; EN: HelpCmd=compress
-HelpCmd=samenpersen
-; EN: HelpOneLiner=Compress an Unreal package for auto-downloading.  A file with extension .uz will be created.
-HelpOneLiner=Comprimeer een Unreal-pakket voor automatisch downloaden. Er wordt een bestand met de extensie .uz aangemaakt.
-; EN: HelpUsage=compress File1 [File2 [File3 ...]]
-HelpUsage=comprimeer Bestand1 [Bestand2 [Bestand3 ...]]
-; EN: HelpParm[0]=Files
-HelpParm[0]=Bestanden
-; EN: HelpDesc[0]=The wildcard or file names to compress.
-HelpDesc[0]=De jokertekens of bestandsnamen die moeten worden gecomprimeerd.
+HelpCmd=compress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpUsage="compress File1 [File2 [File3...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
 [MasterServerUplink]
 ; EN: MSUPropText[0]="Advertise Server"

@@ -23,19 +23,23 @@ HelpUsage=masterserver [-option...] [parm=value]
 HelpParm[0]=ConfigFile
 HelpDesc[0]="使用的设定档.  预设: MasterServer.ini"
 
-[CompressCommandlet]
-HelpCmd=compress
-HelpOneLiner="压缩一个 Unreal package 以供自动下载.  这会产生一个扩展名为 .uz 的档案."
-HelpUsage=compress File1 [File2 [File3 ...]]
-HelpParm[0]=Files
-HelpDesc[0]="压缩档案选择/名称."
-
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
 HelpCmd=decompress
-HelpOneLiner="展开使用 ucc 压缩的档案"
-HelpUsage=decompress CompressedFile
-HelpParm[0]=CompressedFile
-HelpDesc[0]="该 .uz 档案会被展开"
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The.uz file to decompress."
+
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
+[CompressCommandlet]
+HelpCmd=compress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpUsage="compress File1 [File2 [File3...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
 [TcpNetDriver]
 ClassCaption="TCP/IP 网络游戏"

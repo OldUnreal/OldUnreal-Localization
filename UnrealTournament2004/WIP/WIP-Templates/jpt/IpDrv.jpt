@@ -16,29 +16,23 @@ ClassCaption=""
 ; EN: ClassCaption="Server LAN Beacon"
 ClassCaption=""
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
 HelpCmd=decompress
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
-; EN: HelpOneLiner="Decompress a file compressed with ucc compress."
-HelpOneLiner=""
-; EN: HelpUsage="decompress CompressedFile"
-HelpUsage=""
-; EN: HelpParm[0]="CompressedFile"
-HelpParm[0]=""
-; EN: HelpDesc[0]="The.uz file to decompress."
-HelpDesc[0]=""
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The.uz file to decompress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
 HelpCmd=compress
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
-; EN: HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
-HelpOneLiner=""
-; EN: HelpUsage="compress File1 [File2 [File3...]]"
-HelpUsage=""
-; EN: HelpParm[0]="Files"
-HelpParm[0]=""
-; EN: HelpDesc[0]="The wildcard or file names to compress."
-HelpDesc[0]=""
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpUsage="compress File1 [File2 [File3...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
 [MasterServerUplink]
 ; EN: MSUPropText[0]="Advertise Server"
