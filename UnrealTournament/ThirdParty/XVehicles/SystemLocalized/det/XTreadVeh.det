@@ -1,0 +1,47 @@
+﻿[Public]
+; Object=(Name=XTreadVeh.XTankGKOne2Goliath,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Goliath,<Insert description here>")
+; Object=(Name=XTreadVeh.XTankGKOne2IonTank,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2IonTank,<Insert description here>")
+; Object=(Name=XTreadVeh.XTankGKOne2TankScorpion,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2TankScorpion,<Insert description here>")
+
+[TankML]
+; EN: VehicleName="Tank ML-102"
+VehicleName="Panzer ML-102"
+; EN: VehicleKeyInfoStr="Tank ML-102 keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Panzer ML-102):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[TankScorpion]
+; EN: VehicleName="Tank Scorpion"
+VehicleName="Panzer Scorpion"
+; EN: VehicleKeyInfoStr="Tank Scorpion keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Panzer Scorpion):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[TankGKOne]
+; EN: VehicleName="Tank GK-1"
+VehicleName="Panzer GK-1"
+; EN: VehicleKeyInfoStr="Tank GK-1 keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Panzer GK-1):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[IonTank]
+; EN: VehicleName="Ion Tank"
+VehicleName="Ionenpanzer"
+; EN: VehicleKeyInfoStr="Ion Tank keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Ionenpanzer):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[Goliath]
+; EN: VehicleName="Goliath"
+VehicleName="Goliath"
+; EN: VehicleKeyInfoStr="Goliath keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Goliath):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[Kraht]
+; EN: VehicleName="Kraht"
+VehicleName="Kraht"
+; EN: VehicleKeyInfoStr="Kraht keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Kraht):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[Shrali]
+; EN: VehicleName="Shrali"
+VehicleName="Shrali"
+; EN: VehicleKeyInfoStr="Shrali keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Shrali):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+

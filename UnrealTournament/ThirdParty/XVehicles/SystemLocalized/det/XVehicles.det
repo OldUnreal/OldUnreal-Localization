@@ -1,0 +1,174 @@
+﻿[Public]
+; Mutators
+; EN: Object=(Name=FixGun.FixGunMutator,Class=Class,MetaClass=Engine.Mutator,Description="FixGunMutator,Spawn FixGun inside any XVehicle")
+Object=(Name=FixGun.FixGunMutator,Class=Class,MetaClass=Engine.Mutator,Description="FixGunMutator,Platziert ein Reparaturgewehr in jedem XVehicle")
+; EN: Object=(Name=XVehicles.XVehiclesHUD,Class=Class,MetaClass=Engine.Mutator,Description="XVehiclesHUD,XVehciles HUD helper")
+Object=(Name=XVehicles.XVehiclesHUD,Class=Class,MetaClass=Engine.Mutator,Description="XVehiclesHUD,HUD-Unterstützung für XVehicles")
+; EN: Object=(Name=XVehicles.XVehiclesMH,Class=Class,MetaClass=Engine.Mutator,Description="XVehiclesMH,MH rules for XVehicles")
+Object=(Name=XVehicles.XVehiclesMH,Class=Class,MetaClass=Engine.Mutator,Description="XVehiclesMH,MonsterHunt-Regeln für XVehicles")
+; EN: Object=(Name=XVehicles.XVehiclesCTF,Class=Class,MetaClass=Engine.Mutator,Description="XVehiclesCTF,CTF rules for XVehicles")
+Object=(Name=XVehicles.XVehiclesCTF,Class=Class,MetaClass=Engine.Mutator,Description="XVehiclesCTF,CTF-Regeln für XVehicles")
+; EN: Object=(Name=XVehicles.XVehiclesSummon,Class=Class,MetaClass=Engine.Mutator,Description="XVehiclesSummon,Summon XVehicles at any place for debug")
+Object=(Name=XVehicles.XVehiclesSummon,Class=Class,MetaClass=Engine.Mutator,Description="XVehiclesSummon,Erzeugt zu Testzwecken Fahrzeuge an beliebigen Positionen")
+; EN: Object=(Name=XChopVeh.XHeli2Raptor,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2Raptor,Replace CybotHelico with Raptor")
+Object=(Name=XChopVeh.XHeli2Raptor,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2Raptor,Ersetzt Cybot Helico durch Raptor")
+; EN: Object=(Name=XXMP.XJeepTDX2Grinder,Class=Class,MetaClass=Engine.Mutator,Description="XJeepTDX2Grinder,Replace JeepTDX with Grinder")
+Object=(Name=XXMP.XJeepTDX2Grinder,Class=Class,MetaClass=Engine.Mutator,Description="XJeepTDX2Grinder,Ersetzt Jeep TDX durch Grinder")
+; EN: Object=(Name=XTreadVeh.XTankGKOne2Goliath,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Goliath,Replace Tank GK-1 with Goliath")
+Object=(Name=XTreadVeh.XTankGKOne2Goliath,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Goliath,Ersetzt Panzer GK-1 durch Goliath")
+; EN: Object=(Name=XTreadVeh.XTankGKOne2Juggernaut,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Juggernaut,Replace Tank GK-1 with Juggernaut")
+Object=(Name=XTreadVeh.XTankGKOne2Juggernaut,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Juggernaut,Ersetzt Panzer GK-1 durch Juggernaut")
+; EN: Object=(Name=XChopVeh.XHeli2Banshee,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2Banshee,Replace CybotHelico with Banshee")
+Object=(Name=XChopVeh.XHeli2Banshee,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2Banshee,Ersetzt Cybot Helico durch Banshee")
+; EN: Object=(Name=XTreadVeh.XTankGKOne2TankScorpion,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2TankScorpion,Replace Tank GK-1 with Tank Scorpion")
+Object=(Name=XTreadVeh.XTankGKOne2TankScorpion,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2TankScorpion,Ersetzt Panzer GK-1 durch Panzer Scorpion")
+; EN: Object=(Name=UT3Rewards.UT3Rewards,Class=Class,MetaClass=Engine.Mutator,Description="UT3Rewards,UT3 Announcer Rewards for XVehicles")
+Object=(Name=UT3Rewards.UT3Rewards,Class=Class,MetaClass=Engine.Mutator,Description="UT3Rewards,UT3-Ansager-Auszeichnungen für XVehicles")
+; EN: Object=(Name=XXMP.XTankGKOne2Badger,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Badger,Replace Tank GK-1 with Badger")
+Object=(Name=XXMP.XTankGKOne2Badger,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Badger,Ersetzt Panzer GK-1 durch Badger")
+; EN: Object=(Name=XXMP.XTankGKOne2HoverBadger,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2HoverBadger,Replace Tank GK-1 with HoverBadger")
+Object=(Name=XXMP.XTankGKOne2HoverBadger,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2HoverBadger,Ersetzt Panzer GK-1 durch HoverBadger")
+; EN: Object=(Name=XTreadVeh.XTankGKOne2IonTank,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2IonTank,Replace Tank GK-1 with Ion Tank")
+Object=(Name=XTreadVeh.XTankGKOne2IonTank,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2IonTank,Ersetzt Panzer GK-1 durch Ionenpanzer")
+; EN: Object=(Name=XChopVeh.XHeli2LinkCraft,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2LinkCraft,Replace CybotHelico with LinkCraft")
+Object=(Name=XChopVeh.XHeli2LinkCraft,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2LinkCraft,Ersetzt Cybot Helico durch Link Craft")
+; EN: Object=(Name=XWheelVeh.XJeepSDX2Beetle,Class=Class,MetaClass=Engine.Mutator,Description="XJeepSDX2Beetle,Replace JeepSDX with Beetle")
+Object=(Name=XWheelVeh.XJeepSDX2Beetle,Class=Class,MetaClass=Engine.Mutator,Description="XJeepSDX2Beetle,Ersetzt Jeep SDX durch Beetle")
+; EN: Object=(Name=XHoverVeh.XManta2Viper,Class=Class,MetaClass=Engine.Mutator,Description="XManta2Viper,Replace Manta with Viper")
+Object=(Name=XHoverVeh.XManta2Viper,Class=Class,MetaClass=Engine.Mutator,Description="XManta2Viper,Ersetzt Manta durch Viper")
+; EN: Object=(Name=XHoverVeh.XManta2Ghost,Class=Class,MetaClass=Engine.Mutator,Description="XManta2Ghost,Replace Manta with Ghost")
+Object=(Name=XHoverVeh.XManta2Ghost,Class=Class,MetaClass=Engine.Mutator,Description="XManta2Ghost,Ersetzt Manta durch Ghost")
+; EN: Object=(Name=XWheelVeh.XJeepSDX2Scorpion,Class=Class,MetaClass=Engine.Mutator,Description="XJeepSDX2Scorpion,Replace JeepSDX with Scorpion")
+Object=(Name=XWheelVeh.XJeepSDX2Scorpion,Class=Class,MetaClass=Engine.Mutator,Description="XJeepSDX2Scorpion,Ersetzt Jeep SDX durch Scorpion")
+; EN: Object=(Name=XWheelVeh.XJeepTDX2Hellbender,Class=Class,MetaClass=Engine.Mutator,Description="XJeepTDX2Hellbender,Replace JeepTDX with Hellbender")
+Object=(Name=XWheelVeh.XJeepTDX2Hellbender,Class=Class,MetaClass=Engine.Mutator,Description="XJeepTDX2Hellbender,Ersetzt Jeep TDX durch Hellbender")
+; EN: Object=(Name=XWheelVeh.XJeepTDX2WarthogRL,Class=Class,MetaClass=Engine.Mutator,Description="XJeepTDX2WarthogRL,Replace JeepTDX with Warthog RL")
+Object=(Name=XWheelVeh.XJeepTDX2WarthogRL,Class=Class,MetaClass=Engine.Mutator,Description="XJeepTDX2WarthogRL,Ersetzt Jeep TDX durch Warthog RL")
+; EN: Object=(Name=XWheelVeh.XJeepSDX2WarthogMG,Class=Class,MetaClass=Engine.Mutator,Description="XJeepSDX2WarthogMG,Replace JeepSDX with Warthog MG")
+Object=(Name=XWheelVeh.XJeepSDX2WarthogMG,Class=Class,MetaClass=Engine.Mutator,Description="XJeepSDX2WarthogMG,Ersetzt Jeep SDX durch Warthog MG")
+; Other
+Object=(Name=XVehicles.VehicleCTFGame,Class=Class,MetaClass=Botpack.TournamentGameInfo)
+Object=(Name=XVMH.VehicleMonsterHunt,Class=Class,MetaClass=Botpack.TournamentGameInfo)
+Object=(Name=XGreed.Greed,Class=Class,MetaClass=Botpack.TournamentGameInfo)
+Preferences=(Caption="Capture the Flag mit Fahrzeugen",Parent="Game Types",Class=XVehicles.VehicleCTFGame,Immediate=True)
+Preferences=(Caption="MonsterHunt mit Fahrzeugen",Parent="Game Types",Class=XVMH.VehicleMonsterHunt,Immediate=True)
+Preferences=(Caption="Gier",Parent="Game Types",Class=XGreed.Greed,Immediate=True)
+
+[DriverWeapon]
+; EN: PickupMessage="You got a vehicle"
+PickupMessage="Du hast ein Fahrzeug übernommen."
+; EN: ItemName="Vehicle"
+ItemName="Fahrzeug"
+
+[TreadCraftPhys]
+; EN: VehicleName="Tread Craft"
+VehicleName="Kettenfahrzeug"
+; EN: TranslatorDescription="This is a Tread Craft, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys to turn this vehicle and Move Forward/Backward keys to accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Kettenfahrzeug. Mit [Fire] und [AltFire] nutzt du Primär- und Sekundärfeuer. Mit den Seitwärtsbewegungstasten lenkst du das Fahrzeug. Mit den Vorwärts-/Rückwärtstasten beschleunigst oder bremst du. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Tread craft keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Kettenfahrzeug):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[WheeledCarPhys]
+; EN: VehicleName="Wheeled Car"
+VehicleName="Radfahrzeug"
+; EN: TranslatorDescription="This is a wheeled vehicle, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys to turn this vehicle and Move Forward/Backward keys to accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Radfahrzeug. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit den Seitwärtsbewegungstasten lenkst du das Fahrzeug. Mit den Vorwärts-/Rückwärtstasten beschleunigst oder bremst du. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Wheeled car keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCameran% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Radfahrzeug):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%mutate VehicleCameran% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[HoverCraftPhys]
+; EN: VehicleName="Hover Craft"
+VehicleName="Schwebefahrzeug"
+; EN: TranslatorDescription="This is a Hover Craft, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Schwebefahrzeug. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit den Seitwärtsbewegungstasten bewegst du dich seitlich. Mit den Vorwärts-/Rückwärtstasten beschleunigst oder bremst du. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Hover craft keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%,%StrafeRight% to strafe|%Jump% to jump with the vehicle|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Schwebefahrzeug):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%,%StrafeRight% zum seitlichen Bewegen|%Jump% zum Springen mit dem Fahrzeug|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[FlightCraftPhys]
+; EN: VehicleName="Flight Craft"
+VehicleName="Flugzeug"
+; EN: TranslatorDescription="This is a Flight Craft, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate while on ground, if you accelerated fast enough you can take off and steer this plane through air. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Flugzeug: [Schießen]/[Sekundärschuss] für Primär-/Sekundärfeuer. Am Boden: Seitwärtstasten zum seitlichen Bewegen, Vorwärts/Rückwärts zum Beschleunigen/Bremsen. Mit genug Tempo kannst du abheben und frei fliegen. [Waffe wegwerfen] zum Aussteigen."
+; EN: VehicleKeyInfoStr="Flight craft keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe (when not in air)|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Flugzeug):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum seitlichen Bewegen (am Boden)|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[ChopperPhys]
+; EN: VehicleName="Helicopter"
+VehicleName="Hubschrauber"
+; EN: TranslatorDescription="This is a chopper vehicle, you can fire different firemodes using [Fire] and [AltFire] buttons. To move higher or lover use [Jump] and [Crouch] buttons and to move around use movement keys. To leave this vehicle press [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Hubschrauber. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit [Jump] steigst du auf, mit [Crouch] sinkst du ab. Mit den Bewegungstasten steuerst du das Fahrzeug. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Chopper craft keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Hubschrauber):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum seitlichen Bewegen|%Jump%, %Duck% zum Steigen/Sinken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[SubmarinePhys]
+; EN: VehicleName="Submarine"
+VehicleName="U-Boot"
+; EN: TranslatorDescription="This is a Submarine, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein U-Boot. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit den Seitwärtsbewegungstasten bewegst du dich seitlich. Mit den Vorwärts-/Rückwärtstasten beschleunigst oder bremst du. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Submarine keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (U-Boot):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum seitlichen Bewegen|%Jump%, %Duck% zum Steigen/Sinken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[StationaryPhys]
+; EN: VehicleName="Stationary Turret"
+VehicleName="Stationäres Geschütz"
+; EN: TranslatorDescription="This is a stationary turret. You can fire using [Fire] and [AltFire] and zoom in and out using movement keys. To leave this vehicle press [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein stationäres Geschütz. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit den Bewegungstasten zoomst du hinein oder heraus. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Turret keys:|%Fire% to fire, %AltFire% to alt fire|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Geschütz):|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[XVGTabSettings]
+; EN: HeadText="Keybinds:"
+HeadText="Tastenbelegung:"
+; EN: ClearText="To reset bind - press <0> while input is active."
+ClearText="Drücke <0> bei aktivem Eingabefeld, um die Tastenbelegung zurückzusetzen."
+; EN: LabelList[0]="Crouch (Enter Vehicle)"
+LabelList[0]="Ducken (ins Fahrzeug einsteigen)"
+; EN: LabelList[1]="Throw Weapon (Exit Vehicle)"
+LabelList[1]="Waffe wegwerfen (aus dem Fahrzeug aussteigen)"
+; EN: LabelList[2]="Enter Vehicle"
+LabelList[2]="Ins Fahrzeug einsteigen"
+; EN: LabelList[3]="Exit Vehicle"
+LabelList[3]="Aus dem Fahrzeug aussteigen"
+; EN: LabelList[4]="Enter/Exit Vehicle"
+LabelList[4]="Einsteigen/aussteigen"
+; EN: LabelList[5]="Honk"
+LabelList[5]="Hupen"
+; EN: LabelList[6]="Camera"
+LabelList[6]="Kamera"
+; EN: LabelList[7]="Say Taxi!"
+LabelList[7]="Taxi! rufen"
+; EN: LabelList[8]="Say Get In Vehicle!"
+LabelList[8]="Steigt ein! rufen"
+; EN: HelpText[0]="Allow enter to the vehicle."
+HelpText[0]="Ermöglicht das Einsteigen in ein Fahrzeug."
+; EN: HelpText[1]="Exit from the vehicle."
+HelpText[1]="Steige aus dem Fahrzeug aus."
+; EN: HelpText[2]="Enter to the vehicle without crouch, can't be hold."
+HelpText[2]="Steige ohne Ducken in das Fahrzeug ein. Die Taste muss für jeden Versuch erneut gedrückt werden."
+; EN: HelpText[3]="Exit from the vehicle."
+HelpText[3]="Steige aus dem Fahrzeug aus."
+; EN: HelpText[4]="Enter or Exit from the vehicle."
+HelpText[4]="Steige in das Fahrzeug ein oder aus dem Fahrzeug aus."
+; EN: HelpText[5]="Honk if you inside the vehicle, except stationary turrets."
+HelpText[5]="Hupe, wenn du in einem Fahrzeug sitzt. Bei stationären Geschützen ist dies nicht möglich."
+; EN: HelpText[6]="Change the camera position for the vehicle."
+HelpText[6]="Ändere die Kameraposition für das Fahrzeug."
+; EN: HelpText[7]="Chat + voice command for your temmates."
+HelpText[7]="Sende deinen Teamkameraden eine Chatnachricht und einen Sprachbefehl."
+; EN: HelpText[8]="Chat + voice command for your temmates."
+HelpText[8]="Sende deinen Teamkameraden eine Chatnachricht und einen Sprachbefehl."
+; EN: OpenOnStartText="Open this dialog at the start of the level (you can also open it anytime by typing '!xv' in chat)."
+OpenOnStartText="Dieses Fenster zu Beginn des Levels öffnen (du kannst es auch jederzeit mit '!xv' im Chat öffnen)."
+
+[AirShipPhys]
+; EN: VehicleName="Air Ship"
+VehicleName="Luftschiff"
+; EN: TranslatorDescription="This is a Air Ship, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Luftschiff. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit den Seitwärtsbewegungstasten bewegst du dich seitlich. Mit den Vorwärts-/Rückwärtstasten beschleunigst oder bremst du. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Airship keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Luftschiff):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum seitlichen Bewegen|%Jump%, %Duck% zum Steigen/Sinken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[VehicleCTFGame]
+; EN: GameName="Vehicle Capture the Flag"
+GameName="Capture the Flag mit Fahrzeugen"
+

@@ -1,0 +1,8 @@
+﻿[EnergyTurret]
+; EN: VehicleName="Energy Turret"
+VehicleName="Energiegeschütz"
+
+[MinigunTurret]
+; EN: VehicleName="Minigun Turret"
+VehicleName="Minigun-Geschütz"
+

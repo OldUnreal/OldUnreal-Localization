@@ -1,0 +1,32 @@
+﻿[Public]
+; Object=(Name=XXMP.XJeepTDX2Grinder,Class=Class,MetaClass=Engine.Mutator,Description="XJeepTDX2Grinder,<Insert description here>")
+; Object=(Name=XXMP.XTankGKOne2Juggernaut,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Juggernaut,<Insert description here>")
+; Object=(Name=XXMP.XTankGKOne2Badger,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2Badger,<Insert description here>")
+; Object=(Name=XXMP.XTankGKOne2HoverBadger,Class=Class,MetaClass=Engine.Mutator,Description="XTankGKOne2HoverBadger,<Insert description here>")
+
+[HoverBadger]
+; EN: VehicleName="HoverBadger"
+VehicleName="HoverBadger"
+; EN: TranslatorDescription="This is a HoverBadger, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein HoverBadger. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit den Seitwärtsbewegungstasten bewegst du dich seitlich. Mit den Vorwärts-/Rückwärtstasten beschleunigst oder bremst du. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="HoverBadger keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (HoverBadger):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[Juggernaut]
+; EN: VehicleName="Juggernaut"
+VehicleName="Juggernaut"
+; EN: VehicleKeyInfoStr="Juggernaut keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Juggernaut):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[Grinder]
+; EN: VehicleName="Grinder"
+VehicleName="Grinder"
+; EN: VehicleKeyInfoStr="Grinder keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|1, 2 to switch seats|0 to toggle light|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Grinder):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|1, 2 zum Wechseln des Sitzplatzes|0 zum Ein-/Ausschalten des Lichts|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[Badger]
+; EN: VehicleName="Badger"
+VehicleName="Badger"
+; EN: VehicleKeyInfoStr="Badger keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to turn|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%mutate VehicleCamera% to change camera|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Badger):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum Lenken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%mutate VehicleCamera% zum Wechseln der Kameraansicht|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
