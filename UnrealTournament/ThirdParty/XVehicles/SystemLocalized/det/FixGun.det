@@ -1,0 +1,20 @@
+﻿[Public]
+; Object=(Name=FixGun.FixGunMutator,Class=Class,MetaClass=Engine.Mutator,Description="FixGunMutator,<Insert description here>")
+Object=(Name=FixGun.FixGun,Class=Class,MetaClass=Engine.Weapon)
+
+[FixGun]
+; EN: WeaponDescription="Classification: Fix RiflenPrimary Fire: Medium sized, fast moving plasma balls are fired at a fast rate of fire.nSecondary Fire: A bolt of blue lightning is expelled for 100 meters, which will fix vehicles.nTechniques: Firing and keeping the secondary fire's beam on a vehicle will fix them in seconds."
+WeaponDescription="Waffentyp: Reparaturgewehr.\nPrimärfeuer: Verschießt mittelgroße, schnelle Plasmakugeln mit hoher Feuerrate.\nSekundärfeuer: Erzeugt einen blauen Blitzstrahl mit 100 Metern Reichweite, der Fahrzeuge repariert.\nTaktik: Halte den Sekundärfeuerstrahl auf ein Fahrzeug gerichtet, um es innerhalb weniger Sekunden zu reparieren."
+; EN: MessageNoAmmo=" has no ammo."
+MessageNoAmmo=" hat keine Munition mehr."
+; EN: PickupMessage="You got a Fixing Gun"
+PickupMessage="Du hast ein Reparaturgewehr aufgenommen."
+; EN: ItemName="Fixing Gun"
+ItemName="Reparaturgewehr"
+
+[FixAmmo]
+; EN: PickupMessage="You picked up a FixGun Cell."
+PickupMessage="Du hast eine Energiezelle für das Reparaturgewehr aufgenommen."
+; EN: ItemName="FixGun Cell"
+ItemName="Reparaturgewehr-Energiezelle"
+

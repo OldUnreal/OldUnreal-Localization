@@ -1,0 +1,37 @@
+﻿[Public]
+; Object=(Name=XChopVeh.XHeli2LinkCraft,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2LinkCraft,<Insert description here>")
+; Object=(Name=XChopVeh.XHeli2Banshee,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2Banshee,<Insert description here>")
+; Object=(Name=XChopVeh.XHeli2Raptor,Class=Class,MetaClass=Engine.Mutator,Description="XHeli2Raptor,<Insert description here>")
+
+[raptor]
+; EN: VehicleName="Raptor"
+VehicleName="Raptor"
+; EN: TranslatorDescription="This is a Raptor, you can fire different firemodes using [Fire] and [AltFire] buttons. To move higher or lover use [Jump] and [Crouch] buttons and to move around use movement keys. To leave this vehicle press [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Raptor. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit [Springen] steigst du auf, mit [Ducken] sinkst du ab. Mit den Bewegungstasten steuerst du das Fahrzeug. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Raptor keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Raptor):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum seitlichen Bewegen|%Jump%, %Duck% zum Steigen/Sinken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[Banshee]
+; EN: VehicleName="Banshee"
+VehicleName="Banshee"
+; EN: TranslatorDescription="This is a Banshee, you can fire different firemodes using [Fire] and [AltFire] buttons. To move higher or lover use [Jump] and [Crouch] buttons and to move around use movement keys. To leave this vehicle press [ThrowWeapon] key."
+TranslatorDescription="Dies ist eine Banshee. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit [Springen] steigst du auf, mit [Ducken] sinkst du ab. Mit den Bewegungstasten steuerst du das Fahrzeug. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Banshee keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Banshee):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum seitlichen Bewegen|%Jump%, %Duck% zum Steigen/Sinken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[LinkCraft]
+; EN: VehicleName="Link Craft"
+VehicleName="Link Craft"
+; EN: TranslatorDescription="This is a LinkCraft, you can fire different firemodes using [Fire] and [AltFire] buttons. To move higher or lover use [Jump] and [Crouch] buttons and to move around use movement keys. To leave this vehicle press [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Link Craft. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit [Springen] steigst du auf, mit [Ducken] sinkst du ab. Mit den Bewegungstasten steuerst du das Fahrzeug. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="LinkCraft keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Link Craft):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum seitlichen Bewegen|%Jump%, %Duck% zum Steigen/Sinken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+
+[CybotHelico]
+; EN: VehicleName="Cybot Helico"
+VehicleName="Cybot Helico"
+; EN: TranslatorDescription="This is a Cybot Helico, you can fire different firemodes using [Fire] and [AltFire] buttons. To move higher or lover use [Jump] and [Crouch] buttons and to move around use movement keys. To leave this vehicle press [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Cybot Helico. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit [Springen] steigst du auf, mit [Ducken] sinkst du ab. Mit den Bewegungstasten steuerst du das Fahrzeug. Mit [Waffe wegwerfen] steigst du aus."
+; EN: VehicleKeyInfoStr="Cybot Helico keys:|%MoveForward%,%MoveBackward% to accelerate/deaccelerate|%StrafeLeft%, %StrafeRight% to strafe|%Jump%, %Duck% to move up/down|%Fire% to fire, %AltFire% to alt fire|Number keys to switch seats|%ThrowWeapon% to exit the vehicle"
+VehicleKeyInfoStr="Steuerung (Cybot Helico):|%MoveForward%,%MoveBackward% zum Beschleunigen/Abbremsen|%StrafeLeft%, %StrafeRight% zum seitlichen Bewegen|%Jump%, %Duck% zum Steigen/Sinken|%Fire% für Primärfeuer, %AltFire% für Sekundärfeuer|Zifferntasten zum Wechseln des Sitzplatzes|%ThrowWeapon% zum Aussteigen aus dem Fahrzeug"
+

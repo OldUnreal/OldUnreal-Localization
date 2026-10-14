@@ -1,0 +1,22 @@
+﻿[Public]
+; Object=(Name=XHoverVeh.XManta2Ghost,Class=Class,MetaClass=Engine.Mutator,Description="XManta2Ghost,<Insert description here>")
+; Object=(Name=XHoverVeh.XManta2Viper,Class=Class,MetaClass=Engine.Mutator,Description="XManta2Viper,<Insert description here>")
+
+[Ghost]
+; EN: VehicleName="Ghost"
+VehicleName="Ghost"
+; EN: TranslatorDescription="This is a Ghost, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Ghost. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit den Seitwärtsbewegungstasten bewegst du dich seitlich. Mit den Vorwärts-/Rückwärtstasten beschleunigst oder bremst du. Mit [Waffe wegwerfen] steigst du aus."
+
+[Viper]
+; EN: VehicleName="Viper"
+VehicleName="Viper"
+; EN: TranslatorDescription="This is a Viper, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Dies ist eine Viper. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit den Seitwärtsbewegungstasten bewegst du dich seitlich. Mit den Vorwärts-/Rückwärtstasten beschleunigst oder bremst du. Mit [Waffe wegwerfen] steigst du aus."
+
+[XManta]
+; EN: VehicleName="Manta"
+VehicleName="Manta"
+; EN: TranslatorDescription="This is a Manta, press [Fire] or [AltFire] to fire the different firemodes. Use your Strafe keys and Move Forward/Backward keys to strafe/accelerate/deaccelerate. To leave this vehicle, press your [ThrowWeapon] key."
+TranslatorDescription="Dies ist ein Manta. Mit [Schießen] und [Sekundärschuss] nutzt du Primär- und Sekundärfeuer. Mit den Seitwärtsbewegungstasten bewegst du dich seitlich. Mit den Vorwärts-/Rückwärtstasten beschleunigst oder bremst du. Mit [Waffe wegwerfen] steigst du aus."
+

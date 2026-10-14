@@ -1,0 +1,17 @@
+﻿[Public]
+Object=(Name=XGreed.Greed,Class=Class,MetaClass=Engine.GameInfo)
+; Object=(Name=XGreed.GreedHUD,Class=Class,MetaClass=Engine.Mutator,Description="GreedHUD,<Insert description here>")
+; Object=(Name=XGreed.GreedHUDProxy,Class=Class,MetaClass=Engine.Mutator,Description="GreedHUDProxy,<Insert description here>")
+
+[Skull]
+; EN: PickupMessage="You pickup a Skull"
+PickupMessage="Du hast einen Schädel aufgenommen."
+
+[Greed]
+; EN: StartUpMessage="Return the enemy's skulls to their base."
+StartUpMessage="Bringe die Schädel der Gegner zu deren Basis."
+; EN: gamegoal="captured skulls wins the match!"
+gamegoal="erbeutete Schädel sind zum Sieg nötig!"
+; EN: GameName="Greed"
+GameName="Gier"
+
